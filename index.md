@@ -1,5 +1,5 @@
 # skimit服务器
-
+![状态贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)
 ## 链接
 [服务器规定](./rules/)  
 [服务器指南](./guide/)  
