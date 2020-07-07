@@ -1,12 +1,13 @@
 # skimit服务器
-![https://mc.iroselle.com/server/207/data](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)
+![状态贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)
 ## 链接
 [服务器规定](./rules/)  
 [服务器指南](./guide/)  
 [skimit服务器的网页地图](/map/)（非实时，不定期更新）  
 [.skin文件转换器](./Skinfile-Generator)  
 [MAX_小葵的网站](https://MAX-XiaoKui.github.io)  
-![](https://s1.ax1x.com/2020/04/11/GH8xJI.png)  
+[服务器在线数据](https://mc.iroselle.com/server/207/data)
+![展示图](https://s1.ax1x.com/2020/04/11/GH8xJI.png)  
 ## 反馈和建议
 [提交关于网站或服务器的需求](https://github.com/skimitmc/skimitmc.github.io/pulls)  
 [提交bug](https://github.com/skimitmc/skimitmc.github.io/issues)  
