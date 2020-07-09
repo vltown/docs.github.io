@@ -3,7 +3,7 @@
 ## 卫星地图
 
 [俯瞰地图](http://overview.map.skimit.world/)（[备用地址](http://overview.map.skimit.cn/)）（2020年6月26日更新）  
-[3D地图](http://na2hco3.cn:2052/)（2020年7月8日更新）
+[3D地图](http://na2hco3.cn:2052/)（2020年7月9日更新）
 
 ## 联系
 
