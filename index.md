@@ -3,6 +3,7 @@
 ## 链接
 [服务器规定](./rules/)  
 [服务器指南](./guide/)  
+[捐助者名单](./donators/)
 [skimit服务器的网页地图](/map/)（非实时，不定期更新）  
 [.skin文件转换器](./Skinfile-Generator)  
 [MAX_小葵的网站](https://MAX-XiaoKui.github.io)  
