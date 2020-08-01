@@ -3,7 +3,8 @@
 ## 服务器地址
 - 主要地址: `skimit.cn`
 - 备用地址1: `play.skimit.cn`
-- 备用地址2: `skimit.world`
+- 备用地址2: `skimit.world`  
+- 备用地址3: `vps.torchcraft.xyz:6903`
 
 ## 指令
 说明: **<>**和**[]**分别指指令中的必须参数和可选参数
