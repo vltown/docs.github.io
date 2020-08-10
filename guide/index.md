@@ -1,11 +1,11 @@
 # skimit服务器指南
 [返回服务器网站主页](../)  
-[toc]
 ## 服务器地址
-- 主要地址: `skimit.cn`
-- 备用地址1: `play.skimit.cn`
-- 备用地址2: `skimit.world`  
-- 备用地址3: `vps.torchcraft.xyz:6903`
+- 主要地址: `skimit.cn`  
+- 备用地址1: `play.skimit.cn`  
+- 备用地址2: `play.skimit.cn:6903`  
+- 备用地址3: `mc.skimit.cn`
+- 备用地址4: `skimit.world`  
 
 ## 指令
 说明: **<>**和**[]**分别指指令中的必须参数和可选参数
