@@ -3,6 +3,7 @@
 时区为UTC+8(东八区，北京时间)  
 时间按年-月-日 时:分:秒的格式记录  
 [在爱发电捐助](https://afdian.net/@skimit)  
+<iframe src="https://afdian.net/@skimit" width="100%" height="200px"></iframe>
 [返回服务器主页](../)  
 数据截止日期：2020-07-22
 
