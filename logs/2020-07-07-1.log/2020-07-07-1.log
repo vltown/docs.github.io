@@ -1,0 +1,190 @@
+[00:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[00:19:29] [Server thread/INFO]: Backup started by: Server on: 2020-07-07_00-19-29
+[00:19:29] [Server thread/INFO]: Saving server...
+[00:19:29] [Server thread/INFO]: Saving server...
+[00:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:19:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:19:30] [Thread-200/INFO]: Starting backup
+[00:19:30] [Thread-200/INFO]: Starting backup
+[00:19:30] [Thread-200/INFO]: Starting compression...
+[00:19:30] [Thread-200/INFO]: Starting compression...
+[00:19:38] [Thread-200/INFO]: Compression took: 7.812499499s
+[00:19:38] [Thread-200/INFO]: Compression took: 7.812499499s
+[00:19:38] [Thread-200/INFO]: Deleting: 2020-07-06_16-10-02.zip
+[00:19:38] [Thread-200/INFO]: Deleting: 2020-07-06_16-10-02.zip
+[00:19:38] [Thread-200/INFO]: Done!
+[00:19:38] [Thread-200/INFO]: Done!
+[00:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[02:02:22] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:29] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:29] [RCON Client /47.103.98.159 #2/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:29] [RCON Client /47.103.98.159 #3/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:29] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:29] [RCON Client /47.103.98.159 #4/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:29] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:29] [RCON Client /47.103.98.159 #5/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:30] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:30] [RCON Client /47.103.98.159 #6/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:30] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:30] [RCON Client /47.103.98.159 #7/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:30] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:31] [RCON Client /47.103.98.159 #8/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:31] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:31] [RCON Client /47.103.98.159 #9/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:31] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:31] [RCON Client /47.103.98.159 #10/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:31] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:31] [RCON Client /47.103.98.159 #11/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:32] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:32] [RCON Client /47.103.98.159 #12/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:32] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:32] [RCON Client /47.103.98.159 #13/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:32] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:32] [RCON Client /47.103.98.159 #14/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:32] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:33] [RCON Client /47.103.98.159 #15/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:33] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:33] [RCON Client /47.103.98.159 #16/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:33] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:33] [RCON Client /47.103.98.159 #17/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:33] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:34] [RCON Client /47.103.98.159 #18/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:34] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:34] [RCON Client /47.103.98.159 #19/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:34] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:34] [RCON Client /47.103.98.159 #20/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:34] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:34] [RCON Client /47.103.98.159 #21/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:35] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:35] [RCON Client /47.103.98.159 #22/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:35] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:35] [RCON Client /47.103.98.159 #23/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:35] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:35] [RCON Client /47.103.98.159 #24/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:35] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:36] [RCON Client /47.103.98.159 #25/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:36] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:36] [RCON Client /47.103.98.159 #26/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:36] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:36] [RCON Client /47.103.98.159 #27/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:36] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:37] [RCON Client /47.103.98.159 #28/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:37] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:37] [RCON Client /47.103.98.159 #29/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:37] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:37] [RCON Client /47.103.98.159 #30/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:37] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:38] [RCON Client /47.103.98.159 #31/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:38] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:38] [RCON Client /47.103.98.159 #32/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:38] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:38] [RCON Client /47.103.98.159 #33/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:38] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:38] [RCON Client /47.103.98.159 #34/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:39] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:39] [RCON Client /47.103.98.159 #35/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:39] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:39] [RCON Client /47.103.98.159 #36/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:39] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:39] [RCON Client /47.103.98.159 #37/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:39] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:40] [RCON Client /47.103.98.159 #38/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:40] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:40] [RCON Client /47.103.98.159 #39/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:40] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:40] [RCON Client /47.103.98.159 #40/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:40] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:41] [RCON Client /47.103.98.159 #41/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:41] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:41] [RCON Client /47.103.98.159 #42/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:41] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:41] [RCON Client /47.103.98.159 #43/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:41] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:41] [RCON Client /47.103.98.159 #44/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:42] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:42] [RCON Client /47.103.98.159 #45/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:42] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:42] [RCON Client /47.103.98.159 #46/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:42] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:42] [RCON Client /47.103.98.159 #47/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:43] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:43] [RCON Client /47.103.98.159 #48/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:43] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:43] [RCON Client /47.103.98.159 #49/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:43] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:43] [RCON Client /47.103.98.159 #50/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:44] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:44] [RCON Client /47.103.98.159 #51/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:44] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:44] [RCON Client /47.103.98.159 #52/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:44] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:44] [RCON Client /47.103.98.159 #53/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:44] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:45] [RCON Client /47.103.98.159 #54/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:45] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:45] [RCON Client /47.103.98.159 #55/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:45] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:45] [RCON Client /47.103.98.159 #56/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:45] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:46] [RCON Client /47.103.98.159 #57/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:46] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:46] [RCON Client /47.103.98.159 #58/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:46] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:46] [RCON Client /47.103.98.159 #59/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:46] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:46] [RCON Client /47.103.98.159 #60/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:47] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:47] [RCON Client /47.103.98.159 #61/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:47] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:47] [RCON Client /47.103.98.159 #62/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:47] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:47] [RCON Client /47.103.98.159 #63/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:47] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:48] [RCON Client /47.103.98.159 #64/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:48] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:48] [RCON Client /47.103.98.159 #65/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:48] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:48] [RCON Client /47.103.98.159 #66/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:48] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:49] [RCON Client /47.103.98.159 #67/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:49] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:49] [RCON Client /47.103.98.159 #68/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:49] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:49] [RCON Client /47.103.98.159 #69/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:49] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:49] [RCON Client /47.103.98.159 #70/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:02:57] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:57] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:02:57] [RCON Client /47.103.98.159 #72/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:03:07] [RCON Client /47.103.98.159 #71/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:03:07] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:03:07] [RCON Client /47.103.98.159 #73/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[02:03:07] [RCON Listener #1/INFO]: Thread RCON Client /47.103.98.159 started
+[02:03:07] [RCON Client /47.103.98.159 #74/INFO]: Thread RCON Client /47.103.98.159 shutting down
+[05:25:01] [Server thread/INFO]: [Server] 服务器将在5分钟后关闭备份存档，6:01继续开启
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-07_05-30-01
+[05:30:01] [Server thread/INFO]: Saving server...
+[05:30:01] [Thread-327/INFO]: Starting backup
+[05:30:01] [Thread-327/INFO]: Starting compression...
+[05:30:08] [Thread-327/INFO]: Compression took: 7.083602701s
+[05:30:08] [Thread-327/INFO]: Deleting: 2020-07-06_17-10-00.zip
+[05:30:08] [Thread-327/INFO]: Done!
+[05:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:08] [Server thread/INFO]: Thread RCON Listener stopped

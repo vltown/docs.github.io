@@ -1,0 +1,158 @@
+[00:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:03:27] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-27_00-03-27
+[00:03:27] [Server thread/INFO]: [TextileBackup]: Saving server...
+[00:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[00:03:30] [Thread-251/INFO]: [TextileBackup]: Starting compression...
+[00:03:33] [Thread-251/ERROR]: [TextileBackup]: java.io.IOException: 另一个程序已锁定文件的一部分，进程无法访问。
+[00:03:33] [Thread-251/INFO]: [TextileBackup]: Compression took: 3.0061089s
+[00:03:33] [Thread-251/INFO]: [TextileBackup]: Deleting: 2020-06-26_16-37-47.zip
+[00:03:33] [Thread-251/INFO]: [TextileBackup]: Done!
+[00:04:13] [Server thread/INFO]: extclp[/127.0.0.1:61676] logged in with entity id 135775 at (-60.073190076387824, 128.0, 70.18356887884154)
+[00:04:13] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:04:13] [Server thread/INFO]: extclp joined the game
+[00:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[00:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9145ms or 182 ticks behind
+[00:05:03] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:61705] logged in with entity id 136372 at (-561.9829101096839, 63.5625, 1187.7801565567204)
+[00:05:03] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:05:03] [Server thread/INFO]: MAX_XiaoKui joined the game
+[00:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8958ms or 179 ticks behind
+[00:05:13] [Netty Server IO #1/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[00:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8511ms or 170 ticks behind
+[00:05:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7431ms or 148 ticks behind
+[00:05:58] [Server thread/INFO]: <MAX_XiaoKui> xiumu你直播是不是掉了
+[00:06:04] [Server thread/INFO]: <xiumu> 我下播了
+[00:06:07] [Server thread/INFO]: <MAX_XiaoKui> o
+[00:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6395ms or 127 ticks behind
+[00:06:14] [Server thread/INFO]: <xiumu> 12点了，，该睡觉了
+[00:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10662ms or 213 ticks behind
+[00:06:43] [Server thread/INFO]: <xiumu> 晚安吧
+[00:06:50] [Server thread/INFO]: <MAX_XiaoKui> 88
+[00:06:55] [Server thread/INFO]: xiumu lost connection: Disconnected
+[00:06:55] [Server thread/INFO]: xiumu left the game
+[00:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7462ms or 149 ticks behind
+[00:07:38] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[00:07:38] [Server thread/INFO]: MAX_XiaoKui left the game
+[00:08:15] [Server thread/INFO]: extclp lost connection: Disconnected
+[00:08:15] [Server thread/INFO]: extclp left the game
+[00:08:30] [Server thread/INFO]: extclp[/127.0.0.1:61820] logged in with entity id 137804 at (-391.88877513500336, 70.5, 509.4541010681221)
+[00:08:30] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:08:30] [Server thread/INFO]: extclp joined the game
+[00:11:07] [Server thread/INFO]: extclp lost connection: Disconnected
+[00:11:07] [Server thread/INFO]: extclp left the game
+[00:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[00:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6169ms or 123 ticks behind
+[00:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[00:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[00:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[01:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[01:03:27] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-27_01-03-27
+[01:03:27] [Server thread/INFO]: [TextileBackup]: Saving server...
+[01:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:03:29] [Thread-282/INFO]: [TextileBackup]: Starting compression...
+[01:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[01:03:32] [Thread-282/ERROR]: [TextileBackup]: java.io.IOException: 另一个程序已锁定文件的一部分，进程无法访问。
+[01:03:32] [Thread-282/INFO]: [TextileBackup]: Compression took: 3.0291778s
+[01:03:32] [Thread-282/INFO]: [TextileBackup]: Deleting: 2020-06-26_16-44-13#shutdown.zip
+[01:03:32] [Thread-282/INFO]: [TextileBackup]: Done!
+[01:13:45] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:64083] logged in with entity id 163858 at (-69.38396329607306, 128.0, 144.69999998807907)
+[01:13:45] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[01:13:45] [Server thread/INFO]: MAX_XiaoKui joined the game
+[01:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[01:13:55] [Netty Server IO #0/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[01:16:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[01:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
+[01:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[01:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
+[01:37:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2629ms or 52 ticks behind
+[01:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4882ms or 97 ticks behind
+[01:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[01:43:10] [Server thread/INFO]: [MAX_XiaoKui: ]
+[01:47:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[01:51:55] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[01:51:55] [Server thread/INFO]: MAX_XiaoKui left the game
+[02:03:27] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-27_02-03-27
+[02:03:27] [Server thread/INFO]: [TextileBackup]: Saving server...
+[02:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:03:29] [Thread-321/INFO]: [TextileBackup]: Starting compression...
+[02:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[02:03:31] [Thread-321/ERROR]: [TextileBackup]: java.io.IOException: 另一个程序已锁定文件的一部分，进程无法访问。
+[02:03:31] [Thread-321/INFO]: [TextileBackup]: Compression took: 2.0863992s
+[02:03:31] [Thread-321/INFO]: [TextileBackup]: Deleting: 2020-06-26_17-12-30.zip
+[02:03:31] [Thread-321/INFO]: [TextileBackup]: Done!
+[02:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[02:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[02:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[02:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[03:03:27] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-27_03-03-27
+[03:03:27] [Server thread/INFO]: [TextileBackup]: Saving server...
+[03:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:03:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:03:28] [Thread-350/INFO]: [TextileBackup]: Starting compression...
+[03:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[03:03:32] [Thread-350/ERROR]: [TextileBackup]: java.io.IOException: 另一个程序已锁定文件的一部分，进程无法访问。
+[03:03:32] [Thread-350/INFO]: [TextileBackup]: Compression took: 3.2257409s
+[03:03:32] [Thread-350/INFO]: [TextileBackup]: Deleting: 2020-06-26_18-12-28.zip
+[03:03:32] [Thread-350/INFO]: [TextileBackup]: Done!
+[04:03:27] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-27_04-03-27
+[04:03:27] [Server thread/INFO]: [TextileBackup]: Saving server...
+[04:03:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:03:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:03:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:03:28] [Thread-377/INFO]: [TextileBackup]: Starting compression...
+[04:03:29] [Thread-377/ERROR]: [TextileBackup]: java.io.IOException: 另一个程序已锁定文件的一部分，进程无法访问。
+[04:03:29] [Thread-377/INFO]: [TextileBackup]: Compression took: 1.6590099s
+[04:03:29] [Thread-377/INFO]: [TextileBackup]: Deleting: 2020-06-26_18-54-15#shutdown.zip
+[04:03:29] [Thread-377/INFO]: [TextileBackup]: Done!
+[04:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[04:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[04:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[05:03:27] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-27_05-03-27
+[05:03:27] [Server thread/INFO]: [TextileBackup]: Saving server...
+[05:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:03:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[05:03:30] [Thread-404/INFO]: [TextileBackup]: Starting compression...
+[05:03:35] [Thread-404/ERROR]: [TextileBackup]: java.io.IOException: 另一个程序已锁定文件的一部分，进程无法访问。
+[05:03:35] [Thread-404/INFO]: [TextileBackup]: Compression took: 4.6322428s
+[05:03:35] [Thread-404/INFO]: [TextileBackup]: Deleting: 2020-06-26_19-03-37.zip
+[05:03:35] [Thread-404/INFO]: [TextileBackup]: Done!
+[05:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[05:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[05:17:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[05:25:01] [Server thread/INFO]: [Server] 服务器将在5分钟后关闭备份存档，6:01继续开启
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-27_05-30-01
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Saving server...
+[05:30:01] [Thread-419/INFO]: [TextileBackup]: Starting compression...
+[05:30:03] [Thread-419/ERROR]: [TextileBackup]: java.io.IOException: 另一个程序已锁定文件的一部分，进程无法访问。
+[05:30:03] [Thread-419/INFO]: [TextileBackup]: Compression took: 1.1929478s
+[05:30:03] [Thread-419/INFO]: [TextileBackup]: Deleting: 2020-06-26_20-03-38.zip
+[05:30:03] [Thread-419/INFO]: [TextileBackup]: Done!
+[05:30:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:03] [Server thread/INFO]: Thread RCON Listener stopped

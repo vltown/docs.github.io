@@ -1,0 +1,1179 @@
+[20:41:44] [main/INFO]: Loading for game Minecraft 1.16.1
+[20:41:55] [main/INFO]: [FabricLoader] Loading 51 mods: fabric-renderer-api-v1@0.2.13+eae12eb87c, fabric-keybindings-v0@0.2.0+3fa9f7c57c, fabricloader@0.8.8+build.202, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f7c, lithium@0.5.0, fabric-dimensions-v1@1.0.0+a71b30537c, fabric-object-builder-api-v1@1.5.5+e00ecb5f7c, fabric-api-base@0.1.3+12a8474c7c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d7c, fabric-textures-v0@1.0.4+eae12eb87c, fabric-rendering-fluids-v1@0.1.7+12a8474c7c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea897c, fabric-renderer-registries-v1@2.0.1+5a0f9a607c, carpet-extra@1.4.0, fabric-loot-tables-v1@0.1.10+059ea8667c, fabric@0.13.1+build.370-1.16, carpet@1.4.0, fabric-particles-v1@0.2.1+0a6f2a707c, fabric-networking-v0@0.1.10+e00ecb5f7c, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b7c, minecraft@1.16.1, fabric-screen-handler-api-v1@1.0.1+f362c86e7c, here@0.0.8-mc1.16, fabric-command-api-v1@1.0.8+5ce533987c, jankson@3.0.0+j1.2.0, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.1.4+5794386e7c, fabric-renderer-indigo@0.3.1+059ea8667c, org_apache_commons_commons-compress@1.19, fabric-biomes-v1@0.2.7+059ea8667c, fabric-events-interaction-v0@0.3.3+7066030f7c, fabric-crash-report-info-v1@0.1.2+b7f9825d7c, fabric-rendering-v0@1.1.0+534104907c, fabric-key-binding-api-v1@1.0.0+e16a97747c, fabric-rendering-v1@1.1.2+346247d77c, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.5+059ea8667c, fabric-content-registries-v0@0.1.9+059ea8667c, fabric-tag-extensions-v0@0.2.5+5a6e8f4c7c, fabric-registry-sync-v0@0.3.8+7dba2d6c7c, fabric-commands-v0@0.2.0+52d308367c, textile_backup@1.2.3-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce997c, fabric-events-lifecycle-v0@0.1.3+0d474ec47c, fabric-models-v0@0.1.0+dfdb52d67c, fabric-item-groups-v0@0.2.0+438f96367c, fabric-object-builders-v0@0.6.0+da175ad67c
+[20:41:55] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[20:41:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[20:42:08] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-v0.mixins.json:MixinEntityTracker and should be specified in value
+[20:42:12] [main/WARN]: @Mixin target net[20:43:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:43:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:43:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:43:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:43:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:43:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:43:35] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), FZ.sDatapack-1.5.0-SNAPSHOT-dev.20200411.0751.zip
+[20:43:47] [Worker-Main-2/INFO]: Loaded 7 recipes
+[20:43:50] [Worker-Main-2/INFO]: Loaded 927 advancements
+[20:43:58] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:dimension_type, minecraft:chunk_generator_type
+[20:43:58] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:44:05] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[20:44:06] [Server thread/INFO]: Loading properties
+[20:44:06] [Server thread/INFO]: Default game type: SURVIVAL
+[20:44:06] [Server thread/INFO]: Generating keypair
+[20:44:13] [Server thread/INFO]: Starting Minecraft server on *:26565
+[20:44:14] [Server thread/INFO]: Using default channel type
+[20:44:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:44:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:44:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:44:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:44:30] [Server thread/INFO]: Preparing level "world"
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[20:44:30] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
+[20:44:38] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[20:44:38] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[20:44:38] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[20:44:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:25] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:27] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:43] [Server thread/INFO]: Preparing spawn area: 0%
+[20:45:43] [Server thread/INFO]: Preparing spawn area: 24%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:45:50] [Server thread/INFO]: Preparing spawn area: 83%
+[20:46:04] [Server thread/INFO]: Time elapsed: 85590 ms
+[20:46:04] [Server thread/INFO]: Done (93.722s)! For help, type "help"
+[20:46:04] [Server thread/INFO]: Starting remote control listener
+[20:46:04] [Server thread/INFO]: Thread RCON Listener started
+[20:46:06] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[20:46:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5329ms or 106 ticks behind
+[20:46:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27478ms or 549 ticks behind
+[20:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[20:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[20:47:41] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57244] logged in with entity id 260 at (-42.5, 64.0, 239.5)
+[20:47:42] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:47:42] [Server thread/INFO]: MAX_XiaoKui joined the game
+[20:47:46] [Netty Server IO #1/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[20:47:51] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-19_20-47-51
+[20:47:51] [Server thread/INFO]: Saving server...
+[20:48:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:48:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:48:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:48:03] [Thread-62/INFO]: Starting backup
+[20:48:10] [Thread-62/INFO]: Starting compression...
+[20:48:24] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[20:48:24] [Server thread/INFO]: MAX_XiaoKui left the game
+[20:48:24] [pool-4-thread-1/ERROR]: An exception occurred while trying to create input stream!
+java.nio.file.NoSuchFileException: C:\Server\skimit_survival\world\playerdata\a417032c-e2e7-3f62-b3d2-c1836915bba1.dat_old
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source) ~[?:1.8.0_251]
+	at java.nio.file.Files.newByteChannel(Unknown Source) ~[?:1.8.0_251]
+	at java.nio.file.Files.newByteChannel(Unknown Source) ~[?:1.8.0_251]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(Unknown Source) ~[?:1.8.0_251]
+	at java.nio.file.Files.newInputStream(Unknown Source) ~[?:1.8.0_251]
+	at net.szum123321.textile_backup.core.compressors.ParallelZipCompressor$FileInputStreamSupplier.get(ParallelZipCompressor.java:80) [textile_backup-1.2.3-1.16.1.jar:?]
+	at org.apache.commons.compress.archivers.zip.ZipArchiveEntryRequest.getPayloadStream(ZipArchiveEntryRequest.java:62) [06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at org.apache.commons.compress.archivers.zip.ScatterZipOutputStream.addArchiveEntry(ScatterZipOutputStream.java:99) [06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:210) [06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:206) [06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_251]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_251]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_251]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+[20:48:26] [Thread-62/ERROR]: An exception happened!
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_251]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator.writeTo(ParallelScatterZipCreator.java:266) ~[06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at net.szum123321.textile_backup.core.compressors.ParallelZipCompressor.createArchive(ParallelZipCompressor.java:56) [textile_backup-1.2.3-1.16.1.jar:?]
+	at net.szum123321.textile_backup.core.MakeBackupThread.run(MakeBackupThread.java:90) [textile_backup-1.2.3-1.16.1.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+Caused by: java.lang.NullPointerException
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.deflate(StreamCompressor.java:183) ~[06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at org.apache.commons.compress.archivers.zip.ScatterZipOutputStream.addArchiveEntry(ScatterZipOutputStream.java:100) ~[06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:210) ~[06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:206) ~[06779fc9-275c-4eb5-882f-da8aa9948d20.jar:?]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[?:1.8.0_251]
+	... 1 more
+[20:48:26] [Thread-62/INFO]: Compression took: 16.4242921s
+[20:48:26] [Thread-62/INFO]: Done!
+[20:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52021ms or 1040 ticks behind
+[20:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7525ms or 150 ticks behind
+[20:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[20:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[20:50:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[20:57:22] [Server thread/INFO]: KL_Tian[/127.0.0.1:57465] logged in with entity id 291 at (-6603.83218180637, 3386.737342057971, 649.4823866469222)
+[20:57:22] [Server thread/INFO]: KL_Tian joined the game
+[20:57:23] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19917ms or 398 ticks behind
+[20:57:40] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[20:57:40] [Server thread/INFO]: KL_Tian left the game
+[20:57:42] [Server thread/INFO]: KL_Tian[/127.0.0.1:57474] logged in with entity id 292 at (-6603.83218180637, 3386.737342057971, 649.4823866469222)
+[20:57:42] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:57:42] [Server thread/INFO]: KL_Tian joined the game
+[20:58:09] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57486] logged in with entity id 305 at (-49.445009685209726, 5.0, 152.76996045773936)
+[20:58:09] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:58:09] [Server thread/INFO]: MAX_XiaoKui joined the game
+[20:58:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[20:58:23] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[20:58:23] [Server thread/INFO]: KL_Tian left the game
+[20:58:29] [Server thread/INFO]: KL_Tian[/127.0.0.1:57493] logged in with entity id 418 at (-6603.83218180637, 3386.737342057971, 649.4823866469222)
+[20:58:29] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:58:29] [Server thread/INFO]: KL_Tian joined the game
+[20:58:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26648ms or 532 ticks behind
+[20:58:56] [Server thread/INFO]: Kicked MAX_XiaoKui: Kicked by an operator
+[20:58:56] [Server thread/INFO]: MAX_XiaoKui lost connection: Kicked by an operator
+[20:58:56] [Server thread/INFO]: MAX_XiaoKui left the game
+[20:59:07] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57511] logged in with entity id 624 at (-49.445009685209726, 5.0, 152.76996045773936)
+[20:59:08] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:59:08] [Server thread/INFO]: MAX_XiaoKui joined the game
+[20:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9688ms or 193 ticks behind
+[20:59:42] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[20:59:42] [Server thread/INFO]: MAX_XiaoKui left the game
+[20:59:44] [Server thread/INFO]: No player was found
+[21:00:01] [Server thread/INFO]: KL_Tian fell from a high place
+[21:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38811ms or 776 ticks behind
+[21:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2435ms or 48 ticks behind
+[21:00:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[21:01:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
+[21:01:07] [Server thread/INFO]: ChengXi123[/127.0.0.1:57556] logged in with entity id 1159 at (-370.4293919416681, 69.0, 521.6293608988108)
+[21:01:07] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:01:07] [Server thread/INFO]: ChengXi123 joined the game
+[21:01:11] [Netty Server IO #0/INFO]: Player ChengXi123 joined with a matching carpet client
+[21:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6287ms or 125 ticks behind
+[21:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15038ms or 300 ticks behind
+[21:02:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8374ms or 167 ticks behind
+[21:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6951ms or 139 ticks behind
+[21:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8637ms or 172 ticks behind
+[21:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10212ms or 204 ticks behind
+[21:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12262ms or 245 ticks behind
+[21:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15044ms or 300 ticks behind
+[21:04:49] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[21:04:49] [Server thread/INFO]: KL_Tian left the game
+[21:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13350ms or 267 ticks behind
+[21:05:11] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[21:05:11] [Server thread/INFO]: ChengXi123 left the game
+[21:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2620ms or 52 ticks behind
+[21:05:19] [Server thread/INFO]: ChengXi123[/127.0.0.1:57648] logged in with entity id 1814 at (-380.5580505710301, 3590.72028920075, 511.44223186226475)
+[21:05:19] [Server thread/INFO]: ChengXi123 joined the game
+[21:05:20] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:05:20] [Netty Server IO #1/INFO]: Player ChengXi123 joined with a matching carpet client
+[21:06:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3479ms or 69 ticks behind
+[21:08:03] [Server thread/INFO]: KL_Tian[/127.0.0.1:57721] logged in with entity id 2011 at (-102.42380536519104, 77.0, 239.74402567170375)
+[21:08:03] [Server thread/INFO]: KL_Tian joined the game
+[21:08:04] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[21:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6525ms or 130 ticks behind
+[21:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6267ms or 125 ticks behind
+[21:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
+[21:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4008ms or 80 ticks behind
+[21:09:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7877ms or 157 ticks behind
+[21:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6917ms or 138 ticks behind
+[21:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7804ms or 156 ticks behind
+[21:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8970ms or 179 ticks behind
+[21:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22389ms or 447 ticks behind
+[21:12:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10905ms or 218 ticks behind
+[21:12:11] [Server thread/INFO]: <KL_Tian> [滑稽]
+[21:12:17] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6512ms or 130 ticks behind
+[21:12:28] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:12:29] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:12:30] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:12:31] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:12:32] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:12:33] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:12:34] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:12:39] [Server thread/INFO]: KL_Tian fell from a high place
+[21:12:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4084ms or 81 ticks behind
+[21:12:46] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:12:54] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:12:58] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:03] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:13] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16190ms or 323 ticks behind
+[21:13:22] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:32] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:38] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8801ms or 176 ticks behind
+[21:13:43] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:48] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:13:54] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:00] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8674ms or 173 ticks behind
+[21:14:05] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:05] [Server thread/INFO]: <KL_Tian> 奥利给！！！！！！11
+[21:14:10] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:18] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:19] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:14:26] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:27] [Server thread/INFO]: <KL_Tian> 奥利给！！！！！11
+[21:14:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8411ms or 168 ticks behind
+[21:14:32] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:33] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:14:36] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57863] logged in with entity id 3277 at (-49.445009685209726, 5.0, 152.76996045773936)
+[21:14:36] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:14:36] [Server thread/INFO]: MAX_XiaoKui joined the game
+[21:14:38] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:38] [Netty Server IO #0/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[21:14:44] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:50] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:55] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:14:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14107ms or 282 ticks behind
+[21:15:00] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:04] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:07] [Server thread/INFO]: [MAX_XiaoKui: Triggered [scoreSwitch] (set value to 3)]
+[21:15:09] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:11] [Server thread/INFO]: <KL_Tian> 你给我等着
+[21:15:13] [Server thread/INFO]: [MAX_XiaoKui: Triggered [scoreSwitch] (set value to 4)]
+[21:15:14] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:14] [Server thread/INFO]: <KL_Tian> 我嫌早好转呗
+[21:15:16] [Server thread/INFO]: [MAX_XiaoKui: Triggered [scoreSwitch] (set value to 5)]
+[21:15:19] [Server thread/INFO]: [MAX_XiaoKui: Triggered [scoreSwitch] (set value to 6)]
+[21:15:19] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:20] [Server thread/INFO]: <KL_Tian> 我先做好准备
+[21:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9095ms or 181 ticks behind
+[21:15:22] [Server thread/INFO]: <KL_Tian> 你给我等着
+[21:15:23] [Server thread/INFO]: [MAX_XiaoKui: Triggered [scoreSwitch] (set value to 7)]
+[21:15:24] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:29] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:35] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:39] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:45] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14244ms or 284 ticks behind
+[21:15:50] [Server thread/INFO]: <MAX_XiaoKui> ???
+[21:15:52] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:15:57] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:02] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:08] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:13] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8642ms or 172 ticks behind
+[21:16:18] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:24] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:30] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:35] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:40] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15349ms or 306 ticks behind
+[21:16:44] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:50] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:55] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:16:59] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:05] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10611ms or 212 ticks behind
+[21:17:09] [Server thread/INFO]: <KL_Tian> 好了
+[21:17:09] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:12] [Server thread/INFO]: <KL_Tian> 准备好了
+[21:17:15] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:18] [Server thread/INFO]: <KL_Tian> 我准备好了！
+[21:17:19] [Server thread/INFO]: <KL_Tian> 奥利给！
+[21:17:20] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:22] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:17:25] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:32] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12575ms or 251 ticks behind
+[21:17:36] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:42] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:46] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:51] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:17:55] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:00] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:06] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14994ms or 299 ticks behind
+[21:18:11] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:16] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:24] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12481ms or 249 ticks behind
+[21:18:34] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:39] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:18:40] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:42] [Server thread/INFO]: <KL_Tian> woc
+[21:18:45] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:48] [Server thread/INFO]: <KL_Tian> 完蛋
+[21:18:50] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:18:55] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:00] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11715ms or 234 ticks behind
+[21:19:06] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:12] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:17] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:22] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:27] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11962ms or 239 ticks behind
+[21:19:33] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:38] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:43] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:47] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:53] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:19:58] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17345ms or 346 ticks behind
+[21:20:03] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:20:08] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:20:19] [Server thread/INFO]: <ChengXi123> 好了，够了
+[21:20:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11604ms or 232 ticks behind
+[21:20:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12857ms or 257 ticks behind
+[21:21:17] [Server thread/INFO]: <ChengXi123> 我要干啥
+[21:21:24] [Server thread/INFO]: <KL_Tian> 冲冲冲！
+[21:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14974ms or 299 ticks behind
+[21:21:24] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:21:25] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:21:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-397, y=67, z=517}
+[21:21:41] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12133ms or 242 ticks behind
+[21:21:54] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19333ms or 386 ticks behind
+[21:22:48] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14401ms or 288 ticks behind
+[21:23:01] [Server thread/INFO]: <ChengXi123> 要这样刷
+[21:23:09] [Server thread/INFO]: <KL_Tian> 不不不
+[21:23:11] [Server thread/INFO]: <KL_Tian> 莫看我的方法
+[21:23:16] [Server thread/INFO]: <ChengXi123> KL_Tian过来看看
+[21:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7487ms or 149 ticks behind
+[21:23:21] [Server thread/INFO]: <KL_Tian> 等一下
+[21:23:27] [Server thread/INFO]: <ChengXi123> 一次550
+[21:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4624ms or 92 ticks behind
+[21:23:42] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
+[21:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4785ms or 95 ticks behind
+[21:24:16] [Server thread/INFO]: <ChengXi123> 嘿，过来看看
+[21:24:24] [Server thread/INFO]: <KL_Tian> 骚等额
+[21:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5278ms or 105 ticks behind
+[21:24:46] [Server thread/INFO]: <ChengXi123> 怎么改名字颜色
+[21:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[21:25:18] [Server thread/INFO]: <KL_Tian> ChengXi123 我来了
+[21:25:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4426ms or 88 ticks behind
+[21:25:34] [Server thread/INFO]: <KL_Tian> woc
+[21:25:35] [Server thread/INFO]: <KL_Tian> 掉帧
+[21:25:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/5296, l='ServerLevel[world]', x=-139.66, y=82.00, z=182.90]
+[21:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9262ms or 185 ticks behind
+[21:25:48] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:25:49] [Server thread/INFO]: <KL_Tian> ?
+[21:25:54] [Server thread/INFO]: <KL_Tian> ChengXi123
+[21:25:54] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:25:57] [Server thread/INFO]: <KL_Tian> 你过来看我的一次多少
+[21:25:58] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:26:01] [Server thread/INFO]: KL_Tian fell from a high place
+[21:26:05] [Server thread/INFO]: ChengXi123 fell from a high place
+[21:26:05] [Server thread/INFO]: <KL_Tian> 你过来看我的一次多少
+[21:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7866ms or 157 ticks behind
+[21:26:10] [Server thread/INFO]: KL_Tian fell from a high place
+[21:26:13] [Server thread/INFO]: <ChengXi123> 这样一次550
+[21:26:22] [Server thread/INFO]: <KL_Tian> 那你看看我的
+[21:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
+[21:26:29] [Server thread/INFO]: [ChengXi123: Triggered [scoreSwitch] (set value to 1)]
+[21:26:32] [Server thread/INFO]: <KL_Tian> 43721
+[21:26:32] [Server thread/INFO]: KL_Tian fell from a high place
+[21:26:35] [Server thread/INFO]: <KL_Tian> 44491
+[21:26:44] [Server thread/INFO]: [ChengXi123: Triggered [scoreSwitch] (set value to 2)]
+[21:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4732ms or 94 ticks behind
+[21:26:56] [Server thread/INFO]: <KL_Tian> 770
+[21:26:58] [Server thread/INFO]: [ChengXi123: Triggered [scoreSwitch] (set value to 3)]
+[21:27:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5136ms or 102 ticks behind
+[21:27:08] [Server thread/INFO]: <KL_Tian> awa
+[21:27:08] [Server thread/INFO]: KL_Tian fell from a high place
+[21:27:14] [Server thread/INFO]: [ChengXi123: Triggered [scoreSwitch] (set value to 4)]
+[21:27:15] [Server thread/INFO]: KL_Tian fell from a high place
+[21:27:19] [Server thread/INFO]: <KL_Tian> awa
+[21:27:21] [Server thread/INFO]: KL_Tian fell from a high place
+[21:27:28] [Server thread/INFO]: KL_Tian fell from a high place
+[21:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6091ms or 121 ticks behind
+[21:27:30] [Server thread/INFO]: [ChengXi123: Triggered [scoreSwitch] (set value to 1)]
+[21:27:35] [Server thread/INFO]: KL_Tian fell from a high place
+[21:27:42] [Server thread/INFO]: <KL_Tian> 敖烈给
+[21:27:42] [Server thread/INFO]: KL_Tian fell from a high place
+[21:27:48] [Server thread/INFO]: KL_Tian fell from a high place
+[21:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8685ms or 173 ticks behind
+[21:27:54] [Server thread/INFO]: <KL_Tian> aoleigei
+[21:27:54] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:01] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:16] [Server thread/INFO]: <KL_Tian> aoli
+[21:28:16] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10339ms or 206 ticks behind
+[21:28:28] [Server thread/INFO]: <KL_Tian> 奥利给
+[21:28:28] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:32] [Server thread/INFO]: <KL_Tian> 奥利给
+[21:28:34] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:39] [Server thread/INFO]: <KL_Tian> 奥利给
+[21:28:41] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9427ms or 188 ticks behind
+[21:28:47] [Server thread/INFO]: <KL_Tian> 奥利给
+[21:28:48] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:53] [Server thread/INFO]: <KL_Tian> 奥利给
+[21:28:54] [Server thread/INFO]: KL_Tian fell from a high place
+[21:28:59] [Server thread/INFO]: <KL_Tian> 奥利给
+[21:29:01] [Server thread/INFO]: KL_Tian fell from a high place
+[21:29:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7835ms or 156 ticks behind
+[21:29:06] [Server thread/INFO]: <KL_Tian> 奥利给
+[21:29:08] [Server thread/INFO]: KL_Tian fell from a high place
+[21:29:14] [Server thread/INFO]: <KL_Tian> 奥利给！！111
+[21:29:14] [Server thread/INFO]: KL_Tian fell from a high place
+[21:29:20] [Server thread/INFO]: <KL_Tian> 5815
+[21:29:20] [Server thread/INFO]: KL_Tian fell from a high place
+[21:29:28] [Server thread/INFO]: KL_Tian fell from a high place
+[21:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10238ms or 204 ticks behind
+[21:29:36] [Server thread/INFO]: KL_Tian fell from a high place
+[21:29:45] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:29:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
+[21:29:54] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:30:02] [Server thread/INFO]: <KL_Tian> 60911
+[21:30:03] [Server thread/INFO]: KL_Tian tried to swim in lava
+[21:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3321ms or 66 ticks behind
+[21:30:19] [Server thread/INFO]: KL_Tian fell from a high place
+[21:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[21:30:29] [Server thread/INFO]: KL_Tian fell from a high place
+[21:30:40] [Server thread/INFO]: KL_Tian fell from a high place
+[21:30:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5174ms or 103 ticks behind
+[21:30:47] [Server thread/INFO]: KL_Tian fell from a high place
+[21:30:54] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:00] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4681ms or 93 ticks behind
+[21:31:07] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:16] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:23] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4243ms or 84 ticks behind
+[21:31:28] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:34] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:41] [Server thread/INFO]: <KL_Tian> wssb
+[21:31:42] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7330ms or 146 ticks behind
+[21:31:50] [Server thread/INFO]: KL_Tian fell from a high place
+[21:31:55] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:02] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3769ms or 75 ticks behind
+[21:32:07] [Server thread/INFO]: <KL_Tian> aaa
+[21:32:08] [Server thread/INFO]: <KL_Tian> y
+[21:32:09] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:14] [Server thread/INFO]: <KL_Tian> 我要超过你
+[21:32:14] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:16] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:32:20] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:26] [Server thread/INFO]: <MAX_XiaoKui> 你看看
+[21:32:26] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
+[21:32:31] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:33] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:32:38] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:39] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:32:43] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:44] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3880ms or 77 ticks behind
+[21:32:49] [Server thread/INFO]: KL_Tian fell from a high place
+[21:32:50] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:32:55] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:32:56] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:01] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:33:01] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:02] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4960ms or 99 ticks behind
+[21:33:07] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:08] [Server thread/INFO]: <KL_Tian> 看我名字的颜色哈
+[21:33:12] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:12] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:17] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:17] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:33:18] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:21] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:22] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:33:23] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4152ms or 83 ticks behind
+[21:33:28] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:33:29] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:34] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:33:35] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:38] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:39] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:33:40] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
+[21:33:44] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:33:44] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:46] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:49] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:50] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 8)]
+[21:33:51] [Server thread/INFO]: KL_Tian fell from a high place
+[21:33:54] [Server thread/INFO]: MAX_XiaoKui fell from a high place
+[21:33:55] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 9)]
+[21:33:57] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:02] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:34:03] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7999ms or 159 ticks behind
+[21:34:07] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:34:08] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:12] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:34:14] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:18] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:34:20] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:24] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[21:34:26] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:29] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:34:31] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:34] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:34:36] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:41] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:34:43] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
+[21:34:47] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 8)]
+[21:34:49] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:53] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 9)]
+[21:34:55] [Server thread/INFO]: KL_Tian fell from a high place
+[21:34:59] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:35:00] [Server thread/INFO]: <KL_Tian> nb
+[21:35:00] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[21:35:04] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:35:06] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:11] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:35:13] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:16] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:35:19] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:23] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:35:24] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8047ms or 160 ticks behind
+[21:35:27] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:35:31] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:34] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:35:36] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:40] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:35:43] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:47] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 8)]
+[21:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7500ms or 150 ticks behind
+[21:35:49] [Server thread/INFO]: KL_Tian fell from a high place
+[21:35:54] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 9)]
+[21:35:57] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:02] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:36:03] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:13] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:36:14] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13419ms or 268 ticks behind
+[21:36:20] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:36:21] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:25] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:36:26] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:30] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:36:32] [Server thread/INFO]: <ChengXi123> 我发现一桶水可以铺一行
+[21:36:32] [Server thread/INFO]: <KL_Tian> ping
+[21:36:32] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3303ms or 66 ticks behind
+[21:36:37] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:36:39] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:42] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:36:44] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:51] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:36:52] [Server thread/INFO]: KL_Tian fell from a high place
+[21:36:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
+[21:36:55] [Server thread/INFO]: <KL_Tian> ohhhhhhhhhh
+[21:37:00] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 8)]
+[21:37:00] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:04] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 9)]
+[21:37:06] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:13] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7980ms or 159 ticks behind
+[21:37:18] [Server thread/INFO]: <KL_Tian> 完蛋名字会变色
+[21:37:21] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:37:22] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:25] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:37:27] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:30] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:37:32] [Server thread/INFO]: <MAX_XiaoKui> ???
+[21:37:33] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:36] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:37:38] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7454ms or 149 ticks behind
+[21:37:42] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:37:44] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:48] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:37:50] [Server thread/INFO]: KL_Tian fell from a high place
+[21:37:54] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:37:56] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:01] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 8)]
+[21:38:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8177ms or 163 ticks behind
+[21:38:03] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:06] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 9)]
+[21:38:09] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:12] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:38:14] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:19] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:38:20] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
+[21:38:25] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:38:28] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:31] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:38:34] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:37] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:38:39] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:43] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:38:45] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8745ms or 174 ticks behind
+[21:38:49] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:38:51] [Server thread/INFO]: KL_Tian fell from a high place
+[21:38:55] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:38:57] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:05] [Server thread/INFO]: <KL_Tian> 8
+[21:39:07] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7211ms or 144 ticks behind
+[21:39:15] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:39:20] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:24] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:39:26] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5361ms or 107 ticks behind
+[21:39:30] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:39:32] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:37] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:39:37] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:42] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:39:43] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:48] [Server thread/INFO]: <MAX_XiaoKui> 行了你都第一了
+[21:39:48] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:39:49] [Server thread/INFO]: KL_Tian fell from a high place
+[21:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8599ms or 171 ticks behind
+[21:39:53] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:39:55] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:01] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:40:02] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:06] [Server thread/INFO]: [MAX_XiaoKui: Triggered [scoreSwitch] (set value to 3)]
+[21:40:07] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 8)]
+[21:40:08] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:12] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 9)]
+[21:40:13] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:19] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:40:20] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12614ms or 252 ticks behind
+[21:40:24] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:40:26] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:31] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:40:33] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:39] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:40:39] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:39] [Server thread/INFO]: <MAX_XiaoKui> 行了你都第一了
+[21:40:43] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:40:45] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12783ms or 255 ticks behind
+[21:40:50] [Server thread/INFO]: KL_Tian fell from a high place
+[21:40:55] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:40:56] [Server thread/INFO]: KL_Tian fell from a high place
+[21:41:00] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:41:02] [Server thread/INFO]: KL_Tian fell from a high place
+[21:41:04] [Server thread/INFO]: <ChengXi123> 救命啊
+[21:41:07] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 2)]
+[21:41:07] [Server thread/INFO]: KL_Tian fell from a high place
+[21:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7509ms or 150 ticks behind
+[21:41:11] [Server thread/INFO]: <MAX_XiaoKui> ?
+[21:41:12] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 3)]
+[21:41:13] [Server thread/INFO]: KL_Tian fell from a high place
+[21:41:18] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 4)]
+[21:41:19] [Server thread/INFO]: KL_Tian fell from a high place
+[21:41:26] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:41:28] [Server thread/INFO]: KL_Tian fell from a high place
+[21:41:33] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:41:34] [Server thread/INFO]: KL_Tian fell from a high place
+[21:41:38] [Server thread/INFO]: <KL_Tian> 你已经死了
+[21:41:41] [Server thread/INFO]: <MAX_XiaoKui> y=6???
+[21:41:43] [Server thread/INFO]: <KL_Tian> 我就是被卡在滴滴
+[21:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21558ms or 431 ticks behind
+[21:41:47] [Server thread/INFO]: <KL_Tian> 然后就死了
+[21:41:50] [Server thread/INFO]: <KL_Tian> 你会被摔死的
+[21:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23169ms or 463 ticks behind
+[21:42:30] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[21:42:30] [Server thread/INFO]: KL_Tian left the game
+[21:42:40] [Server thread/INFO]: <ChengXi123> 这个水，一桶可以铺一行，太方便了
+[21:42:56] [Server thread/INFO]: <ChengXi123> 快睡觉
+[21:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16825ms or 336 ticks behind
+[21:43:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8018ms or 160 ticks behind
+[21:43:34] [Server thread/INFO]: ChengXi123 was slain by Zombie
+[21:43:42] [Server thread/INFO]: KL_Tian[/127.0.0.1:58513] logged in with entity id 8137 at (-123.55788404677529, 5.534824360643777, 139.39079448349648)
+[21:43:42] [Server thread/INFO]: KL_Tian joined the game
+[21:43:43] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:43:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14688ms or 293 ticks behind
+[21:43:56] [Server thread/INFO]: ChengXi123 was slain by Zombie
+[21:44:14] [Server thread/INFO]: <ChengXi123> KL_Tian先离开这边，卡
+[21:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14598ms or 291 ticks behind
+[21:44:19] [Server thread/INFO]: <KL_Tian> ok
+[21:44:32] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 6)]
+[21:44:35] [Server thread/INFO]: <MAX_XiaoKui> 我甚至有点怀疑你是来打广告的
+[21:44:38] [Server thread/INFO]: <KL_Tian> e
+[21:44:41] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 7)]
+[21:44:46] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 5)]
+[21:45:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32727ms or 654 ticks behind
+[21:45:18] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to -1)]
+[21:45:24] [Server thread/INFO]: [KL_Tian: Triggered [scoreSwitch] (set value to 1)]
+[21:45:32] [Server thread/INFO]: KL_Tian was slain by ChengXi123
+[21:45:36] [Server thread/INFO]: <KL_Tian> 挖
+[21:45:39] [Server thread/INFO]: <KL_Tian> 不是吧
+[21:45:43] [Server thread/INFO]: ChengXi123 was slain by Slime
+[21:45:45] [Server thread/INFO]: <KL_Tian> 我tm这.
+[21:45:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23524ms or 470 ticks behind
+[21:46:09] [Server thread/INFO]: <ChengXi123> 你倒是走啊
+[21:46:16] [Server thread/INFO]: KL_Tian was slain by Zombie
+[21:46:17] [Server thread/INFO]: <MAX_XiaoKui> 烟花火箭有吗
+[21:46:18] [Server thread/INFO]: <KL_Tian> 好了
+[21:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20984ms or 419 ticks behind
+[21:46:32] [Server thread/INFO]: <MAX_XiaoKui> 我找到了
+[21:46:36] [Server thread/INFO]: <ChengXi123> 怪刷没了？
+[21:46:36] [Server thread/INFO]: <KL_Tian> 有点无聊额
+[21:46:48] [Server thread/INFO]: <KL_Tian> 不如复制一下烟花吧额 感觉好少额
+[21:46:50] [Server thread/INFO]: <KL_Tian> 不如复制一下烟花吧额 感觉库存好少额
+[21:46:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21313ms or 426 ticks behind
+[21:47:02] [Server thread/INFO]: <MAX_XiaoKui> 所以你是不是来打广告的
+[21:47:09] [Server thread/INFO]: <KL_Tian> 不是
+[21:47:10] [Server thread/INFO]: <MAX_XiaoKui> 现在复制很麻烦
+[21:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17863ms or 357 ticks behind
+[21:47:42] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-19_21-47-42
+[21:47:42] [Server thread/INFO]: Saving server...
+[21:47:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:47:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:47:49] [Server thread/INFO]: <ChengXi123> 你肝不行？
+[21:47:52] [Thread-110/INFO]: Starting backup
+[21:47:52] [Thread-110/INFO]: Starting compression...
+[21:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21600ms or 432 ticks behind
+[21:48:14] [Server thread/INFO]: <KL_Tian> 大师
+[21:48:20] [Server thread/INFO]: <KL_Tian> 我唔了
+[21:48:27] [Server thread/INFO]: <ChengXi123> 这样Cora不会喜欢的
+[21:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17124ms or 342 ticks behind
+[21:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18361ms or 367 ticks behind
+[21:49:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16040ms or 320 ticks behind
+[21:50:04] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[21:50:04] [Server thread/INFO]: KL_Tian left the game
+[21:50:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9581ms or 191 ticks behind
+[21:50:09] [Thread-110/INFO]: Compression took: 137.770165s
+[21:50:09] [Thread-110/INFO]: Done!
+[21:50:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[21:50:37] [Server thread/INFO]: Cora_cold[/127.0.0.1:58671] logged in with entity id 9228 at (-399.38123793826736, 70.0, 464.9644567379297)
+[21:50:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:50:37] [Server thread/INFO]: Cora_cold joined the game
+[21:50:40] [Netty Server IO #0/INFO]: Player Cora_cold joined with a matching carpet client
+[21:50:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11741ms or 234 ticks behind
+[21:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16469ms or 329 ticks behind
+[21:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10241ms or 204 ticks behind
+[21:51:57] [Server thread/INFO]: <Cora_cold> 对啊
+[21:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5723ms or 114 ticks behind
+[21:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3736ms or 74 ticks behind
+[21:52:48] [Server thread/INFO]: ChengXi123 was slain by Slime
+[21:52:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6572ms or 131 ticks behind
+[21:53:12] [Server thread/INFO]: <Cora_cold> 一会我就下了
+[21:53:13] [Server thread/INFO]: <ChengXi123> 哇，不扣血
+[21:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3677ms or 73 ticks behind
+[21:53:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cactus'/10027, l='ServerLevel[world]', x=-23.91, y=66.55, z=265.88]
+[21:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5370ms or 107 ticks behind
+[21:53:37] [Server thread/INFO]: <Cora_cold> 除了帽子都是保护四
+[21:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7236ms or 144 ticks behind
+[21:54:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13678ms or 273 ticks behind
+[21:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6986ms or 139 ticks behind
+[21:55:01] [Server thread/WARN]: Fetching packet for removed entity class_1685['Trident'/10257, l='ServerLevel[world]', x=-9.34, y=6.11, z=175.45]
+[21:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[21:55:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5917ms or 118 ticks behind
+[21:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7227ms or 144 ticks behind
+[21:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5380ms or 107 ticks behind
+[21:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8879ms or 177 ticks behind
+[21:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12010ms or 240 ticks behind
+[21:57:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10050ms or 201 ticks behind
+[21:57:46] [Server thread/INFO]: <MAX_XiaoKui> 你为啥要铺中间啊，直接铺两边不就行了
+[21:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4763ms or 95 ticks behind
+[21:57:54] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[21:57:54] [Server thread/INFO]: Cora_cold left the game
+[21:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5356ms or 107 ticks behind
+[21:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5576ms or 111 ticks behind
+[21:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11885ms or 237 ticks behind
+[21:58:58] [Server thread/INFO]: <MAX_XiaoKui> 出生点
+[21:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10967ms or 219 ticks behind
+[21:59:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9776ms or 195 ticks behind
+[21:59:51] [Server thread/INFO]: KL_Tian[/127.0.0.1:58874] logged in with entity id 10611 at (-49.64702984175422, 70.0, 240.20124969429483)
+[21:59:51] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:59:52] [Server thread/INFO]: KL_Tian joined the game
+[22:00:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15418ms or 308 ticks behind
+[22:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19008ms or 380 ticks behind
+[22:00:54] [Server thread/INFO]: <MAX_XiaoKui> 1.15开始优化就不好
+[22:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17033ms or 340 ticks behind
+[22:01:27] [Server thread/INFO]: <MAX_XiaoKui> 跟内存没啥关系，还得看fps
+[22:01:32] [Server thread/INFO]: <KL_Tian> ？？？？？？？？？？？？？？？？？？？谁拆的为什么全是水
+[22:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15350ms or 307 ticks behind
+[22:01:54] [Server thread/INFO]: <MAX_XiaoKui> 就是要铺水啊
+[22:01:54] [Server thread/INFO]: <KL_Tian> 出生点全是水额
+[22:02:05] [Server thread/INFO]: <KL_Tian> 铺水干嘛啊
+[22:02:22] [Server thread/INFO]: <MAX_XiaoKui> 你觉得出生点刷那么多怪不卡吗
+[22:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15691ms or 313 ticks behind
+[22:02:25] [Server thread/INFO]: <KL_Tian> e
+[22:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16911ms or 338 ticks behind
+[22:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9691ms or 193 ticks behind
+[22:03:33] [Server thread/INFO]: <ChengXi123> 给我点方块
+[22:03:38] [Server thread/INFO]: <ChengXi123> 快睡觉
+[22:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10745ms or 214 ticks behind
+[22:03:50] [Server thread/INFO]: <MAX_XiaoKui> 没床
+[22:04:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9423ms or 188 ticks behind
+[22:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11166ms or 223 ticks behind
+[22:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8089ms or 161 ticks behind
+[22:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8053ms or 161 ticks behind
+[22:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6766ms or 135 ticks behind
+[22:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
+[22:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8470ms or 169 ticks behind
+[22:06:35] [Server thread/INFO]: <KL_Tian> ChengXi123
+[22:06:41] [Server thread/INFO]: <KL_Tian> 这里没补
+[22:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
+[22:07:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4351ms or 87 ticks behind
+[22:07:22] [Server thread/INFO]: <KL_Tian> ChengXi123 这里没不额
+[22:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6957ms or 139 ticks behind
+[22:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7468ms or 149 ticks behind
+[22:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5977ms or 119 ticks behind
+[22:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5102ms or 102 ticks behind
+[22:08:42] [Server thread/INFO]: ChengXi123 was blown up by Creeper
+[22:08:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10436ms or 208 ticks behind
+[22:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10319ms or 206 ticks behind
+[22:09:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10980ms or 219 ticks behind
+[22:10:10] [Server thread/INFO]: <KL_Tian> 我上去睡个觉
+[22:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10145ms or 202 ticks behind
+[22:10:13] [Server thread/INFO]: KL_Tian was slain by Slime
+[22:10:24] [Server thread/INFO]: <KL_Tian> ?
+[22:10:29] [Server thread/INFO]: <KL_Tian> 早上了？
+[22:10:33] [Server thread/INFO]: <MAX_XiaoKui> .
+[22:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14958ms or 299 ticks behind
+[22:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10462ms or 209 ticks behind
+[22:11:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10096ms or 201 ticks behind
+[22:12:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11902ms or 238 ticks behind
+[22:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9370ms or 187 ticks behind
+[22:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8946ms or 178 ticks behind
+[22:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6484ms or 129 ticks behind
+[22:13:28] [Server thread/INFO]: KL_Tian was blown up by Creeper
+[22:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3732ms or 74 ticks behind
+[22:13:35] [Server thread/INFO]: KL_Tian fell from a high place
+[22:13:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7978ms or 159 ticks behind
+[22:14:04] [Server thread/INFO]: KL_Tian was slain by Slime
+[22:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[22:14:11] [Server thread/INFO]: KL_Tian fell from a high place
+[22:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8188ms or 163 ticks behind
+[22:14:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
+[22:15:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11558ms or 231 ticks behind
+[22:15:28] [Server thread/INFO]: KL_Tian tried to swim in lava
+[22:15:43] [Server thread/INFO]: <ChengXi123> 我让你挖掉它
+[22:15:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7140ms or 142 ticks behind
+[22:15:49] [Server thread/INFO]: <MAX_XiaoKui> .\
+[22:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5959ms or 119 ticks behind
+[22:16:25] [Server thread/INFO]: <KL_Tian> w疯狂掉帧
+[22:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8729ms or 174 ticks behind
+[22:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6596ms or 131 ticks behind
+[22:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9488ms or 189 ticks behind
+[22:17:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cactus'/12645, l='ServerLevel[world]', x=-23.91, y=66.55, z=265.61]
+[22:17:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5932ms or 118 ticks behind
+[22:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3377ms or 67 ticks behind
+[22:18:14] [Server thread/INFO]: <ChengXi123> 下一层直接在边上铺？让它自己蔓延？
+[22:18:15] [Server thread/INFO]: <KL_Tian> 卡了？
+[22:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15213ms or 304 ticks behind
+[22:18:27] [Server thread/INFO]: <MAX_XiaoKui> 嗯
+[22:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[22:18:43] [Server thread/INFO]: <KL_Tian> tps20
+[22:18:46] [Server thread/INFO]: <KL_Tian> nb
+[22:18:49] [Server thread/INFO]: <MAX_XiaoKui> 东南角已经铺了一点了
+[22:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3741ms or 74 ticks behind
+[22:19:03] [Server thread/INFO]: <KL_Tian> 又卡了
+[22:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4945ms or 98 ticks behind
+[22:19:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[22:19:45] [Server thread/INFO]: <KL_Tian> 又卡了
+[22:19:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
+[22:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[22:20:18] [Server thread/INFO]: <KL_Tian> ?
+[22:20:28] [Server thread/INFO]: <MAX_XiaoKui> ?
+[22:20:30] [Server thread/INFO]: <KL_Tian> 为什么史莱姆不打我 我也打不到史莱姆
+[22:20:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3181ms or 63 ticks behind
+[22:20:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[22:21:02] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[22:21:02] [Server thread/INFO]: KL_Tian left the game
+[22:21:06] [Server thread/INFO]: KL_Tian[/127.0.0.1:59356] logged in with entity id 13061 at (-42.49000000953674, 77.0, 239.50999999046326)
+[22:21:06] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:21:06] [Server thread/INFO]: KL_Tian joined the game
+[22:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
+[22:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[22:21:43] [Server thread/INFO]: KL_Tian fell from a high place
+[22:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
+[22:21:55] [Server thread/INFO]: KL_Tian fell from a high place
+[22:22:06] [Server thread/INFO]: KL_Tian fell from a high place
+[22:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6604ms or 132 ticks behind
+[22:22:19] [Server thread/INFO]: KL_Tian fell from a high place
+[22:22:29] [Server thread/INFO]: KL_Tian fell from a high place
+[22:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5711ms or 114 ticks behind
+[22:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6505ms or 130 ticks behind
+[22:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8403ms or 168 ticks behind
+[22:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4140ms or 82 ticks behind
+[22:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
+[22:24:06] [Server thread/INFO]: ChengXi123 was slain by Slime
+[22:24:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9716ms or 194 ticks behind
+[22:24:26] [Server thread/INFO]: <KL_Tian> 咋又调试件..
+[22:24:31] [Server thread/INFO]: <KL_Tian> 咋又调时间..
+[22:24:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8527ms or 170 ticks behind
+[22:24:42] [Server thread/INFO]: <MAX_XiaoKui> 调啥时间了
+[22:24:55] [Server thread/INFO]: <ChengXi123> 服务器里一个人睡觉就可以跳过夜晚
+[22:25:03] [Server thread/INFO]: <KL_Tian> e
+[22:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20629ms or 412 ticks behind
+[22:25:52] [Server thread/INFO]: <MAX_XiaoKui> 3
+[22:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26660ms or 533 ticks behind
+[22:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23237ms or 464 ticks behind
+[22:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17779ms or 355 ticks behind
+[22:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18473ms or 369 ticks behind
+[22:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15964ms or 319 ticks behind
+[22:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14139ms or 282 ticks behind
+[22:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11663ms or 233 ticks behind
+[22:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11647ms or 232 ticks behind
+[22:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16152ms or 323 ticks behind
+[22:30:17] [Server thread/INFO]: <KL_Tian> 这个出生点的经验熔炉只能手动放燃料吗
+[22:30:34] [Server thread/INFO]: <MAX_XiaoKui> 大的那个坏了
+[22:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12368ms or 247 ticks behind
+[22:30:47] [Server thread/INFO]: <KL_Tian> 出生点左边那个小的那个
+[22:30:55] [Server thread/INFO]: <KL_Tian> 带仙人掌种植的那个
+[22:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11803ms or 236 ticks behind
+[22:31:02] [Server thread/INFO]: ChengXi123 was slain by Slime
+[22:31:13] [Server thread/INFO]: <KL_Tian> 咋放染料啊
+[22:31:17] [Server thread/INFO]: <MAX_XiaoKui> 那个不是有羊毛毯机一直在那吗
+[22:31:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[22:31:24] [Server thread/INFO]: <KL_Tian> ?
+[22:31:27] [Server thread/INFO]: <MAX_XiaoKui> ?dw
+[22:31:37] [Server thread/INFO]: ChengXi123 fell from a high place
+[22:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7585ms or 151 ticks behind
+[22:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7070ms or 141 ticks behind
+[22:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6231ms or 124 ticks behind
+[22:32:37] [Server thread/INFO]: Alex[local] logged in with entity id 15229 at (-26.300000011920922, 65.0, 271.5513169625497)
+[22:32:37] [Server thread/INFO]: Alex joined the game
+[22:32:41] [Server thread/INFO]: <KL_Tian> ?
+[22:32:45] [Server thread/INFO]: <KL_Tian> alex是谁啊
+[22:32:53] [Server thread/INFO]: <MAX_XiaoKui> 假人
+[22:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9023ms or 180 ticks behind
+[22:32:57] [Server thread/INFO]: <KL_Tian> ?
+[22:33:00] [Server thread/INFO]: <KL_Tian> 假人？
+[22:33:11] [Server thread/INFO]: <KL_Tian> ???????
+[22:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7515ms or 150 ticks behind
+[22:33:16] [Server thread/INFO]: <KL_Tian> alex怎么站在那里了
+[22:33:27] [Server thread/INFO]: <MAX_XiaoKui> 我也是这么想的
+[22:33:33] [Server thread/INFO]: <KL_Tian> 史莱姆农场
+[22:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8812ms or 176 ticks behind
+[22:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10260ms or 205 ticks behind
+[22:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[22:34:23] [Server thread/INFO]: <KL_Tian> 吸羊毛毯干啥
+[22:34:40] [Server thread/INFO]: <MAX_XiaoKui> 没让你吸啊
+[22:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[22:34:43] [Server thread/INFO]: <KL_Tian> e
+[22:34:47] [Server thread/INFO]: <KL_Tian> 我说那个alex
+[22:34:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
+[22:35:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[22:35:18] [Server thread/INFO]: Alex was slain by ChengXi123
+[22:35:18] [Server thread/INFO]: Alex lost connection: Killed
+[22:35:18] [Server thread/INFO]: Alex left the game
+[22:35:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9707ms or 194 ticks behind
+[22:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6782ms or 135 ticks behind
+[22:36:05] [Server thread/INFO]: Alex[local] logged in with entity id 16583 at (-56.42197910063087, 77.0, 239.5218051416578)
+[22:36:05] [Server thread/INFO]: Alex joined the game
+[22:36:10] [Server thread/INFO]: <KL_Tian> 又是他
+[22:36:23] [Server thread/INFO]: Alex was slain by ChengXi123
+[22:36:23] [Server thread/INFO]: Alex lost connection: Killed
+[22:36:23] [Server thread/INFO]: Alex left the game
+[22:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12893ms or 257 ticks behind
+[22:36:37] [Server thread/INFO]: MAX_XiaoKui lost connection: Timed out
+[22:36:37] [Server thread/INFO]: MAX_XiaoKui left the game
+[22:36:39] [Server thread/WARN]: handleDisconnection() called twice
+[22:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8983ms or 179 ticks behind
+[22:37:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17088, l='ServerLevel[world]', x=-24.58, y=65.01, z=271.32]
+[22:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[22:37:21] [Server thread/INFO]: Alex[local] logged in with entity id 17150 at (0.5, 100000.0, 1.5)
+[22:37:21] [Server thread/INFO]: Alex joined the game
+[22:37:24] [Server thread/INFO]: <KL_Tian> c
+[22:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6756ms or 135 ticks behind
+[22:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9657ms or 193 ticks behind
+[22:38:12] [Server thread/INFO]: SB[local] logged in with entity id 17712 at (-35.995569530821136, 64.0, 247.88924567742725)
+[22:38:12] [Server thread/INFO]: SB joined the game
+[22:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31536ms or 630 ticks behind
+[22:39:03] [Server thread/INFO]: SB was slain by ChengXi123
+[22:39:03] [Server thread/INFO]: SB lost connection: Killed
+[22:39:03] [Server thread/INFO]: SB left the game
+[22:39:26] [Server thread/INFO]: Alex lost connection: Killed
+[22:39:26] [Server thread/INFO]: Alex left the game
+[22:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22712ms or 454 ticks behind
+[22:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10010ms or 200 ticks behind
+[22:40:05] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:59776] logged in with entity id 18530 at (-102.1882300145358, 5.0, 251.08821600935065)
+[22:40:05] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:40:05] [Server thread/INFO]: MAX_XiaoKui joined the game
+[22:40:06] [Netty Server IO #1/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[22:40:21] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[22:40:21] [Server thread/INFO]: ChengXi123 left the game
+[22:40:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13601ms or 272 ticks behind
+[22:40:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9117ms or 182 ticks behind
+[22:40:53] [Server thread/INFO]: <KL_Tian> 完蛋
+[22:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12141ms or 242 ticks behind
+[22:41:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12489ms or 249 ticks behind
+[22:42:05] [Server thread/INFO]: <MAX_XiaoKui> 怎么了
+[22:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12621ms or 252 ticks behind
+[22:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21755ms or 435 ticks behind
+[22:42:49] [Server thread/INFO]: <MAX_XiaoKui> 睡觉
+[22:42:57] [Server thread/INFO]: <KL_Tian> ok
+[22:43:14] [Server thread/INFO]: <KL_Tian> 回城
+[22:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14586ms or 291 ticks behind
+[22:43:19] [Server thread/INFO]: KL_Tian tried to swim in lava
+[22:43:25] [Server thread/INFO]: <KL_Tian> zzzzzzzz
+[22:43:26] [Server thread/INFO]: <KL_Tian> zzzzzzz
+[22:43:33] [Server thread/INFO]: <KL_Tian> 啊~又是美好的一天
+[22:43:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[22:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5444ms or 108 ticks behind
+[22:44:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8936ms or 178 ticks behind
+[22:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11646ms or 232 ticks behind
+[22:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12355ms or 247 ticks behind
+[22:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11744ms or 234 ticks behind
+[22:46:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17315ms or 346 ticks behind
+[22:47:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51076ms or 1021 ticks behind
+[22:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24144ms or 482 ticks behind
+[22:47:57] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-19_22-47-57
+[22:47:57] [Server thread/INFO]: Saving server...
+[22:48:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:48:05] [Thread-157/INFO]: Starting backup
+[22:48:05] [Thread-157/INFO]: Starting compression...
+[22:49:12] [Server Watchdog/FATAL]: A single server tick took 60.32 seconds (should be max 0.05)
+[22:49:12] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 60866ms or 1217 ticks behind
+[22:49:17] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Server\skimit_survival\.\crash-reports\crash-2020-07-19_22.49.13-server.txt
+[22:49:19] [Server thread/INFO]: Stopping server
+[22:49:19] [Server thread/INFO]: Saving players
+[22:49:25] [Server thread/INFO]: MAX_XiaoKui lost connection: Internal Exception: java.lang.StackOverflowError
+[22:49:25] [Server thread/INFO]: MAX_XiaoKui left the game
+[22:49:26] [Server thread/INFO]: Saving worlds
+[22:49:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld

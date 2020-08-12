@@ -1,0 +1,1439 @@
+[10:01:07] [main/INFO]: Loading for game Minecraft 1.15.2
+[10:01:11] [main/WARN]: Mod `jankson` (2.0.0+j1.2.0) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[10:01:11] [main/INFO]: [FabricLoader] Loading 40 mods: minecraft@1.15.2, fabric-networking-blockentity-v0@0.2.3+e08a73050c, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+dfdb52d60c, jankson@2.0.0+j1.2.0, fabricloader@0.7.8+build.189, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, fabric-dimensions-v1@0.3.0+2ad156310c, org_apache_commons_commons-compress@1.9, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@0.1.0+534104900c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-commands-v0@0.1.2+b7f9825d0c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, textile_backup@1.1.0-1.15, fabric-mining-levels-v0@0.1.1+b7f9825d0c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, carpet-extra@1.3.15, fabric-events-lifecycle-v0@0.1.2+b7f9825d0c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.5.1+build.294-1.15, carpet@1.3.15, fabric-item-groups-v0@0.1.6+ec40b2e10c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-particles-v1@0.1.1+dfdb52d60c, fabric-networking-v0@0.1.7+12515ed90c, fabric-object-builders-v0@0.1.3+e4c9a9c30c, cotton-config@1.0.0-rc.7
+[10:01:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[10:02:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:02:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:02:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:02:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:02:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:02:48] [main/INFO]: [TextileBackup]: Loading TextileBackup by Szum123321
+[10:02:50] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[10:02:50] [Server thread/INFO]: Loading properties
+[10:02:50] [Server thread/INFO]: Default game type: SURVIVAL
+[10:02:50] [Server thread/INFO]: Generating keypair
+[10:02:50] [Server thread/INFO]: Starting Minecraft server on *:26565
+[10:02:50] [Server thread/INFO]: Using default channel type
+[10:02:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:02:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:02:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:02:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:02:53] [Server thread/INFO]: Preparing level "skimit"
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting commandCameramode as false from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[10:02:53] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[10:02:53] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Mining Levels (v0)
+[10:02:56] [Server thread/INFO]: Loaded 6 recipes
+[10:02:58] [Server thread/INFO]: Loaded 825 advancements
+[10:02:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:03:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[10:03:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:07] [Server thread/INFO]: Preparing spawn area: 0%
+[10:03:07] [Server thread/INFO]: Preparing spawn area: 24%
+[10:03:08] [Server thread/INFO]: Preparing spawn area: 83%
+[10:03:09] [Server thread/INFO]: Time elapsed: 9705 ms
+[10:03:09] [Server thread/INFO]: Done (16.290s)! For help, type "help"
+[10:03:09] [Server thread/INFO]: Starting remote control listener
+[10:03:09] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[10:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[10:03:15] [Server thread/INFO]: ChengXi123[/127.0.0.1:53020] logged in with entity id 115 at (-366.82499998807907, 69.0, 510.85862110816316)
+[10:03:15] [Server thread/INFO]: ChengXi123 joined the game
+[10:03:18] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:03:18] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_10-03-18
+[10:03:18] [Server thread/INFO]: [TextileBackup]: Saving server...
+[10:03:23] [Server thread/INFO]: Aod_lcy[/127.0.0.1:53029] logged in with entity id 135 at (-166.12008604453072, 5.001335979112147, 358.2664501443359)
+[10:03:23] [Server thread/INFO]: Aod_lcy joined the game
+[10:03:23] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:03:26] [Thread-50/INFO]: [TextileBackup]: Starting compression...
+[10:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30952ms or 619 ticks behind
+[10:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30707ms or 614 ticks behind
+[10:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14355ms or 287 ticks behind
+[10:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3666ms or 73 ticks behind
+[10:05:44] [Server thread/INFO]: <ChengXi123> 要怎么修
+[10:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21308ms or 426 ticks behind
+[10:06:40] [Thread-50/INFO]: [TextileBackup]: Compression finished
+[10:06:40] [Thread-50/INFO]: [TextileBackup]: Deleting: 2020-04-16_17-04-00.zip
+[10:06:43] [Thread-50/INFO]: [TextileBackup]: Deleting: 2020-04-16_18-04-04.zip
+[10:06:43] [Thread-50/INFO]: [TextileBackup]: Done!
+[10:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23015ms or 460 ticks behind
+[10:06:53] [Server thread/INFO]: <Aod_lcy> 用一个红石块
+[10:07:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[10:07:14] [Server thread/INFO]: <ChengXi123> 怎么保持加载
+[10:07:30] [Server thread/INFO]: <ChengXi123> 假人挂机？
+[10:08:54] [Server thread/INFO]: Aod_lcy was slain by Spider
+[10:10:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3761ms or 75 ticks behind
+[10:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2227ms or 44 ticks behind
+[10:15:48] [Server thread/INFO]: <Aod_lcy> ky
+[10:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[10:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12611ms or 252 ticks behind
+[10:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9030ms or 180 ticks behind
+[10:17:18] [Server thread/INFO]: MTpromax[/127.0.0.1:53541] logged in with entity id 3084 at (-448.49157767652554, 69.0, 419.7264907991652)
+[10:17:18] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:17:18] [Server thread/INFO]: MTpromax joined the game
+[10:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17253ms or 345 ticks behind
+[10:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3387ms or 67 ticks behind
+[10:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2518ms or 50 ticks behind
+[10:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3172ms or 63 ticks behind
+[10:19:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[10:20:30] [Server thread/INFO]: <ChengXi123> Aod_lcy你在哪
+[10:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5316ms or 106 ticks behind
+[10:22:18] [Server thread/INFO]: <ChengXi123> 我在机器这里等你
+[10:25:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10:25:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2800ms or 56 ticks behind
+[10:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[10:26:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15316ms or 306 ticks behind
+[10:27:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21861ms or 437 ticks behind
+[10:29:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[10:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7230ms or 144 ticks behind
+[10:29:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5134ms or 102 ticks behind
+[10:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4990ms or 99 ticks behind
+[10:30:26] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[10:30:26] [Server thread/INFO]: ChengXi123 left the game
+[10:30:26] [Server thread/INFO]: MTpromax lost connection: Timed out
+[10:30:26] [Server thread/INFO]: MTpromax left the game
+[10:30:27] [Server thread/WARN]: handleDisconnection() called twice
+[10:30:27] [Server thread/WARN]: handleDisconnection() called twice
+[10:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2259ms or 45 ticks behind
+[10:30:37] [Server thread/INFO]: ChengXi123[/127.0.0.1:54034] logged in with entity id 6382 at (315.037162797533, 53.0, 117.32352424425851)
+[10:30:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:30:37] [Server thread/INFO]: ChengXi123 joined the game
+[10:30:37] [Server thread/INFO]: MTpromax[/127.0.0.1:54038] logged in with entity id 6393 at (-413.59848645885234, 69.875, 410.41795224389085)
+[10:30:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:30:37] [Server thread/INFO]: MTpromax joined the game
+[10:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12774ms or 255 ticks behind
+[10:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6378ms or 127 ticks behind
+[10:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6701ms or 134 ticks behind
+[10:32:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11094ms or 221 ticks behind
+[10:32:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7309ms or 146 ticks behind
+[10:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6693ms or 133 ticks behind
+[10:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7279ms or 145 ticks behind
+[10:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18303ms or 366 ticks behind
+[10:34:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6033ms or 120 ticks behind
+[10:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[10:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14013ms or 280 ticks behind
+[10:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6504ms or 130 ticks behind
+[10:38:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8336ms or 166 ticks behind
+[10:38:49] [Server thread/INFO]: Alex[local] logged in with entity id 8892 at (-44.10271993337751, 65.0, 256.08361957434124)
+[10:38:49] [Server thread/INFO]: Alex joined the game
+[10:38:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cactus'/8867, l='skimit', x=-47.06, y=67.00, z=253.99]
+[10:38:56] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[10:38:56] [Server thread/INFO]: MTpromax left the game
+[10:38:57] [Server thread/INFO]: <Aod_lcy> 66
+[10:38:59] [Server thread/INFO]: MTpromax[/127.0.0.1:54337] logged in with entity id 8957 at (-435.03524506666605, 71.0, 492.0693053217291)
+[10:38:59] [Server thread/INFO]: MTpromax joined the game
+[10:39:02] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9812ms or 196 ticks behind
+[10:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7502ms or 150 ticks behind
+[10:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8978ms or 179 ticks behind
+[10:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[10:40:13] [Server thread/INFO]: <Aod_lcy> 4 ji
+[10:40:18] [Server thread/INFO]: <Aod_lcy> NB
+[10:40:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
+[10:40:31] [Server thread/INFO]: <ChengXi123> 我今天领了16级
+[10:40:33] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[10:40:33] [Server thread/INFO]: MTpromax left the game
+[10:40:36] [Server thread/INFO]: <Aod_lcy> 666
+[10:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10:46:40] [Server thread/INFO]: Steve[local] logged in with entity id 12163 at (-44.72923029303771, 65.0, 274.64491831368554)
+[10:46:40] [Server thread/INFO]: Steve joined the game
+[10:46:53] [Server thread/INFO]: Alex was slain by ChengXi123
+[10:46:53] [Server thread/INFO]: Alex lost connection: Killed
+[10:46:53] [Server thread/INFO]: Alex left the game
+[10:47:13] [Server thread/INFO]: Alex[local] logged in with entity id 12390 at (-42.505931954120065, 64.0, 260.4747480592372)
+[10:47:13] [Server thread/INFO]: Alex joined the game
+[10:47:21] [Server thread/INFO]: Steve was slain by ChengXi123
+[10:47:21] [Server thread/INFO]: Steve lost connection: Killed
+[10:47:21] [Server thread/INFO]: Steve left the game
+[10:47:50] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:47:50] [Server thread/INFO]: ChengXi123 left the game
+[10:48:56] [Server thread/INFO]: Aod_lcy fell from a high place
+[10:49:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3136ms or 62 ticks behind
+[10:50:34] [Server thread/INFO]: MTpromax[/127.0.0.1:54760] logged in with entity id 13898 at (-424.0478754365121, 84.0, 422.2581597320385)
+[10:50:34] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:50:34] [Server thread/INFO]: MTpromax joined the game
+[10:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[10:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11442ms or 228 ticks behind
+[10:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
+[10:51:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8804ms or 176 ticks behind
+[10:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3545ms or 70 ticks behind
+[10:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[10:52:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6309ms or 126 ticks behind
+[10:53:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5765ms or 115 ticks behind
+[10:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[10:53:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
+[10:54:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4927ms or 98 ticks behind
+[10:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10431ms or 208 ticks behind
+[10:54:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[10:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[10:55:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[10:55:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[10:56:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[10:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9286ms or 185 ticks behind
+[10:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[10:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[10:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[10:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[10:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[10:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[11:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[11:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[11:00:30] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[11:00:30] [Server thread/INFO]: MTpromax left the game
+[11:00:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9087ms or 181 ticks behind
+[11:00:54] [Server thread/INFO]: MTpromax[/127.0.0.1:55140] logged in with entity id 18719 at (-423.25085535593837, 79.0, 425.85719556429416)
+[11:00:54] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:00:54] [Server thread/INFO]: MTpromax joined the game
+[11:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3465ms or 69 ticks behind
+[11:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[11:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[11:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[11:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8492ms or 169 ticks behind
+[11:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7656ms or 153 ticks behind
+[11:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2967ms or 59 ticks behind
+[11:03:15] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_11-03-15
+[11:03:15] [Server thread/INFO]: [TextileBackup]: Saving server...
+[11:03:16] [Thread-51/INFO]: [TextileBackup]: Starting compression...
+[11:03:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17706ms or 354 ticks behind
+[11:03:40] [Server thread/INFO]: MTpromax lost connection: Timed out
+[11:03:40] [Server thread/INFO]: MTpromax left the game
+[11:03:45] [Thread-51/ERROR]: [TextileBackup]: .\skimit\playerdata\3024e934-713a-355e-8354-ee9ef0e380ed.dat.tmp (另一个程序正在使用此文件，进程无法访问。)
+[11:03:45] [Thread-51/INFO]: [TextileBackup]: Compression finished
+[11:03:45] [Thread-51/INFO]: [TextileBackup]: Deleting: 2020-04-16_18-06-40.zip
+[11:03:45] [Thread-51/INFO]: [TextileBackup]: Done!
+[11:03:45] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[11:03:45] [Server thread/INFO]: Aod_lcy left the game
+[11:03:46] [Server thread/WARN]: handleDisconnection() called twice
+[11:03:55] [Server thread/INFO]: MTpromax[/127.0.0.1:55252] logged in with entity id 19926 at (-425.5559263277744, 84.0, 415.71072138410284)
+[11:03:55] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:03:55] [Server thread/INFO]: MTpromax joined the game
+[11:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11:04:28] [Server thread/INFO]: Aod_lcy[/127.0.0.1:55276] logged in with entity id 20396 at (-315.30000001192093, 69.0, 409.5754198659361)
+[11:04:28] [Server thread/INFO]: Aod_lcy joined the game
+[11:04:29] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[11:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[11:05:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[11:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[11:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[11:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[11:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[11:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
+[11:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5156ms or 103 ticks behind
+[11:07:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10306ms or 206 ticks behind
+[11:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9724ms or 194 ticks behind
+[11:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7499ms or 149 ticks behind
+[11:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11722ms or 234 ticks behind
+[11:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[11:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[11:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3979ms or 79 ticks behind
+[11:10:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[11:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
+[11:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3600ms or 72 ticks behind
+[11:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[11:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
+[11:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3254ms or 65 ticks behind
+[11:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
+[11:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[11:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[11:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
+[11:13:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[11:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6342ms or 126 ticks behind
+[11:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11:14:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[11:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[11:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8480ms or 169 ticks behind
+[11:15:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[11:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
+[11:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[11:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[11:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[11:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[11:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[11:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[11:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9759ms or 195 ticks behind
+[11:18:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6960ms or 139 ticks behind
+[11:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[11:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[11:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19858ms or 397 ticks behind
+[11:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12566ms or 251 ticks behind
+[11:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11332ms or 226 ticks behind
+[11:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4653ms or 93 ticks behind
+[11:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20934ms or 418 ticks behind
+[11:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8994ms or 179 ticks behind
+[11:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5335ms or 106 ticks behind
+[11:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4257ms or 85 ticks behind
+[11:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
+[11:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[11:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[11:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4370ms or 87 ticks behind
+[11:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[11:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3697ms or 73 ticks behind
+[11:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5259ms or 105 ticks behind
+[11:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[11:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[11:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[11:26:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2348ms or 46 ticks behind
+[11:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6221ms or 124 ticks behind
+[11:27:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10307ms or 206 ticks behind
+[11:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6098ms or 121 ticks behind
+[11:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6161ms or 123 ticks behind
+[11:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
+[11:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14728ms or 294 ticks behind
+[11:29:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[11:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
+[11:29:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[11:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6146ms or 122 ticks behind
+[11:30:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15672ms or 313 ticks behind
+[11:31:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11288ms or 225 ticks behind
+[11:31:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13212ms or 264 ticks behind
+[11:32:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8898ms or 177 ticks behind
+[11:32:37] [Server thread/INFO]: ChengXi123[/127.0.0.1:56284] logged in with entity id 32231 at (-44.57851858954505, 65.0, 259.19060777667016)
+[11:32:37] [Server thread/INFO]: ChengXi123 joined the game
+[11:32:38] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12184ms or 243 ticks behind
+[11:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10923ms or 218 ticks behind
+[11:33:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11764ms or 235 ticks behind
+[11:34:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13674ms or 273 ticks behind
+[11:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9395ms or 187 ticks behind
+[11:34:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10043ms or 200 ticks behind
+[11:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9753ms or 195 ticks behind
+[11:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5746ms or 114 ticks behind
+[11:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3759ms or 75 ticks behind
+[11:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17474ms or 349 ticks behind
+[11:36:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6088ms or 121 ticks behind
+[11:37:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4137ms or 82 ticks behind
+[11:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4233ms or 84 ticks behind
+[11:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4614ms or 92 ticks behind
+[11:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3071ms or 61 ticks behind
+[11:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[11:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9539ms or 190 ticks behind
+[11:39:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12826ms or 256 ticks behind
+[11:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12286ms or 245 ticks behind
+[11:40:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6101ms or 122 ticks behind
+[11:40:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4747ms or 94 ticks behind
+[11:40:34] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[11:40:34] [Server thread/INFO]: Aod_lcy left the game
+[11:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
+[11:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[11:41:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[11:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3635ms or 72 ticks behind
+[11:42:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
+[11:42:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[11:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[11:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6166ms or 123 ticks behind
+[11:43:31] [Server thread/INFO]: <ChengXi123> 楼梯呢
+[11:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[11:43:47] [Server thread/INFO]: <MTpromax> 没看见有水吗
+[11:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11:44:18] [Server thread/INFO]: <ChengXi123> 那建好了之后别人怎么上来
+[11:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[11:44:44] [Server thread/INFO]: <MTpromax> 内饰还没间
+[11:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2663ms or 53 ticks behind
+[11:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[11:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4792ms or 95 ticks behind
+[11:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4964ms or 99 ticks behind
+[11:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[11:47:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
+[11:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4196ms or 83 ticks behind
+[11:48:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2264ms or 45 ticks behind
+[11:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10294ms or 205 ticks behind
+[11:49:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[11:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11:50:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11:50:45] [Server thread/INFO]: <ChengXi123> 我试试伤害
+[11:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[11:51:08] [Server thread/INFO]: <ChengXi123> 镐击
+[11:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[11:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[11:52:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[11:52:34] [Server thread/INFO]: <MTpromax> 这莫第
+[11:52:39] [Server thread/INFO]: <ChengXi123> ?
+[11:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11:53:39] [Server thread/INFO]: <ChengXi123> 不好意思，手贱打了一下
+[11:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[11:53:44] [Server thread/INFO]: <MTpromax> 没事
+[11:54:06] [Server thread/INFO]: <MTpromax> 下午出不出去
+[11:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[11:54:17] [Server thread/INFO]: <ChengXi123> 可以
+[11:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[11:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11:55:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8400ms or 168 ticks behind
+[11:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8397ms or 167 ticks behind
+[11:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9359ms or 187 ticks behind
+[11:56:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4369ms or 87 ticks behind
+[11:56:33] [Server thread/INFO]: Steve[local] logged in with entity id 41959 at (-413.3221432780286, 69.0, 401.42409812639823)
+[11:56:33] [Server thread/INFO]: Steve joined the game
+[11:57:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[11:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[11:58:15] [Server thread/INFO]: Steve was slain by ChengXi123
+[11:58:15] [Server thread/INFO]: Steve lost connection: Killed
+[11:58:15] [Server thread/INFO]: Steve left the game
+[11:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
+[11:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[11:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[11:59:14] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:59:14] [Server thread/INFO]: ChengXi123 left the game
+[12:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[12:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:03:15] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_12-03-15
+[12:03:15] [Server thread/INFO]: [TextileBackup]: Saving server...
+[12:03:16] [Thread-52/INFO]: [TextileBackup]: Starting compression...
+[12:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27402ms or 548 ticks behind
+[12:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38860ms or 777 ticks behind
+[12:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39351ms or 787 ticks behind
+[12:05:47] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:57446] logged in with entity id 45490 at (-527.3527725540647, 68.0, 440.23750001192093)
+[12:05:47] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:05:47] [Server thread/INFO]: xiaolouQAQ joined the game
+[12:06:07] [Thread-52/INFO]: [TextileBackup]: Compression finished
+[12:06:07] [Thread-52/INFO]: [TextileBackup]: Deleting: 2020-04-16_19-46-50.zip
+[12:06:07] [Thread-52/INFO]: [TextileBackup]: Done!
+[12:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22608ms or 452 ticks behind
+[12:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[12:06:29] [Server thread/INFO]: <xiaolouQAQ> 你们要找雪山吗
+[12:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[12:07:01] [Server thread/INFO]: <MTpromax> 大概下个月我要用
+[12:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
+[12:07:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
+[12:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13578ms or 271 ticks behind
+[12:08:06] [Server thread/INFO]: <MTpromax> 整座山
+[12:08:06] [Server thread/INFO]: ChengXi123[/127.0.0.1:57536] logged in with entity id 46370 at (-389.3862868203675, 72.0, 361.0186516632028)
+[12:08:06] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:08:07] [Server thread/INFO]: ChengXi123 joined the game
+[12:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10991ms or 219 ticks behind
+[12:08:38] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[12:08:38] [Server thread/INFO]: ChengXi123 left the game
+[12:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6908ms or 138 ticks behind
+[12:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[12:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[12:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[12:10:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
+[12:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[12:11:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[12:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
+[12:12:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:12:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[12:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[12:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[12:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12840ms or 256 ticks behind
+[12:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[12:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[12:14:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3618ms or 72 ticks behind
+[12:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3187ms or 63 ticks behind
+[12:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
+[12:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[12:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[12:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5566ms or 111 ticks behind
+[12:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[12:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[12:17:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2720ms or 54 ticks behind
+[12:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
+[12:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2532ms or 50 ticks behind
+[12:18:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[12:19:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5436ms or 108 ticks behind
+[12:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[12:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[12:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5448ms or 108 ticks behind
+[12:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3188ms or 63 ticks behind
+[12:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3537ms or 70 ticks behind
+[12:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3872ms or 77 ticks behind
+[12:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3425ms or 68 ticks behind
+[12:23:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[12:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2878ms or 57 ticks behind
+[12:24:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[12:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
+[12:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3164ms or 63 ticks behind
+[12:25:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7150ms or 143 ticks behind
+[12:25:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9641ms or 192 ticks behind
+[12:26:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10373ms or 207 ticks behind
+[12:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[12:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
+[12:27:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[12:27:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[12:27:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[12:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[12:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4476ms or 89 ticks behind
+[12:28:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[12:28:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[12:29:03] [Server thread/INFO]: MTpromax was slain by Zombie
+[12:29:53] [Server thread/INFO]: Alex was slain by Phantom
+[12:29:53] [Server thread/INFO]: Alex lost connection: Killed
+[12:29:53] [Server thread/INFO]: Alex left the game
+[12:30:35] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[12:30:35] [Server thread/INFO]: MTpromax left the game
+[12:31:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12:32:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[12:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[12:33:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2664ms or 53 ticks behind
+[12:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4285ms or 85 ticks behind
+[12:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2696ms or 53 ticks behind
+[12:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[12:34:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[12:35:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12:35:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3302ms or 66 ticks behind
+[12:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:36:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3668ms or 73 ticks behind
+[12:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
+[12:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3254ms or 65 ticks behind
+[12:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[12:38:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[12:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[12:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[12:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:43:11] [Server thread/INFO]: Aod_lcy[/127.0.0.1:58779] logged in with entity id 62964 at (-103.30000001192093, 11.0, 320.30000001192093)
+[12:43:11] [Server thread/INFO]: Aod_lcy joined the game
+[12:43:11] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:44:01] [Server thread/INFO]: <Aod_lcy> aaaa
+[12:44:04] [Server thread/INFO]: <xiaolouQAQ> ?
+[12:44:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[12:44:43] [Server thread/INFO]: <Aod_lcy> 救救我
+[12:44:49] [Server thread/INFO]: <xiaolouQAQ> 哪里
+[12:44:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12:44:55] [Server thread/INFO]: <Aod_lcy> 卡基岩了
+[12:45:07] [Server thread/INFO]: <xiaolouQAQ> 怎么救
+[12:45:24] [Server thread/INFO]: <Aod_lcy> 给我个方块
+[12:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:45:33] [Server thread/INFO]: <xiaolouQAQ> 我怎么去
+[12:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5883ms or 117 ticks behind
+[12:45:52] [Server thread/INFO]: <Aod_lcy> 鞘翅
+[12:46:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5309ms or 106 ticks behind
+[12:46:13] [Server thread/INFO]: <Aod_lcy> 等等
+[12:46:17] [Server thread/INFO]: <xiaolouQAQ> ?
+[12:46:36] [Server thread/INFO]: <Aod_lcy> 不用来了，我发现我穿着鞘翅
+[12:46:39] [Server thread/INFO]: <Aod_lcy> awa
+[12:46:44] [Server thread/INFO]: <xiaolouQAQ> A.A
+[12:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[12:47:33] [Server thread/INFO]: <xiaolouQAQ> 你这个lcy是你名字缩写吗
+[12:47:38] [Server thread/INFO]: <Aod_lcy> en
+[12:47:43] [Server thread/INFO]: <xiaolouQAQ> 我天
+[12:47:49] [Server thread/INFO]: <Aod_lcy> ??
+[12:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[12:47:57] [Server thread/INFO]: <xiaolouQAQ> 我缩写也是==
+[12:48:08] [Server thread/INFO]: <Aod_lcy> ？！？！
+[12:48:14] [Server thread/INFO]: <Aod_lcy> 6
+[12:48:21] [Server thread/INFO]: <xiaolouQAQ> 巧
+[12:48:31] [Server thread/INFO]: <Aod_lcy> 是啊
+[12:48:59] [Server thread/INFO]: <Aod_lcy> 我河南的
+[12:49:05] [Server thread/INFO]: <xiaolouQAQ> 安徽
+[12:49:14] [Server thread/INFO]: <Aod_lcy> o
+[12:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[12:50:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
+[12:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3546ms or 70 ticks behind
+[12:50:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4005ms or 80 ticks behind
+[12:50:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[12:51:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3713ms or 74 ticks behind
+[12:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
+[12:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
+[12:52:09] [Server thread/INFO]: <xiaolouQAQ> 1
+[12:52:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[12:52:11] [Server thread/INFO]: <Aod_lcy> e
+[12:52:20] [Server thread/INFO]: <xiaolouQAQ> 怪物出bug了
+[12:52:25] [Server thread/INFO]: <Aod_lcy> ??
+[12:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[12:52:33] [Server thread/INFO]: <xiaolouQAQ> 我打一下他们定是个很
+[12:52:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[12:52:46] [Server thread/INFO]: <xiaolouQAQ> 定身
+[12:53:00] [Server thread/INFO]: <Aod_lcy> ..
+[12:53:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16456ms or 329 ticks behind
+[12:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8959ms or 179 ticks behind
+[12:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4491ms or 89 ticks behind
+[12:54:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3454ms or 69 ticks behind
+[12:54:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3875ms or 77 ticks behind
+[12:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[12:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5237ms or 104 ticks behind
+[12:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5780ms or 115 ticks behind
+[12:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6274ms or 125 ticks behind
+[12:56:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4687ms or 93 ticks behind
+[12:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4325ms or 86 ticks behind
+[12:57:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6150ms or 123 ticks behind
+[12:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4931ms or 98 ticks behind
+[12:57:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6055ms or 121 ticks behind
+[12:58:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4559ms or 91 ticks behind
+[12:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[12:58:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[12:58:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
+[12:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[12:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[13:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18428ms or 368 ticks behind
+[13:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
+[13:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[13:01:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3909ms or 78 ticks behind
+[13:01:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
+[13:02:03] [Server thread/INFO]: <Aod_lcy> 先下了
+[13:02:05] [Server thread/INFO]: <xiaolouQAQ> en
+[13:02:06] [Server thread/INFO]: <xiaolouQAQ> 88
+[13:02:10] [Server thread/INFO]: <Aod_lcy> 88
+[13:02:11] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[13:02:11] [Server thread/INFO]: Aod_lcy left the game
+[13:03:13] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_13-03-13
+[13:03:13] [Server thread/INFO]: [TextileBackup]: Saving server...
+[13:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[13:03:17] [Thread-53/INFO]: [TextileBackup]: Starting compression...
+[13:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12195ms or 243 ticks behind
+[13:03:55] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[13:03:55] [Server thread/INFO]: xiaolouQAQ left the game
+[13:04:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6490ms or 129 ticks behind
+[13:04:43] [Thread-53/INFO]: [TextileBackup]: Compression finished
+[13:04:43] [Thread-53/INFO]: [TextileBackup]: Deleting: 2020-04-16_21-31-05.zip
+[13:04:43] [Thread-53/INFO]: [TextileBackup]: Done!
+[13:44:50] [Server thread/INFO]: ChengXi123[/127.0.0.1:61012] logged in with entity id 69013 at (-313.700000025332, 64.0000002, 397.299999974668)
+[13:44:50] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:44:50] [Server thread/INFO]: ChengXi123 joined the game
+[13:48:44] [Server thread/INFO]: Alex[local] logged in with entity id 70223 at (-45.69999998807907, 65.0, 255.87188214982518)
+[13:48:44] [Server thread/INFO]: Alex joined the game
+[13:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[13:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6218ms or 124 ticks behind
+[13:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5748ms or 114 ticks behind
+[13:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4054ms or 81 ticks behind
+[13:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[13:55:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[13:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13:56:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
+[13:56:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2880ms or 57 ticks behind
+[13:56:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[13:57:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[13:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[13:58:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[13:58:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[13:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4170ms or 83 ticks behind
+[13:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4847ms or 96 ticks behind
+[14:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
+[14:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
+[14:00:37] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[14:00:37] [Server thread/INFO]: ChengXi123 left the game
+[14:00:37] [Server thread/WARN]: handleDisconnection() called twice
+[14:00:44] [Server thread/INFO]: ChengXi123[/127.0.0.1:61579] logged in with entity id 76443 at (-381.03248060670074, 69.0, 513.1442097929735)
+[14:00:44] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:00:44] [Server thread/INFO]: ChengXi123 joined the game
+[14:00:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[14:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10214ms or 204 ticks behind
+[14:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3858ms or 77 ticks behind
+[14:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3218ms or 64 ticks behind
+[14:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8050ms or 161 ticks behind
+[14:03:13] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_14-03-13
+[14:03:13] [Server thread/INFO]: [TextileBackup]: Saving server...
+[14:03:15] [Thread-54/INFO]: [TextileBackup]: Starting compression...
+[14:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[14:04:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34371ms or 687 ticks behind
+[14:05:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40311ms or 806 ticks behind
+[14:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38786ms or 775 ticks behind
+[14:06:01] [Thread-54/INFO]: [TextileBackup]: Compression finished
+[14:06:01] [Thread-54/INFO]: [TextileBackup]: Deleting: 2020-04-16_22-31-06.zip
+[14:06:07] [Thread-54/INFO]: [TextileBackup]: Done!
+[14:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9047ms or 180 ticks behind
+[14:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
+[14:06:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4667ms or 93 ticks behind
+[14:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4735ms or 94 ticks behind
+[14:07:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6054ms or 121 ticks behind
+[14:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5849ms or 116 ticks behind
+[14:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6371ms or 127 ticks behind
+[14:08:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[14:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4203ms or 84 ticks behind
+[14:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[14:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
+[14:15:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[14:16:01] [Server thread/INFO]: MTpromax[/127.0.0.1:62133] logged in with entity id 83097 at (-427.3401011714957, 70.5, 430.30000001192093)
+[14:16:01] [Server thread/INFO]: MTpromax joined the game
+[14:16:01] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[14:16:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9430ms or 188 ticks behind
+[14:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8138ms or 162 ticks behind
+[14:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[14:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[14:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[14:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5600ms or 112 ticks behind
+[14:18:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8029ms or 160 ticks behind
+[14:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17342ms or 346 ticks behind
+[14:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13167ms or 263 ticks behind
+[14:20:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9905ms or 198 ticks behind
+[14:20:15] [Server thread/INFO]: <ChengXi123> 是不是你今天种树了
+[14:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8599ms or 171 ticks behind
+[14:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10243ms or 204 ticks behind
+[14:21:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10550ms or 211 ticks behind
+[14:21:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11658ms or 233 ticks behind
+[14:21:57] [Server thread/INFO]: <ChengXi123> 睡觉
+[14:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24673ms or 493 ticks behind
+[14:22:51] [Server thread/INFO]: Yu_Chei[/127.0.0.1:62379] logged in with entity id 85867 at (-464.8952386300783, 78.0625, 458.1486120525795)
+[14:22:51] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:22:51] [Server thread/INFO]: Yu_Chei joined the game
+[14:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12150ms or 243 ticks behind
+[14:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13821ms or 276 ticks behind
+[14:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12388ms or 247 ticks behind
+[14:24:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16433ms or 328 ticks behind
+[14:25:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20679ms or 413 ticks behind
+[14:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6200ms or 124 ticks behind
+[14:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15175ms or 303 ticks behind
+[14:26:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15303ms or 306 ticks behind
+[14:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13288ms or 265 ticks behind
+[14:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6429ms or 128 ticks behind
+[14:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7971ms or 159 ticks behind
+[14:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8570ms or 171 ticks behind
+[14:28:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9220ms or 184 ticks behind
+[14:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8235ms or 164 ticks behind
+[14:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8012ms or 160 ticks behind
+[14:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14381ms or 287 ticks behind
+[14:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12892ms or 257 ticks behind
+[14:30:43] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[14:30:43] [Server thread/INFO]: MTpromax left the game
+[14:30:46] [Server thread/INFO]: MTpromax[/127.0.0.1:62665] logged in with entity id 89055 at (-93.54912288548591, 77.0, 538.9375621106474)
+[14:30:46] [Server thread/INFO]: MTpromax joined the game
+[14:30:47] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:30:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27907ms or 558 ticks behind
+[14:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21078ms or 421 ticks behind
+[14:32:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28632ms or 572 ticks behind
+[14:32:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12231ms or 244 ticks behind
+[14:32:54] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[14:32:54] [Server thread/INFO]: MTpromax left the game
+[14:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4554ms or 91 ticks behind
+[14:33:02] [Server thread/INFO]: MTpromax[/127.0.0.1:62749] logged in with entity id 89793 at (-92.50649044759575, 69.0, 538.886776669051)
+[14:33:02] [Server thread/INFO]: MTpromax joined the game
+[14:33:03] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12456ms or 249 ticks behind
+[14:33:46] [Server thread/INFO]: <ChengXi123> 刚刚树场炸了
+[14:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9283ms or 185 ticks behind
+[14:33:56] [Server thread/INFO]: <ChengXi123> 维修了一下
+[14:34:00] [Server thread/INFO]: <MTpromax> 啥
+[14:34:05] [Server thread/INFO]: <Yu_Chei> ?
+[14:34:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9042ms or 180 ticks behind
+[14:34:22] [Server thread/INFO]: <ChengXi123> 今天谁种的橡树
+[14:34:30] [Server thread/INFO]: <MTpromax> 你不是说炸了就修不好了吗
+[14:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8936ms or 178 ticks behind
+[14:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8220ms or 164 ticks behind
+[14:35:18] [Server thread/INFO]: <ChengXi123> 刚刚里面塞满了橡木
+[14:35:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7447ms or 148 ticks behind
+[14:35:27] [Server thread/INFO]: <ChengXi123> 谁种的橡树
+[14:35:37] [Server thread/INFO]: <ChengXi123> 还没开橡树模式
+[14:35:43] [Server thread/INFO]: <ChengXi123> 气死我了
+[14:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8148ms or 162 ticks behind
+[14:36:02] [Server thread/INFO]: <MTpromax> 我在后山砍树
+[14:36:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6243ms or 124 ticks behind
+[14:36:32] [Server thread/INFO]: <ChengXi123> 没骨粉了
+[14:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9275ms or 185 ticks behind
+[14:36:52] [Server thread/INFO]: <ChengXi123> 不用管他
+[14:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8414ms or 168 ticks behind
+[14:37:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6734ms or 134 ticks behind
+[14:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8262ms or 165 ticks behind
+[14:38:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8473ms or 169 ticks behind
+[14:38:34] [Server thread/INFO]: <ChengXi123> PVP吗?
+[14:38:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17903ms or 358 ticks behind
+[14:38:48] [Server thread/INFO]: <MTpromax> 搞基吗
+[14:39:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8721ms or 174 ticks behind
+[14:39:07] [Server thread/INFO]: <ChengXi123> .
+[14:39:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[14:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[14:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10908ms or 218 ticks behind
+[14:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[14:40:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4449ms or 88 ticks behind
+[14:41:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[14:41:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4288ms or 85 ticks behind
+[14:41:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3719ms or 74 ticks behind
+[14:42:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3294ms or 65 ticks behind
+[14:42:00] [Server thread/INFO]: <ChengXi123> Yu_Chei进来打
+[14:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4822ms or 96 ticks behind
+[14:42:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3891ms or 77 ticks behind
+[14:42:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
+[14:43:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3528ms or 70 ticks behind
+[14:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[14:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8618ms or 172 ticks behind
+[14:44:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
+[14:44:27] [Server thread/INFO]: <ChengXi123> 我裤子和鞋子脱不下来
+[14:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3864ms or 77 ticks behind
+[14:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[14:45:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[14:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[14:45:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3292ms or 65 ticks behind
+[14:46:10] [Server thread/INFO]: <ChengXi123> aaa好卡
+[14:46:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7396ms or 147 ticks behind
+[14:46:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9510ms or 190 ticks behind
+[14:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[14:47:17] [Server thread/INFO]: <ChengXi123> 我先撤了
+[14:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4000ms or 80 ticks behind
+[14:47:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
+[14:48:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4771ms or 95 ticks behind
+[14:48:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3788ms or 75 ticks behind
+[14:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6880ms or 137 ticks behind
+[14:49:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4823ms or 96 ticks behind
+[14:49:13] [Server thread/INFO]: Yu_Chei lost connection: Disconnected
+[14:49:13] [Server thread/INFO]: Yu_Chei left the game
+[14:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3616ms or 72 ticks behind
+[14:50:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[14:50:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[14:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[14:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
+[14:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4027ms or 80 ticks behind
+[14:52:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4642ms or 92 ticks behind
+[14:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14:53:28] [Server thread/INFO]: Incorrect argument for command
+[14:53:28] [Server thread/INFO]: ...st add ID Assassin_LinC<--[HERE]
+[14:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14091ms or 281 ticks behind
+[14:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12828ms or 256 ticks behind
+[14:54:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7940ms or 158 ticks behind
+[14:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9757ms or 195 ticks behind
+[14:55:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12271ms or 245 ticks behind
+[14:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15278ms or 305 ticks behind
+[14:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10538ms or 210 ticks behind
+[14:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14:58:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[14:59:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8639ms or 172 ticks behind
+[14:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[14:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[15:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[15:00:45] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[15:00:45] [Server thread/INFO]: ChengXi123 left the game
+[15:00:45] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[15:00:45] [Server thread/INFO]: MTpromax left the game
+[15:00:50] [Server thread/INFO]: MTpromax[/127.0.0.1:63714] logged in with entity id 101997 at (-446.30669596047267, 89.0, 412.407836697236)
+[15:00:50] [Server thread/INFO]: MTpromax joined the game
+[15:00:50] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[15:01:08] [Server thread/INFO]: ChengXi123[/127.0.0.1:63725] logged in with entity id 102315 at (-50.4717259459116, 5.0, 281.6544317966671)
+[15:01:08] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:01:08] [Server thread/INFO]: ChengXi123 joined the game
+[15:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5817ms or 116 ticks behind
+[15:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3191ms or 63 ticks behind
+[15:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3360ms or 67 ticks behind
+[15:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[15:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[15:03:14] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_15-03-14
+[15:03:14] [Server thread/INFO]: [TextileBackup]: Saving server...
+[15:03:16] [Thread-55/INFO]: [TextileBackup]: Starting compression...
+[15:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22767ms or 455 ticks behind
+[15:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32180ms or 643 ticks behind
+[15:04:54] [Server thread/INFO]: Aod_lcy[/127.0.0.1:63862] logged in with entity id 103678 at (-304.21490573504985, 71.0, 351.66487660257985)
+[15:04:54] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:04:54] [Server thread/INFO]: Aod_lcy joined the game
+[15:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39973ms or 799 ticks behind
+[15:05:34] [Server thread/INFO]: <ChengXi123> aod经验炉有好多经验了
+[15:05:38] [Server thread/INFO]: <Aod_lcy> en
+[15:06:17] [Server thread/INFO]: <ChengXi123> 我弄出了经验修补和锋利4
+[15:06:24] [Server thread/INFO]: <ChengXi123> 的村民
+[15:06:30] [Server thread/INFO]: <Aod_lcy> TPS6?
+[15:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49279ms or 985 ticks behind
+[15:06:49] [Server thread/INFO]: <ChengXi123> MTpromax你在干啥
+[15:06:51] [Thread-55/INFO]: [TextileBackup]: Compression finished
+[15:06:51] [Thread-55/INFO]: [TextileBackup]: Deleting: 2020-04-17_05-30-01.zip
+[15:06:52] [Thread-55/INFO]: [TextileBackup]: Done!
+[15:07:10] [Server thread/INFO]: <MTpromax> 尖屋顶
+[15:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27571ms or 551 ticks behind
+[15:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13614ms or 272 ticks behind
+[15:07:55] [Server thread/INFO]: <Aod_lcy> PVP!!
+[15:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10135ms or 202 ticks behind
+[15:08:27] [Server thread/INFO]: <Aod_lcy> GO GO
+[15:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6623ms or 132 ticks behind
+[15:08:43] [Server thread/INFO]: <Aod_lcy> ???
+[15:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6663ms or 133 ticks behind
+[15:09:05] [Server thread/INFO]: <Aod_lcy> ka ka
+[15:09:09] [Server thread/INFO]: Aod_lcy was shot by ChengXi123
+[15:09:15] [Server thread/INFO]: <ChengXi123> .
+[15:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7968ms or 159 ticks behind
+[15:09:24] [Server thread/INFO]: <Aod_lcy> wd
+[15:09:25] [Server thread/INFO]: <MTpromax> 这莫快开始
+[15:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9605ms or 192 ticks behind
+[15:09:58] [Server thread/INFO]: <MTpromax> 2v2来不来
+[15:10:02] [Server thread/INFO]: <Aod_lcy> lai
+[15:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11130ms or 222 ticks behind
+[15:10:09] [Server thread/INFO]: <ChengXi123> 一共3人
+[15:10:26] [Server thread/INFO]: <ChengXi123> MTpromax你自己一队
+[15:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7834ms or 156 ticks behind
+[15:10:32] [Server thread/INFO]: <Aod_lcy> awa
+[15:10:39] [Server thread/INFO]: <MTpromax> o
+[15:10:51] [Server thread/INFO]: <ChengXi123> aod你经验还在
+[15:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9413ms or 188 ticks behind
+[15:11:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4629ms or 92 ticks behind
+[15:11:29] [Server thread/INFO]: <ChengXi123> 用自己的装备吗？
+[15:11:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5201ms or 104 ticks behind
+[15:11:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5932ms or 118 ticks behind
+[15:12:05] [Server thread/INFO]: Aod_lcy burned to death
+[15:12:18] [Server thread/INFO]: <ChengXi123> 自杀？
+[15:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11512ms or 230 ticks behind
+[15:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10461ms or 209 ticks behind
+[15:13:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3726ms or 74 ticks behind
+[15:13:13] [Server thread/INFO]: <ChengXi123> 把床放下
+[15:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4392ms or 87 ticks behind
+[15:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5862ms or 117 ticks behind
+[15:13:52] [Server thread/INFO]: <ChengXi123> aod我来帮你吧
+[15:14:03] [Server thread/INFO]: Aod_lcy was slain by MTpromax
+[15:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[15:14:09] [Server thread/INFO]: <Aod_lcy> qwq
+[15:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9759ms or 195 ticks behind
+[15:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16300ms or 326 ticks behind
+[15:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
+[15:15:36] [Server thread/INFO]: MTpromax tried to swim in lava
+[15:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6535ms or 130 ticks behind
+[15:15:43] [Server thread/INFO]: <Aod_lcy> ...
+[15:15:50] [Server thread/INFO]: <MTpromax> ...
+[15:15:51] [Server thread/INFO]: <ChengXi123> 挂机？
+[15:16:08] [Server thread/INFO]: Aod_lcy burned to death
+[15:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14386ms or 287 ticks behind
+[15:16:14] [Server thread/INFO]: <Aod_lcy> aaaaaaa
+[15:16:16] [Server thread/INFO]: <ChengXi123> .
+[15:16:42] [Server thread/INFO]: <Aod_lcy> 我去吧经验熔炉关掉
+[15:16:46] [Server thread/INFO]: <Aod_lcy> ka
+[15:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20505ms or 410 ticks behind
+[15:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9718ms or 194 ticks behind
+[15:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:18:04] [Server thread/INFO]: Alex was slain by Aod_lcy
+[15:18:04] [Server thread/INFO]: Alex lost connection: Killed
+[15:18:04] [Server thread/INFO]: Alex left the game
+[15:18:06] [Server thread/INFO]: <ChengXi123> 什么时候造女巫塔啊
+[15:18:26] [Server thread/INFO]: <Aod_lcy> 现在？
+[15:18:43] [Server thread/INFO]: <ChengXi123> 材料够吗
+[15:19:11] [Server thread/INFO]: <Aod_lcy> bugo
+[15:19:31] [Server thread/INFO]: <ChengXi123> 还差什么
+[15:19:51] [Server thread/INFO]: <Aod_lcy> 我把自己搞死在岩浆里了
+[15:19:54] [Server thread/INFO]: <Aod_lcy> qwq
+[15:20:07] [Server thread/INFO]: <Aod_lcy> PVP!
+[15:20:24] [Server thread/INFO]: <Aod_lcy> 裸装铁剑
+[15:20:36] [Server thread/INFO]: <ChengXi123> 还好我没穿最贵的套装
+[15:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[15:21:08] [Server thread/INFO]: <ChengXi123> 我裤子和鞋子脱不下来
+[15:21:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16438ms or 328 ticks behind
+[15:21:24] [Server thread/INFO]: Aod_lcy hit the ground too hard whilst trying to escape MTpromax
+[15:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8288ms or 165 ticks behind
+[15:21:55] [Server thread/INFO]: <ChengXi123> aod你可以试试刷新死亡榜
+[15:21:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5530ms or 110 ticks behind
+[15:22:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4996ms or 99 ticks behind
+[15:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[15:22:47] [Server thread/INFO]: Aod_lcy was slain by MTpromax
+[15:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4291ms or 85 ticks behind
+[15:22:56] [Server thread/INFO]: <Aod_lcy> a
+[15:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2995ms or 59 ticks behind
+[15:23:25] [Server thread/INFO]: <Aod_lcy> dengdegn
+[15:23:34] [Server thread/INFO]: <Aod_lcy> deng
+[15:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6640ms or 132 ticks behind
+[15:23:37] [Server thread/INFO]: <Aod_lcy> deng
+[15:23:56] [Server thread/INFO]: <Aod_lcy> 装备脱了
+[15:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6176ms or 123 ticks behind
+[15:24:16] [Server thread/INFO]: <MTpromax> 我放东西你就过来打我了。。。
+[15:24:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5517ms or 110 ticks behind
+[15:24:23] [Server thread/INFO]: <Aod_lcy> awa
+[15:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[15:24:53] [Server thread/INFO]: ChengXi123 tried to swim in lava
+[15:24:57] [Server thread/INFO]: <Aod_lcy> ...
+[15:25:03] [Server thread/INFO]: <MTpromax> 来吧
+[15:25:17] [Server thread/INFO]: <MTpromax> 三个人1v1
+[15:25:19] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:25:35] [Server thread/INFO]: Aod_lcy was slain by ChengXi123
+[15:25:44] [Server thread/INFO]: ChengXi123 was slain by MTpromax
+[15:26:00] [Server thread/INFO]: <ChengXi123> 图腾放下
+[15:26:02] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[15:26:29] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8363ms or 167 ticks behind
+[15:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4864ms or 97 ticks behind
+[15:27:12] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:27:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-387, y=70, z=420}
+[15:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4365ms or 87 ticks behind
+[15:27:32] [Server thread/INFO]: <Aod_lcy> ka le
+[15:27:32] [Server thread/INFO]: Aod_lcy was slain by MTpromax
+[15:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
+[15:28:09] [Server thread/INFO]: <Aod_lcy> 每次上待5个金苹果
+[15:28:28] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:28:33] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15:28:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7242ms or 144 ticks behind
+[15:29:17] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6713ms or 134 ticks behind
+[15:29:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4807ms or 96 ticks behind
+[15:29:47] [Server thread/INFO]: Aod_lcy was slain by ChengXi123
+[15:30:14] [Server thread/INFO]: MTpromax tried to swim in lava to escape Aod_lcy
+[15:30:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Sword'/110152, l='skimit', x=-380.64, y=71.00, z=425.01]
+[15:30:25] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[15:30:25] [Server thread/INFO]: ChengXi123 left the game
+[15:30:29] [Server thread/INFO]: <Aod_lcy> ????
+[15:30:48] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:31:51] [Server thread/INFO]: <MTpromax> come on
+[15:31:56] [Server thread/INFO]: <Aod_lcy> ??
+[15:32:06] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[15:32:54] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:33:14] [Server thread/INFO]: Aod_lcy was slain by MTpromax
+[15:33:25] [Server thread/INFO]: ChengXi123[/127.0.0.1:64864] logged in with entity id 110605 at (-391.9728190097574, 71.78608123157454, 430.69999998807907)
+[15:33:25] [Server thread/INFO]: ChengXi123 joined the game
+[15:33:26] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:33:37] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:33:47] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:33:49] [Server thread/INFO]: <ChengXi123> aod你什么时候开学
+[15:33:55] [Server thread/INFO]: <Aod_lcy> 27 28
+[15:33:57] [Server thread/INFO]: <Aod_lcy> ?
+[15:34:14] [Server thread/INFO]: Aod_lcy was slain by MTpromax
+[15:34:24] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:34:35] [Server thread/INFO]: <ChengXi123> 我们5月11
+[15:34:38] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:35:18] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:35:26] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:35:57] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:36:19] [Server thread/INFO]: <ChengXi123> 要不场地内捡到的东西可以穿
+[15:36:23] [Server thread/INFO]: <Aod_lcy> hao
+[15:36:25] [Server thread/INFO]: <MTpromax> 等一下我网一卡一卡的
+[15:36:41] [Server thread/INFO]: ChengXi123 tried to swim in lava
+[15:36:56] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:36:58] [Server thread/INFO]: <ChengXi123> 铁剑快没了
+[15:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[15:38:08] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:38:14] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:38:33] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:38:55] [Server thread/INFO]: ChengXi123 was slain by Aod_lcy
+[15:38:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-397, y=71, z=401}
+[15:39:00] [Server thread/INFO]: <Aod_lcy> waw
+[15:39:01] [Server thread/INFO]: <Aod_lcy> awa
+[15:39:16] [Server thread/INFO]: MTpromax was slain by Aod_lcy
+[15:39:21] [Server thread/INFO]: <Aod_lcy> dengdeng
+[15:39:29] [Server thread/INFO]: <Aod_lcy> 用木剑
+[15:39:34] [Server thread/INFO]: <ChengXi123> 竞技场霸主Aod_lcy
+[15:39:36] [Server thread/INFO]: <Aod_lcy> 我去造
+[15:39:51] [Server thread/INFO]: <ChengXi123> 我下了
+[15:39:53] [Server thread/INFO]: <Aod_lcy> ??
+[15:39:53] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[15:39:53] [Server thread/INFO]: ChengXi123 left the game
+[15:40:01] [Server thread/INFO]: <Aod_lcy> wtf
+[15:40:13] [Server thread/INFO]: <Aod_lcy> 要继续吗
+[15:40:27] [Server thread/INFO]: <MTpromax> 我去建房子了
+[15:40:31] [Server thread/INFO]: <Aod_lcy> 88
+[15:40:41] [Server thread/INFO]: <MTpromax> 88
+[15:41:56] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:65181] logged in with entity id 111727 at (-544.1916075286799, 67.0, 434.0234242787221)
+[15:41:56] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:41:56] [Server thread/INFO]: xiaolouQAQ joined the game
+[15:42:07] [Server thread/INFO]: <Aod_lcy> PVP:}
+[15:42:12] [Server thread/INFO]: <xiaolouQAQ> ??
+[15:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[15:42:16] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[15:42:16] [Server thread/INFO]: MTpromax left the game
+[15:42:18] [Server thread/INFO]: MTpromax[/127.0.0.1:65200] logged in with entity id 111812 at (-384.37066330446095, 72.72709076243811, 444.34930005286895)
+[15:42:18] [Server thread/INFO]: MTpromax joined the game
+[15:42:18] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:42:30] [Server thread/INFO]: <Aod_lcy> 来PVP
+[15:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[15:42:37] [Server thread/INFO]: <xiaolouQAQ> 钓会鱼
+[15:42:41] [Server thread/INFO]: <Aod_lcy> en
+[15:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2352ms or 47 ticks behind
+[15:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10764ms or 215 ticks behind
+[15:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[15:43:35] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[15:43:35] [Server thread/INFO]: MTpromax left the game
+[15:43:37] [Server thread/INFO]: MTpromax[/127.0.0.1:65256] logged in with entity id 112095 at (-443.8137781717543, 70.5, 435.75019188891457)
+[15:43:37] [Server thread/INFO]: MTpromax joined the game
+[15:43:38] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:44:11] [Server thread/INFO]: <xiaolouQAQ> 死了我三十级经验好亏啊
+[15:44:17] [Server thread/INFO]: <Aod_lcy> aw
+[15:44:21] [Server thread/INFO]: <Aod_lcy> aw
+[15:44:24] [Server thread/INFO]: <Aod_lcy> a
+[15:44:34] [Server thread/INFO]: <MTpromax> 我家房顶有个苦力怕，咋办
+[15:44:41] [Server thread/INFO]: <xiaolouQAQ> 射他
+[15:44:41] [Server thread/INFO]: <Aod_lcy> d
+[15:44:43] [Server thread/INFO]: <Aod_lcy> da
+[15:44:48] [Server thread/INFO]: <xiaolouQAQ> 等他刷掉也行
+[15:45:08] [Server thread/INFO]: <MTpromax> 那我还是等他刷掉吧
+[15:45:36] [Server thread/INFO]: <Aod_lcy> 远离128格自动刷掉
+[15:45:49] [Server thread/INFO]: Aod_lcy hit the ground too hard
+[15:45:50] [Server thread/INFO]: <xiaolouQAQ> 耐久三锋利三，横扫之刃三附魔书谁要
+[15:45:53] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:201) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:904) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:479) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:848) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:743) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:138) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:725) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:719) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:703) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zfh000$modifiedRunLoop(MinecraftServer.java:3906) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:634) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_241]
+[15:46:21] [Server thread/INFO]: Aod_lcy lost connection: Timed out
+[15:46:21] [Server thread/INFO]: Aod_lcy left the game
+[15:46:22] [Server thread/WARN]: handleDisconnection() called twice
+[15:47:15] [Server thread/INFO]: <xiaolouQAQ> 掉了个截肢杀手4==没用
+[15:47:25] [Server thread/INFO]: MTpromax was slain by Zombie
+[15:47:44] [Server thread/INFO]: Cora_cold[/127.0.0.1:65406] logged in with entity id 112901 at (245.93688970685477, 69.5, 194.2420198316222)
+[15:47:44] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:47:44] [Server thread/INFO]: Cora_cold joined the game
+[15:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15:47:47] [Server thread/INFO]: <xiaolouQAQ> wow
+[15:47:54] [Server thread/INFO]: <Cora_cold> wow
+[15:48:00] [Server thread/INFO]: <xiaolouQAQ> 宝贝儿来了
+[15:48:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2964ms or 59 ticks behind
+[15:48:06] [Server thread/INFO]: <Cora_cold> 来了
+[15:48:06] [Server thread/INFO]: <MTpromax> 我去
+[15:48:22] [Server thread/INFO]: <xiaolouQAQ> 不是情侣
+[15:48:30] [Server thread/INFO]: <xiaolouQAQ> 都是爷们
+[15:48:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11714ms or 234 ticks behind
+[15:48:52] [Server thread/INFO]: <MTpromax> 那应该叫老婆
+[15:48:58] [Server thread/INFO]: <xiaolouQAQ> 23333
+[15:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14641ms or 292 ticks behind
+[15:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[15:49:33] [Server thread/INFO]: <xiaolouQAQ> 我就遇到一个拿三叉戟的溺尸
+[15:49:36] [Server thread/INFO]: <xiaolouQAQ> 非
+[15:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8983ms or 179 ticks behind
+[15:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4278ms or 85 ticks behind
+[15:50:09] [Server thread/INFO]: <MTpromax> 干哈
+[15:52:15] [Server thread/INFO]: <xiaolouQAQ> 为什么我不是欧皇
+[15:52:30] [Server thread/INFO]: <MTpromax> 可能你没老婆
+[15:52:35] [Server thread/INFO]: <xiaolouQAQ> 别人主播钓鱼，掉了十本附魔书，还都是nb的附魔
+[15:52:53] [Server thread/INFO]: Cora_cold has made the advancement [Fishy Business]
+[15:52:58] [Server thread/INFO]: <Cora_cold> 我又老婆我来试试
+[15:53:08] [Server thread/INFO]: <xiaolouQAQ> 你什么附魔
+[15:53:18] [Server thread/INFO]: <Cora_cold> 那个鱿鱼是不是i上岸了
+[15:53:19] [Server thread/INFO]: <MTpromax> 来得来个儿子
+[15:53:29] [Server thread/INFO]: <Cora_cold> 耐久
+[15:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[15:54:12] [Server thread/INFO]: <xiaolouQAQ> 效率好慢
+[15:54:16] [Server thread/INFO]: <Cora_cold> en
+[15:54:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7668ms or 153 ticks behind
+[15:54:28] [Server thread/INFO]: <Cora_cold> 我的鱼，你在想屁吃
+[15:54:33] [Server thread/INFO]: <xiaolouQAQ> ==
+[15:54:42] [Server thread/INFO]: <Cora_cold> 全是鱼
+[15:54:57] [Server thread/INFO]: <Cora_cold> 刷怪了
+[15:55:02] [Server thread/INFO]: <xiaolouQAQ> 你来看我掉的书
+[15:55:35] [Server thread/INFO]: Villager class_1646['Librarian'/102039, l='skimit', x=-402.30, y=71.00, z=458.68] died, message: 'Librarian was slain by Zombie'
+[15:56:02] [Server thread/INFO]: <xiaolouQAQ> 看他变溺尸
+[15:56:28] [Server thread/INFO]: <Cora_cold> 覆膜的？
+[15:56:33] [Server thread/INFO]: <Cora_cold> 我要上课了
+[15:56:37] [Server thread/INFO]: <xiaolouQAQ> 鱼竿
+[15:56:53] [Server thread/INFO]: <xiaolouQAQ> 88
+[15:57:22] [Server thread/INFO]: <xiaolouQAQ> 真非
+[15:57:57] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[15:57:57] [Server thread/INFO]: Cora_cold left the game
+[15:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[16:00:49] [Server thread/INFO]: Aod_lcy[/127.0.0.1:49502] logged in with entity id 115141 at (-388.7035931038932, 72.0, 445.58899660664383)
+[16:00:49] [Server thread/INFO]: Aod_lcy joined the game
+[16:00:49] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[16:01:17] [Server thread/INFO]: <Aod_lcy> PVP!
+[16:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7139ms or 142 ticks behind
+[16:01:45] [Server thread/INFO]: <MTpromax> 等我建完
+[16:01:49] [Server thread/INFO]: <Aod_lcy> en
+[16:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[16:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6653ms or 133 ticks behind
+[16:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4509ms or 90 ticks behind
+[16:03:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5570ms or 111 ticks behind
+[16:03:15] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_16-03-15
+[16:03:15] [Server thread/INFO]: [TextileBackup]: Saving server...
+[16:03:18] [Thread-56/INFO]: [TextileBackup]: Starting compression...
+[16:04:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35419ms or 708 ticks behind
+[16:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45275ms or 905 ticks behind
+[16:05:22] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[16:05:22] [Server thread/INFO]: xiaolouQAQ left the game
+[16:05:48] [Thread-56/INFO]: [TextileBackup]: Compression finished
+[16:05:48] [Thread-56/INFO]: [TextileBackup]: Deleting: 2020-04-17_07-44-37.zip
+[16:05:48] [Thread-56/INFO]: [TextileBackup]: Done!
+[16:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35303ms or 706 ticks behind
+[16:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[16:06:29] [Server thread/INFO]: MTpromax lost connection: Timed out
+[16:06:29] [Server thread/INFO]: MTpromax left the game
+[16:06:29] [Server thread/WARN]: handleDisconnection() called twice
+[16:06:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[16:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[16:07:16] [Server thread/INFO]: MTpromax[/127.0.0.1:49737] logged in with entity id 115810 at (-432.4702164992292, 81.94234817885261, 430.6538490174351)
+[16:07:16] [Server thread/INFO]: MTpromax joined the game
+[16:07:18] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:07:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:07:32] [Server thread/INFO]: MTpromax lost connection: Timed out
+[16:07:32] [Server thread/INFO]: MTpromax left the game
+[16:07:32] [Server thread/WARN]: handleDisconnection() called twice
+[16:07:43] [Server thread/INFO]: MTpromax[/127.0.0.1:49758] logged in with entity id 115883 at (-434.5640105746736, 70.5, 432.4775611496069)
+[16:07:43] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:07:43] [Server thread/INFO]: MTpromax joined the game
+[16:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:07:58] [Server thread/INFO]: MTpromax lost connection: Timed out
+[16:07:58] [Server thread/INFO]: MTpromax left the game
+[16:07:58] [Server thread/WARN]: handleDisconnection() called twice
+[16:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[16:17:07] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[16:17:07] [Server thread/INFO]: Aod_lcy left the game
+[16:18:43] [Server thread/INFO]: Aod_lcy[/127.0.0.1:50158] logged in with entity id 116670 at (-381.7338956822012, 69.54481405553305, 510.018805019292)
+[16:18:43] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:18:43] [Server thread/INFO]: Aod_lcy joined the game
+[16:21:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[16:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[16:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3219ms or 64 ticks behind
+[16:28:54] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:28:54] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:28:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2758ms or 55 ticks behind
+[16:39:22] [Server thread/INFO]: Aod_lcy lost connection: Timed out
+[16:39:22] [Server thread/INFO]: Aod_lcy left the game
+[16:39:36] [Server thread/INFO]: Aod_lcy[/127.0.0.1:50935] logged in with entity id 122636 at (192.69999998807907, 1.0625, 0.5623004552877424)
+[16:39:36] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:39:36] [Server thread/INFO]: Aod_lcy joined the game
+[16:42:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123781, l='skimit', x=194.94, y=1.06, z=0.48]
+[16:48:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125993, l='skimit', x=194.92, y=1.06, z=-0.17]
+[16:49:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126139, l='skimit', x=195.07, y=1.06, z=0.85]
+[17:03:15] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_17-03-15
+[17:03:15] [Server thread/INFO]: [TextileBackup]: Saving server...
+[17:03:15] [Thread-57/INFO]: [TextileBackup]: Starting compression...
+[17:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[17:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10295ms or 205 ticks behind
+[17:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
+[17:04:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[17:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
+[17:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[17:05:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6956ms or 139 ticks behind
+[17:05:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6164ms or 123 ticks behind
+[17:05:46] [Thread-57/INFO]: [TextileBackup]: Compression finished
+[17:05:46] [Thread-57/INFO]: [TextileBackup]: Deleting: 2020-04-17_08-44-41.zip
+[17:05:50] [Thread-57/INFO]: [TextileBackup]: Done!
+[17:14:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/134431, l='skimit', x=195.00, y=1.06, z=1.24]
+[17:29:03] [Server thread/INFO]: Aod_lcy starved to death
+[17:34:26] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[17:34:26] [Server thread/INFO]: Aod_lcy left the game
+[17:54:52] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:53751] logged in with entity id 135262 at (-553.0619877152652, 63.5, 432.58613566176444)
+[17:54:52] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:54:52] [Server thread/INFO]: xiaolouQAQ joined the game
+[17:57:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[18:03:15] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_18-03-15
+[18:03:15] [Server thread/INFO]: [TextileBackup]: Saving server...
+[18:03:16] [Thread-58/INFO]: [TextileBackup]: Starting compression...
+[18:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[18:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[18:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[18:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10087ms or 201 ticks behind
+[18:05:25] [Thread-58/INFO]: [TextileBackup]: Compression finished
+[18:05:25] [Thread-58/INFO]: [TextileBackup]: Deleting: 2020-04-17_09-44-41.zip
+[18:05:26] [Thread-58/INFO]: [TextileBackup]: Done!
+[18:07:29] [Server thread/INFO]: xiaolouQAQ was slain by Vindicator
+[18:07:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-556, y=68, z=448}
+[18:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[18:08:01] [Server thread/INFO]: xiaolouQAQ was slain by Vindicator
+[18:08:09] [Server thread/INFO]: xiaolouQAQ was shot by Pillager
+[18:08:15] [Server thread/INFO]: xiaolouQAQ was shot by Pillager
+[18:13:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
+[18:22:02] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[18:22:02] [Server thread/INFO]: xiaolouQAQ left the game
+[19:20:37] [Server thread/INFO]: MTpromax[/127.0.0.1:56908] logged in with entity id 138290 at (-434.5640105746736, 70.5, 432.4775611496069)
+[19:20:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:20:37] [Server thread/INFO]: MTpromax joined the game
+[19:20:38] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_19-20-38
+[19:20:38] [Server thread/INFO]: [TextileBackup]: Saving server...
+[19:20:38] [Thread-59/INFO]: [TextileBackup]: Starting compression...
+[19:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[19:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[19:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8994ms or 179 ticks behind
+[19:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8515ms or 170 ticks behind
+[19:22:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4395ms or 87 ticks behind
+[19:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15969ms or 319 ticks behind
+[19:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4104ms or 82 ticks behind
+[19:23:14] [Thread-59/INFO]: [TextileBackup]: Compression finished
+[19:23:14] [Thread-59/INFO]: [TextileBackup]: Deleting: 2020-04-17_09-47-13.zip
+[19:23:14] [Thread-59/INFO]: [TextileBackup]: Done!
+[19:30:59] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[19:30:59] [Server thread/INFO]: MTpromax left the game
+[19:31:26] [Server thread/INFO]: MTpromax[/127.0.0.1:57322] logged in with entity id 139085 at (-432.81007900323783, 74.0, 431.1956682179028)
+[19:31:26] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:31:26] [Server thread/INFO]: MTpromax joined the game
+[19:32:18] [Server thread/INFO]: MTpromax was blown up by Creeper
+[19:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[19:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:36:49] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[19:36:49] [Server thread/INFO]: MTpromax left the game
+[19:37:13] [Server thread/INFO]: camera0[/127.0.0.1:57554] logged in with entity id 140047 at (-43.15623855859474, 67.71385153773517, 238.45230720018395)
+[19:37:13] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:37:13] [Server thread/INFO]: camera0 joined the game
+[19:38:15] [Server thread/INFO]: camera0 lost connection: Disconnected
+[19:38:15] [Server thread/INFO]: camera0 left the game
+[21:09:05] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:60984] logged in with entity id 140051 at (-530.3736036536623, 68.5625, 441.5842356353484)
+[21:09:05] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:09:05] [Server thread/INFO]: xiaolouQAQ joined the game
+[21:09:06] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_21-09-06
+[21:09:06] [Server thread/INFO]: [TextileBackup]: Saving server...
+[21:09:06] [Thread-60/INFO]: [TextileBackup]: Starting compression...
+[21:09:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[21:09:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[21:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
+[21:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19217ms or 384 ticks behind
+[21:11:22] [Thread-60/INFO]: [TextileBackup]: Compression finished
+[21:11:22] [Thread-60/INFO]: [TextileBackup]: Deleting: 2020-04-17_10-03-23.zip
+[21:11:22] [Thread-60/INFO]: [TextileBackup]: Done!
+[21:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15705ms or 314 ticks behind
+[21:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[21:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9402ms or 188 ticks behind
+[21:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
+[21:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[21:28:46] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[21:28:46] [Server thread/INFO]: xiaolouQAQ left the game
+[21:43:03] [Server thread/INFO]: MTpromax[/127.0.0.1:62247] logged in with entity id 143108 at (-368.56037485813476, 69.0, 516.7624999880791)
+[21:43:03] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:43:03] [Server thread/INFO]: MTpromax joined the game
+[21:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[21:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4848ms or 96 ticks behind
+[21:43:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[21:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[21:44:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[21:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[21:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[21:51:56] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:62578] logged in with entity id 144358 at (-42.5, 64.0, 239.5)
+[21:51:56] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:51:56] [Server thread/INFO]: Assassin_LinC joined the game
+[21:53:05] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[21:53:05] [Server thread/INFO]: Assassin_LinC left the game
+[21:53:12] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:62626] logged in with entity id 144657 at (-42.68430058662958, 66.4323592709158, 242.48750001192093)
+[21:53:12] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:53:12] [Server thread/INFO]: Assassin_LinC joined the game
+[21:53:43] [Server thread/INFO]: <MTpromax> 兄弟你还会不会用鞘翅
+[21:54:18] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[21:54:18] [Server thread/INFO]: Assassin_LinC left the game
+[21:54:33] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:62680] logged in with entity id 144992 at (-39.211330020797256, 79.0, 240.321843574247)
+[21:54:33] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:54:33] [Server thread/INFO]: Assassin_LinC joined the game
+[21:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[21:54:48] [Server thread/INFO]: <MTpromax> 我来救你
+[21:54:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[21:55:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3061ms or 61 ticks behind
+[21:55:32] [Server thread/INFO]: ChengXi123[/127.0.0.1:62722] logged in with entity id 145247 at (-388.36521240825743, 72.0, 388.7821888444461)
+[21:55:32] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:55:32] [Server thread/INFO]: ChengXi123 joined the game
+[21:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15029ms or 300 ticks behind
+[21:55:43] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[21:55:43] [Server thread/INFO]: Assassin_LinC left the game
+[21:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2752ms or 55 ticks behind
+[21:56:11] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:62750] logged in with entity id 145494 at (-43.147700588351704, 65.0, 257.32833634554754)
+[21:56:11] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:56:11] [Server thread/INFO]: Assassin_LinC joined the game
+[21:56:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9220ms or 184 ticks behind
+[21:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12497ms or 249 ticks behind
+[21:57:14] [Server thread/INFO]: <ChengXi123> 后面
+[21:57:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12086ms or 241 ticks behind
+[21:57:33] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[21:57:33] [Server thread/INFO]: Assassin_LinC left the game
+[21:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3348ms or 66 ticks behind
+[21:57:45] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:62813] logged in with entity id 147308 at (-115.00259043063289, 76.0, 239.58815433207846)
+[21:57:45] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:57:45] [Server thread/INFO]: Assassin_LinC joined the game
+[21:57:47] [Server thread/WARN]: Fetching packet for removed entity class_1642['Zombie'/146909, l='skimit', x=-420.50, y=24.35, z=516.40]
+[21:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8201ms or 164 ticks behind
+[21:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3657ms or 73 ticks behind
+[21:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3496ms or 69 ticks behind
+[21:58:48] [Server thread/INFO]: Assassin_LinC has made the advancement [We Need to Go Deeper]
+[21:59:05] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[21:59:05] [Server thread/INFO]: Assassin_LinC left the game
+[21:59:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16819ms or 336 ticks behind
+[21:59:13] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:62868] logged in with entity id 147822 at (-44.67504358018522, 116.0, 61.699999988079064)
+[21:59:13] [Server thread/INFO]: Assassin_LinC joined the game
+[21:59:14] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7655ms or 153 ticks behind
+[21:59:39] [Server thread/INFO]: Assassin_LinC has made the advancement [Cover Me With Diamonds]
+[21:59:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[22:00:01] [Server thread/INFO]: <ChengXi123> 我送你个东西
+[22:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8753ms or 175 ticks behind
+[22:00:27] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[22:00:27] [Server thread/INFO]: Assassin_LinC left the game
+[22:00:32] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:62921] logged in with entity id 147950 at (-368.710664309106, 69.0, 511.1084218814567)
+[22:00:32] [Server thread/INFO]: Assassin_LinC joined the game
+[22:00:33] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:00:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7021ms or 140 ticks behind
+[22:00:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6675ms or 133 ticks behind
+[22:01:08] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[22:01:08] [Server thread/INFO]: MTpromax left the game
+[22:01:08] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[22:01:08] [Server thread/INFO]: ChengXi123 left the game
+[22:01:12] [Server thread/INFO]: MTpromax[/127.0.0.1:62947] logged in with entity id 148022 at (-436.1325332953764, 85.0, 429.88725742734186)
+[22:01:12] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:01:12] [Server thread/INFO]: MTpromax joined the game
+[22:01:16] [Server thread/INFO]: ChengXi123[/127.0.0.1:62950] logged in with entity id 148080 at (-374.5617875593641, 69.0, 510.48962521276087)
+[22:01:16] [Server thread/INFO]: ChengXi123 joined the game
+[22:01:18] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:01:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8454ms or 169 ticks behind
+[22:01:38] [Server thread/INFO]: <ChengXi123> 修刷石机
+[22:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7719ms or 154 ticks behind
+[22:01:51] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[22:01:51] [Server thread/INFO]: Assassin_LinC left the game
+[22:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6000ms or 120 ticks behind
+[22:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
+[22:02:35] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:63010] logged in with entity id 148218 at (-364.7567503839046, 70.5, 490.63570180166715)
+[22:02:35] [Server thread/INFO]: Assassin_LinC joined the game
+[22:02:38] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:02:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6061ms or 121 ticks behind
+[22:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22613ms or 452 ticks behind
+[22:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7005ms or 140 ticks behind
+[22:03:56] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[22:03:56] [Server thread/INFO]: Assassin_LinC left the game
+[22:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[22:05:35] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:63133] logged in with entity id 148474 at (-332.5174438231805, 90.0, 464.87680219710444)
+[22:05:35] [Server thread/INFO]: Assassin_LinC joined the game
+[22:05:36] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[22:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3950ms or 79 ticks behind
+[22:06:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[22:06:22] [Server thread/INFO]: <ChengXi123> hi
+[22:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5748ms or 114 ticks behind
+[22:06:44] [Server thread/INFO]: <ChengXi123> 看看树场？
+[22:06:50] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[22:06:50] [Server thread/INFO]: Assassin_LinC left the game
+[22:06:56] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:63180] logged in with entity id 148667 at (-346.2100848728195, 69.58941604298211, 466.11174697908666)
+[22:06:56] [Server thread/INFO]: Assassin_LinC joined the game
+[22:06:58] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6589ms or 131 ticks behind
+[22:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8723ms or 174 ticks behind
+[22:07:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4830ms or 96 ticks behind
+[22:08:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6580ms or 131 ticks behind
+[22:08:13] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[22:08:13] [Server thread/INFO]: Assassin_LinC left the game
+[22:08:49] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:63259] logged in with entity id 148876 at (-335.5733016882196, 92.8517401633248, 476.3537154711074)
+[22:08:49] [Server thread/INFO]: Assassin_LinC joined the game
+[22:08:49] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[22:09:17] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-17_22-09-17
+[22:09:17] [Server thread/INFO]: [TextileBackup]: Saving server...
+[22:09:18] [Thread-61/INFO]: [TextileBackup]: Starting compression...
+[22:09:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32459ms or 649 ticks behind
+[22:10:19] [Server thread/INFO]: Assassin_LinC lost connection: Disconnected
+[22:10:19] [Server thread/INFO]: Assassin_LinC left the game
+[22:10:26] [Server thread/INFO]: Assassin_LinC[/127.0.0.1:63324] logged in with entity id 149036 at (-380.25695475212655, 69.0, 499.57730883301406)
+[22:10:26] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:10:26] [Server thread/INFO]: Assassin_LinC joined the game
+[22:10:55] [Server Watchdog/FATAL]: A single server tick took 60.27 seconds (should be max 0.05)
+[22:10:55] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22:10:57] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Server\skimit_survival\.\crash-reports\crash-2020-04-17_22.10.57-server.txt
+[22:10:58] [Server thread/INFO]: Stopping server
+[22:10:59] [Server thread/INFO]: Saving players

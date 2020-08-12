@@ -1,0 +1,230 @@
+[21:25:42] [main/INFO]: Loading for game Minecraft 1.15.2
+[21:25:43] [main/INFO]: [FabricLoader] Loading 4 mods: minecraft@1.15.2, carpet-extra@1.3.15, fabricloader@0.7.8+build.189, carpet@1.3.15
+[21:25:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/home/admin/mcsmanager/server/server_core/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[21:26:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:26:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:26:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:26:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:26:01] [Server thread/INFO]: Loading properties
+[21:26:01] [Server thread/INFO]: Default game type: SURVIVAL
+[21:26:01] [Server thread/INFO]: Generating keypair
+[21:26:02] [Server thread/INFO]: Starting Minecraft server on *:26565
+[21:26:02] [Server thread/INFO]: Using epoll channel type
+[21:26:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:26:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:26:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:26:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:26:03] [Server thread/INFO]: Preparing level "world"
+[21:26:04] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:26:08] [Server thread/INFO]: Loaded 6 recipes
+[21:26:09] [Server thread/INFO]: Loaded 825 advancements
+[21:26:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:20] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:21] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:49] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[21:26:50] [Server thread/INFO]: Preparing spawn area: 7%
+[21:26:51] [Server thread/INFO]: Time elapsed: 35645 ms
+[21:26:51] [Server thread/INFO]: Done (48.242s)! For help, type "help"
+[21:26:51] [Server thread/INFO]: Starting remote control listener
+[21:26:51] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:22140
+[21:26:53] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:40631] logged in with entity id 99 at (-404.69463158433985, 69.0, 557.433912716835)
+[21:26:53] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:26:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@2004264[id=<null>,name=MAX_XiaoKui,properties={},legacy=false] (/127.0.0.1:38592) lost connection: Timed out
+[21:26:53] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[21:26:53] [Server thread/INFO]: MAX_ShouWang left the game
+[21:26:54] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:54777] logged in with entity id 107 at (-404.69463158433985, 69.0, 557.433912716835)
+[21:26:54] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:26:55] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:56410] logged in with entity id 108 at (-405.4647540154919, 66.30543845175121, 557.3000000119209)
+[21:26:55] [Server thread/INFO]: MAX_XiaoKui joined the game
+[21:26:55] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:26:55] [Server thread/INFO]: MAX_ShouWang left the game
+[21:26:55] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:57742] logged in with entity id 110 at (-404.69463158433985, 69.0, 557.433912716835)
+[21:26:55] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:26:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4153ms or 83 ticks behind
+[21:26:56] [Server thread/WARN]: handleDisconnection() called twice
+[21:26:56] [Server thread/WARN]: handleDisconnection() called twice
+[21:26:56] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:26:56] [Server thread/INFO]: MAX_ShouWang left the game
+[21:26:56] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:36480] logged in with entity id 111 at (-404.69463158433985, 69.0, 557.433912716835)
+[21:26:56] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:26:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@33efe0c1[id=04d6da79-48ef-3b3f-ad4a-b8b826d4cef7,name=MAX_ShouWang,properties={},legacy=false] (/127.0.0.1:58126) lost connection: Timed out
+[21:26:58] [Server thread/WARN]: Keeping entity minecraft:spider that already exists with UUID be1b73cc-8ad9-4c7c-b008-a0db710d7042
+[21:27:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@701605c2[id=04d6da79-48ef-3b3f-ad4a-b8b826d4cef7,name=MAX_ShouWang,properties={},legacy=false] (/127.0.0.1:56653) lost connection: Timed out
+[21:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2171ms or 43 ticks behind
+[21:32:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[21:37:05] [Server thread/WARN]: MAX_XiaoKui moved too quickly! 3.194650973096145,0.694259288177264,9.775724101469223
+[21:37:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[21:41:21] [Server thread/INFO]: <MAX_ShouWang> 我QQ又炸了
+[21:41:28] [Server thread/INFO]: <MAX_XiaoKui> .
+[21:41:48] [Server thread/INFO]: MTpromax[/127.0.0.1:58633] logged in with entity id 2784 at (-441.07499998807907, 70.0, 508.37376348933583)
+[21:41:48] [Server thread/INFO]: MTpromax joined the game
+[21:42:36] [Server thread/INFO]: <MAX_ShouWang> 现在mc3秒卡一次
+[21:42:56] [Server thread/INFO]: <MAX_ShouWang> 一次5秒
+[21:43:14] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:43:14] [Server thread/INFO]: MAX_ShouWang left the game
+[21:43:19] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:43401] logged in with entity id 3043 at (-375.0450987565816, 69.0, 532.3000000119209)
+[21:43:19] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:44:16] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:44:16] [Server thread/INFO]: MAX_ShouWang left the game
+[21:45:39] [Server thread/INFO]: <MAX_XiaoKui> 睡觉
+[21:47:33] [Server thread/INFO]: Yu_Chei[/127.0.0.1:50078] logged in with entity id 3601 at (-406.0025141894473, 68.9375, 556.6636980878546)
+[21:47:33] [Server thread/INFO]: Yu_Chei joined the game
+[21:49:16] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:56981] logged in with entity id 3913 at (-373.6464400935918, 69.0, 552.0913629590137)
+[21:49:16] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[21:49:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9846ms or 196 ticks behind
+[21:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[21:51:35] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[21:51:35] [Server thread/INFO]: MTpromax left the game
+[21:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[21:52:37] [Server thread/INFO]: Yu_Chei lost connection: Disconnected
+[21:52:37] [Server thread/INFO]: Yu_Chei left the game
+[21:58:02] [Server thread/WARN]: MAX_XiaoKui moved too quickly! -4.384786769741538,0.0,9.128618055724473
+[21:58:17] [Server thread/INFO]: <MAX_XiaoKui> 睡觉
+[22:05:05] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[22:05:05] [Server thread/INFO]: MAX_XiaoKui left the game
+[22:05:37] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[22:05:37] [Server thread/INFO]: MAX_ShouWang left the game
+[22:38:52] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:38:59] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:38:59] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:00] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:00] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:01] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:01] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:01] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:01] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:01] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:02] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:02] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:02] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:02] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:02] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:03] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:03] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:03] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:04] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:05] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:05] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:06] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:06] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:06] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:07] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:07] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:07] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:07] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:08] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:08] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:08] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:09] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:09] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:09] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:10] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:10] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:10] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:11] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:11] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:11] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:12] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:12] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:12] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:13] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:13] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:13] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:13] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:14] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:14] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:14] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:14] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:14] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:15] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:15] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:15] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:15] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:15] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:16] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:16] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:16] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:16] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:16] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:17] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:17] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:17] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:17] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:17] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:18] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:39:18] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:41:39] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:41:39] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:41:49] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30
+[22:41:59] [RCON Listener #1/INFO]: Rcon connection from: /47.102.184.30

@@ -1,0 +1,408 @@
+[16:00:33] [main/INFO]: Loading for game Minecraft 1.16.1
+[16:00:41] [main/INFO]: [FabricLoader] Loading 51 mods: fabric-renderer-api-v1@0.2.13+eae12eb87c, fabric-keybindings-v0@0.2.0+3fa9f7c57c, fabricloader@0.8.8+build.202, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f7c, lithium@0.5.0, fabric-dimensions-v1@1.0.0+a71b30537c, fabric-object-builder-api-v1@1.5.5+e00ecb5f7c, fabric-api-base@0.1.3+12a8474c7c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d7c, fabric-textures-v0@1.0.4+eae12eb87c, fabric-rendering-fluids-v1@0.1.7+12a8474c7c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea897c, fabric-renderer-registries-v1@2.0.1+5a0f9a607c, carpet-extra@1.4.0, fabric-loot-tables-v1@0.1.10+059ea8667c, fabric@0.13.1+build.370-1.16, carpet@1.4.0, fabric-particles-v1@0.2.1+0a6f2a707c, fabric-networking-v0@0.1.10+e00ecb5f7c, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b7c, minecraft@1.16.1, fabric-screen-handler-api-v1@1.0.1+f362c86e7c, here@0.0.8-mc1.16, fabric-command-api-v1@1.0.8+5ce533987c, jankson@3.0.0+j1.2.0, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.1.4+5794386e7c, fabric-renderer-indigo@0.3.1+059ea8667c, org_apache_commons_commons-compress@1.19, fabric-biomes-v1@0.2.7+059ea8667c, fabric-events-interaction-v0@0.3.3+7066030f7c, fabric-crash-report-info-v1@0.1.2+b7f9825d7c, fabric-rendering-v0@1.1.0+534104907c, fabric-key-binding-api-v1@1.0.0+e16a97747c, fabric-rendering-v1@1.1.2+346247d77c, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.5+059ea8667c, fabric-content-registries-v0@0.1.9+059ea8667c, fabric-tag-extensions-v0@0.2.5+5a6e8f4c7c, fabric-registry-sync-v0@0.3.8+7dba2d6c7c, fabric-commands-v0@0.2.0+52d308367c, textile_backup@1.2.3-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce997c, fabric-events-lifecycle-v0@0.1.3+0d474ec47c, fabric-models-v0@0.1.0+dfdb52d67c, fabric-item-groups-v0@0.2.0+438f96367c, fabric-object-builders-v0@0.6.0+da175ad67c
+[16:00:41] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[16:00:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[16:00:54] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-v0.mixins.json:MixinEntityTracker and should be specified in value
+[16:00:57] [main/WARN]: @Mixin target net[16:01:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[16:02:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:02:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:02:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:11] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1)
+[16:02:22] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:02:22] [Worker-Main-2/INFO]: Loaded 927 advancements
+[16:02:25] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:dimension_type, minecraft:chunk_generator_type
+[16:02:25] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[16:02:35] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[16:02:35] [Server thread/INFO]: Loading properties
+[16:02:35] [Server thread/INFO]: Default game type: SURVIVAL
+[16:02:35] [Server thread/INFO]: Generating keypair
+[16:02:42] [Server thread/INFO]: Starting Minecraft server on *:26565
+[16:02:43] [Server thread/INFO]: Using default channel type
+[16:02:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:02:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:02:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:02:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:02:59] [Server thread/INFO]: Preparing level "world"
+[16:02:59] [Server thread/ERROR]: [CM]: Carpet Mod Setting commandCameramode is not a valid - ignoring...
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[16:02:59] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[16:03:06] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[16:03:06] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[16:03:06] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[16:03:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:57] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:58] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:03:59] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:04:00] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:04:03] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:04] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[16:04:07] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:07] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:07] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:07] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:07] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:07] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:07] [Server thread/INFO]: Preparing spawn area: 83%
+[16:04:31] [Server thread/INFO]: Time elapsed: 84180 ms
+[16:04:31] [Server thread/INFO]: Done (92.055s)! For help, type "help"
+[16:04:31] [Server thread/INFO]: Starting remote control listener
+[16:04:31] [Server thread/INFO]: Thread RCON Listener started
+[16:04:32] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[16:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4117ms or 82 ticks behind
+[16:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6835ms or 136 ticks behind
+[16:11:01] [Server thread/INFO]: soy_25[/127.0.0.1:60690] logged in with entity id 299 at (-1796.3017578125, 67.0, -701.7402295128007)
+[16:11:01] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:11:01] [Server thread/INFO]: soy_25 joined the game
+[16:11:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[16:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_16-11-03
+[16:11:03] [Server thread/INFO]: Saving server...
+[16:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:11:05] [Thread-66/INFO]: Starting backup
+[16:11:08] [Thread-66/INFO]: Starting compression...
+[16:11:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5471ms or 109 ticks behind
+[16:11:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 857caa20-44d2-439d-9480-1f4d512515d8
+[16:11:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 2d24cc0f-0ba9-4f61-8e9a-7476f3d98b6a
+[16:11:30] [Server thread/WARN]: Keeping entity minecraft:cow that already exists with UUID 7d49474f-e781-4736-b441-1391105fa910
+[16:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15874ms or 317 ticks behind
+[16:12:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[16:12:20] [Thread-66/INFO]: Compression took: 72.2920422s
+[16:12:20] [Thread-66/INFO]: Deleting: 2020-07-08_04-26-00.zip
+[16:12:27] [Thread-66/INFO]: Deleting: 2020-07-08_04-56-21.zip
+[16:12:33] [Thread-66/INFO]: Done!
+[16:12:49] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.27810333450588587
+[16:12:49] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.31412649305389095
+[16:12:49] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3466746390188291
+[16:12:49] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.37574651253066804
+[16:12:49] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4012809001685582
+[16:12:49] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.42147431025500737
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4328612602009798
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4328612602009798
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4328612602009798
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4328612602009798
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4322975999959908
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4161884091554384
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.39840027777540854
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.38061214639537866
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3628240150153488
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3450358836353189
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.327247752255289
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.30945962087525913
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.29160951297467363
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.2730576256437871
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.2813772474205507
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.2896968691973143
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.2980164909740779
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3063361127508415
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3146557345276051
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3229753563043687
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3312949780811323
+[16:12:50] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3396145998578959
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3478722159627523
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.35445027262335316
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.361028329283954
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.36760638594455486
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3741844426051557
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.38076249926575656
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3873405559263574
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.39391861258695826
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4004966692475591
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.40707472590815996
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.4127997697285082
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3942197753815435
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.35383429056082605
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3134488057401086
+[16:12:51] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.2730633209193911
+[16:12:52] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.25078829056133145
+[16:12:52] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.31076422188084507
+[16:12:52] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.31076422188084507
+[16:12:52] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.31076422188084507
+[16:12:53] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.31076422188084507
+[16:12:53] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.31076422188084507
+[16:12:53] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.31044478451804025
+[16:12:53] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.3008696755960045
+[16:12:53] [Server thread/WARN]: Donkey (vehicle of soy_25) moved wrongly! 0.27767880815463286
+[16:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[16:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[16:14:11] [Server thread/INFO]: soy_25 lost connection: Disconnected
+[16:14:11] [Server thread/INFO]: soy_25 left the game
+[16:18:28] [Server thread/INFO]: There are 0 of a max of 8 players online: 
+[16:18:32] [Server thread/INFO]: Alex[local] logged in with entity id 943 at (-582.5, 201.0, 1186.5)
+[16:18:32] [Server thread/INFO]: Alex joined the game
+[16:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[16:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[16:25:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[16:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[16:35:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[16:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[16:45:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2241ms or 44 ticks behind
+[16:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[16:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[17:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[17:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[17:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_17-11-03
+[17:11:03] [Server thread/INFO]: Saving server...
+[17:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[17:11:05] [Thread-97/INFO]: Starting backup
+[17:11:05] [Thread-97/INFO]: Starting compression...
+[17:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16489ms or 329 ticks behind
+[17:11:41] [Thread-97/INFO]: Compression took: 35.7717809s
+[17:11:41] [Thread-97/INFO]: Deleting: 2020-07-08_05-30-03#shutdown.zip
+[17:11:41] [Thread-97/INFO]: Done!
+[17:20:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2653ms or 53 ticks behind
+[17:36:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[17:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[17:48:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/14238, l='ServerLevel[world]', x=-573.33, y=73.00, z=1185.50]
+[17:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[17:56:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[18:01:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[18:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
+[18:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_18-11-03
+[18:11:03] [Server thread/INFO]: Saving server...
+[18:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[18:11:05] [Thread-124/INFO]: Starting backup
+[18:11:05] [Thread-124/INFO]: Starting compression...
+[18:11:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12955ms or 259 ticks behind
+[18:11:40] [Thread-124/INFO]: Compression took: 34.7281402s
+[18:11:40] [Thread-124/INFO]: Deleting: 2020-07-08_05-53-08.zip
+[18:11:40] [Thread-124/INFO]: Done!
+[18:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
+[18:23:14] [Server thread/INFO]: There are 1 of a max of 8 players online: Alex
+[18:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[18:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[18:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
+[19:01:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2636ms or 52 ticks behind
+[19:06:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[19:08:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26827, l='ServerLevel[world]', x=-573.30, y=73.00, z=1185.50]
+[19:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_19-11-03
+[19:11:03] [Server thread/INFO]: Saving server...
+[19:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:11:05] [Thread-151/INFO]: Starting backup
+[19:11:05] [Thread-151/INFO]: Starting compression...
+[19:11:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8403ms or 168 ticks behind
+[19:11:41] [Thread-151/INFO]: Compression took: 36.267023s
+[19:11:41] [Thread-151/INFO]: Deleting: 2020-07-08_05-57-57.zip
+[19:11:41] [Thread-151/INFO]: Done!
+[19:11:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27275, l='ServerLevel[world]', x=-580.32, y=73.00, z=1178.43]
+[19:16:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27984, l='ServerLevel[world]', x=-588.58, y=73.00, z=1189.58]
+[19:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[19:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[19:36:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/30983, l='ServerLevel[world]', x=-586.57, y=73.00, z=1191.57]
+[19:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[19:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2609ms or 52 ticks behind
+[19:57:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[20:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[20:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[20:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_20-11-03
+[20:11:03] [Server thread/INFO]: Saving server...
+[20:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
+[20:11:04] [Thread-178/INFO]: Starting backup
+[20:11:04] [Thread-178/INFO]: Starting compression...
+[20:11:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[20:11:39] [Thread-178/INFO]: Compression took: 34.9461466s
+[20:11:39] [Thread-178/INFO]: Deleting: 2020-07-08_05-59-04#shutdown.zip
+[20:11:39] [Thread-178/INFO]: Deleting: 2020-07-08_10-13-22.zip
+[20:11:40] [Thread-178/INFO]: Done!
+[20:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[20:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[20:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[20:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[20:30:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/38739, l='ServerLevel[world]', x=-585.58, y=73.00, z=1178.42]
+[20:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[20:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[20:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:11:02] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_21-11-02
+[21:11:02] [Server thread/INFO]: Saving server...
+[21:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[21:11:04] [Thread-207/INFO]: Starting backup
+[21:11:04] [Thread-207/INFO]: Starting compression...
+[21:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12623ms or 252 ticks behind
+[21:11:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[21:11:49] [Thread-207/INFO]: Compression took: 44.9410974s
+[21:11:49] [Thread-207/INFO]: Deleting: 2020-07-08_11-13-21.zip
+[21:11:50] [Thread-207/INFO]: Deleting: 2020-07-08_12-13-34.zip
+[21:11:50] [Thread-207/INFO]: Done!
+[21:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[21:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[21:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2654ms or 53 ticks behind
+[21:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[21:42:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[21:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[21:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[22:01:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/52416, l='ServerLevel[world]', x=-578.41, y=73.00, z=1191.59]
+[22:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[22:11:02] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_22-11-02
+[22:11:02] [Server thread/INFO]: Saving server...
+[22:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[22:11:04] [Thread-236/INFO]: Starting backup
+[22:11:04] [Thread-236/INFO]: Starting compression...
+[22:11:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8146ms or 162 ticks behind
+[22:11:40] [Thread-236/INFO]: Compression took: 35.2737261s
+[22:11:40] [Thread-236/INFO]: Deleting: 2020-07-08_14-56-06.zip
+[22:11:40] [Thread-236/INFO]: Done!
+[22:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[22:33:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
+[22:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/58917, l='ServerLevel[world]', x=-577.41, y=73.00, z=1180.41]
+[22:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3231ms or 64 ticks behind
+[22:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[23:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[23:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[23:11:02] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-08_23-11-02
+[23:11:02] [Server thread/INFO]: Saving server...
+[23:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:11:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[23:11:04] [Thread-265/INFO]: Starting backup
+[23:11:04] [Thread-265/INFO]: Starting compression...
+[23:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8346ms or 166 ticks behind
+[23:11:45] [Thread-265/INFO]: Compression took: 40.2655623s
+[23:11:45] [Thread-265/INFO]: Deleting: 2020-07-08_15-56-27.zip
+[23:11:45] [Thread-265/INFO]: Done!
+[23:14:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/63659, l='ServerLevel[world]', x=-579.42, y=73.00, z=1191.58]
+[23:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2428ms or 48 ticks behind
+[23:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:28:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[23:33:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[23:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[23:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind

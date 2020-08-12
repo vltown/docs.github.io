@@ -1,0 +1,1276 @@
+[20:49:51] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:49:51] [Server thread/INFO]: Loading properties
+[20:49:53] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6de3d4b-796eb15 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[20:49:53] [Server thread/INFO]: Debug logging is disabled
+[20:49:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:49:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:49:53] [Server thread/INFO]: Default game type: SURVIVAL
+[20:49:53] [Server thread/INFO]: Generating keypair
+[20:49:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:49:54] [Server thread/INFO]: Using epoll channel type
+[20:49:57] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:50:09] [Server thread/WARN]: Legacy plugin Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186 does not specify an api-version.
+[20:50:09] [Server thread/WARN]: Legacy plugin EzWhiteList v1.1-release does not specify an api-version.
+[20:50:09] [Server thread/WARN]: Legacy plugin LoginSecurity v3.0.1 does not specify an api-version.
+[20:50:09] [Server thread/WARN]: Legacy plugin MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7 does not specify an api-version.
+[20:50:09] [Server thread/WARN]: Legacy plugin FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432 does not specify an api-version.
+[20:50:10] [Server thread/WARN]: Legacy plugin MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e does not specify an api-version.
+[20:50:10] [Server thread/INFO]: [Yum] Loading Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186
+[20:50:10] [Server thread/INFO]: [网络管理] 注入网络管理系统 将托管服务器网络!
+[20:50:10] [Server thread/INFO]: [EzWhiteList] Loading EzWhiteList v1.1-release
+[20:50:10] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.0.1
+[20:50:10] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.4
+[20:50:10] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
+[20:50:10] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.15.2) has not yet been tested! Proceed with caution.
+[20:50:11] [Server thread/INFO]: [MiaoBoard] Loading MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[20:50:12] [Server thread/INFO]: [FastLogin] Loading FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+[20:50:12] [Server thread/INFO]: [MiaoChat] Loading MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e
+[20:50:12] [Server thread/INFO]: [Yum] Enabling Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186
+[20:50:12] [Server thread/INFO]: [Yum] 服务端未注入安全拦截器 关闭功能...
+[20:50:12] [Server thread/INFO]: [Yum] 网络管理系统已启用...
+[20:50:12] [Server thread/INFO]: [Yum] 线程管理系统已启用...
+[20:50:12] [Server thread/INFO]: [Yum] 性能监控系统已启用...
+[20:50:12] [Server thread/INFO]: [Yum] I O 管理系统已启用...
+[20:50:12] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
+[20:50:12] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[20:50:12] [Server thread/INFO]: [FastLogin] Enabling FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+[20:50:12] [Server thread/INFO]: HikariPool-1 - Starting...
+[20:50:13] [Server thread/INFO]: HikariPool-1 - Start completed.
+[20:50:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:50:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:50:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:50:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:50:13] [Server thread/INFO]: Preparing level "skimit"
+[20:50:13] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:50:15] [Server thread/INFO]: Loaded 6 recipes
+[20:50:17] [Server thread/INFO]: -------- World Settings For [skimit] --------
+[20:50:17] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:50:17] [Server thread/INFO]: Mob Spawn Range: 6
+[20:50:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:50:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:50:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:50:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:50:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:50:17] [Server thread/INFO]: Max TNT Explosions: 100
+[20:50:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:50:17] [Server thread/INFO]: View Distance: 6
+[20:50:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:50:17] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:50:17] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:50:17] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:50:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:50:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:50:18] [Server thread/INFO]: -------- World Settings For [skimit_nether] --------
+[20:50:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:50:18] [Server thread/INFO]: Mob Spawn Range: 6
+[20:50:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:50:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:50:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:50:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:50:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:50:18] [Server thread/INFO]: Max TNT Explosions: 100
+[20:50:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:50:18] [Server thread/INFO]: View Distance: 6
+[20:50:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:50:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:50:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:50:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:50:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:50:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:50:19] [Server thread/INFO]: -------- World Settings For [skimit_the_end] --------
+[20:50:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:50:19] [Server thread/INFO]: Mob Spawn Range: 6
+[20:50:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:50:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:50:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:50:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:50:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[20:50:19] [Server thread/INFO]: Max TNT Explosions: 100
+[20:50:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:50:19] [Server thread/INFO]: View Distance: 6
+[20:50:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:50:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:50:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:50:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:50:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:50:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:50:19] [Server thread/INFO]: Preparing start region for dimension 'skimit'/minecraft:overworld
+[20:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:22] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:23] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:23] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:51] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[20:50:52] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:53] [Server thread/INFO]: Preparing spawn area: 97%
+[20:50:53] [Server thread/INFO]: Time elapsed: 33717 ms
+[20:50:53] [Server thread/INFO]: Preparing start region for dimension 'skimit_nether'/minecraft:the_nether
+[20:50:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:54] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:55] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:55] [Server thread/INFO]: Time elapsed: 1992 ms
+[20:50:55] [Server thread/INFO]: Preparing start region for dimension 'skimit_the_end'/minecraft:the_end
+[20:50:56] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:56] [Server thread/INFO]: Preparing spawn area: 0%
+[20:50:56] [Server thread/INFO]: Preparing spawn area: 83%
+[20:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 88%
+[20:50:57] [Server-Worker-1/INFO]: Preparing spawn area: 88%
+[20:50:58] [Server-Worker-1/INFO]: Preparing spawn area: 93%
+[20:50:58] [Server thread/INFO]: Time elapsed: 3087 ms
+[20:50:58] [Server thread/INFO]: [EzWhiteList] Enabling EzWhiteList v1.1-release
+[20:50:58] [Server thread/INFO]: EzWL >> 开始加载
+[20:50:58] [Server thread/INFO]: EzWL >> 加载完毕
+[20:50:58] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.0.1
+[20:50:58] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[20:50:58] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[20:50:59] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
+[20:50:59] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
+[20:50:59] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
+[20:50:59] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[20:50:59] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[20:50:59] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[20:50:59] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.4
+[20:50:59] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:50:59] [Server thread/INFO]: [MiaoBoard] Enabling MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[20:50:59] [Server thread/INFO]: [MiaoChat] Enabling MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e
+[20:50:59] [Server thread/INFO]: [MiaoChat] 异步初始化本地化工具...
+[20:50:59] [Thread-14/WARN]: [Yum] Loaded class pw.yumc.MiaoChat.config.ext.YumConfig from MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e which is not a depend, softdepend or loadbefore of this plugin.
+[20:50:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:50:59] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:50:59] [Server thread/INFO]: Done (46.379s)! For help, type "help"
+[20:50:59] [Server thread/INFO]: Starting remote control listener
+[20:50:59] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:22140
+[20:50:59] [Craft Scheduler Thread - 5/WARN]: [Yum] Loaded class me.clip.placeholderapi.updatechecker.UpdateChecker from PlaceholderAPI v2.10.4 which is not a depend, softdepend or loadbefore of this plugin.
+[20:50:59] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[20:50:59] [Craft Scheduler Thread - 5/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spigotmc.org/legacy/update.php?resource=6245
+[20:50:59] [Craft Scheduler Thread - 6/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[20:50:59] [Craft Scheduler Thread - 6/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/v2/
+[20:51:00] [Craft Scheduler Thread - 8/WARN]: [Yum] Loaded class \ʼ.ʽ.ʾ.MiaoBoard.ʻˋ$ʽ from MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7 which is not a depend, softdepend or loadbefore of this plugin.
+[20:51:00] [Server thread/WARN]: [FastLogin] Loaded class com.lenis0012.bukkit.loginsecurity.session.AuthAction from LoginSecurity v3.0.1 which is not a depend, softdepend or loadbefore of this plugin.
+[20:51:00] [Server thread/INFO]: [FastLogin] Hooking into auth plugin: LoginSecurity
+[20:51:00] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 FastLogin 处理 DelayedAuthHook 任务 耗时 36ms 平均耗时 36ms!
+[20:51:00] [Thread-15/WARN]: [Yum] Loaded class com.comphenix.protocol.updater.SpigotUpdater from ProtocolLib v4.5.0 which is not a depend, softdepend or loadbefore of this plugin.
+[20:51:01] [Craft Scheduler Thread - 2/INFO]: 仓库: Yum官方仓库 更新成功!
+[20:51:01] [Craft Scheduler Thread - 2/INFO]: 仓库: Yum代理仓库 更新成功!
+[20:51:02] [Craft Scheduler Thread - 2/INFO]: 仓库: Yum代理仓库 更新成功!
+[20:51:02] [Server thread/INFO]: [ProtocolLib] The updater found an update, and has readied it to be loaded the next time the server restarts/reloads.
+[20:51:02] [Craft Scheduler Thread - 2/INFO]: 仓库: Yum源仓库 更新成功!
+[20:51:02] [Craft Scheduler Thread - 2/INFO]: 仓库: Yum收费仓库 更新成功!
+[20:51:03] [Craft Scheduler Thread - 2/INFO]: 仓库: MengCraft仓库 更新成功!
+[20:51:03] [Craft Scheduler Thread - 2/INFO]: 仓库: SUM香港仓库 更新成功!
+[20:51:04] [Craft Scheduler Thread - 2/INFO]: 仓库: ProtocolLib仓库 更新成功!
+[20:51:04] [Craft Scheduler Thread - 2/INFO]: 源: Yum中心源 更新成功!
+[20:51:06] [Thread-14/INFO]: [MiaoChat] 配置 Item_zh_CN.yml 来自 YUMC 数据中心...
+[20:51:06] [Thread-14/INFO]: [MiaoChat] 远程汉化文件词条数量: 1912
+[20:51:06] [Thread-14/INFO]: [MiaoChat] 本地化工具初始化完毕...
+[20:51:14] [User Authenticator #1/INFO]: UUID of player MAX_XiaoKui is a417032c-e2e7-3f62-b3d2-c1836915bba1
+[20:51:15] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 ProtocolLib 处理 PlayerLoginEvent 事件 耗时 77ms 平均耗时 77ms!
+[20:51:15] [Server thread/INFO]: MAX_XiaoKui lost connection: you have no White List
+[20:51:16] [Server thread/INFO]: MAX_XiaoKui left the game
+[20:51:16] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 EzWhiteList 处理 PlayerJoinEvent 事件 耗时 439ms 平均耗时 439ms!
+[20:51:16] [Server thread/INFO]: MAX_XiaoKui[/180.102.213.163:21955] logged in with entity id 167 at ([skimit]-181.44747502037566, 73.0, 394.57053112868584)
+[20:51:27] [Craft Scheduler Thread - 6/INFO]: [PlaceholderAPI] 170 placeholder expansions are available on the cloud.
+[20:52:33] [Server thread/INFO]: ========= [Yum] 帮助 By 喵♂呜 =========
+[20:52:33] [Server thread/INFO]: /yum list[l]  - 列出已安装插件列表
+[20:52:33] [Server thread/INFO]: /yum info <插件名称> - 查看插件详情
+[20:52:33] [Server thread/INFO]: /yum load <插件名称> - 载入插件
+[20:52:33] [Server thread/INFO]: /yum unload <插件名称> - 卸载插件
+[20:52:33] [Server thread/INFO]: /yum reload[re] <插件名称|all|*> - 重载插件
+[20:52:33] [Server thread/INFO]: /yum delete[del] <插件名称> - 删除插件
+[20:52:33] [Server thread/INFO]: /yum dirdelete[ddel] <插件名称> - 删除插件数据文件夹
+[20:52:33] [Server thread/INFO]: 查看更多的帮助页面 请输入 /yum help 1-3
+[20:52:50] [Server thread/INFO]: 错误: 插件  EzWl 不存在或已卸载!
+[20:52:57] [Server thread/INFO]: 错误: 插件  E在、 不存在或已卸载!
+[20:53:04] [Server thread/INFO]: 错误: 插件  EzWhitelist 不存在或已卸载!
+[20:53:12] [Server thread/INFO]: [EzWhiteList] Disabling EzWhiteList v1.1-release
+[20:53:12] [Server thread/INFO]: EzWL >> 保存数据
+[20:53:12] [Server thread/INFO]: EzWL >> 保存完毕
+[20:53:12] [Server thread/INFO]: 卸载: 从服务器插件列表删除 EzWhiteList 的实例!
+[20:53:12] [Server thread/INFO]: 卸载: 从插件查找列表删除 EzWhiteList 的实例!
+[20:53:12] [Server thread/INFO]: 卸载: 注销插件 EzWhiteList 的所有命令!
+[20:53:13] [Server thread/INFO]: 卸载: 插件 EzWhiteList 版本 1.1-release 已成功卸载!
+[20:53:13] [Server thread/WARN]: Legacy plugin EzWhiteList v1.1-release does not specify an api-version.
+[20:53:13] [Server thread/INFO]: [EzWhiteList] Enabling EzWhiteList v1.1-release
+[20:53:13] [Server thread/INFO]: EzWL >> 开始加载
+[20:53:13] [Server thread/INFO]: EzWL >> 加载完毕
+[20:53:13] [Server thread/INFO]: 载入: 插件 EzWhiteList 版本 1.1-release 已成功载入到服务器!
+[20:53:13] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 玩家 CONSOLE 执行 Yum 插件 yum reload EzWhiteList 命令 耗时 1053ms 平均耗时 211ms!
+[20:54:32] [User Authenticator #2/INFO]: UUID of player Qing_sha is dc241698-1f84-3fa5-aee5-e1443b9c4720
+[20:54:33] [Server thread/INFO]: Qing_sha lost connection: you have no White List
+[20:54:33] [Server thread/INFO]: Qing_sha left the game
+[20:54:33] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 EzWhiteList 处理 PlayerJoinEvent 事件 耗时 46ms 平均耗时 46ms!
+[20:55:53] [User Authenticator #3/INFO]: UUID of player Qing_sha is dc241698-1f84-3fa5-aee5-e1443b9c4720
+[20:55:54] [Server thread/INFO]: Qing_sha lost connection: you have no White List
+[20:55:54] [Server thread/INFO]: Qing_sha left the game
+[20:55:54] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 EzWhiteList 处理 PlayerJoinEvent 事件 耗时 47ms 平均耗时 46ms!
+[20:56:24] [Server thread/INFO]: EzWL >> MAX_XiaoKui 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> 5_Ge 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> Chengxi123 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> CXS 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> dy_xiapiAce 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> JDQS3087 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> Looooocro 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> Manjaro_linux 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> MAX_ 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> ShouWang 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> na2hco3_CN 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> OuOu_319 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> Plants352039 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> Qing_sha 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> Yu_Chei 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> ZetaTong 添加成功
+[20:56:24] [Server thread/INFO]: EzWL >> MTpromax 添加成功
+[20:56:54] [User Authenticator #4/INFO]: UUID of player Qing_sha is dc241698-1f84-3fa5-aee5-e1443b9c4720
+[20:56:55] [Server thread/INFO]: Qing_sha[/39.154.196.49:61362] logged in with entity id 177 at ([skimit]-139.05454432135872, 77.0, 473.3470847873301)
+[20:57:28] [Server thread/INFO]: Qing_sha issued server command: /register l051108o
+[20:58:42] [Server thread/INFO]: EzWL >> Chengxi123 移除成功
+[20:58:50] [Server thread/INFO]: EzWL >> ChengXi123 添加成功
+[20:59:35] [Server thread/INFO]: Qing_sha lost connection: Disconnected
+[20:59:35] [Server thread/INFO]: Qing_sha left the game
+[20:59:45] [User Authenticator #5/INFO]: UUID of player MAX_XiaoKui is a417032c-e2e7-3f62-b3d2-c1836915bba1
+[20:59:46] [Server thread/INFO]: MAX_XiaoKui[/180.102.213.163:22403] logged in with entity id 667 at ([skimit]-181.44747502037566, 73.0, 394.57053112868584)
+[20:59:56] [Server thread/INFO]: MAX_XiaoKui issued server command: /register Bubble
+[21:00:20] [Server thread/INFO]: PlaceholderAPI version 2.10.4
+[21:00:20] [Server thread/INFO]: Created by: [extended_clip, Glare]
+[21:00:20] [Server thread/INFO]: Papi commands: /papi help
+[21:00:20] [Server thread/INFO]: Ecloud commands: /papi ecloud
+[21:00:31] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[21:00:31] [Server thread/INFO]: MAX_XiaoKui left the game
+[21:00:42] [Server thread/INFO]: Download starting for expansion: Server version: 2.2.3
+[21:00:42] [Server thread/INFO]: [PlaceholderAPI] Attempting download of expansion: Server from url: http://api.extendedclip.com/media/PAPI-Expansion-Server_WZ5hDfz.jar
+[21:00:42] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:00:42] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[21:00:42] [Craft Scheduler Thread - 7/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/media/PAPI-Expansion-Server_WZ5hDfz.jar
+[21:00:42] [Craft Scheduler Thread - 10/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[21:00:42] [Craft Scheduler Thread - 10/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/v2/
+[21:00:44] [Craft Scheduler Thread - 7/INFO]: [PlaceholderAPI] Download of expansion: Server complete!
+[21:00:51] [User Authenticator #6/INFO]: UUID of player MAX_XiaoKui is a417032c-e2e7-3f62-b3d2-c1836915bba1
+[21:00:51] [Server thread/INFO]: MAX_XiaoKui[/180.102.213.163:22849] logged in with entity id 777 at ([skimit]-169.23759191142636, 70.0, 386.32113319775664)
+[21:00:57] [Craft Scheduler Thread - 10/INFO]: [PlaceholderAPI] 170 placeholder expansions are available on the cloud.
+[21:01:02] [Server thread/INFO]: MAX_XiaoKui issued server command: /login Bubble
+[21:01:48] [Server thread/INFO]: Download starting for expansion: Statistic version: 1.9.2
+[21:01:48] [Server thread/INFO]: [PlaceholderAPI] Attempting download of expansion: Statistic from url: http://api.extendedclip.com/media/PAPI-Expansion-Statistic_BcbA2ZL.jar
+[21:01:48] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:01:48] [Craft Scheduler Thread - 8/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[21:01:48] [Craft Scheduler Thread - 8/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/media/PAPI-Expansion-Statistic_BcbA2ZL.jar
+[21:01:48] [Craft Scheduler Thread - 9/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[21:01:48] [Craft Scheduler Thread - 9/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/v2/
+[21:01:50] [Craft Scheduler Thread - 8/INFO]: [PlaceholderAPI] Download of expansion: Statistic complete!
+[21:02:11] [Server thread/INFO]: [MiaoBoard] Disabling MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[21:02:11] [Server thread/INFO]: 卸载: 从服务器插件列表删除 MiaoBoard 的实例!
+[21:02:11] [Server thread/INFO]: 卸载: 从插件查找列表删除 MiaoBoard 的实例!
+[21:02:11] [Server thread/INFO]: 卸载: 注销插件 MiaoBoard 的所有命令!
+[21:02:12] [Server thread/INFO]: 卸载: 插件 MiaoBoard 版本 2.5.0-git-fdf05 已成功卸载!
+[21:02:12] [Server thread/WARN]: Legacy plugin MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7 does not specify an api-version.
+[21:02:12] [Server thread/INFO]: [MiaoBoard] Enabling MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[21:02:12] [Server thread/INFO]: 载入: 插件 MiaoBoard 版本 2.5.0-git-fdf05 已成功载入到服务器!
+[21:02:12] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 玩家 CONSOLE 执行 Yum 插件 yum reload MiaoBoard 命令 耗时 1815ms 平均耗时 478ms!
+[21:02:17] [Craft Scheduler Thread - 9/INFO]: [PlaceholderAPI] 170 placeholder expansions are available on the cloud.
+[21:03:24] [Server thread/INFO]: Player has been added to the premium list
+[21:03:41] [Server thread/INFO]: Player has been added to the premium list
+[21:03:56] [Server thread/INFO]: Player has been added to the premium list
+[21:04:09] [Server thread/INFO]: Player has been added to the premium list
+[21:04:24] [Server thread/INFO]: Player has been added to the premium list
+[21:04:33] [Server thread/INFO]: Player has been added to the premium list
+[21:06:33] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[21:06:33] [Server thread/INFO]: MAX_XiaoKui left the game
+[21:06:46] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[21:06:46] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[21:06:46] [Server thread/INFO]: Debug logging is disabled
+[21:06:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:06:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:06:46] [Server thread/INFO]: -------- World Settings For [skimit] --------
+[21:06:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:06:46] [Server thread/INFO]: Mob Spawn Range: 6
+[21:06:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:06:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:06:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:06:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:06:46] [Server thread/INFO]: Max TNT Explosions: 100
+[21:06:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:06:46] [Server thread/INFO]: View Distance: 6
+[21:06:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:06:46] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:06:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:06:46] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:06:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:06:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:06:46] [Server thread/INFO]: -------- World Settings For [skimit_nether] --------
+[21:06:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:06:46] [Server thread/INFO]: Mob Spawn Range: 6
+[21:06:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:06:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:06:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:06:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:06:46] [Server thread/INFO]: Max TNT Explosions: 100
+[21:06:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:06:46] [Server thread/INFO]: View Distance: 6
+[21:06:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:06:46] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:06:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:06:46] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:06:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:06:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:06:46] [Server thread/INFO]: -------- World Settings For [skimit_the_end] --------
+[21:06:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:06:46] [Server thread/INFO]: Mob Spawn Range: 6
+[21:06:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[21:06:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[21:06:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:06:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[21:06:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[21:06:46] [Server thread/INFO]: Max TNT Explosions: 100
+[21:06:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:06:46] [Server thread/INFO]: View Distance: 6
+[21:06:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:06:46] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:06:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:06:46] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[21:06:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:06:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:06:46] [Server thread/INFO]: [MiaoBoard] Disabling MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[21:06:46] [Server thread/INFO]: [EzWhiteList] Disabling EzWhiteList v1.1-release
+[21:06:46] [Server thread/INFO]: EzWL >> 保存数据
+[21:06:46] [Server thread/INFO]: EzWL >> 保存完毕
+[21:06:46] [Server thread/INFO]: [MiaoChat] Disabling MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e
+[21:06:46] [Server thread/INFO]: [FastLogin] Disabling FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+[21:06:46] [Server thread/INFO]: HikariPool-1 - Shutdown initiated...
+[21:06:46] [Server thread/INFO]: HikariPool-1 - Shutdown completed.
+[21:06:46] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.0
+[21:06:46] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.4
+[21:06:46] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.0.1
+[21:06:46] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[21:06:46] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[21:06:46] [Server thread/INFO]: [Yum] Disabling Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186
+[21:06:46] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:06:47] [Server thread/INFO]: Loaded 6 recipes
+[21:06:47] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[21:06:47] [Server thread/INFO]: Loaded 6 recipes
+[21:06:48] [Server thread/WARN]: Legacy plugin Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186 does not specify an api-version.
+[21:06:48] [Server thread/WARN]: Legacy plugin EzWhiteList v1.1-release does not specify an api-version.
+[21:06:48] [Server thread/WARN]: Legacy plugin LoginSecurity v3.0.1 does not specify an api-version.
+[21:06:48] [Server thread/WARN]: Legacy plugin MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7 does not specify an api-version.
+[21:06:48] [Server thread/WARN]: Legacy plugin FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432 does not specify an api-version.
+[21:06:48] [Server thread/WARN]: Legacy plugin MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e does not specify an api-version.
+[21:06:48] [Server thread/INFO]: [Yum] Loading Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186
+[21:06:48] [Server thread/INFO]: [网络管理] 注入网络管理系统 将托管服务器网络!
+[21:06:48] [Server thread/INFO]: [EzWhiteList] Loading EzWhiteList v1.1-release
+[21:06:48] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.0.1
+[21:06:48] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.4
+[21:06:48] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0
+[21:06:48] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.15.2) has not yet been tested! Proceed with caution.
+[21:06:48] [Server thread/INFO]: [MiaoBoard] Loading MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[21:06:49] [Server thread/INFO]: [FastLogin] Loading FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+[21:06:49] [Server thread/INFO]: [MiaoChat] Loading MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e
+[21:06:49] [Server thread/INFO]: [Yum] Enabling Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186
+[21:06:49] [Server thread/INFO]: [Yum] 服务端未注入安全拦截器 关闭功能...
+[21:06:49] [Server thread/INFO]: [Yum] 网络管理系统已启用...
+[21:06:49] [Server thread/INFO]: [Yum] 线程管理系统已启用...
+[21:06:49] [Server thread/INFO]: [Yum] 性能监控系统已启用...
+[21:06:49] [Server thread/INFO]: [Yum] I O 管理系统已启用...
+[21:06:49] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0
+[21:06:49] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[21:06:49] [Server thread/INFO]: [FastLogin] Enabling FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+[21:06:49] [Server thread/INFO]: HikariPool-2 - Starting...
+[21:06:49] [Server thread/INFO]: HikariPool-2 - Start completed.
+[21:06:49] [Server thread/INFO]: [EzWhiteList] Enabling EzWhiteList v1.1-release
+[21:06:49] [Server thread/INFO]: EzWL >> 开始加载
+[21:06:49] [Server thread/INFO]: EzWL >> 加载完毕
+[21:06:49] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.0.1
+[21:06:49] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[21:06:49] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "zh_CN"
+[21:06:49] [Server thread/WARN]: [Yum] Loaded class com.lenis0012.bukkit.loginsecurity.modules.language.LanguageAPI from LoginSecurity v3.0.1 which is not a depend, softdepend or loadbefore of this plugin.
+[21:06:49] [Server thread/INFO]: [Yum] [Yum 网络管理] 插件 LoginSecurity 尝试在主线程访问网络 可能会导致服务器卡顿或无响应!
+[21:06:49] [Server thread/INFO]: [Yum] [Yum 网络管理] 已阻止插件 LoginSecurity 访问网络!
+[21:06:49] [Server thread/INFO]: [Yum] [Yum 网络管理] 地址: http://lang.lenis0012.com/language/zh_CN
+[21:06:49] [Server thread/WARN]: [LoginSecurity] Loaded class pw.yumc.Yum.managers.NetworkManager$YumProxySelector from Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186 which is not a depend, softdepend or loadbefore of this plugin.
+java.io.IOException: [Yum 网络防护] 已开启网络防护 并被联网规则拦截!
+	at pw.yumc.Yum.managers.NetworkManager$YumProxySelector.select(NetworkManager.java:58) ~[Yum.jar:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:990) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1570) ~[?:1.8.0_242]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1498) ~[?:1.8.0_242]
+	at com.lenis0012.bukkit.loginsecurity.modules.language.LanguageAPI.apiRequest(LanguageAPI.java:61) ~[LoginSecurity-3.0.1-Spigot.jar:?]
+	at com.lenis0012.bukkit.loginsecurity.modules.language.LanguageAPI.getTranslation(LanguageAPI.java:47) ~[LoginSecurity-3.0.1-Spigot.jar:?]
+	at com.lenis0012.bukkit.loginsecurity.modules.language.LanguageModule.enable(LanguageModule.java:34) [LoginSecurity-3.0.1-Spigot.jar:?]
+	at com.lenis0012.bukkit.loginsecurity.libs.pluginutils.Registry.enableModule(Registry.java:88) [LoginSecurity-3.0.1-Spigot.jar:?]
+	at com.lenis0012.bukkit.loginsecurity.libs.pluginutils.Registry.enableModules(Registry.java:58) [LoginSecurity-3.0.1-Spigot.jar:?]
+	at com.lenis0012.bukkit.loginsecurity.libs.pluginutils.PluginHolder.onEnable(PluginHolder.java:28) [LoginSecurity-3.0.1-Spigot.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:351) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugin(CraftServer.java:464) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.enablePlugins(CraftServer.java:378) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.reload(CraftServer.java:835) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.Bukkit.reload(Bukkit.java:620) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchCommand(CraftServer.java:723) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.dispatchServerCommand(CraftServer.java:708) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.handleCommandQueue(DedicatedServer.java:443) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.b(DedicatedServer.java:407) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.a(MinecraftServer.java:984) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:824) [spigot-1.15.2.jar:git-Spigot-6de3d4b-796eb15]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[21:06:49] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[21:06:49] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[21:06:49] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[21:06:49] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.4
+[21:06:49] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:06:49] [Server thread/INFO]: [MiaoBoard] Enabling MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[21:06:49] [Server thread/INFO]: [MiaoChat] Enabling MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e
+[21:06:49] [Server thread/INFO]: [MiaoChat] 异步初始化本地化工具...
+[21:06:49] [Thread-19/WARN]: [Yum] Loaded class pw.yumc.MiaoChat.config.ext.YumConfig from MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e which is not a depend, softdepend or loadbefore of this plugin.
+[21:06:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:06:49] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:06:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[21:06:49] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
+[21:06:50] [Server thread/INFO]: CONSOLE: Reload complete.
+[21:06:50] [Craft Scheduler Thread - 4/WARN]: [Yum] Loaded class me.clip.placeholderapi.updatechecker.UpdateChecker from PlaceholderAPI v2.10.4 which is not a depend, softdepend or loadbefore of this plugin.
+[21:06:50] [Craft Scheduler Thread - 4/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[21:06:50] [Craft Scheduler Thread - 4/INFO]: [Yum] [Yum 网络管理] 地址: https://api.spigotmc.org/legacy/update.php?resource=6245
+[21:06:50] [Craft Scheduler Thread - 14/INFO]: [Yum] [Yum 网络管理] 插件 PlaceholderAPI 尝试访问网络 请注意服务器网络安全!
+[21:06:50] [Craft Scheduler Thread - 14/INFO]: [Yum] [Yum 网络管理] 地址: http://api.extendedclip.com/v2/
+[21:06:50] [Craft Scheduler Thread - 16/WARN]: [Yum] Loaded class \ʼ.ʽ.ʾ.MiaoBoard.ʻˋ$ʽ from MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7 which is not a depend, softdepend or loadbefore of this plugin.
+[21:06:50] [Server thread/WARN]: [FastLogin] Loaded class com.lenis0012.bukkit.loginsecurity.session.AuthAction from LoginSecurity v3.0.1 which is not a depend, softdepend or loadbefore of this plugin.
+[21:06:50] [Server thread/INFO]: [FastLogin] Hooking into auth plugin: LoginSecurity
+[21:06:52] [Craft Scheduler Thread - 8/INFO]: 仓库: Yum官方仓库 更新成功!
+[21:06:52] [Thread-19/INFO]: [MiaoChat] 配置 Item_zh_CN.yml 来自 YUMC 数据中心...
+[21:06:52] [Thread-19/INFO]: [MiaoChat] 远程汉化文件词条数量: 1912
+[21:06:52] [Thread-19/INFO]: [MiaoChat] 本地化工具初始化完毕...
+[21:06:53] [Craft Scheduler Thread - 8/INFO]: 仓库: Yum代理仓库 更新成功!
+[21:06:53] [Craft Scheduler Thread - 8/INFO]: 仓库: Yum代理仓库 更新成功!
+[21:06:54] [Craft Scheduler Thread - 8/INFO]: 仓库: Yum源仓库 更新成功!
+[21:06:54] [Craft Scheduler Thread - 8/INFO]: 仓库: Yum收费仓库 更新成功!
+[21:06:55] [Craft Scheduler Thread - 8/INFO]: 仓库: MengCraft仓库 更新成功!
+[21:06:56] [Craft Scheduler Thread - 8/INFO]: 仓库: SUM香港仓库 更新成功!
+[21:06:56] [Craft Scheduler Thread - 8/INFO]: 仓库: ProtocolLib仓库 更新成功!
+[21:06:56] [Craft Scheduler Thread - 8/INFO]: 源: Yum中心源 更新成功!
+[21:07:15] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:07:17] [Craft Scheduler Thread - 14/INFO]: [PlaceholderAPI] 170 placeholder expansions are available on the cloud.
+[21:07:21] [Server thread/INFO]: Successfully reset player account!
+[21:07:27] [Craft Scheduler Thread - 14/WARN]: [Yum] Loaded class com.github.games647.fastlogin.bukkit.MojangApiBukkit from FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432 which is not a depend, softdepend or loadbefore of this plugin.
+[21:07:29] [Craft Scheduler Thread - 14/INFO]: [FastLogin] Player MAX_XiaoKui has a verified premium account
+[21:07:29] [User Authenticator #7/INFO]: UUID of player MAX_XiaoKui is a417032c-e2e7-3f62-b3d2-c1836915bba1
+[21:07:29] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 ProtocolLib 处理 PlayerLoginEvent 事件 耗时 59ms 平均耗时 59ms!
+[21:07:29] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 FastLogin 处理 PlayerLoginEvent 事件 耗时 32ms 平均耗时 32ms!
+[21:07:29] [Server thread/INFO]: MAX_XiaoKui[/180.102.213.163:22656] logged in with entity id 1838 at ([skimit]-390.85124237717207, 70.0, 515.0550842423762)
+[21:07:30] [Craft Scheduler Thread - 14/INFO]: [FastLogin] Logging player MAX_XiaoKui in
+[21:12:05] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:12:09] [Spigot Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Spigot bug.
+[21:12:14] [Spigot Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
+[21:12:37] [Spigot Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
+[21:12:49] [Spigot Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
+[21:12:50] [Spigot Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
+[21:12:54] [Spigot Watchdog Thread/ERROR]: If you are unsure or still think this is a Spigot bug, please report to https://www.spigotmc.org/
+[21:13:17] [Spigot Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[21:13:29] [Spigot Watchdog Thread/ERROR]: Spigot version: git-Spigot-6de3d4b-796eb15 (MC: 1.15.2)
+[21:13:31] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:13:31] [Server thread/INFO]: Stopping the server
+[21:13:41] [Spigot Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[21:14:05] [HikariPool-2 housekeeper/WARN]: HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m41s106ms274µs661ns).
+[21:14:40] [HikariPool-2 housekeeper/WARN]: HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m7s710ms164µs955ns).
+[21:15:07] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:15:09] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[21:15:47] [Server thread/INFO]: Stopping server
+[21:16:08] [Server thread/INFO]: [MiaoChat] Disabling MiaoChat v1.8.9-git-f22113584d750a8d95fb5df80d226af9abc4e80e
+[21:16:08] [HikariPool-2 housekeeper/WARN]: HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m8s689ms205µs855ns).
+[21:16:22] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 ProtocolLib 处理 PluginDisableEvent 事件 耗时 8630ms 平均耗时 8630ms!
+[21:16:22] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:16:38] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[21:16:59] [HikariPool-2 housekeeper/WARN]: HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=58s389ms269µs370ns).
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 	PID: 14 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:88)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:370)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.disablePlugins(CraftServer.java:398)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.stop(MinecraftServer.java:699)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.stop(DedicatedServer.java:696)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:864)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:18] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:18] [Spigot Watchdog Thread/ERROR]: Entire Thread Dump:
+[21:17:50] [HikariPool-2 housekeeper/WARN]: HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m3s717ms47µs112ns).
+[21:17:51] [Server thread/INFO]: [Yum] [Yum 能耗监控] 注意! 插件 Yum 处理 PluginDisableEvent 事件 耗时 74213ms 平均耗时 74213ms!
+[21:17:52] [Server thread/INFO]: [FastLogin] Disabling FastLogin v1.10-git484855724b794de1fe057cf7360245362658b432
+[21:17:52] [Server thread/INFO]: HikariPool-2 - Shutdown initiated...
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: ProtocolLib-StructureCompiler 0
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 165 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Protocol Worker #2 - FastLogin - [recv: START[class=PacketLoginInStart, id=0], ENCRYPTION_BEGIN[class=PacketLoginInEncryptionBegin, id=1], send: ]
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 154 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler.listenerLoop(AsyncListenerHandler.java:579)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler.access$200(AsyncListenerHandler.java:48)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler$2.run(AsyncListenerHandler.java:229)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler$3.run(AsyncListenerHandler.java:300)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:81)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: HikariPool-2 housekeeper
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 151 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:109)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:288)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:128)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.RandomAccessFile.writeBytes(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.RandomAccessFile.write(RandomAccessFile.java:525)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.writeToDestination(RollingRandomAccessFileManager.java:109)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.OutputStreamManager.flushBuffer(OutputStreamManager.java:288)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:128)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.directEncodeEvent(AbstractOutputStreamAppender.java:179)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.tryAppend(AbstractOutputStreamAppender.java:170)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:161)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:218)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:156)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:129)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:120)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:84)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:448)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:433)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:417)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:403)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:63)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.Logger.logMessage(Logger.java:146)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2091)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:1988)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1960)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.warn(AbstractLogger.java:2536)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.util.ForwardLogHandler.publish(ForwardLogHandler.java:34)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.logging.Logger.log(Logger.java:738)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.slf4j.impl.JDK14LoggerAdapter.log(JDK14LoggerAdapter.java:582)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.slf4j.impl.JDK14LoggerAdapter.warn(JDK14LoggerAdapter.java:422)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.zaxxer.hikari.pool.HikariPool$HouseKeeper.run(HikariPool.java:686)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer-3
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 150 | Suspended: false | Native: false | State: TIMED_WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:552)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer-2
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 149 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.dumpThreads(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.getStackTrace(Thread.java:1549)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.runnables.MainThreadCheckTask.run(MainThreadCheckTask.java:55)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:555)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Protocol Worker #1 - FastLogin - [recv: START[class=PacketLoginInStart, id=0], ENCRYPTION_BEGIN[class=PacketLoginInEncryptionBegin, id=1], send: ]
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 123 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler.listenerLoop(AsyncListenerHandler.java:579)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler.access$200(AsyncListenerHandler.java:48)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler$2.run(AsyncListenerHandler.java:229)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler$3.run(AsyncListenerHandler.java:300)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:81)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Protocol Worker #3 - FastLogin - [recv: START[class=PacketLoginInStart, id=0], ENCRYPTION_BEGIN[class=PacketLoginInEncryptionBegin, id=1], send: ]
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 46 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:403)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler.listenerLoop(AsyncListenerHandler.java:579)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler.access$200(AsyncListenerHandler.java:48)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler$2.run(AsyncListenerHandler.java:229)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.async.AsyncListenerHandler$3.run(AsyncListenerHandler.java:300)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftTask.run(CraftTask.java:81)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: RCON Listener #1
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 42 | Suspended: false | Native: true | State: RUNNABLE
+[21:17:52] [Server thread/INFO]: HikariPool-2 - Shutdown completed.
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.PlainSocketImpl.socketAccept(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.AbstractPlainSocketImpl.accept(AbstractPlainSocketImpl.java:409)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.ServerSocket.implAccept(ServerSocket.java:560)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.ServerSocket.accept(ServerSocket.java:528)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.RemoteControlListener.run(SourceFile:58)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #3
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:com.comphenix.protocol.injector.netty.ChannelInjector.inject(ChannelInjector.java:196)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector$$Lambda$3598/353064878.get$Lambda(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.invoke.LambdaForm$DMH/1136768342.invokeStatic_LL_L(LambdaForm$DMH)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.invoke.LambdaForm$MH/815320891.linkToTargetMethod(LambdaForm$MH)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector.executeInChannelThread(ChannelInjector.java:854)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector.inject(ChannelInjector.java:196)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector$$Lambda$3597/1811998422.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector.lambda$executeInChannelThread$4(ChannelInjector.java:856)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector$$Lambda$3598/353064878.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #2
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture$Signaller.block(CompletableFuture.java:1707)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3323)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture.waitingGet(CompletableFuture.java:1742)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.CompletableFuture.join(CompletableFuture.java:1947)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ChunkProviderServer.getChunkAt(ChunkProviderServer.java:86)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IChunkProvider.getChunkAt(SourceFile:16)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.World.getEntities(World.java:1003)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IEntityAccess.getEntities(SourceFile:34)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IEntityAccess.b(SourceFile:64)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.GeneratorAccess.b(SourceFile:83)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ICollisionAccess.c(SourceFile:71)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ICollisionAccess.a(SourceFile:61)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.ICollisionAccess.getCubes(SourceFile:57)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:1041)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PlayerConnection.a(PlayerConnection.java:919)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PacketPlayInFlying.a(SourceFile:122)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.PacketPlayInFlying$PacketPlayInPosition.a(SourceFile:56)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.a(NetworkManager.java:139)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.channelRead0(NetworkManager.java:128)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.channelRead0(NetworkManager.java:1)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:288)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector$2.channelRead(ChannelInjector.java:259)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:297)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:413)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:265)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #1
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 39 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.unix.FileDescriptor.writeAddress(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.unix.FileDescriptor.writeAddress(FileDescriptor.java:134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.AbstractEpollChannel.doWriteBytes(AbstractEpollChannel.java:361)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.AbstractEpollStreamChannel.writeBytes(AbstractEpollStreamChannel.java:274)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.AbstractEpollStreamChannel.doWriteSingle(AbstractEpollStreamChannel.java:483)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.AbstractEpollStreamChannel.doWrite(AbstractEpollStreamChannel.java:441)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannel$AbstractUnsafe.flush0(AbstractChannel.java:934)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.flush0(AbstractEpollChannel.java:516)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannel$AbstractUnsafe.flush(AbstractChannel.java:901)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline$HeadContext.flush(DefaultChannelPipeline.java:1396)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:776)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush(AbstractChannelHandlerContext.java:768)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.flush(AbstractChannelHandlerContext.java:749)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.ChannelDuplexHandler.flush(ChannelDuplexHandler.java:117)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:776)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush(AbstractChannelHandlerContext.java:768)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.flush(AbstractChannelHandlerContext.java:749)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:115)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:776)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush(AbstractChannelHandlerContext.java:768)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.flush(AbstractChannelHandlerContext.java:749)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:115)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:776)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush(AbstractChannelHandlerContext.java:768)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.flush(AbstractChannelHandlerContext.java:749)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:115)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:776)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:802)
+[21:17:52] [Server thread/INFO]: [MiaoBoard] Disabling MiaoBoard v2.5.0-git-fdf05fc1c0c21b8fb30cf99ccb58d20e396ebfc7
+[21:17:52] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.0
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1071)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:300)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelProxy.writeAndFlush(ChannelProxy.java:327)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.b(NetworkManager.java:177)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.sendPacket(NetworkManager.java:155)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.NetworkManager.exceptionCaught(NetworkManager.java:110)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:285)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.notifyHandlerException(AbstractChannelHandlerContext.java:850)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:364)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:288)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.comphenix.protocol.injector.netty.ChannelInjector$2.channelRead(ChannelInjector.java:259)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:310)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:284)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.LegacyPingHandler.channelRead(LegacyPingHandler.java:88)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1434)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:965)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:808)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:408)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:308)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: poi IO worker
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2425/1460420721.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: chunk IO worker
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2425/1460420721.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: poi IO worker
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 35 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2425/1460420721.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: chunk IO worker
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 34 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2425/1460420721.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: poi IO worker
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 33 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2425/1460420721.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: chunk IO worker
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 32 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.c(SourceFile:124)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker.d(SourceFile:134)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.IOWorker$$Lambda$2425/1460420721.run(Unknown Source)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: mysql-cj-abandoned-connection-cleanup
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 29 | Suspended: false | Native: false | State: TIMED_WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.mysql.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:80)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer-1
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 28 | Suspended: false | Native: false | State: TIMED_WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:552)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Timer-0
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.dumpThreads(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.getStackTrace(Thread.java:1549)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.runnables.MainThreadCheckTask.run(MainThreadCheckTask.java:55)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:555)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Netty Epoll Server IO #0
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 26 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.lang.ClassLoader.loadClass(ClassLoader.java:408)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.lang.ClassLoader.loadClass(ClassLoader.java:406)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ClassLoader.findBootstrapClass(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ClassLoader.findBootstrapClassOrNull(ClassLoader.java:1009)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(ClassLoader.java:408)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(ClassLoader.java:406)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ClassLoader.loadClass(ClassLoader.java:352)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.timeout.IdleStateHandler.newIdleStateEvent(IdleStateHandler.java:378)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.timeout.IdleStateHandler$ReaderIdleTimeoutTask.run(IdleStateHandler.java:493)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.handler.timeout.IdleStateHandler$AbstractIdleTask.run(IdleStateHandler.java:466)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.PromiseTask$RunnableAdapter.call(PromiseTask.java:38)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.ScheduledFutureTask.run(ScheduledFutureTask.java:125)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:313)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: ObjectCleanerThread
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 25 | Suspended: false | Native: false | State: TIMED_WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Metrics Thread
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 24 | Suspended: false | Native: true | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:264)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.PlainSocketImpl.socketConnect(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.net.Socket.connect(Socket.java:607)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:666)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1162)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1056)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1340)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1315)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.net.www.protocol.https.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:264)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.Metrics.postPlugin(Metrics.java:430)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.Metrics.access$4(Metrics.java:345)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.Metrics$1.run(Metrics.java:240)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:555)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Spigot Watchdog Thread
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 23 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:86)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Java2D Disposer
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.java2d.Disposer.run(Disposer.java:148)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Server console handler
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: true | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.FileInputStream.readBytes(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.FileInputStream.read(FileInputStream.java:255)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.BufferedInputStream.read(BufferedInputStream.java:265)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:248)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3183)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2333)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2269)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2257)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer$2.run(DedicatedServer.java:105)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: TerminalConsoleWriter
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 20 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.misc.Unsafe.park(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:31)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Server thread
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 14 | Suspended: false | Native: false | State: BLOCKED
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:org.bukkit.craftbukkit.v1_15_R1.LoggerOutputStream.flush(LoggerOutputStream.java:27)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.write(PrintStream.java:482)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:sun.nio.cs.StreamEncoder.flushBuffer(StreamEncoder.java:104)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.write(PrintStream.java:527)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		Locked on:java.io.PrintStream.println(PrintStream.java:806)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.rolling.RollingFileManager.checkRollover(RollingFileManager.java:217)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:207)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:156)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:129)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:120)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:84)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:448)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:433)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:417)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:403)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:63)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.Logger.logMessage(Logger.java:146)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2091)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:1988)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1960)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.apache.logging.log4j.spi.AbstractLogger.log(AbstractLogger.java:1629)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.LoggerOutputStream.flush(LoggerOutputStream.java:27)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.write(PrintStream.java:482)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:221)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:291)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		sun.nio.cs.StreamEncoder.flushBuffer(StreamEncoder.java:104)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.OutputStreamWriter.flushBuffer(OutputStreamWriter.java:185)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.write(PrintStream.java:527)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.print(PrintStream.java:669)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.io.PrintStream.println(PrintStream.java:806)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.command.CraftConsoleCommandSender.sendRawMessage(CraftConsoleCommandSender.java:28)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.command.CraftConsoleCommandSender.sendMessage(CraftConsoleCommandSender.java:23)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.command.ColouredConsoleSender.sendMessage(ColouredConsoleSender.java:61)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.bukkit.Log.sender(Log.java:328)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.kit.LogKit.send(LogKit.java:82)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.kit.LogKit.console(LogKit.java:70)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.managers.MonitorManager.log(MonitorManager.java:93)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.managers.MonitorManager.lagTip(MonitorManager.java:88)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		pw.yumc.Yum.inject.ListenerInjector.execute(ListenerInjector.java:102)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:370)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.v1_15_R1.CraftServer.disablePlugins(CraftServer.java:398)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.stop(MinecraftServer.java:699)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer.stop(DedicatedServer.java:696)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:864)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.run(Thread.java:748)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Server Infinisleeper
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 17 | Suspended: false | Native: false | State: TIMED_WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Thread.sleep(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		net.minecraft.server.v1_15_R1.DedicatedServer$1.run(DedicatedServer.java:70)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Snooper Timer
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 13 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.10.4
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Object.java:502)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.mainLoop(Timer.java:526)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.util.TimerThread.run(Timer.java:505)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 5 | Suspended: false | Native: false | State: RUNNABLE
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Finalizer
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 3 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:144)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:165)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:216)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Spigot Watchdog Thread/ERROR]: Current Thread: Reference Handler
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	PID: 2 | Suspended: false | Native: false | State: WAITING
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 	Stack:
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Native Method)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.Object.wait(Object.java:502)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: 		java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+[21:17:52] [Spigot Watchdog Thread/ERROR]: ------------------------------
+[21:17:52] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.0.1
+[21:17:52] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[21:17:52] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[21:17:52] [Server thread/INFO]: [EzWhiteList] Disabling EzWhiteList v1.1-release
+[21:17:52] [Server thread/INFO]: EzWL >> 保存数据
+[21:17:52] [Server thread/INFO]: EzWL >> 保存完毕
+[21:17:52] [Server thread/INFO]: [Yum] Disabling Yum v2.9.0-git-37fb899e955eb1e5ff153931783357bc5ff6a186
+[21:17:52] [Server thread/INFO]: Saving players
+[21:17:52] [Server thread/INFO]: MAX_XiaoKui lost connection: Server closed
+[21:17:52] [Server thread/INFO]: MAX_XiaoKui left the game
+[21:17:52] [Server thread/INFO]: Saving worlds
+[21:17:52] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:overworld
+[21:17:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[21:17:57] [Server thread/INFO]: Saving chunks for level 'skimit_nether'/minecraft:the_nether
+[21:17:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:17:57] [Server thread/INFO]: Saving chunks for level 'skimit_the_end'/minecraft:the_end
+[21:17:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:17:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[21:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:17:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

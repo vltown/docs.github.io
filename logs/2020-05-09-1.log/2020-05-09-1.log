@@ -1,0 +1,58 @@
+[00:34:49] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-09_00-34-49
+[00:34:49] [Server thread/INFO]: [TextileBackup]: Saving server...
+[00:34:49] [Thread-70/INFO]: [TextileBackup]: Starting compression...
+[00:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[00:35:49] [Thread-70/INFO]: [TextileBackup]: Compression finished
+[00:35:49] [Thread-70/INFO]: [TextileBackup]: Deleting: 2020-05-08_14-34-51.zip
+[00:35:49] [Thread-70/INFO]: [TextileBackup]: Done!
+[01:34:49] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-09_01-34-49
+[01:34:49] [Server thread/INFO]: [TextileBackup]: Saving server...
+[01:34:50] [Thread-71/INFO]: [TextileBackup]: Starting compression...
+[01:35:44] [Thread-71/INFO]: [TextileBackup]: Compression finished
+[01:35:44] [Thread-71/INFO]: [TextileBackup]: Deleting: 2020-05-08_15-34-49.zip
+[01:35:44] [Thread-71/INFO]: [TextileBackup]: Done!
+[02:34:49] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-09_02-34-49
+[02:34:49] [Server thread/INFO]: [TextileBackup]: Saving server...
+[02:34:49] [Thread-72/INFO]: [TextileBackup]: Starting compression...
+[02:35:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[02:36:01] [Thread-72/INFO]: [TextileBackup]: Compression finished
+[02:36:01] [Thread-72/INFO]: [TextileBackup]: Deleting: 2020-05-08_16-34-52.zip
+[02:36:01] [Thread-72/INFO]: [TextileBackup]: Done!
+[03:34:49] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-09_03-34-49
+[03:34:49] [Server thread/INFO]: [TextileBackup]: Saving server...
+[03:34:49] [Thread-73/INFO]: [TextileBackup]: Starting compression...
+[03:35:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3544ms or 70 ticks behind
+[03:35:48] [Thread-73/INFO]: [TextileBackup]: Compression finished
+[03:35:48] [Thread-73/INFO]: [TextileBackup]: Deleting: 2020-05-08_17-34-49.zip
+[03:35:48] [Thread-73/INFO]: [TextileBackup]: Done!
+[04:34:49] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-09_04-34-49
+[04:34:49] [Server thread/INFO]: [TextileBackup]: Saving server...
+[04:34:49] [Thread-74/INFO]: [TextileBackup]: Starting compression...
+[04:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[04:35:49] [Thread-74/INFO]: [TextileBackup]: Compression finished
+[04:35:49] [Thread-74/INFO]: [TextileBackup]: Deleting: 2020-05-08_18-34-49.zip
+[04:35:49] [Thread-74/INFO]: [TextileBackup]: Done!
+[05:25:01] [Server thread/INFO]: [Server] 服务器将在5分钟后关闭备份存档，6:01继续开启
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-09_05-30-01
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Saving server...
+[05:30:01] [Thread-75/INFO]: [TextileBackup]: Starting compression...
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:52] [Thread-75/INFO]: [TextileBackup]: Compression finished
+[05:30:52] [Thread-75/INFO]: [TextileBackup]: Deleting: 2020-05-08_19-34-49.zip
+[05:30:52] [Thread-75/INFO]: [TextileBackup]: Done!

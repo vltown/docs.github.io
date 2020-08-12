@@ -1,0 +1,129 @@
+[00:41:36] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-07_00-41-36
+[00:41:36] [Server thread/INFO]: [TextileBackup]: Saving server...
+[00:41:36] [Thread-69/INFO]: [TextileBackup]: Starting compression...
+[00:41:51] [Thread-69/INFO]: [TextileBackup]: Compression finished
+[00:41:51] [Thread-69/INFO]: [TextileBackup]: Deleting: 2020-06-06_14-41-36.zip
+[00:41:51] [Thread-69/INFO]: [TextileBackup]: Done!
+[01:41:36] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-07_01-41-36
+[01:41:36] [Server thread/INFO]: [TextileBackup]: Saving server...
+[01:41:36] [Thread-70/INFO]: [TextileBackup]: Starting compression...
+[01:41:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[01:41:57] [Thread-70/INFO]: [TextileBackup]: Compression finished
+[01:41:57] [Thread-70/INFO]: [TextileBackup]: Deleting: 2020-06-06_15-41-36.zip
+[01:41:57] [Thread-70/INFO]: [TextileBackup]: Done!
+[02:17:29] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:36] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:36] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:37] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:37] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:37] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:38] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:38] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:38] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:39] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:39] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:39] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:39] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:40] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:40] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:40] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:41] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:41] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:41] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:42] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:42] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:42] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:42] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:43] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:43] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:43] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:44] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:44] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:44] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:45] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:45] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:45] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:46] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:46] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:46] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:47] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:47] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:47] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:48] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:48] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:48] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:48] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:49] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:49] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:49] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:50] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:50] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:50] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:51] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:51] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:51] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:52] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:52] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:52] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:52] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:53] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:53] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:53] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:54] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:54] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:54] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:55] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:55] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:55] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:55] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:56] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:56] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:56] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:17:57] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:18:04] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:18:04] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:18:14] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:18:14] [RCON Listener #1/INFO]: Rcon connection from: /139.224.136.79
+[02:41:36] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-07_02-41-36
+[02:41:36] [Server thread/INFO]: [TextileBackup]: Saving server...
+[02:41:38] [Thread-71/INFO]: [TextileBackup]: Starting compression...
+[02:41:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02:41:49] [Thread-71/INFO]: [TextileBackup]: Compression finished
+[02:41:49] [Thread-71/INFO]: [TextileBackup]: Deleting: 2020-06-06_16-41-37.zip
+[02:41:49] [Thread-71/INFO]: [TextileBackup]: Done!
+[03:41:36] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-07_03-41-36
+[03:41:36] [Server thread/INFO]: [TextileBackup]: Saving server...
+[03:41:37] [Thread-72/INFO]: [TextileBackup]: Starting compression...
+[03:41:55] [Thread-72/INFO]: [TextileBackup]: Compression finished
+[03:41:55] [Thread-72/INFO]: [TextileBackup]: Deleting: 2020-06-06_17-41-36.zip
+[03:41:56] [Thread-72/INFO]: [TextileBackup]: Done!
+[04:41:36] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-07_04-41-36
+[04:41:36] [Server thread/INFO]: [TextileBackup]: Saving server...
+[04:41:37] [Thread-73/INFO]: [TextileBackup]: Starting compression...
+[04:41:50] [Thread-73/INFO]: [TextileBackup]: Compression finished
+[04:41:50] [Thread-73/INFO]: [TextileBackup]: Deleting: 2020-06-06_18-41-36.zip
+[04:41:50] [Thread-73/INFO]: [TextileBackup]: Done!
+[05:25:01] [Server thread/INFO]: [Server] 服务器将在5分钟后关闭备份存档，6:01继续开启
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:02] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-07_05-30-02
+[05:30:02] [Server thread/INFO]: [TextileBackup]: Saving server...
+[05:30:02] [Thread-74/INFO]: [TextileBackup]: Starting compression...
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:12] [Thread-74/INFO]: [TextileBackup]: Compression finished
+[05:30:12] [Thread-74/INFO]: [TextileBackup]: Deleting: 2020-06-06_19-41-37.zip
+[05:30:12] [Thread-74/INFO]: [TextileBackup]: Done!

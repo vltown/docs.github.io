@@ -1,0 +1,30 @@
+[01:06:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3197ms or 63 ticks behind
+[01:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2888ms or 57 ticks behind
+[01:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
+[01:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3848ms or 76 ticks behind
+[01:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[01:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[01:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6180ms or 123 ticks behind
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-19_05-30-01
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Saving server...
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Thread-52/INFO]: [TextileBackup]: Starting compression...
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[05:30:44] [Thread-52/INFO]: [TextileBackup]: Compression finished
+[05:30:44] [Thread-52/INFO]: [TextileBackup]: Deleting: 2020-04-18_14-10-55.zip
+[05:30:44] [Thread-52/INFO]: [TextileBackup]: Done!

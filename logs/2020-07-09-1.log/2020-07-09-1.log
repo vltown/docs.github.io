@@ -1,0 +1,205 @@
+[00:04:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[00:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2831ms or 56 ticks behind
+[00:11:02] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-09_00-11-02
+[00:11:02] [Server thread/INFO]: Saving server...
+[00:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:11:04] [Thread-294/INFO]: Starting backup
+[00:11:04] [Thread-294/INFO]: Starting compression...
+[00:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[00:11:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11368ms or 227 ticks behind
+[00:11:42] [Thread-294/INFO]: Compression took: 38.2514056s
+[00:11:42] [Thread-294/INFO]: Deleting: 2020-07-08_16-11-05.zip
+[00:11:42] [Thread-294/INFO]: Done!
+[00:19:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[00:22:18] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:55233] logged in with entity id 73717 at (-601.6276, 202.0, 1187.3387)
+[00:22:18] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:22:18] [Server thread/INFO]: MAX_XiaoKui joined the game
+[00:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[00:23:12] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[00:23:12] [Server thread/INFO]: MAX_XiaoKui left the game
+[00:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[00:24:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2132ms or 42 ticks behind
+[00:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
+[00:31:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/75062, l='ServerLevel[world]', x=-578.41, y=73.00, z=1179.41]
+[00:32:34] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:55472] logged in with entity id 75202 at (-582.5, 201.0, 1184.5)
+[00:32:34] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:32:34] [Server thread/INFO]: MAX_XiaoKui joined the game
+[00:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
+[00:39:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[00:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11070ms or 221 ticks behind
+[00:40:36] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[00:40:36] [Server thread/INFO]: MAX_XiaoKui left the game
+[00:40:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[00:43:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[00:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[00:49:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78147, l='ServerLevel[world]', x=-585.59, y=73.00, z=1191.59]
+[00:49:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[00:55:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/79052, l='ServerLevel[world]', x=-586.58, y=73.00, z=1179.42]
+[00:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[00:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[00:57:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[01:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2262ms or 45 ticks behind
+[01:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[01:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[01:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-09_01-11-03
+[01:11:03] [Server thread/INFO]: Saving server...
+[01:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:11:04] [Thread-325/INFO]: Starting backup
+[01:11:04] [Thread-325/INFO]: Starting compression...
+[01:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[01:11:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11338ms or 226 ticks behind
+[01:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6219ms or 124 ticks behind
+[01:12:01] [Thread-325/INFO]: Compression took: 56.9291975s
+[01:12:01] [Thread-325/INFO]: Deleting: 2020-07-08_17-11-05.zip
+[01:12:01] [Thread-325/INFO]: Done!
+[01:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2406ms or 48 ticks behind
+[01:20:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[01:20:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/82893, l='ServerLevel[world]', x=-588.58, y=73.00, z=1189.58]
+[01:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[01:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[01:31:25] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:56777] logged in with entity id 84418 at (-564.81934, 63.5, 1192.8055)
+[01:31:25] [Server thread/INFO]: MAX_XiaoKui joined the game
+[01:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2158ms or 43 ticks behind
+[01:31:25] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[01:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4307ms or 86 ticks behind
+[01:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4365ms or 87 ticks behind
+[01:32:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11149ms or 222 ticks behind
+[01:33:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[01:33:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[01:34:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[01:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4020ms or 80 ticks behind
+[01:36:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[01:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3947ms or 78 ticks behind
+[01:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[01:43:02] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[01:43:02] [Server thread/INFO]: MAX_XiaoKui left the game
+[01:43:15] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57037] logged in with entity id 86887 at (-70.14984, 129.0, 144.73863)
+[01:43:15] [Server thread/INFO]: MAX_XiaoKui joined the game
+[01:43:16] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[01:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[01:43:26] [Netty Server IO #0/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[01:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[01:44:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3305ms or 66 ticks behind
+[01:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7138ms or 142 ticks behind
+[01:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6924ms or 138 ticks behind
+[01:45:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4074ms or 81 ticks behind
+[01:46:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3368ms or 67 ticks behind
+[01:46:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4210ms or 84 ticks behind
+[01:46:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[01:46:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4017ms or 80 ticks behind
+[01:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7541ms or 150 ticks behind
+[01:47:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3975ms or 79 ticks behind
+[01:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5146ms or 102 ticks behind
+[01:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4718ms or 94 ticks behind
+[01:48:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
+[01:52:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3357ms or 67 ticks behind
+[01:56:04] [Server thread/INFO]: <MAX_XiaoKui> 行
+[01:56:30] [Server thread/INFO]: <MAX_XiaoKui> 几点
+[01:57:07] [Server thread/INFO]: <MAX_XiaoKui> 我可能得下午，或者我玩不了，因为我要写作业
+[01:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[01:59:23] [Server thread/INFO]: <MAX_XiaoKui> ???
+[02:00:17] [Server thread/INFO]: <MAX_XiaoKui> 能考啥……
+[02:00:23] [Server thread/INFO]: <MAX_XiaoKui> 能考啥……
+[02:01:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[02:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[02:02:34] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[02:02:34] [Server thread/INFO]: MAX_XiaoKui left the game
+[02:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[02:03:18] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57483] logged in with entity id 92200 at (-564.9487556573687, 63.5, 1185.575996449831)
+[02:03:18] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[02:03:18] [Server thread/INFO]: MAX_XiaoKui joined the game
+[02:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[02:03:44] [Server thread/INFO]: <MAX_XiaoKui> en
+[02:07:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[02:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-09_02-11-03
+[02:11:03] [Server thread/INFO]: Saving server...
+[02:11:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:11:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[02:11:05] [Thread-362/INFO]: Starting backup
+[02:11:05] [Thread-362/INFO]: Starting compression...
+[02:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11962ms or 239 ticks behind
+[02:11:48] [Thread-362/INFO]: Compression took: 42.7510493s
+[02:11:48] [Thread-362/INFO]: Deleting: 2020-07-08_18-11-05.zip
+[02:11:48] [Thread-362/INFO]: Done!
+[02:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[02:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3867ms or 77 ticks behind
+[02:18:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2794ms or 55 ticks behind
+[02:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3598ms or 71 ticks behind
+[02:24:24] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[02:24:24] [Server thread/INFO]: MAX_XiaoKui left the game
+[02:28:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[02:42:18] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:58399] logged in with entity id 98185 at (-582.5262, 201.0, 1185.29)
+[02:42:18] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[02:42:18] [Server thread/INFO]: MAX_XiaoKui joined the game
+[02:42:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[02:42:28] [Netty Server IO #0/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[02:55:50] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[02:55:50] [Server thread/INFO]: MAX_XiaoKui left the game
+[03:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-09_03-11-03
+[03:11:03] [Server thread/INFO]: Saving server...
+[03:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:11:04] [Thread-394/INFO]: Starting backup
+[03:11:04] [Thread-394/INFO]: Starting compression...
+[03:11:24] [Thread-394/INFO]: Compression took: 19.6394767s
+[03:11:24] [Thread-394/INFO]: Deleting: 2020-07-08_19-11-05.zip
+[03:11:24] [Thread-394/INFO]: Done!
+[04:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-09_04-11-03
+[04:11:03] [Server thread/INFO]: Saving server...
+[04:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:11:03] [Thread-423/INFO]: Starting backup
+[04:11:03] [Thread-423/INFO]: Starting compression...
+[04:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[04:11:25] [Thread-423/INFO]: Compression took: 21.8578668s
+[04:11:25] [Thread-423/INFO]: Deleting: 2020-07-08_20-11-04.zip
+[04:11:25] [Thread-423/INFO]: Done!
+[04:40:02] [RCON Listener #1/INFO]: Thread RCON Client /49.233.213.214 started
+[04:40:33] [RCON Client /49.233.213.214 #2/INFO]: Thread RCON Client /49.233.213.214 shutting down
+[05:11:03] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-09_05-11-03
+[05:11:03] [Server thread/INFO]: Saving server...
+[05:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:11:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:11:04] [Thread-452/INFO]: Starting backup
+[05:11:04] [Thread-452/INFO]: Starting compression...
+[05:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[05:11:27] [Thread-452/INFO]: Compression took: 22.2471296s
+[05:11:27] [Thread-452/INFO]: Deleting: 2020-07-08_21-11-04.zip
+[05:11:27] [Thread-452/INFO]: Done!
+[05:17:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123358, l='ServerLevel[world]', x=-589.59, y=73.00, z=1188.59]
+[05:25:01] [Server thread/INFO]: [Server] 服务器将在5分钟后关闭备份存档，6:01继续开启
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-09_05-30-01
+[05:30:01] [Server thread/INFO]: Saving server...
+[05:30:01] [Thread-465/INFO]: Starting backup
+[05:30:01] [Thread-465/INFO]: Starting compression...
+[05:30:09] [Thread-465/INFO]: Compression took: 7.7510509s
+[05:30:09] [Thread-465/INFO]: Deleting: 2020-07-08_22-11-04.zip
+[05:30:09] [Thread-465/INFO]: Done!
+[05:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:09] [Server thread/INFO]: Thread RCON Listener stopped

@@ -1,0 +1,482 @@
+[17:10:14] [main/INFO]: Loading for game Minecraft 1.16.1
+[17:10:19] [main/INFO]: [FabricLoader] Loading 51 mods: fabric-renderer-api-v1@0.2.13+eae12eb87c, fabric-keybindings-v0@0.2.0+3fa9f7c57c, fabricloader@0.8.8+build.202, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f7c, lithium@0.5.0, fabric-dimensions-v1@1.0.0+a71b30537c, fabric-object-builder-api-v1@1.5.5+e00ecb5f7c, fabric-api-base@0.1.3+12a8474c7c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d7c, fabric-textures-v0@1.0.4+eae12eb87c, fabric-rendering-fluids-v1@0.1.7+12a8474c7c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea897c, fabric-renderer-registries-v1@2.0.1+5a0f9a607c, carpet-extra@1.4.0, fabric-loot-tables-v1@0.1.10+059ea8667c, fabric@0.13.1+build.370-1.16, carpet@1.4.0, fabric-particles-v1@0.2.1+0a6f2a707c, fabric-networking-v0@0.1.10+e00ecb5f7c, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b7c, minecraft@1.16.1, fabric-screen-handler-api-v1@1.0.1+f362c86e7c, here@0.0.8-mc1.16, fabric-command-api-v1@1.0.8+5ce533987c, jankson@3.0.0+j1.2.0, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.1.4+5794386e7c, fabric-renderer-indigo@0.3.1+059ea8667c, org_apache_commons_commons-compress@1.19, fabric-biomes-v1@0.2.7+059ea8667c, fabric-events-interaction-v0@0.3.3+7066030f7c, fabric-crash-report-info-v1@0.1.2+b7f9825d7c, fabric-rendering-v0@1.1.0+534104907c, fabric-key-binding-api-v1@1.0.0+e16a97747c, fabric-rendering-v1@1.1.2+346247d77c, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.5+059ea8667c, fabric-content-registries-v0@0.1.9+059ea8667c, fabric-tag-extensions-v0@0.2.5+5a6e8f4c7c, fabric-registry-sync-v0@0.3.8+7dba2d6c7c, fabric-commands-v0@0.2.0+52d308367c, textile_backup@1.2.3-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce997c, fabric-events-lifecycle-v0@0.1.3+0d474ec47c, fabric-models-v0@0.1.0+dfdb52d67c, fabric-item-groups-v0@0.2.0+438f96367c, fabric-object-builders-v0@0.6.0+da175ad67c
+[17:10:19] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[17:10:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[17:10:25] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-v0.mixins.json:MixinEntityTracker and should be specified in value
+[17:10:29] [main/WARN]: @Mixin target net[17:11:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[17:11:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:11:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:11:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:11:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:11:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:11:24] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1)
+[17:11:31] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:11:33] [Worker-Main-2/INFO]: Loaded 927 advancements
+[17:11:38] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:dimension_type, minecraft:chunk_generator_type
+[17:11:38] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[17:11:44] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[17:11:44] [Server thread/INFO]: Loading properties
+[17:11:44] [Server thread/INFO]: Default game type: SURVIVAL
+[17:11:44] [Server thread/INFO]: Generating keypair
+[17:11:45] [Server thread/INFO]: Starting Minecraft server on *:26565
+[17:11:45] [Server thread/INFO]: Using default channel type
+[17:11:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:11:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:11:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:11:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:12:00] [Server thread/INFO]: Preparing level "world"
+[17:12:01] [Server thread/ERROR]: [CM]: Carpet Mod Setting commandCameramode is not a valid - ignoring...
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[17:12:01] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[17:12:12] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[17:12:12] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[17:12:12] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[17:12:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:00] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:13:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:13:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:13:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 0%
+[17:13:15] [Server thread/INFO]: Preparing spawn area: 83%
+[17:13:17] [Server thread/INFO]: Preparing spawn area: 83%
+[17:13:17] [Server thread/INFO]: Preparing spawn area: 83%
+[17:13:17] [Server thread/INFO]: Preparing spawn area: 83%
+[17:13:17] [Server thread/INFO]: Preparing spawn area: 83%
+[17:13:24] [Server thread/INFO]: Time elapsed: 71764 ms
+[17:13:24] [Server thread/INFO]: Done (83.108s)! For help, type "help"
+[17:13:24] [Server thread/INFO]: Starting remote control listener
+[17:13:24] [Server thread/INFO]: Thread RCON Listener started
+[17:13:24] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[17:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3318ms or 66 ticks behind
+[17:13:49] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:60483] logged in with entity id 248 at (-390.5, 70.0, 507.350463244122)
+[17:13:49] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:13:49] [Server thread/INFO]: na2hco3_CN joined the game
+[17:13:52] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-17_17-13-52
+[17:13:52] [Server thread/INFO]: Saving server...
+[17:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:14:02] [Thread-60/INFO]: Starting backup
+[17:14:05] [Thread-60/INFO]: Starting compression...
+[17:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38358ms or 767 ticks behind
+[17:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30345ms or 606 ticks behind
+[17:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16753ms or 335 ticks behind
+[17:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[17:16:46] [Thread-60/INFO]: Compression took: 160.3922657s
+[17:16:46] [Thread-60/INFO]: Deleting: 2020-07-17_13-51-50.zip
+[17:16:46] [Thread-60/INFO]: Done!
+[17:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17:19:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[17:23:22] [Server thread/INFO]: <na2hco3_CN> 混凝土
+[17:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[17:36:07] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[17:36:07] [Server thread/INFO]: na2hco3_CN left the game
+[17:40:19] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:61126] logged in with entity id 9736 at (-352.6702297715983, 79.0, 529.7016608206804)
+[17:40:19] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:40:19] [Server thread/INFO]: na2hco3_CN joined the game
+[17:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[17:48:16] [Server thread/INFO]: <na2hco3_CN> 等等
+[17:48:28] [Server thread/INFO]: <na2hco3_CN> 铁镐能挖黑曜石了？？？
+[17:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[18:07:24] [Server thread/INFO]: <na2hco3_CN> 你们会
+[18:07:33] [Server thread/INFO]: <na2hco3_CN> 计数红石么
+[18:08:25] [Server thread/INFO]: <na2hco3_CN> 收到多少次脉冲就发出一次脉冲
+[18:09:35] [Server thread/INFO]: <na2hco3_CN> 我现在就差这个了
+[18:09:47] [Server thread/INFO]: <na2hco3_CN> 要不然他那天
+[18:09:50] [Server thread/INFO]: <na2hco3_CN> tnt
+[18:10:04] [Server thread/INFO]: <na2hco3_CN> 会炸膛
+[18:12:03] [Server thread/INFO]: <na2hco3_CN> 你家的混凝土机可能得巨大无比还效率低了
+[18:13:39] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-17_18-13-39
+[18:13:39] [Server thread/INFO]: Saving server...
+[18:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:13:41] [Thread-98/INFO]: Starting backup
+[18:13:41] [Thread-98/INFO]: Starting compression...
+[18:14:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
+[18:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3083ms or 61 ticks behind
+[18:14:24] [Thread-98/INFO]: Compression took: 42.4379071s
+[18:14:24] [Thread-98/INFO]: Deleting: 2020-07-17_14-55-10.zip
+[18:14:24] [Thread-98/INFO]: Done!
+[18:14:41] [Server thread/INFO]: <na2hco3_CN> 有啥不能被强充能还能被活塞推动的方块啊
+[18:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[18:15:21] [Server thread/INFO]: <na2hco3_CN> 楼梯行吗
+[18:15:26] [Server thread/INFO]: <na2hco3_CN> 玻璃找不到
+[18:25:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:27:37] [Server thread/INFO]: <na2hco3_CN> 计时器啊
+[18:28:05] [Server thread/INFO]: <na2hco3_CN> 我想直接放粉末就行
+[18:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[18:45:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18:48:07] [Server thread/INFO]: <na2hco3_CN> 算了
+[18:48:12] [Server thread/INFO]: <na2hco3_CN> 计时器把
+[18:48:14] [Server thread/INFO]: <na2hco3_CN> 吧
+[18:48:24] [Server thread/INFO]: <na2hco3_CN> 用踏板不好么
+[18:48:49] [Server thread/INFO]: <na2hco3_CN> 那计时器咋搞
+[18:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3400ms or 68 ticks behind
+[18:49:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
+[18:49:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[18:50:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[19:13:39] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-17_19-13-39
+[19:13:39] [Server thread/INFO]: Saving server...
+[19:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:13:41] [Thread-136/INFO]: Starting backup
+[19:13:41] [Thread-136/INFO]: Starting compression...
+[19:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[19:14:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[19:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5483ms or 109 ticks behind
+[19:14:29] [Thread-136/INFO]: Compression took: 47.4275417s
+[19:14:29] [Thread-136/INFO]: Deleting: 2020-07-17_15-55-20.zip
+[19:14:29] [Thread-136/INFO]: Done!
+[19:18:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/55257, l='ServerLevel[world]', x=-356.50, y=72.00, z=525.50]
+[19:20:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[19:21:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/56940, l='ServerLevel[world]', x=-356.50, y=72.00, z=525.50]
+[19:21:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/56961, l='ServerLevel[world]', x=-356.50, y=72.00, z=525.50]
+[19:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2388ms or 47 ticks behind
+[19:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9834ms or 196 ticks behind
+[19:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[19:42:31] [Server thread/INFO]: <na2hco3_CN> 怎么把侦测器的两次合成一次啊
+[20:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[20:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[20:12:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/82762, l='ServerLevel[world]', x=-356.50, y=71.38, z=525.51]
+[20:13:39] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-17_20-13-39
+[20:13:39] [Server thread/INFO]: Saving server...
+[20:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:13:40] [Thread-176/INFO]: Starting backup
+[20:13:40] [Thread-176/INFO]: Starting compression...
+[20:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
+[20:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6572ms or 131 ticks behind
+[20:14:31] [Thread-176/INFO]: Compression took: 51.0668375s
+[20:14:31] [Thread-176/INFO]: Deleting: 2020-07-17_16-55-04.zip
+[20:14:31] [Thread-176/INFO]: Done!
+[20:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[20:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[20:26:58] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:65383] logged in with entity id 90286 at (-367.5469351080652, 78.0, 560.0968874651867)
+[20:26:58] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:26:58] [Server thread/INFO]: MAX_ShouWang joined the game
+[20:27:09] [Netty Server IO #1/INFO]: Player MAX_ShouWang joined with a matching carpet client
+[20:31:39] [Server thread/INFO]: <MAX_ShouWang> ppk
+[20:32:04] [Server thread/INFO]: <MAX_ShouWang> 惡魂之淚是沒了嗎
+[20:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[20:39:14] [Server thread/INFO]: <MAX_ShouWang> 直接按按鈕？
+[20:41:19] [Server thread/INFO]: <MAX_ShouWang> 就問下
+[20:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[20:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[20:56:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2543ms or 50 ticks behind
+[20:59:03] [Server thread/INFO]: MAX_ShouWang was blown up by Creeper
+[20:59:10] [Server thread/INFO]: <MAX_ShouWang> ?
+[20:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:59:41] [Server thread/INFO]: <MAX_ShouWang> 突然去世
+[20:59:52] [Server thread/INFO]: MAX_ShouWang fell from a high place
+[21:00:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2627ms or 52 ticks behind
+[21:00:41] [Server thread/INFO]: <na2hco3_CN> ???
+[21:01:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[21:03:41] [Server thread/INFO]: <na2hco3_CN> 大哥
+[21:03:47] [Server thread/INFO]: <na2hco3_CN> 过来修下
+[21:03:56] [Server thread/INFO]: <MAX_ShouWang> ...
+[21:04:06] [Server thread/INFO]: <MAX_ShouWang> 不在我這。。。
+[21:04:16] [Server thread/INFO]: <na2hco3_CN> 漏斗和箱子？？
+[21:04:47] [Server thread/INFO]: <MAX_ShouWang> 是不是我死的時候你那邊炸了一下
+[21:05:01] [Server thread/INFO]: <na2hco3_CN> 不知道
+[21:09:07] [Server thread/INFO]: <MAX_ShouWang> ppk
+[21:09:27] [Server thread/INFO]: <MAX_ShouWang> 那個自動切換道具在哪關
+[21:12:54] [Server thread/INFO]: <na2hco3_CN> tnt稳定性测试
+[21:13:39] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-17_21-13-39
+[21:13:39] [Server thread/INFO]: Saving server...
+[21:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:13:41] [Thread-222/INFO]: Starting backup
+[21:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[21:13:41] [Thread-222/INFO]: Starting compression...
+[21:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7983ms or 159 ticks behind
+[21:14:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-359, y=71, z=524} class_2338{x=-359, y=70, z=524}
+[21:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6982ms or 139 ticks behind
+[21:14:53] [Thread-222/INFO]: Compression took: 71.9391476s
+[21:14:54] [Thread-222/INFO]: Deleting: 2020-07-17_17-14-02.zip
+[21:14:54] [Thread-222/INFO]: Done!
+[21:16:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
+[21:18:07] [Server thread/INFO]: <MAX_ShouWang> ppk，我剛才隨便丟顆珍珠丟出個蟎蟲
+[21:19:16] [Server thread/INFO]: <MAX_ShouWang> 然後他被終界使者乾死了
+[21:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[21:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[21:28:37] [Server thread/INFO]: <MAX_ShouWang> 有人開電話嗎
+[21:30:47] [Server thread/INFO]: <na2hco3_CN> @群主
+[21:30:53] [Server thread/INFO]: <na2hco3_CN> 成了
+[21:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[21:32:09] [Server thread/INFO]: <MAX_ShouWang> 現在就有人@ChengXi123
+[21:32:31] [Server thread/INFO]: <MAX_ShouWang> 我11點都下線了
+[21:34:26] [Server thread/INFO]: <na2hco3_CN> 这效率还是不太行
+[21:34:40] [Server thread/INFO]: <na2hco3_CN> 单排tnt炸不过来
+[21:35:05] [Server thread/INFO]: <na2hco3_CN> 我懒得改了
+[21:35:18] [Server thread/INFO]: <na2hco3_CN> 反正比之前能用了
+[21:37:03] [Server thread/INFO]: <MAX_ShouWang> 伺服器有optfine（是這麼拼吧）嗎？
+[21:37:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2426ms or 48 ticks behind
+[21:40:35] [Server thread/INFO]: <MAX_ShouWang> 說噶
+[21:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[21:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[21:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
+[21:45:17] [Server thread/INFO]: <MAX_ShouWang> 這個淘過黑夜的機制是啥
+[21:47:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[21:51:25] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[21:51:25] [Server thread/INFO]: na2hco3_CN left the game
+[21:51:27] [Server thread/INFO]: ChengXi123[/127.0.0.1:51201] logged in with entity id 131511 at (-57.810128104952774, 128.0, 69.85498496300114)
+[21:51:27] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:51:27] [Server thread/INFO]: ChengXi123 joined the game
+[21:51:31] [Netty Server IO #1/INFO]: Player ChengXi123 joined with a matching carpet client
+[21:51:49] [Server thread/INFO]: <ChengXi123> 我来了
+[21:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[21:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
+[21:53:54] [Server thread/INFO]: <MAX_ShouWang> 晨曦你在哪
+[21:54:14] [Server thread/INFO]: <ChengXi123> 我叫承希
+[21:54:25] [Server thread/INFO]: <MAX_ShouWang> 不管了
+[21:54:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/133270, l='ServerLevel[world]', x=-57.52, y=129.69, z=68.49]
+[21:55:20] [Server thread/INFO]: <ChengXi123> 我在地狱
+[21:55:39] [Server thread/INFO]: <MAX_ShouWang> 我打cx第一個就是晨曦
+[21:55:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[21:56:15] [Server thread/INFO]: <MAX_ShouWang> 這是在破基岩？
+[21:56:54] [Server thread/INFO]: <MAX_ShouWang> emmm
+[21:57:45] [Server thread/INFO]: <MAX_ShouWang> 地獄門炸了
+[21:58:24] [Server thread/INFO]: <MAX_ShouWang> 破基岩的時候
+[21:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[22:01:15] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[22:01:15] [Server thread/INFO]: ChengXi123 left the game
+[22:01:15] [Server thread/WARN]: handleDisconnection() called twice
+[22:01:28] [Server thread/INFO]: ChengXi123[/127.0.0.1:51464] logged in with entity id 135705 at (-55.854411143025864, 128.0, 67.58912942361104)
+[22:01:28] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:01:28] [Server thread/INFO]: ChengXi123 joined the game
+[22:01:29] [Netty Server IO #1/INFO]: Player ChengXi123 joined with a matching carpet client
+[22:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3691ms or 73 ticks behind
+[22:02:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[22:03:37] [Server thread/INFO]: MAX_ShouWang fell off a ladder
+[22:03:50] [Server thread/INFO]: <MAX_ShouWang> ..
+[22:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
+[22:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[22:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5659ms or 113 ticks behind
+[22:04:52] [Server thread/INFO]: Plants352039[/127.0.0.1:51549] logged in with entity id 138983 at (-366.867140597638, 70.0, 519.7983217040635)
+[22:04:52] [Server thread/INFO]: Plants352039 joined the game
+[22:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4263ms or 85 ticks behind
+[22:04:53] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:05:07] [Server thread/INFO]: Plants352039 lost connection: Timed out
+[22:05:07] [Server thread/INFO]: Plants352039 left the game
+[22:05:07] [Server thread/WARN]: handleDisconnection() called twice
+[22:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9423ms or 188 ticks behind
+[22:05:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[22:05:40] [Server thread/INFO]: Plants352039[/127.0.0.1:51571] logged in with entity id 139538 at (-366.867140597638, 70.0, 519.7983217040635)
+[22:05:40] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:05:40] [Server thread/INFO]: Plants352039 joined the game
+[22:05:45] [Netty Server IO #0/INFO]: Player Plants352039 joined with a matching carpet client
+[22:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35873ms or 717 ticks behind
+[22:07:00] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[22:07:00] [Server thread/INFO]: MAX_ShouWang left the game
+[22:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21118ms or 422 ticks behind
+[22:07:10] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:51614] logged in with entity id 140461 at (-566.166636903702, 63.5, 1195.6765552699264)
+[22:07:10] [Server thread/INFO]: MAX_ShouWang joined the game
+[22:07:10] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11596ms or 231 ticks behind
+[22:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13330ms or 266 ticks behind
+[22:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12258ms or 245 ticks behind
+[22:08:37] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[22:08:37] [Server thread/INFO]: MAX_ShouWang left the game
+[22:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7015ms or 140 ticks behind
+[22:09:19] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:51664] logged in with entity id 141311 at (-566.166636903702, 63.5, 1195.6765552699264)
+[22:09:19] [Server thread/INFO]: MAX_ShouWang joined the game
+[22:09:19] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:09:20] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[22:09:20] [Server thread/INFO]: MAX_ShouWang left the game
+[22:09:23] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:51666] logged in with entity id 141376 at (-566.166636903702, 63.5, 1195.6765552699264)
+[22:09:23] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:09:23] [Server thread/INFO]: MAX_ShouWang joined the game
+[22:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[22:09:29] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[22:09:29] [Server thread/INFO]: MAX_ShouWang left the game
+[22:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3531ms or 70 ticks behind
+[22:09:44] [Server thread/INFO]: <Plants352039> 烟花火箭有没
+[22:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6253ms or 125 ticks behind
+[22:10:21] [Server thread/INFO]: <Plants352039> 烟花火箭有没
+[22:10:27] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:51687] logged in with entity id 141906 at (-566.166636903702, 63.5, 1195.6765552699264)
+[22:10:27] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:10:27] [Server thread/INFO]: MAX_ShouWang joined the game
+[22:10:28] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[22:10:28] [Server thread/INFO]: MAX_ShouWang left the game
+[22:13:39] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-17_22-13-39
+[22:13:39] [Server thread/INFO]: Saving server...
+[22:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:13:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[22:13:42] [Thread-259/INFO]: Starting backup
+[22:13:42] [Thread-259/INFO]: Starting compression...
+[22:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6485ms or 129 ticks behind
+[22:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7604ms or 152 ticks behind
+[22:14:39] [Thread-259/INFO]: Compression took: 56.9373931s
+[22:14:39] [Thread-259/INFO]: Deleting: 2020-07-17_18-13-41.zip
+[22:14:39] [Thread-259/INFO]: Done!
+[22:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[22:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5430ms or 108 ticks behind
+[22:16:34] [Server thread/INFO]: <ChengXi123> 末地怎么去
+[22:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[22:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4235ms or 84 ticks behind
+[22:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[22:18:45] [Server thread/INFO]: Plants352039 fell from a high place
+[22:19:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6035ms or 120 ticks behind
+[22:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22:20:18] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[22:20:18] [Server thread/INFO]: Plants352039 left the game
+[22:47:01] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[22:47:01] [Server thread/INFO]: ChengXi123 left the game
+[23:34:16] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:53875] logged in with entity id 163051 at (-566.166636903702, 63.5, 1195.6765552699264)
+[23:34:16] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:34:16] [Server thread/INFO]: MAX_ShouWang joined the game
+[23:34:16] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-17_23-34-16
+[23:34:16] [Server thread/INFO]: Saving server...
+[23:34:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:34:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:34:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:34:17] [Thread-297/INFO]: Starting backup
+[23:34:17] [Thread-297/INFO]: Starting compression...
+[23:34:23] [Netty Server IO #1/INFO]: Player MAX_ShouWang joined with a matching carpet client
+[23:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[23:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9435ms or 188 ticks behind
+[23:35:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4784ms or 95 ticks behind
+[23:35:20] [Thread-297/INFO]: Compression took: 63.699437s
+[23:35:20] [Thread-297/INFO]: Deleting: 2020-07-17_19-13-41.zip
+[23:35:20] [Thread-297/INFO]: Done!
+[23:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[23:36:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[23:39:27] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[23:39:27] [Server thread/INFO]: MAX_ShouWang left the game

@@ -1,0 +1,127 @@
+[06:01:06] [main/INFO]: Loading for game Minecraft 1.15.2
+[06:01:07] [main/INFO]: [FabricLoader] Loading 4 mods: minecraft@1.15.2, carpet-extra@1.3.15, fabricloader@0.7.8+build.189, carpet@1.3.15
+[06:01:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[06:02:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[06:02:17] [Server thread/INFO]: Loading properties
+[06:02:17] [Server thread/INFO]: Default game type: SURVIVAL
+[06:02:17] [Server thread/INFO]: Generating keypair
+[06:02:17] [Server thread/INFO]: Starting Minecraft server on *:26565
+[06:02:17] [Server thread/INFO]: Using default channel type
+[06:02:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:02:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:02:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:02:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:02:19] [Server thread/INFO]: Preparing level "skimit"
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting commandCameramode as false from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[06:02:20] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
+[06:02:20] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[06:02:22] [Server thread/INFO]: Loaded 6 recipes
+[06:02:24] [Server thread/INFO]: Loaded 825 advancements
+[06:02:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:29] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:30] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[06:02:31] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:31] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:31] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:32] [Server thread/INFO]: Preparing spawn area: 83%
+[06:02:33] [Server thread/INFO]: Time elapsed: 7591 ms
+[06:02:33] [Server thread/INFO]: Done (14.801s)! For help, type "help"
+[06:02:33] [Server thread/INFO]: Starting remote control listener
+[06:02:33] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:22140
+[06:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[10:08:59] [RCON Listener #1/INFO]: Rcon connection from: /94.102.49.74
+[12:51:34] [Server thread/INFO]: austinfoster[/127.0.0.1:62504] logged in with entity id 198 at (-42.5, 64.0, 239.5)
+[12:51:35] [Server thread/INFO]: austinfoster joined the game
+[12:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[12:52:39] [Server thread/INFO]: austinfoster lost connection: Disconnected
+[12:52:39] [Server thread/INFO]: austinfoster left the game
+[12:53:19] [Server thread/INFO]: austinfoster[/127.0.0.1:62572] logged in with entity id 273 at (-42.5, 64.0, 239.5)
+[12:53:19] [Server thread/INFO]: austinfoster joined the game
+[12:53:27] [Server thread/INFO]: austinfoster lost connection: Disconnected
+[12:53:27] [Server thread/INFO]: austinfoster left the game
+[12:53:53] [Server thread/INFO]: austinfoster[/127.0.0.1:62603] logged in with entity id 295 at (-42.52328976389085, 64.0, 239.49938511828367)
+[12:53:53] [Server thread/INFO]: austinfoster joined the game
+[12:53:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2781ms or 55 ticks behind
+[12:54:52] [Server thread/INFO]: austinfoster has made the advancement [We Need to Go Deeper]
+[12:54:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3455ms or 69 ticks behind
+[12:55:02] [Server thread/INFO]: austinfoster lost connection: Disconnected
+[12:55:02] [Server thread/INFO]: austinfoster left the game
+[12:56:41] [Server thread/INFO]: austinfoster[/127.0.0.1:62704] logged in with entity id 580 at (-10.28340169213729, 115.54481405553305, 50.802191702280616)
+[12:56:41] [Server thread/INFO]: austinfoster joined the game
+[12:56:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[12:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3461ms or 69 ticks behind
+[12:59:52] [Server thread/INFO]: austinfoster has made the advancement [Bring Home the Beacon]
+[12:59:52] [Server thread/INFO]: austinfoster has reached the goal [Beaconator]
+[13:00:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14881ms or 297 ticks behind
+[13:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10628ms or 212 ticks behind
+[13:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11759ms or 235 ticks behind
+[13:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8698ms or 173 ticks behind
+[13:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7710ms or 154 ticks behind
+[13:02:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7549ms or 150 ticks behind
+[13:02:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6610ms or 132 ticks behind
+[13:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[13:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[13:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[13:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13:12:22] [Server thread/INFO]: austinfoster has made the advancement [Sweet Dreams]
+[13:12:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9632ms or 192 ticks behind
+[13:12:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7997ms or 159 ticks behind
+[13:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7926ms or 158 ticks behind
+[13:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7902ms or 158 ticks behind
+[13:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6770ms or 135 ticks behind
+[13:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7243ms or 144 ticks behind
+[13:14:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6981ms or 139 ticks behind
+[13:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10548ms or 210 ticks behind
+[13:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17789ms or 355 ticks behind
+[13:16:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13442ms or 268 ticks behind
+[13:16:10] [Server thread/INFO]: austinfoster has made the advancement [Monster Hunter]
+[13:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8759ms or 175 ticks behind
+[13:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8358ms or 167 ticks behind
+[13:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7793ms or 155 ticks behind
+[13:17:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7265ms or 145 ticks behind
+[13:19:39] [Server thread/INFO]: austinfoster fell from a high place
+[13:19:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[13:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7572ms or 151 ticks behind
+[13:21:55] [Server thread/INFO]: austinfoster fell from a high place
+[13:21:59] [Server thread/INFO]: austinfoster lost connection: Disconnected
+[13:21:59] [Server thread/INFO]: austinfoster left the game
+[14:13:50] [Server thread/INFO]: There are 0 of a max 6 players online: 
+[14:14:06] [Server thread/INFO]: Stopping the server
+[14:14:06] [Server thread/INFO]: Unknown command
+[14:14:06] [Server thread/INFO]: end<--[HERE]
+[14:14:06] [Server thread/INFO]: Unknown command
+[14:14:06] [Server thread/INFO]: exit<--[HERE]
+[14:14:06] [Server thread/INFO]: Stopping server
+[14:14:06] [Server thread/INFO]: Saving players
+[14:14:06] [Server thread/INFO]: Saving worlds
+[14:14:06] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_end
+[14:14:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:14:06] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_nether
+[14:14:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:14:06] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:overworld
+[14:14:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[14:14:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:14:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:14:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved

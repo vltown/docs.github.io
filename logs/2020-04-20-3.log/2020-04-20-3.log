@@ -1,0 +1,128 @@
+[20:01:07] [main/INFO]: Loading for game Minecraft 1.15.2
+[20:01:12] [main/WARN]: Mod `jankson` (2.0.0+j1.2.0) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[20:01:12] [main/INFO]: [FabricLoader] Loading 40 mods: minecraft@1.15.2, fabric-networking-blockentity-v0@0.2.3+e08a73050c, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+dfdb52d60c, jankson@2.0.0+j1.2.0, fabricloader@0.7.8+build.189, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, fabric-dimensions-v1@0.3.0+2ad156310c, org_apache_commons_commons-compress@1.9, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@0.1.0+534104900c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-commands-v0@0.1.2+b7f9825d0c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, textile_backup@1.1.0-1.15, fabric-mining-levels-v0@0.1.1+b7f9825d0c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, carpet-extra@1.3.15, fabric-events-lifecycle-v0@0.1.2+b7f9825d0c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.5.1+build.294-1.15, carpet@1.3.15, fabric-item-groups-v0@0.1.6+ec40b2e10c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-particles-v1@0.1.1+dfdb52d60c, fabric-networking-v0@0.1.7+12515ed90c, fabric-object-builders-v0@0.1.3+e4c9a9c30c, cotton-config@1.0.0-rc.7
+[20:01:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[20:02:40] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:02:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:02:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:02:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:02:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:02:43] [main/INFO]: [TextileBackup]: Loading TextileBackup by Szum123321
+[20:02:45] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:02:45] [Server thread/INFO]: Loading properties
+[20:02:45] [Server thread/INFO]: Default game type: SURVIVAL
+[20:02:45] [Server thread/INFO]: Generating keypair
+[20:02:45] [Server thread/INFO]: Starting Minecraft server on *:26565
+[20:02:45] [Server thread/INFO]: Using default channel type
+[20:02:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:02:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:02:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:02:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:02:47] [Server thread/INFO]: Preparing level "skimit"
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting commandCameramode as false from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[20:02:47] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[20:02:48] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:02:48] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Mining Levels (v0)
+[20:02:51] [Server thread/INFO]: Loaded 6 recipes
+[20:02:54] [Server thread/INFO]: Loaded 825 advancements
+[20:02:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:03:01] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:03:01] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:03:02] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:03:02] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:03:03] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[20:03:03] [Server thread/INFO]: Preparing spawn area: 0%
+[20:03:05] [Server thread/INFO]: Time elapsed: 8835 ms
+[20:03:05] [Server thread/INFO]: Done (17.550s)! For help, type "help"
+[20:03:05] [Server thread/INFO]: Starting remote control listener
+[20:03:05] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[20:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[20:05:02] [Server thread/INFO]: mingyuang[/127.0.0.1:52377] logged in with entity id 127 at (-400.30532169153344, 71.39377968791523, 528.6941073666043)
+[20:05:02] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:05:02] [Server thread/INFO]: mingyuang joined the game
+[20:05:03] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-20_20-05-03
+[20:05:03] [Server thread/INFO]: [TextileBackup]: Saving server...
+[20:05:06] [Thread-50/INFO]: [TextileBackup]: Starting compression...
+[20:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9166ms or 183 ticks behind
+[20:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14328ms or 286 ticks behind
+[20:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14042ms or 280 ticks behind
+[20:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
+[20:06:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[20:07:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8317ms or 166 ticks behind
+[20:07:37] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:07:37] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:07:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10584ms or 211 ticks behind
+[20:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[20:08:13] [Thread-50/INFO]: [TextileBackup]: Compression finished
+[20:08:13] [Thread-50/INFO]: [TextileBackup]: Deleting: 2020-04-20_09-19-59.zip
+[20:08:13] [Thread-50/INFO]: [TextileBackup]: Done!
+[20:09:57] [Server thread/INFO]: mingyuang lost connection: Disconnected
+[20:09:57] [Server thread/INFO]: mingyuang left the game
+[20:48:12] [Server thread/INFO]: yao_di[/127.0.0.1:53933] logged in with entity id 1167 at (-369.0663728548144, 81.5, 553.1622601591193)
+[20:48:12] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:48:12] [Server thread/INFO]: yao_di joined the game
+[20:53:20] [Server thread/INFO]: yao_di lost connection: Disconnected
+[20:53:20] [Server thread/INFO]: yao_di left the game
+[21:04:21] [Server thread/INFO]: mingyuang[/127.0.0.1:54527] logged in with entity id 3639 at (192.30918189906276, 1.0625, 1.2694352775415416)
+[21:04:21] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:04:21] [Server thread/INFO]: mingyuang joined the game
+[21:05:01] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-20_21-05-01
+[21:05:01] [Server thread/INFO]: [TextileBackup]: Saving server...
+[21:05:02] [Thread-51/INFO]: [TextileBackup]: Starting compression...
+[21:05:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[21:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8031ms or 160 ticks behind
+[21:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6096ms or 121 ticks behind
+[21:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10924ms or 218 ticks behind
+[21:06:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7523ms or 150 ticks behind
+[21:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4764ms or 95 ticks behind
+[21:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5679ms or 113 ticks behind
+[21:07:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4992ms or 99 ticks behind
+[21:07:42] [Thread-51/INFO]: [TextileBackup]: Compression finished
+[21:07:42] [Thread-51/INFO]: [TextileBackup]: Deleting: 2020-04-20_10-20-01.zip
+[21:07:42] [Thread-51/INFO]: [TextileBackup]: Done!
+[21:10:00] [Server thread/INFO]: mingyuang lost connection: Timed out
+[21:10:00] [Server thread/INFO]: mingyuang left the game
+[21:10:05] [Server thread/INFO]: mingyuang[/127.0.0.1:54735] logged in with entity id 4355 at (192.69999998807907, 1.0625, 0.4103172476453296)
+[21:10:05] [Server thread/INFO]: mingyuang joined the game
+[21:10:05] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:14:48] [Server thread/INFO]: mingyuang lost connection: Disconnected
+[21:14:48] [Server thread/INFO]: mingyuang left the game
+[21:15:54] [Server thread/INFO]: mingyuang[/127.0.0.1:54960] logged in with entity id 5128 at (192.82611863563906, 1.0625, 0.4633700981504499)
+[21:15:54] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:15:54] [Server thread/INFO]: mingyuang joined the game
+[21:16:53] [Server thread/INFO]: mingyuang lost connection: Timed out
+[21:16:53] [Server thread/INFO]: mingyuang left the game
+[21:17:35] [Server thread/INFO]: mingyuang[/127.0.0.1:55026] logged in with entity id 5235 at (192.30000001192093, 1.0625, 0.8263054920938568)
+[21:17:35] [Server thread/INFO]: mingyuang joined the game
+[21:17:35] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:18:35] [Server thread/INFO]: mingyuang lost connection: Disconnected
+[21:18:35] [Server thread/INFO]: mingyuang left the game
+[21:20:12] [Server thread/INFO]: mingyuang[/127.0.0.1:55124] logged in with entity id 5331 at (192.30000001192093, 1.0625, -0.6999999880790709)
+[21:20:12] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:20:12] [Server thread/INFO]: mingyuang joined the game
+[21:21:42] [Server thread/INFO]: mingyuang lost connection: Timed out
+[21:21:42] [Server thread/INFO]: mingyuang left the game
+[21:21:48] [Server thread/INFO]: mingyuang[/127.0.0.1:55186] logged in with entity id 5435 at (186.60588962783962, 1.0, -6.699999988079071)
+[21:21:48] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:21:48] [Server thread/INFO]: mingyuang joined the game
+[21:22:40] [Server thread/INFO]: mingyuang lost connection: Disconnected
+[21:22:40] [Server thread/INFO]: mingyuang left the game

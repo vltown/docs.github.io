@@ -1,0 +1,552 @@
+[16:01:05] [main/INFO]: Loading for game Minecraft 1.15.2
+[16:01:10] [main/WARN]: Mod `jankson` (2.0.0+j1.2.0) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[16:01:10] [main/INFO]: [FabricLoader] Loading 44 mods: minecraft@1.15.2, fabric-networking-blockentity-v0@0.2.3+e08a73050c, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+dfdb52d60c, jankson@2.0.0+j1.2.0, fabricloader@0.7.8+build.189, phosphor@0.5.2+build.6, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, lithium@0.4.6, fabric-dimensions-v1@0.3.0+2ad156310c, org_apache_commons_commons-compress@1.9, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@0.1.0+534104900c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, mm@2.0, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-commands-v0@0.1.2+b7f9825d0c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, com_moandjiezana_toml_toml4j@0.7.2, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, textile_backup@1.1.0-1.15, fabric-mining-levels-v0@0.1.1+b7f9825d0c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, carpet-extra@1.3.15, fabric-events-lifecycle-v0@0.1.2+b7f9825d0c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.5.1+build.294-1.15, carpet@1.3.15, fabric-item-groups-v0@0.1.6+ec40b2e10c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-particles-v1@0.1.1+dfdb52d60c, fabric-networking-v0@0.1.7+12515ed90c, fabric-object-builders-v0@0.1.3+e4c9a9c30c, cotton-config@1.0.0-rc.7
+[16:01:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[16:01:11] [main/INFO]: Lithium's configuration file was loaded successfully
+[16:01:13] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.chunk.no_chunk_locking.MixinPalettedContainer' as no configuration enables it
+[16:01:13] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinRedstoneWireBlock' as no configuration enables it
+[16:01:13] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinWorld' as no configuration enables it
+[16:01:17] [main/INFO]: Transforming class net/minecraft/class_2382 using patch set 'Modify mutability flags in Vec3i'
+[16:01:23] [main/INFO]: Transforming class net/minecraft/class_2338$class_2339 using patch set 'Use mutable fields in Vec3i'
+[16:02:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:02:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:02:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:39] [main/INFO]: Definitely not up to no good
+[16:02:39] [main/INFO]: [TextileBackup]: Loading TextileBackup by Szum123321
+[16:02:41] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[16:02:41] [Server thread/INFO]: Loading properties
+[16:02:41] [Server thread/INFO]: Default game type: SURVIVAL
+[16:02:41] [Server thread/INFO]: Generating keypair
+[16:02:41] [Server thread/INFO]: Starting Minecraft server on *:26565
+[16:02:41] [Server thread/INFO]: Using default channel type
+[16:02:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:02:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:02:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:02:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:02:43] [Server thread/INFO]: Preparing level "world"
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting commandCameramode as false from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[16:02:43] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[16:02:44] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[16:02:44] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Mining Levels (v0)
+[16:02:48] [Server thread/INFO]: Loaded 6 recipes
+[16:02:49] [Server thread/INFO]: Loaded 825 advancements
+[16:02:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:57] [Server thread/INFO]: Preparing spawn area: 0%
+[16:02:57] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:03] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:04] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:06] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:06] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:06] [Server thread/INFO]: Preparing spawn area: 0%
+[16:03:06] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:10] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:11] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:11] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:12] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:12] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:13] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:13] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:14] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:14] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:15] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:16] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:16] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:17] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:17] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:19] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:19] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:19] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:19] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:19] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[16:03:23] [Server thread/INFO]: Preparing spawn area: 40%
+[16:03:23] [Server thread/INFO]: Preparing spawn area: 40%
+[16:03:23] [Server thread/INFO]: Preparing spawn area: 40%
+[16:03:23] [Server thread/INFO]: Preparing spawn area: 40%
+[16:03:23] [Server thread/INFO]: Preparing spawn area: 40%
+[16:03:23] [Server thread/INFO]: Preparing spawn area: 40%
+[16:03:23] [Server-Worker-3/INFO]: Preparing spawn area: 44%
+[16:03:25] [Server-Worker-3/INFO]: Preparing spawn area: 44%
+[16:03:25] [Server-Worker-3/INFO]: Preparing spawn area: 44%
+[16:03:25] [Server-Worker-3/INFO]: Preparing spawn area: 44%
+[16:03:25] [Server-Worker-3/INFO]: Preparing spawn area: 44%
+[16:03:25] [Server-Worker-3/INFO]: Preparing spawn area: 50%
+[16:03:26] [Server-Worker-3/INFO]: Preparing spawn area: 52%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:30] [Server-Worker-3/INFO]: Preparing spawn area: 57%
+[16:03:31] [Server thread/INFO]: Preparing spawn area: 57%
+[16:03:31] [Server-Worker-3/INFO]: Preparing spawn area: 61%
+[16:03:31] [Server-Worker-3/INFO]: Preparing spawn area: 61%
+[16:03:32] [Server-Worker-3/INFO]: Preparing spawn area: 64%
+[16:03:32] [Server-Worker-3/INFO]: Preparing spawn area: 64%
+[16:03:33] [Server-Worker-3/INFO]: Preparing spawn area: 64%
+[16:03:33] [Server-Worker-3/INFO]: Preparing spawn area: 72%
+[16:03:34] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[16:03:34] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[16:03:35] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[16:03:35] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[16:03:36] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[16:03:36] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[16:03:37] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[16:03:38] [Server-Worker-3/INFO]: Preparing spawn area: 77%
+[16:03:38] [Server-Worker-3/INFO]: Preparing spawn area: 78%
+[16:03:39] [Server-Worker-3/INFO]: Preparing spawn area: 78%
+[16:03:39] [Server-Worker-3/INFO]: Preparing spawn area: 82%
+[16:03:40] [Server-Worker-3/INFO]: Preparing spawn area: 82%
+[16:03:41] [Server-Worker-3/INFO]: Preparing spawn area: 82%
+[16:03:41] [Server-Worker-3/INFO]: Preparing spawn area: 82%
+[16:03:41] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[16:03:41] [Server-Worker-3/INFO]: Preparing spawn area: 86%
+[16:03:42] [Server-Worker-3/INFO]: Preparing spawn area: 94%
+[16:03:43] [Server thread/INFO]: Time elapsed: 50134 ms
+[16:03:43] [Server thread/INFO]: Done (59.904s)! For help, type "help"
+[16:03:43] [Server thread/INFO]: Starting remote control listener
+[16:03:43] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[16:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[16:04:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5761ms or 115 ticks behind
+[16:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[16:14:18] [Server thread/INFO]: ChengXi123[/127.0.0.1:56742] logged in with entity id 467 at (-293.8238328988285, 95.0, 616.597045270465)
+[16:14:18] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:14:18] [Server thread/INFO]: ChengXi123 joined the game
+[16:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[16:14:20] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-30_16-14-20
+[16:14:20] [Server thread/INFO]: [TextileBackup]: Saving server...
+[16:14:21] [Thread-54/INFO]: [TextileBackup]: Starting compression...
+[16:14:34] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[16:14:34] [Server thread/INFO]: ChengXi123 left the game
+[16:14:39] [Server thread/INFO]: ChengXi123[/127.0.0.1:56752] logged in with entity id 561 at (-293.8238328988285, 95.0, 616.597045270465)
+[16:14:39] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:14:39] [Server thread/INFO]: ChengXi123 joined the game
+[16:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7095ms or 141 ticks behind
+[16:14:47] [Thread-54/INFO]: [TextileBackup]: Compression finished
+[16:14:47] [Thread-54/INFO]: [TextileBackup]: Done!
+[16:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[16:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[16:15:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[16:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[16:18:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2746ms or 54 ticks behind
+[16:18:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[16:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3653ms or 73 ticks behind
+[16:27:36] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57168] logged in with entity id 8724 at (-359.35153269940514, 69.0, 517.7023054246876)
+[16:27:36] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:27:36] [Server thread/INFO]: MAX_XiaoKui joined the game
+[16:27:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2484ms or 49 ticks behind
+[16:28:16] [Server thread/INFO]: <ChengXi123> 来我这看看
+[16:28:33] [Server thread/INFO]: <MAX_XiaoKui> 稍等 我身上啥都没有
+[16:28:41] [Server thread/INFO]: <ChengXi123> ?
+[16:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4353ms or 87 ticks behind
+[16:29:43] [Server thread/INFO]: <MAX_XiaoKui> 烟花火箭没了？
+[16:29:51] [Server thread/INFO]: <ChengXi123> 不知道
+[16:30:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[16:30:47] [Server thread/INFO]: <MAX_XiaoKui> 报坐标
+[16:30:57] [Server thread/INFO]: <ChengXi123> 76 327
+[16:31:03] [Server thread/INFO]: <MAX_XiaoKui> 我上个厕所去
+[16:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[16:34:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11475ms or 229 ticks behind
+[16:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[16:37:09] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[16:37:09] [Server thread/INFO]: ChengXi123 left the game
+[16:37:31] [Server thread/INFO]: ChengXi123[/127.0.0.1:57505] logged in with entity id 15474 at (77.00612250104015, 6.0, 310.6538399726381)
+[16:37:31] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:37:31] [Server thread/INFO]: ChengXi123 joined the game
+[16:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[16:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9408ms or 188 ticks behind
+[16:38:28] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[16:38:28] [Server thread/INFO]: ChengXi123 left the game
+[16:38:41] [Server thread/INFO]: ChengXi123[/127.0.0.1:57544] logged in with entity id 17055 at (-108.98827586009043, 81.1919049505867, 359.2839219842759)
+[16:38:41] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:38:41] [Server thread/INFO]: ChengXi123 joined the game
+[16:40:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4491ms or 89 ticks behind
+[16:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10952ms or 219 ticks behind
+[16:40:47] [Server thread/INFO]: <MAX_XiaoKui> 睡下觉
+[16:41:39] [Server thread/INFO]: <ChengXi123> 你人呢
+[16:41:52] [Server thread/INFO]: <MAX_XiaoKui> 堵水呢
+[16:42:53] [Server thread/INFO]: <ChengXi123> 岩浆是不是用粉末金苹果堵
+[16:43:07] [Server thread/INFO]: <MAX_XiaoKui> ?
+[16:43:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=33, y=50, z=112} class_2338{x=34, y=52, z=112}
+[16:43:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=33, y=50, z=112} class_2338{x=34, y=51, z=112}
+[16:43:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=36, y=44, z=113}
+[16:43:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=36, y=44, z=113}
+[16:43:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=36, y=44, z=113}
+[16:43:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=36, y=44, z=113}
+[16:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=40, y=42, z=113}
+[16:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=40, y=42, z=113}
+[16:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=40, y=42, z=113}
+[16:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=40, y=42, z=113}
+[16:43:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=44, z=113} class_2338{x=40, y=42, z=113}
+[16:44:07] [Server thread/INFO]: <ChengXi123> 就是这样
+[16:45:03] [Server thread/INFO]: <ChengXi123> 粉末金苹果有防火啊
+[16:45:08] [Server thread/INFO]: <ChengXi123> 附魔
+[16:45:12] [Server thread/INFO]: <MAX_XiaoKui> en
+[16:45:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3260ms or 65 ticks behind
+[16:48:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-29, y=51, z=367} class_2338{x=-30, y=50, z=367}
+[16:49:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=47, z=366} class_2338{x=-37, y=50, z=367}
+[16:49:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=47, z=366} class_2338{x=-37, y=50, z=367}
+[16:49:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=47, z=366} class_2338{x=-37, y=50, z=367}
+[16:49:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-30, y=47, z=366} class_2338{x=-29, y=46, z=367}
+[16:49:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-30, y=47, z=366} class_2338{x=-29, y=46, z=367}
+[16:49:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=46, z=367} class_2338{x=-29, y=46, z=367}
+[16:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3210ms or 64 ticks behind
+[16:53:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=15, z=367} class_2338{x=15, y=13, z=367}
+[16:53:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=15, z=367} class_2338{x=15, y=13, z=367}
+[16:53:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=12, z=367} class_2338{x=15, y=13, z=367}
+[16:53:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=21, y=14, z=367} class_2338{x=20, y=13, z=367}
+[16:54:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28403, l='world', x=-25.16, y=65.00, z=271.88]
+[16:54:52] [Server thread/INFO]: <MAX_XiaoKui> 我去拆y6去了
+[16:55:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=9, z=284} class_2338{x=-44, y=8, z=284}
+[16:55:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=9, z=284} class_2338{x=-44, y=8, z=284}
+[16:55:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[16:56:25] [Server thread/INFO]: <ChengXi123> 拜
+[16:56:27] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[16:56:27] [Server thread/INFO]: ChengXi123 left the game
+[16:59:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-30, y=5, z=329} class_2338{x=-31, y=3, z=329}
+[17:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[17:05:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2359ms or 47 ticks behind
+[17:14:19] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-30_17-14-19
+[17:14:19] [Server thread/INFO]: [TextileBackup]: Saving server...
+[17:14:20] [Thread-55/INFO]: [TextileBackup]: Starting compression...
+[17:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[17:14:36] [Thread-55/INFO]: [TextileBackup]: Compression finished
+[17:14:36] [Thread-55/INFO]: [TextileBackup]: Deleting: 2020-05-30_02-07-14.zip
+[17:14:37] [Thread-55/INFO]: [TextileBackup]: Done!
+[17:21:29] [Server thread/INFO]: xm233[/127.0.0.1:58945] logged in with entity id 47011 at (-42.5, 64.0, 239.5)
+[17:21:29] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:21:29] [Server thread/INFO]: xm233 joined the game
+[17:21:58] [Server thread/INFO]: xm233 lost connection: Disconnected
+[17:21:58] [Server thread/INFO]: xm233 left the game
+[17:22:37] [Server thread/INFO]: xm233[/127.0.0.1:58982] logged in with entity id 48182 at (-44.04265688742577, 65.0, 239.94434032207386)
+[17:22:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:22:37] [Server thread/INFO]: xm233 joined the game
+[17:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[17:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[17:22:57] [Server thread/INFO]: <MAX_XiaoKui> 输入/register 密码 重复密码
+[17:23:08] [Server thread/INFO]: <xm233> 输完了
+[17:23:41] [Server thread/INFO]: <xm233> 怎么下去
+[17:23:55] [Server thread/INFO]: <MAX_XiaoKui> 稍等我拿东西给你
+[17:24:09] [Server thread/INFO]: <xm233> 服务器有bbor？
+[17:24:31] [Server thread/INFO]: <MAX_XiaoKui> 没有 服务器不需要安装，客户端装就行了
+[17:24:40] [Server thread/INFO]: <xm233> 我有装
+[17:24:50] [Server thread/INFO]: <xm233> 服务器没装好像不行用
+[17:25:32] [Server thread/INFO]: xm233 has reached the goal [Sky's the Limit]
+[17:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[17:25:47] [Server thread/INFO]: <xm233> 服务器可以复制？
+[17:25:55] [Server thread/INFO]: <MAX_XiaoKui> 嗯 羊驼
+[17:26:02] [Server thread/INFO]: <xm233> 允许啊
+[17:26:48] [Server thread/INFO]: <MAX_XiaoKui> 我们住的地方在-400 500
+[17:26:53] [Server thread/INFO]: <xm233> en
+[17:28:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[17:29:06] [Server thread/INFO]: <MAX_XiaoKui> 人呢= =
+[17:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[17:29:24] [Server thread/INFO]: <xm233> -196 404
+[17:30:38] [Server thread/INFO]: <xm233> ...
+[17:30:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2826ms or 56 ticks behind
+[17:31:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[17:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[17:31:57] [Server thread/INFO]: xm233 has made the advancement [We Need to Go Deeper]
+[17:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[17:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8111ms or 162 ticks behind
+[17:32:36] [Server thread/INFO]: <xm233> 平时玩的人很少吗
+[17:32:51] [Server thread/INFO]: <MAX_XiaoKui> 嗯毕竟大部分人都开学了
+[17:33:08] [Server thread/INFO]: <xm233> 我大概两周一次上线吧
+[17:33:23] [Server thread/INFO]: <MAX_XiaoKui> 你也是两周放一次假？
+[17:33:30] [Server thread/INFO]: <xm233> 差不多
+[17:33:38] [Server thread/INFO]: <xm233> 累死了
+[17:34:01] [Server thread/INFO]: <MAX_XiaoKui> 我是两周放一次假 习惯了就行了
+[17:34:19] [Server thread/INFO]: xm233 has made the advancement [Stone Age]
+[17:35:10] [Server thread/INFO]: <xm233> 造家去
+[17:35:32] [Server thread/INFO]: <MAX_XiaoKui> 红石玩家不需要家哈哈^_^
+[17:36:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[17:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2837ms or 56 ticks behind
+[17:36:36] [Server thread/INFO]: <MAX_XiaoKui> 挖这些东西耐久3都不够用的
+[17:36:38] [Server thread/INFO]: <xm233> 你们用什么炸空置域的啊
+[17:36:49] [Server thread/INFO]: <MAX_XiaoKui> 三向
+[17:36:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:36:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=6, z=292} class_2338{x=-14, y=5, z=292}
+[17:39:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/60233, l='world', x=-29.09, y=65.04, z=271.88]
+[17:40:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[17:41:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9080ms or 181 ticks behind
+[17:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5857ms or 117 ticks behind
+[17:41:41] [Server thread/INFO]: <xm233> 好卡。。。
+[17:41:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11627ms or 232 ticks behind
+[17:41:59] [Server thread/INFO]: <MAX_XiaoKui> 延迟？
+[17:42:16] [Server thread/INFO]: <xm233> 为什么2个人tps都会掉啊
+[17:42:37] [Server thread/INFO]: <MAX_XiaoKui> 因为服务器只有一个核心 暑假可能会换好点的服务器
+[17:42:42] [Server thread/INFO]: <xm233> emmmm
+[17:43:19] [Server thread/INFO]: ChengXi123[/127.0.0.1:59652] logged in with entity id 62582 at (-143.73471217895312, 6.5, 157.17924575290237)
+[17:43:19] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:43:19] [Server thread/INFO]: ChengXi123 joined the game
+[17:43:48] [Server thread/INFO]: <ChengXi123> 我再玩会
+[17:43:49] [Server thread/INFO]: <xm233> 我现在该干嘛
+[17:44:28] [Server thread/INFO]: <ChengXi123> 想干啥干啥
+[17:44:30] [Server thread/INFO]: <MAX_XiaoKui> 随便你 可以把空置域的y5和y6的东西挖了
+[17:44:47] [Server thread/INFO]: <ChengXi123> y5?!
+[17:44:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[17:44:59] [Server thread/INFO]: <xm233> 有钻石吗
+[17:45:05] [Server thread/INFO]: xm233 has made the advancement [Acquire Hardware]
+[17:45:07] [Server thread/INFO]: <MAX_XiaoKui> y5放水放半砖啊
+[17:45:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3822ms or 76 ticks behind
+[17:45:20] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[17:45:20] [Server thread/INFO]: ChengXi123 left the game
+[17:45:20] [Server thread/INFO]: <MAX_XiaoKui> 钻石好像有
+[17:45:20] [Server thread/WARN]: handleDisconnection() called twice
+[17:45:33] [Server thread/INFO]: <xm233> 我做下装备
+[17:46:12] [Server thread/INFO]: xm233 has made the advancement [Suit Up]
+[17:46:26] [Server thread/INFO]: <MAX_XiaoKui> 钻石可能被他们搞完了
+[17:46:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3504ms or 70 ticks behind
+[17:46:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2, y=5, z=97} class_2338{x=-2, y=6, z=98}
+[17:46:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2, y=5, z=97} class_2338{x=-2, y=6, z=98}
+[17:46:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2, y=5, z=97} class_2338{x=-2, y=6, z=98}
+[17:47:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2951ms or 59 ticks behind
+[17:47:52] [Server thread/INFO]: <xm233> 开下矿透吧，我挖太慢了
+[17:48:06] [Server thread/INFO]: <MAX_XiaoKui> 服务器怎么开。
+[17:48:26] [Server thread/INFO]: xm233 lost connection: Timed out
+[17:48:26] [Server thread/INFO]: xm233 left the game
+[17:48:26] [Server thread/WARN]: handleDisconnection() called twice
+[17:48:36] [Server thread/INFO]: xm233[/127.0.0.1:59824] logged in with entity id 66849 at (5.300000011920929, 5.0, 34.20737070729138)
+[17:48:36] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:48:37] [Server thread/INFO]: xm233 joined the game
+[17:49:06] [Server thread/INFO]: <xm233> OK了
+[17:49:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=245} class_2338{x=-11, y=5, z=245}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=5, z=248} class_2338{x=-7, y=5, z=248}
+[17:49:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-10, y=4, z=247}
+[17:49:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-9, y=4, z=248}
+[17:49:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-10, y=4, z=248}
+[17:49:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-10, y=4, z=248}
+[17:49:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-12, y=4, z=247}
+[17:49:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-13, y=4, z=246}
+[17:49:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-12, y=4, z=247}
+[17:49:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-11, y=4, z=248}
+[17:49:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-10, y=4, z=249}
+[17:49:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-11, y=4, z=247}
+[17:49:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-12, y=4, z=248}
+[17:49:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-11, y=4, z=249}
+[17:49:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-10, y=4, z=248}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-10, y=4, z=248}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-12, y=4, z=247}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-11, y=4, z=247}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-10, y=4, z=248}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-10, y=4, z=249}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-11, y=4, z=248}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-11, y=4, z=247}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-11, y=4, z=247}
+[17:49:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=249} class_2338{x=-10, y=4, z=248}
+[17:49:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=248} class_2338{x=-10, y=4, z=248}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-15, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=5, z=242} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-13, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=244} class_2338{x=-10, y=4, z=242}
+[17:50:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=5, z=243} class_2338{x=-10, y=4, z=242}
+[17:50:17] [Server thread/INFO]: <xm233> 有时运3吗
+[17:50:37] [Server thread/INFO]: <MAX_XiaoKui> 没有
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-17, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-18, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-19, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-19, y=5, z=223} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-20, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-20, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=5, z=225} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=5, z=225} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=5, z=225} class_2338{x=-16, y=4, z=224}
+[17:50:41] [Server thread/INFO]: <xm233> emmm
+[17:50:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=5, z=225} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-22, y=5, z=225} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-23, y=5, z=225} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=5, z=225} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-21, y=5, z=223} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-20, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-20, y=5, z=223} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-20, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-19, y=5, z=224} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-19, y=5, z=223} class_2338{x=-16, y=4, z=224}
+[17:50:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-18, y=5, z=223} class_2338{x=-16, y=4, z=224}
+[17:50:46] [Server thread/INFO]: <xm233> 还差3颗
+[17:51:20] [Server thread/INFO]: <xm233> 这钻石太多了吧
+[17:51:30] [Server thread/INFO]: <xm233> 都是8颗连着的
+[17:51:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[17:52:08] [Server thread/INFO]: xm233 lost connection: Timed out
+[17:52:08] [Server thread/INFO]: xm233 left the game
+[17:52:08] [Server thread/WARN]: handleDisconnection() called twice
+[17:52:42] [Server thread/INFO]: xm233[/127.0.0.1:59967] logged in with entity id 70095 at (-2.691925451949558, 5.0, 121.42735290027376)
+[17:52:42] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:52:42] [Server thread/INFO]: xm233 joined the game
+[17:53:18] [Server thread/INFO]: <MAX_XiaoKui> 我先下了
+[17:53:21] [Server thread/INFO]: <xm233> emmmm
+[17:53:24] [Server thread/INFO]: <xm233> 好吧
+[17:53:27] [Server thread/INFO]: <MAX_XiaoKui> 有事在群里聊
+[17:53:30] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[17:53:30] [Server thread/INFO]: MAX_XiaoKui left the game
+[17:53:56] [Server thread/INFO]: xm233 has made the advancement [Isn't It Iron Pick]
+[17:54:03] [Server thread/INFO]: xm233 has made the advancement [Diamonds!]
+[17:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2300ms or 46 ticks behind
+[17:55:54] [Server thread/INFO]: xm233 has made the advancement [Monster Hunter]
+[17:56:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[17:57:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3880ms or 77 ticks behind
+[17:58:52] [Server thread/INFO]: xm233 has made the advancement [Sweet Dreams]
+[18:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[18:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[18:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3774ms or 75 ticks behind
+[18:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[18:14:19] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-30_18-14-19
+[18:14:19] [Server thread/INFO]: [TextileBackup]: Saving server...
+[18:14:20] [Thread-56/INFO]: [TextileBackup]: Starting compression...
+[18:14:37] [Thread-56/INFO]: [TextileBackup]: Compression finished
+[18:14:37] [Thread-56/INFO]: [TextileBackup]: Deleting: 2020-05-30_03-07-15.zip
+[18:14:37] [Thread-56/INFO]: [TextileBackup]: Done!
+[18:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[18:18:41] [Server thread/INFO]: There are 1 of a max 8 players online: xm233
+[18:18:52] [Server thread/INFO]: wuhao[/127.0.0.1:60800] logged in with entity id 85861 at (-42.5, 64.0, 239.5)
+[18:18:52] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:18:52] [Server thread/INFO]: wuhao joined the game
+[18:19:27] [Server thread/INFO]: <wuhao> hi
+[18:19:30] [Server thread/INFO]: <xm233> hi
+[18:21:14] [Server thread/INFO]: <wuhao> 有事我可以帮点忙吗？？
+[18:21:19] [Server thread/INFO]: <xm233> ?
+[18:21:24] [Server thread/INFO]: <xm233> 我刚来
+[18:22:17] [Server thread/INFO]: wuhao has made the advancement [We Need to Go Deeper]
+[18:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18:23:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5551ms or 111 ticks behind
+[18:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:25:23] [Server thread/INFO]: xm233 has made the advancement [Enchanter]
+[18:26:43] [Server thread/INFO]: xm233 lost connection: Disconnected
+[18:26:43] [Server thread/INFO]: xm233 left the game
+[18:27:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[18:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
+[18:29:43] [Server thread/INFO]: wuhao has made the advancement [Sweet Dreams]
+[18:30:15] [Server thread/INFO]: wuhao has made the advancement [Monster Hunter]
+[18:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[18:38:07] [Server thread/INFO]: wuhao lost connection: Disconnected
+[18:38:07] [Server thread/INFO]: wuhao left the game
+[19:00:27] [Server thread/INFO]: Firliang[/127.0.0.1:62122] logged in with entity id 96250 at (-398.1798220882017, 65.0, 572.8119552516209)
+[19:00:27] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:00:27] [Server thread/INFO]: Firliang joined the game
+[19:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[19:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[19:01:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[19:01:46] [Server thread/INFO]: Firliang was blown up by Creeper
+[19:01:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[19:02:04] [Server thread/INFO]: Firliang lost connection: Disconnected
+[19:02:04] [Server thread/INFO]: Firliang left the game
+[20:47:55] [Server thread/INFO]: wuhao[/127.0.0.1:49314] logged in with entity id 97775 at (-1984.3525955767266, 70.5, 493.5545705367971)
+[20:47:55] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:47:55] [Server thread/INFO]: wuhao joined the game
+[20:47:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-30_20-47-55
+[20:47:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[20:47:57] [Thread-57/INFO]: [TextileBackup]: Starting compression...
+[20:48:15] [Thread-57/INFO]: [TextileBackup]: Compression finished
+[20:48:15] [Thread-57/INFO]: [TextileBackup]: Deleting: 2020-05-30_04-07-15.zip
+[20:48:15] [Thread-57/INFO]: [TextileBackup]: Done!
+[20:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[20:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4421ms or 88 ticks behind
+[20:51:44] [Server thread/INFO]: wuhao lost connection: Disconnected
+[20:51:44] [Server thread/INFO]: wuhao left the game

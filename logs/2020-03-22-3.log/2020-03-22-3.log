@@ -1,0 +1,194 @@
+[17:03:26] [main/INFO]: Loading for game Minecraft 1.15.2
+[17:03:27] [main/INFO]: [FabricLoader] Loading 4 mods: minecraft@1.15.2, carpet-extra@1.3.15, fabricloader@0.7.8+build.189, carpet@1.3.15
+[17:03:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/home/admin/mcsmanager/server/server_core/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[17:03:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:03:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:03:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:03:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:03:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:03:46] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:03:46] [Server thread/INFO]: Loading properties
+[17:03:46] [Server thread/INFO]: Default game type: SURVIVAL
+[17:03:46] [Server thread/INFO]: Generating keypair
+[17:03:47] [Server thread/INFO]: Starting Minecraft server on *:26565
+[17:03:47] [Server thread/INFO]: Using epoll channel type
+[17:03:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:03:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:03:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:03:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:03:48] [Server thread/INFO]: Preparing level "world"
+[17:03:48] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:03:53] [Server thread/INFO]: Loaded 6 recipes
+[17:03:54] [Server thread/INFO]: Loaded 825 advancements
+[17:04:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:03] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:04:32] [Server thread/INFO]: Preparing spawn area: 0%
+[17:04:33] [Server thread/INFO]: Preparing spawn area: 43%
+[17:04:33] [Server thread/INFO]: Time elapsed: 33818 ms
+[17:04:33] [Server thread/INFO]: Done (45.916s)! For help, type "help"
+[17:04:33] [Server thread/INFO]: Starting remote control listener
+[17:04:33] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:22140
+[17:13:14] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57658] logged in with entity id 125 at (-403.91410916071794, 70.0, 502.53772902932235)
+[17:13:14] [Server thread/INFO]: MAX_XiaoKui joined the game
+[17:13:26] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:44156] logged in with entity id 393 at (-242.1992352488013, 76.0, 402.00195513654177)
+[17:13:26] [Server thread/INFO]: MAX_ShouWang joined the game
+[17:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[17:13:45] [Server thread/INFO]: <MAX_XiaoKui> .
+[17:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[17:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
+[17:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[17:16:10] [Server thread/INFO]: <MAX_ShouWang> 你开pvp了？
+[17:16:14] [Server thread/INFO]: <MAX_XiaoKui> en
+[17:23:36] [Server thread/INFO]: <MAX_XiaoKui> slepp
+[17:23:40] [Server thread/INFO]: <MAX_XiaoKui> sleep
+[17:24:07] [Server thread/INFO]: <MAX_ShouWang> 你睡的我床。。。
+[17:24:26] [Server thread/INFO]: <MAX_XiaoKui> 旁边房间还有2个床呢
+[17:25:36] [Server thread/INFO]: <MAX_XiaoKui> 我们这的村民怎么都没了
+[17:25:50] [Server thread/INFO]: <MAX_ShouWang> 不知道
+[17:26:40] [Server thread/INFO]: <MAX_XiaoKui> 一起去挖出生点区块吧
+[17:27:01] [Server thread/INFO]: <MAX_XiaoKui> 走？
+[17:27:13] [Server thread/INFO]: <MAX_ShouWang> 等下
+[17:28:16] [Server thread/INFO]: <MAX_XiaoKui> 快点
+[17:30:35] [Server thread/INFO]: <MAX_XiaoKui> e
+[17:30:39] [Server thread/INFO]: <MAX_XiaoKui> 不管了
+[17:32:30] [Server thread/INFO]: <MAX_XiaoKui> 黑曜石你挖，我没带钻石镐
+[17:34:03] [Server thread/INFO]: MAX_XiaoKui lost connection: Timed out
+[17:34:03] [Server thread/INFO]: MAX_XiaoKui left the game
+[17:34:13] [Server thread/INFO]: <MAX_ShouWang> ???
+[17:35:18] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:33132] logged in with entity id 3618 at (-94.53890812581533, 23.0, 325.06326532288085)
+[17:35:18] [Server thread/INFO]: MAX_XiaoKui joined the game
+[17:35:33] [Server thread/INFO]: <MAX_XiaoKui> 刚刚网炸了
+[17:35:47] [Server thread/INFO]: <MAX_ShouWang> ...
+[17:38:06] [Server thread/INFO]: MTpromax[/127.0.0.1:54146] logged in with entity id 3926 at (1362.4332311124929, 27.0, 1406.9322669629184)
+[17:38:06] [Server thread/INFO]: MTpromax joined the game
+[17:38:13] [Server thread/INFO]: MTpromax fell out of the world
+[17:38:14] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:201) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:904) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:479) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:848) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:743) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:138) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:725) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:719) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:703) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zzm000$modifiedRunLoop(MinecraftServer.java:2406) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:634) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[17:38:40] [Server thread/INFO]: <MAX_XiaoKui> sleep
+[17:38:55] [Server thread/INFO]: <MAX_ShouWang> ...
+[17:38:59] [Server thread/INFO]: <MAX_XiaoKui> 睡不了先退
+[17:39:02] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[17:39:02] [Server thread/INFO]: MAX_ShouWang left the game
+[17:39:09] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:42910] logged in with entity id 4293 at (-106.31381888278533, 25.0, 329.08313742376413)
+[17:39:09] [Server thread/INFO]: MAX_ShouWang joined the game
+[17:39:33] [Server thread/INFO]: MAX_XiaoKui lost connection: Timed out
+[17:39:33] [Server thread/INFO]: MAX_XiaoKui left the game
+[17:39:49] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:34658] logged in with entity id 4436 at (-96.30000001192093, 22.0, 329.9448920998471)
+[17:39:49] [Server thread/INFO]: MAX_XiaoKui joined the game
+[17:40:28] [Server thread/INFO]: <MAX_XiaoKui> 别拿水浇
+[17:41:04] [Server thread/INFO]: <MAX_XiaoKui> 害
+[17:41:19] [Server thread/INFO]: <MAX_XiaoKui> 我去填岩浆，我没带比较快的镐子
+[17:42:55] [Server thread/INFO]: <MAX_XiaoKui> 要么你来帮我挖岩浆这边的黑曜石
+[17:43:04] [Server thread/INFO]: MTpromax hit the ground too hard
+[17:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:48:47] [Server thread/INFO]: <MAX_XiaoKui> 打火石带了吗
+[17:49:18] [Server thread/INFO]: <MAX_ShouWang> 我突然想要个效率五的狱岩镐
+[17:49:27] [Server thread/INFO]: <MAX_ShouWang> meidai
+[17:49:33] [Server thread/INFO]: <MAX_XiaoKui> 这又不是1.16
+[17:50:25] [Server thread/WARN]: MTpromax moved too quickly! -1261.7427386396191,18.568476154729286,-1406.353671955558
+[17:50:26] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[17:50:26] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[17:50:30] [Server thread/INFO]: <MAX_ShouWang> 不过这里有铁有沙砾
+[17:50:40] [Server thread/INFO]: <MAX_XiaoKui> 那就现做
+[17:51:01] [Server thread/INFO]: MTpromax fell from a high place
+[17:51:23] [Server thread/INFO]: MTpromax lost connection: Disconnected
+[17:51:23] [Server thread/INFO]: MTpromax left the game
+[17:51:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[17:51:57] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[17:51:57] [Server thread/INFO]: MAX_ShouWang left the game
+[17:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3727ms or 74 ticks behind
+[17:52:00] [Server thread/WARN]: handleDisconnection() called twice
+[17:52:54] [Server thread/INFO]: MAX_XiaoKui lost connection: Timed out
+[17:52:55] [Server thread/INFO]: MAX_XiaoKui left the game
+[17:53:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 52060ms or 1041 ticks behind
+[17:53:16] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:41562] logged in with entity id 7993 at (-42.541141911067285, 39.0, 239.2572954660786)
+[17:54:22] [Server thread/INFO]: MAX_ShouWang joined the game
+[17:57:55] [Server Watchdog/FATAL]: A single server tick took 60.37 seconds (should be max 0.05)
+[17:58:01] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[17:58:02] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[17:58:02] [Server thread/INFO]: MAX_ShouWang left the game
+[17:58:02] [Server Watchdog/ERROR]: This crash report has been saved to: /home/admin/mcsmanager/server/server_core/skimit_survival/./crash-reports/crash-2020-03-22_17.58.02-server.txt

@@ -1,0 +1,10 @@
+[00:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5707ms or 114 ticks behind
+[17:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
+[21:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3001ms or 60 ticks behind
+[21:57:48] [Server thread/INFO]: Nan_Yang[/127.0.0.1:52519] logged in with entity id 23303 at (-352.5075068862808, 69.0, 498.5579007031023)
+[21:57:48] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:57:48] [Server thread/INFO]: Nan_Yang joined the game
+[21:58:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[21:58:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[21:59:42] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[21:59:42] [Server thread/INFO]: Nan_Yang left the game

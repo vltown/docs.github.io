@@ -1,0 +1,26 @@
+[05:25:01] [Server thread/INFO]: [Server] 服务器将在5分钟后关闭备份存档，6:01继续开启
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:02] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-16_05-30-02
+[05:30:02] [Server thread/INFO]: Saving server...
+[05:30:02] [Thread-633/INFO]: Starting backup
+[05:30:02] [Thread-633/INFO]: Starting compression...
+[05:30:26] [Thread-633/INFO]: Compression took: 23.4946351s
+[05:30:26] [Thread-633/INFO]: Deleting: 2020-07-15_05-30-01#shutdown.zip
+[05:30:26] [Thread-633/INFO]: Done!
+[05:30:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:26] [Server thread/INFO]: Thread RCON Listener stopped

@@ -1,0 +1,299 @@
+[16:21:43] [main/INFO]: Loading for game Minecraft 1.15.2
+[16:21:47] [main/WARN]: Mod `jankson` (2.0.0+j1.2.0) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[16:21:47] [main/INFO]: [FabricLoader] Loading 40 mods: minecraft@1.15.2, fabric-networking-blockentity-v0@0.2.3+e08a73050c, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+dfdb52d60c, jankson@2.0.0+j1.2.0, fabricloader@0.7.8+build.189, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, fabric-dimensions-v1@0.3.0+2ad156310c, org_apache_commons_commons-compress@1.9, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@0.1.0+534104900c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-commands-v0@0.1.2+b7f9825d0c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, textile_backup@1.1.0-1.15, fabric-mining-levels-v0@0.1.1+b7f9825d0c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, carpet-extra@1.3.15, fabric-events-lifecycle-v0@0.1.2+b7f9825d0c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.5.1+build.294-1.15, carpet@1.3.15, fabric-item-groups-v0@0.1.6+ec40b2e10c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-particles-v1@0.1.1+dfdb52d60c, fabric-networking-v0@0.1.7+12515ed90c, fabric-object-builders-v0@0.1.3+e4c9a9c30c, cotton-config@1.0.0-rc.7
+[16:21:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[16:23:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:23:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:23:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:23:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:23:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:23:07] [main/INFO]: [TextileBackup]: Loading TextileBackup by Szum123321
+[16:23:09] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[16:23:09] [Server thread/INFO]: Loading properties
+[16:23:09] [Server thread/INFO]: Default game type: SURVIVAL
+[16:23:09] [Server thread/INFO]: Generating keypair
+[16:23:09] [Server thread/INFO]: Starting Minecraft server on *:26565
+[16:23:09] [Server thread/INFO]: Using default channel type
+[16:23:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:23:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:23:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:23:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:23:11] [Server thread/INFO]: Preparing level "skimit"
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting commandCameramode as false from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[16:23:11] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[16:23:12] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[16:23:12] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Mining Levels (v0)
+[16:23:15] [Server thread/INFO]: Loaded 6 recipes
+[16:23:17] [Server thread/INFO]: Loaded 825 advancements
+[16:23:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:21] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:22] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:22] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:23:23] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:23:23] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:23:24] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:23:24] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:23:25] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[16:23:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:26] [Server thread/INFO]: Preparing spawn area: 0%
+[16:23:26] [Server thread/INFO]: Preparing spawn area: 83%
+[16:23:27] [Server thread/INFO]: Time elapsed: 9161 ms
+[16:23:27] [Server thread/INFO]: Done (16.130s)! For help, type "help"
+[16:23:27] [Server thread/INFO]: Starting remote control listener
+[16:23:27] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[16:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2556ms or 51 ticks behind
+[16:24:06] [Server thread/INFO]: [TextileBackup]: Backup started by: Server on: 2020-04-11_16-24-06
+[16:24:06] [Server thread/INFO]: Saving server...
+[16:24:06] [Server thread/INFO]: [TextileBackup]: Saving server...
+[16:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[16:24:09] [Thread-50/INFO]: Starting compression...
+[16:24:09] [Thread-50/INFO]: [TextileBackup]: Starting compression...
+[16:24:53] [Thread-50/INFO]: Compression finished
+[16:24:53] [Thread-50/INFO]: [TextileBackup]: Compression finished
+[16:24:53] [Thread-50/INFO]: Done!
+[16:24:53] [Thread-50/INFO]: [TextileBackup]: Done!
+[19:47:36] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:56518] logged in with entity id 83 at (-369.7393465284422, 69.0, 513.2939258201914)
+[19:47:36] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:47:36] [Server thread/INFO]: MAX_ShouWang joined the game
+[19:47:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4790ms or 95 ticks behind
+[19:47:40] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-11_19-47-40
+[19:47:40] [Server thread/INFO]: [TextileBackup]: Saving server...
+[19:47:40] [Thread-51/INFO]: [TextileBackup]: Starting compression...
+[19:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26373ms or 527 ticks behind
+[19:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47426ms or 948 ticks behind
+[19:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20136ms or 402 ticks behind
+[19:50:25] [Server thread/INFO]: Villager class_1646['Farmer'/184, l='skimit', x=-383.42, y=69.94, z=465.56] died, message: 'Farmer was shot by Pillager'
+[19:50:25] [Thread-51/INFO]: [TextileBackup]: Compression finished
+[19:50:25] [Thread-51/INFO]: [TextileBackup]: Done!
+[19:50:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18896ms or 377 ticks behind
+[19:50:40] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[19:50:40] [Server thread/INFO]: MAX_ShouWang left the game
+[19:50:41] [Server thread/WARN]: handleDisconnection() called twice
+[19:54:21] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:56757] logged in with entity id 514 at (-378.100255893345, 69.0, 550.1322731984039)
+[19:54:21] [Server thread/INFO]: MAX_ShouWang joined the game
+[19:54:21] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[19:57:37] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[19:57:37] [Server thread/INFO]: MAX_ShouWang left the game
+[19:57:37] [Server thread/WARN]: handleDisconnection() called twice
+[19:59:18] [Server thread/INFO]: ChengXi123[/127.0.0.1:56939] logged in with entity id 1005 at (-369.2508880893268, 73.0, 497.277501994935)
+[19:59:18] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:59:19] [Server thread/INFO]: ChengXi123 joined the game
+[19:59:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[20:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[20:01:11] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:57011] logged in with entity id 1322 at (-407.9336774527534, 70.0, 497.94475463439517)
+[20:01:11] [Server thread/INFO]: MAX_ShouWang joined the game
+[20:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[20:01:12] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[20:01:49] [Server thread/INFO]: MAX_ShouWang was slain by Vindicator
+[20:01:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3594ms or 71 ticks behind
+[20:02:39] [Server thread/INFO]: MAX_ShouWang was slain by Vindicator
+[20:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[20:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3624ms or 72 ticks behind
+[20:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[20:03:51] [Server thread/INFO]: ChengXi123 has made the advancement [Voluntary Exile]
+[20:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[20:04:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2821ms or 56 ticks behind
+[20:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7488ms or 149 ticks behind
+[20:04:32] [Server thread/INFO]: Villager class_1646['Villager'/1033, l='skimit', x=-406.95, y=67.04, z=472.68] died, message: 'Villager suffocated in a wall'
+[20:07:19] [Server thread/INFO]: Villager class_1646['Villager'/1030, l='skimit', x=-406.42, y=69.59, z=475.80] died, message: 'Villager was slain by ChengXi123'
+[20:07:21] [Server thread/INFO]: Villager class_1646['Villager'/1032, l='skimit', x=-406.68, y=70.57, z=473.90] died, message: 'Villager was slain by ChengXi123'
+[20:07:24] [Server thread/INFO]: Villager class_1646['Villager'/1031, l='skimit', x=-406.70, y=69.39, z=471.30] died, message: 'Villager was slain by ChengXi123'
+[20:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:07:45] [Server thread/INFO]: Villager class_1646['Farmer'/182, l='skimit', x=-396.70, y=70.00, z=473.49] died, message: 'Farmer was impaled by ChengXi123'
+[20:09:21] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[20:09:21] [Server thread/INFO]: MAX_ShouWang left the game
+[20:09:28] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:57312] logged in with entity id 2666 at (-398.9637760972743, 69.0, 561.4678572132941)
+[20:09:28] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:09:28] [Server thread/INFO]: MAX_ShouWang joined the game
+[20:09:56] [Server thread/INFO]: Villager class_1646['Villager'/1035, l='skimit', x=-406.95, y=67.05, z=472.70] died, message: 'Villager suffocated in a wall'
+[20:09:57] [Server thread/INFO]: Villager class_1646['Villager'/1036, l='skimit', x=-406.95, y=67.05, z=472.38] died, message: 'Villager suffocated in a wall'
+[20:10:53] [Server thread/INFO]: ChengXi123 was slain by Vindicator
+[20:11:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[20:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
+[20:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8210ms or 164 ticks behind
+[20:13:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[20:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[20:15:16] [Server thread/INFO]: Villager class_1646['Villager'/1034, l='skimit', x=-406.70, y=69.65, z=471.30] died, message: 'Villager was slain by ChengXi123'
+[20:15:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[20:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9316ms or 186 ticks behind
+[20:16:01] [Server thread/INFO]: Cora_cold[/127.0.0.1:57547] logged in with entity id 3639 at (-514.4453136481523, 73.0, 539.0589885832494)
+[20:16:01] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:16:01] [Server thread/INFO]: Cora_cold joined the game
+[20:16:20] [Server thread/INFO]: <Cora_cold> 大佬晚上好
+[20:16:29] [Server thread/INFO]: Villager class_1646['Farmer'/118, l='skimit', x=-396.70, y=70.00, z=476.19] died, message: 'Farmer was slain by Vex'
+[20:16:30] [Server thread/INFO]: Villager class_1646['Farmer'/117, l='skimit', x=-396.70, y=70.00, z=476.49] died, message: 'Farmer was killed by Evoker using magic'
+[20:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19272ms or 385 ticks behind
+[20:16:40] [Server thread/INFO]: <ChengXi123> 快来帮帮忙
+[20:16:47] [Server thread/INFO]: <Cora_cold> ?
+[20:16:53] [Server thread/INFO]: ChengXi123 has made the advancement [Who's the Pillager Now?]
+[20:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8500ms or 170 ticks behind
+[20:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8131ms or 162 ticks behind
+[20:17:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8930ms or 178 ticks behind
+[20:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[20:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[20:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3087ms or 61 ticks behind
+[20:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3639ms or 72 ticks behind
+[20:22:07] [Server thread/INFO]: Villager class_1646['Farmer'/120, l='skimit', x=-396.70, y=70.00, z=475.53] died, message: 'Farmer was slain by Vex'
+[20:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3709ms or 74 ticks behind
+[20:22:08] [Server thread/INFO]: Villager class_1646['Cleric'/119, l='skimit', x=-396.70, y=70.00, z=475.50] died, message: 'Cleric was killed by Evoker using magic'
+[20:22:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[20:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7915ms or 158 ticks behind
+[20:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7373ms or 147 ticks behind
+[20:23:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[20:23:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6695ms or 133 ticks behind
+[20:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[20:24:32] [Server thread/INFO]: MAX_ShouWang was slain by Vex
+[20:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5498ms or 109 ticks behind
+[20:24:57] [Server thread/INFO]: ChengXi123 fell from a high place
+[20:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[20:25:23] [Server thread/INFO]: ChengXi123 was slain by Vindicator
+[20:25:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:26:42] [Server thread/INFO]: MAX_ShouWang was slain by Ravager
+[20:28:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[20:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12292ms or 245 ticks behind
+[20:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[20:29:44] [Server thread/INFO]: Cora_cold has made the advancement [Take Aim]
+[20:29:45] [Server thread/INFO]: <ChengXi123> 飞起来打
+[20:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[20:30:47] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[20:30:47] [Server thread/INFO]: MAX_ShouWang left the game
+[20:32:51] [Server thread/INFO]: <ChengXi123> 人呢
+[20:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[20:35:17] [Server thread/INFO]: <Cora_cold> 偷点十几个烟花
+[20:36:23] [Server thread/INFO]: <ChengXi123> 来这里打
+[20:38:32] [Server thread/INFO]: <Cora_cold> 没这样玩的啊
+[20:38:44] [Server thread/INFO]: <Cora_cold> 咋还拿叉子
+[20:38:57] [Server thread/INFO]: <ChengXi123> 好好，不用
+[20:40:40] [Server thread/INFO]: ChengXi123 was shot by Cora_cold
+[20:40:46] [Server thread/INFO]: <Cora_cold> emmm
+[20:41:12] [Server thread/INFO]: <Cora_cold> 没见了
+[20:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[20:44:45] [Server thread/INFO]: <Cora_cold> 坏了
+[20:46:24] [Server thread/INFO]: <ChengXi123> 你把甲脱了
+[20:46:56] [Server thread/INFO]: <Cora_cold> 弓坏了
+[20:47:24] [Server thread/INFO]: <Cora_cold> 白嫖弓箭QAQ
+[20:47:40] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-11_20-47-40
+[20:47:40] [Server thread/INFO]: [TextileBackup]: Saving server...
+[20:47:42] [Thread-52/INFO]: [TextileBackup]: Starting compression...
+[20:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[20:47:55] [Server thread/INFO]: Cora_cold has made the advancement [Ol' Betsy]
+[20:48:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7908ms or 158 ticks behind
+[20:48:12] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[20:48:12] [Server thread/INFO]: ChengXi123 left the game
+[20:48:15] [Server thread/WARN]: handleDisconnection() called twice
+[20:48:25] [Server thread/INFO]: ChengXi123[/127.0.0.1:58692] logged in with entity id 9642 at (-414.76249998807907, 70.0, 535.0296492952514)
+[20:48:25] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:48:25] [Server thread/INFO]: ChengXi123 joined the game
+[20:48:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8077ms or 161 ticks behind
+[20:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15380ms or 307 ticks behind
+[20:49:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13661ms or 273 ticks behind
+[20:49:50] [Server thread/INFO]: <ChengXi123> 继续啊
+[20:49:51] [Thread-52/INFO]: [TextileBackup]: Compression finished
+[20:49:51] [Thread-52/INFO]: [TextileBackup]: Done!
+[20:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11541ms or 230 ticks behind
+[20:55:14] [Server thread/INFO]: <Cora_cold> 等等，我离开一下
+[20:55:28] [Server thread/INFO]: <ChengXi123> 我下了，再见
+[20:55:31] [Server thread/INFO]: <Cora_cold> ???
+[20:55:32] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[20:55:32] [Server thread/INFO]: ChengXi123 left the game
+[20:58:39] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[20:58:39] [Server thread/INFO]: Cora_cold left the game
+[21:19:45] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:59822] logged in with entity id 10791 at (-369.6055666494505, 69.0, 515.0100717008886)
+[21:19:45] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:19:45] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:20:42] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:20:42] [Server thread/INFO]: MAX_ShouWang left the game
+[21:20:48] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:59864] logged in with entity id 11008 at (-370.6971262984166, 69.0, 511.7051458309914)
+[21:20:48] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:20:48] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:21:18] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:21:18] [Server thread/INFO]: MAX_ShouWang left the game
+[21:21:23] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:59889] logged in with entity id 11146 at (-370.44603265329613, 69.0, 511.8637296488333)
+[21:21:23] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:21:23] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:23:27] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:23:27] [Server thread/INFO]: MAX_ShouWang left the game
+[21:24:14] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:60000] logged in with entity id 11423 at (-388.62615701016404, 69.0, 514.9565333468569)
+[21:24:14] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:24:14] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:25:15] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[21:25:15] [Server thread/INFO]: MAX_ShouWang left the game
+[21:25:15] [Server thread/WARN]: handleDisconnection() called twice
+[21:28:08] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:60142] logged in with entity id 11615 at (-376.95002045575984, 69.0, 515.6699943340201)
+[21:28:08] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:28:08] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:29:23] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[21:29:23] [Server thread/INFO]: MAX_ShouWang left the game
+[21:29:23] [Server thread/WARN]: handleDisconnection() called twice
+[21:29:40] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:60200] logged in with entity id 11840 at (-376.073725365065, 69.0, 515.4606323293345)
+[21:29:40] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:29:40] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[21:38:50] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:38:50] [Server thread/INFO]: MAX_ShouWang left the game
+[21:38:54] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:60534] logged in with entity id 13186 at (-364.54325063444327, 70.5, 510.65319760129717)
+[21:38:54] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:38:54] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:40:01] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:40:01] [Server thread/INFO]: MAX_ShouWang left the game
+[21:40:07] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:60582] logged in with entity id 13382 at (-367.203109804585, 69.0, 519.4031029143034)
+[21:40:07] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:40:07] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:40:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[21:41:37] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[21:41:37] [Server thread/INFO]: MAX_ShouWang left the game
+[21:41:37] [Server thread/WARN]: handleDisconnection() called twice
+[21:42:00] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:60656] logged in with entity id 13617 at (-362.4882122157854, 67.0, 529.8145398229198)
+[21:42:00] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:42:00] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:46:01] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[21:46:01] [Server thread/INFO]: MAX_ShouWang left the game
+[21:46:01] [Server thread/WARN]: handleDisconnection() called twice
+[21:48:02] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:60874] logged in with entity id 14069 at (-354.8955787153648, 64.0, 530.8412931848379)
+[21:48:02] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:48:02] [Server thread/INFO]: MAX_ShouWang joined the game
+[21:48:02] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-11_21-48-02
+[21:48:02] [Server thread/INFO]: [TextileBackup]: Saving server...
+[21:48:03] [Thread-53/INFO]: [TextileBackup]: Starting compression...
+[21:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3633ms or 72 ticks behind
+[21:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5657ms or 113 ticks behind
+[21:49:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18375ms or 367 ticks behind
+[21:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15134ms or 302 ticks behind
+[21:49:58] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[21:49:58] [Server thread/INFO]: MAX_ShouWang left the game
+[21:50:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15479ms or 309 ticks behind
+[21:50:03] [Thread-53/INFO]: [TextileBackup]: Compression finished
+[21:50:03] [Thread-53/INFO]: [TextileBackup]: Done!
+[21:58:59] [Server thread/INFO]: MAX_ShouWang[/127.0.0.1:61264] logged in with entity id 14260 at (-374.3347030012255, 69.0, 511.0591920931386)
+[21:58:59] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:58:59] [Server thread/INFO]: MAX_ShouWang joined the game
+[22:03:18] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[22:03:18] [Server thread/INFO]: MAX_ShouWang left the game
+[22:22:33] [Server thread/INFO]: Manjaro_linux[/127.0.0.1:62123] logged in with entity id 14867 at (-379.48702689348477, 69.0, 506.486671243024)
+[22:22:33] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:22:33] [Server thread/INFO]: Manjaro_linux joined the game
+[22:25:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[22:27:05] [Server thread/WARN]: Fetching packet for removed entity class_1642['Zombie'/15831, l='skimit', x=-395.50, y=20.35, z=562.40]
+[22:30:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
+[22:33:10] [Server thread/INFO]: Manjaro_linux lost connection: Disconnected
+[22:33:10] [Server thread/INFO]: Manjaro_linux left the game

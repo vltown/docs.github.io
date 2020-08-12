@@ -1,0 +1,88 @@
+[00:53:53] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-10_00-53-53
+[00:53:53] [Server thread/INFO]: Saving server...
+[00:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:53:54] [Thread-672/INFO]: Starting backup
+[00:53:54] [Thread-672/INFO]: Starting compression...
+[00:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[00:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4432ms or 88 ticks behind
+[00:54:18] [Thread-672/INFO]: Compression took: 24.8821195s
+[00:54:18] [Thread-672/INFO]: Deleting: 2020-07-09_16-53-53.zip
+[00:54:18] [Thread-672/INFO]: Done!
+[01:53:53] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-10_01-53-53
+[01:53:53] [Server thread/INFO]: Saving server...
+[01:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:53:53] [Thread-703/INFO]: Starting backup
+[01:53:53] [Thread-703/INFO]: Starting compression...
+[01:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[01:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6207ms or 124 ticks behind
+[01:54:20] [Thread-703/INFO]: Compression took: 26.4047321s
+[01:54:20] [Thread-703/INFO]: Deleting: 2020-07-09_17-53-53.zip
+[01:54:20] [Thread-703/INFO]: Done!
+[02:53:53] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-10_02-53-53
+[02:53:53] [Server thread/INFO]: Saving server...
+[02:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:53:54] [Thread-732/INFO]: Starting backup
+[02:53:54] [Thread-732/INFO]: Starting compression...
+[02:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:54:17] [Thread-732/INFO]: Compression took: 23.9321271s
+[02:54:17] [Thread-732/INFO]: Deleting: 2020-07-09_18-53-53.zip
+[02:54:17] [Thread-732/INFO]: Done!
+[03:17:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/205286, l='ServerLevel[world]', x=-578.64, y=73.00, z=1180.57]
+[03:53:53] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-10_03-53-53
+[03:53:53] [Server thread/INFO]: Saving server...
+[03:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:53:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:53:55] [Thread-763/INFO]: Starting backup
+[03:53:55] [Thread-763/INFO]: Starting compression...
+[03:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[03:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6679ms or 133 ticks behind
+[03:54:20] [Thread-763/INFO]: Compression took: 25.781678s
+[03:54:20] [Thread-763/INFO]: Deleting: 2020-07-09_19-53-53.zip
+[03:54:20] [Thread-763/INFO]: Done!
+[04:42:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/216653, l='ServerLevel[world]', x=-582.50, y=73.00, z=1176.28]
+[04:42:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/216654, l='ServerLevel[world]', x=-582.50, y=73.00, z=1176.28]
+[04:49:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/217607, l='ServerLevel[world]', x=-582.50, y=73.00, z=1176.33]
+[04:53:53] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-10_04-53-53
+[04:53:53] [Server thread/INFO]: Saving server...
+[04:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:53:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:53:55] [Thread-794/INFO]: Starting backup
+[04:53:55] [Thread-794/INFO]: Starting compression...
+[04:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[04:54:18] [Thread-794/INFO]: Compression took: 23.2387476s
+[04:54:18] [Thread-794/INFO]: Deleting: 2020-07-09_20-53-53.zip
+[04:54:18] [Thread-794/INFO]: Done!
+[05:25:01] [Server thread/INFO]: [Server] 服务器将在5分钟后关闭备份存档，6:01继续开启
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-10_05-30-01
+[05:30:01] [Server thread/INFO]: Saving server...
+[05:30:01] [Thread-813/INFO]: Starting backup
+[05:30:01] [Thread-813/INFO]: Starting compression...
+[05:30:10] [Thread-813/INFO]: Compression took: 9.2233114s
+[05:30:10] [Thread-813/INFO]: Deleting: 2020-07-09_21-53-53.zip
+[05:30:10] [Thread-813/INFO]: Done!
+[05:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:10] [Server thread/INFO]: Thread RCON Listener stopped

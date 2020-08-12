@@ -1,0 +1,41 @@
+[00:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[01:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2170ms or 43 ticks behind
+[01:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3305ms or 66 ticks behind
+[01:03:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4926ms or 98 ticks behind
+[01:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[01:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7767ms or 155 ticks behind
+[01:31:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:49:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[02:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4081ms or 81 ticks behind
+[02:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[02:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[03:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[03:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[03:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
+[03:22:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5054ms or 101 ticks behind
+[03:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[03:39:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2846ms or 56 ticks behind
+[03:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[03:42:07] [Server thread/INFO]: Stopping the server
+[03:42:07] [Server thread/INFO]: Unknown command
+[03:42:07] [Server thread/INFO]: end<--[HERE]
+[03:42:07] [Server thread/INFO]: Unknown command
+[03:42:07] [Server thread/INFO]: exit<--[HERE]
+[03:42:07] [Server thread/INFO]: Stopping server
+[03:42:07] [Server thread/INFO]: Saving players
+[03:42:07] [Server thread/INFO]: Saving worlds
+[03:42:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[03:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:42:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[03:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:42:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[03:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:42:07] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-06-25_03-42-07
+[03:42:07] [Server thread/INFO]: [TextileBackup]: Saving server...
+[03:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:42:07] [Thread-55/INFO]: [TextileBackup]: Starting compression...
+[03:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:42:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:42:17] [Thread-55/INFO]: [TextileBackup]: Compression finished
+[03:42:17] [Thread-55/INFO]: [TextileBackup]: Deleting: 2020-06-16_05-30-02.zip
+[03:42:17] [Thread-55/INFO]: [TextileBackup]: Done!

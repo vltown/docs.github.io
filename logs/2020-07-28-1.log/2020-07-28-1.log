@@ -1,0 +1,43 @@
+[11:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3119ms or 62 ticks behind
+[12:08:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2271ms or 45 ticks behind
+[12:15:51] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:59795] logged in with entity id 34889 at (-367.2761010517398, 79.72446243249573, 383.43665690743916)
+[12:15:51] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:15:51] [Server thread/INFO]: na2hco3_CN joined the game
+[12:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
+[12:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[12:18:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[12:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[12:19:35] [Server thread/INFO]: <na2hco3_CN> 我在创造服
+[12:19:37] [Server thread/INFO]: <na2hco3_CN> 不卡
+[12:20:04] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[12:20:04] [Server thread/INFO]: na2hco3_CN left the game
+[12:21:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3272ms or 65 ticks behind
+[12:23:00] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:60058] logged in with entity id 36679 at (-106.51364396185295, 72.0, -121.5840004138157)
+[12:23:00] [Server thread/INFO]: na2hco3_CN joined the game
+[12:23:08] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[12:23:08] [Server thread/INFO]: na2hco3_CN left the game
+[12:40:40] [Server thread/INFO]: Nan_Yang[/127.0.0.1:60738] logged in with entity id 36774 at (-526.4971381417383, 89.77914296222993, 396.3000000119208)
+[12:40:40] [Server thread/INFO]: Nan_Yang joined the game
+[12:40:40] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:41:34] [IO-Worker-2851/WARN]: Chunk [-44, 24] is allocated, but stream is missing
+[12:41:39] [IO-Worker-2851/WARN]: Chunk [-45, 23] is allocated, but stream is missing
+[12:41:58] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[12:41:58] [Server thread/INFO]: Nan_Yang left the game
+[15:48:32] [Server thread/INFO]: Stopping the server
+[15:48:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:48:32] [Server thread/INFO]: end<--[HERE]
+[15:48:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:48:32] [Server thread/INFO]: exit<--[HERE]
+[15:48:32] [Server thread/INFO]: Stopping server
+[15:48:32] [Server thread/INFO]: Saving players
+[15:48:32] [Server thread/INFO]: Saving worlds
+[15:48:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:48:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:48:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:48:34] [Server thread/INFO]: Thread RCON Listener stopped

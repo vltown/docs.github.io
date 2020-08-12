@@ -1,0 +1,401 @@
+[06:01:06] [main/INFO]: Loading for game Minecraft 1.15.2
+[06:01:10] [main/WARN]: Mod `jankson` (2.0.0+j1.2.0) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[06:01:10] [main/INFO]: [FabricLoader] Loading 44 mods: minecraft@1.15.2, fabric-networking-blockentity-v0@0.2.3+e08a73050c, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+dfdb52d60c, jankson@2.0.0+j1.2.0, fabricloader@0.7.8+build.189, phosphor@0.5.2+build.6, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, lithium@0.4.6, fabric-dimensions-v1@0.3.0+2ad156310c, org_apache_commons_commons-compress@1.9, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@0.1.0+534104900c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, mm@2.0, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-commands-v0@0.1.2+b7f9825d0c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, com_moandjiezana_toml_toml4j@0.7.2, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, textile_backup@1.1.0-1.15, fabric-mining-levels-v0@0.1.1+b7f9825d0c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, carpet-extra@1.3.15, fabric-events-lifecycle-v0@0.1.2+b7f9825d0c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.5.1+build.294-1.15, carpet@1.3.15, fabric-item-groups-v0@0.1.6+ec40b2e10c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-particles-v1@0.1.1+dfdb52d60c, fabric-networking-v0@0.1.7+12515ed90c, fabric-object-builders-v0@0.1.3+e4c9a9c30c, cotton-config@1.0.0-rc.7
+[06:01:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[06:01:11] [main/INFO]: Lithium's configuration file was loaded successfully
+[06:01:13] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.chunk.no_chunk_locking.MixinPalettedContainer' as no configuration enables it
+[06:01:13] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinRedstoneWireBlock' as no configuration enables it
+[06:01:13] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinWorld' as no configuration enables it
+[06:01:17] [main/INFO]: Transforming class net/minecraft/class_2382 using patch set 'Modify mutability flags in Vec3i'
+[06:01:24] [main/INFO]: Transforming class net/minecraft/class_2338$class_2339 using patch set 'Use mutable fields in Vec3i'
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:38] [main/INFO]: Definitely not up to no good
+[06:02:38] [main/INFO]: [TextileBackup]: Loading TextileBackup by Szum123321
+[06:02:40] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[06:02:40] [Server thread/INFO]: Loading properties
+[06:02:40] [Server thread/INFO]: Default game type: SURVIVAL
+[06:02:40] [Server thread/INFO]: Generating keypair
+[06:02:40] [Server thread/INFO]: Starting Minecraft server on *:26565
+[06:02:40] [Server thread/INFO]: Using default channel type
+[06:02:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:02:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:02:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:02:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:02:42] [Server thread/INFO]: Preparing level "skimit"
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting commandCameramode as false from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[06:02:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Mining Levels (v0)
+[06:02:45] [Server thread/INFO]: Loaded 6 recipes
+[06:02:47] [Server thread/INFO]: Loaded 825 advancements
+[06:02:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[06:02:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[06:02:59] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:59] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:59] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:59] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:59] [Server thread/INFO]: Preparing spawn area: 83%
+[06:03:01] [Server thread/INFO]: Time elapsed: 9878 ms
+[06:03:01] [Server thread/INFO]: Done (18.677s)! For help, type "help"
+[06:03:01] [Server thread/INFO]: Starting remote control listener
+[06:03:01] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[06:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[06:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2201ms or 44 ticks behind
+[09:03:53] [Server thread/INFO]: XxiaoyunX[/127.0.0.1:53460] logged in with entity id 85 at (-368.30000001192093, 74.0, 530.5825415531168)
+[09:03:53] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:03:53] [Server thread/INFO]: XxiaoyunX joined the game
+[09:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3262ms or 65 ticks behind
+[09:03:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-04_09-03-55
+[09:03:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[09:03:55] [Thread-54/INFO]: [TextileBackup]: Starting compression...
+[09:04:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5570ms or 111 ticks behind
+[09:04:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[09:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[09:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3833ms or 76 ticks behind
+[09:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[09:06:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6787ms or 135 ticks behind
+[09:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4182ms or 83 ticks behind
+[09:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[09:06:53] [Thread-54/INFO]: [TextileBackup]: Compression finished
+[09:06:53] [Thread-54/INFO]: [TextileBackup]: Deleting: 2020-05-03_18-04-44.zip
+[09:06:55] [Thread-54/INFO]: [TextileBackup]: Done!
+[09:07:36] [Server thread/INFO]: Alex[local] logged in with entity id 912 at (-146.43458696237676, 71.0, 449.95414763479926)
+[09:07:36] [Server thread/INFO]: Alex joined the game
+[09:07:48] [Server thread/INFO]: Alex was shot by XxiaoyunX
+[09:07:48] [Server thread/INFO]: Alex lost connection: Killed
+[09:07:48] [Server thread/INFO]: Alex left the game
+[09:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[09:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3192ms or 63 ticks behind
+[09:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[09:27:41] [Server thread/INFO]: XxiaoyunX has reached the goal [Hired Help]
+[09:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09:30:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[09:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[09:37:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[09:41:29] [Server thread/INFO]: XxiaoyunX lost connection: Disconnected
+[09:41:29] [Server thread/INFO]: XxiaoyunX left the game
+[10:25:28] [Server thread/INFO]: Xuan_Se[/127.0.0.1:56246] logged in with entity id 8435 at (-42.5, 64.0, 239.5)
+[10:25:28] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:25:28] [Server thread/INFO]: Xuan_Se joined the game
+[10:25:28] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-04_10-25-28
+[10:25:28] [Server thread/INFO]: [TextileBackup]: Saving server...
+[10:25:29] [Thread-55/INFO]: [TextileBackup]: Starting compression...
+[10:26:00] [Server thread/INFO]: ChengXi123[/127.0.0.1:56263] logged in with entity id 8614 at (-373.35625234842894, 69.5625, 498.23769912862275)
+[10:26:00] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:26:00] [Server thread/INFO]: ChengXi123 joined the game
+[10:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[10:26:13] [Server thread/INFO]: <ChengXi123> hi
+[10:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6377ms or 127 ticks behind
+[10:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18554ms or 371 ticks behind
+[10:27:17] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:27:17] [Server thread/INFO]: ChengXi123 left the game
+[10:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5828ms or 116 ticks behind
+[10:27:32] [Server thread/INFO]: ChengXi123[/127.0.0.1:56310] logged in with entity id 9221 at (-9.26193947915602, 115.0, 29.822066847899734)
+[10:27:32] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:27:33] [Server thread/INFO]: ChengXi123 joined the game
+[10:27:43] [Server thread/INFO]: Xuan_Se fell from a high place
+[10:27:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8668ms or 173 ticks behind
+[10:28:02] [Thread-55/INFO]: [TextileBackup]: Compression finished
+[10:28:02] [Thread-55/INFO]: [TextileBackup]: Deleting: 2020-05-03_18-07-14.zip
+[10:28:03] [Thread-55/INFO]: [TextileBackup]: Done!
+[10:28:15] [Server thread/INFO]: Xuan_Se lost connection: Disconnected
+[10:28:15] [Server thread/INFO]: Xuan_Se left the game
+[10:28:22] [Server thread/INFO]: Xuan_Se[/127.0.0.1:56339] logged in with entity id 9547 at (-39.07669761986488, 78.1212968405392, 230.47253238975674)
+[10:28:22] [Server thread/INFO]: Xuan_Se joined the game
+[10:28:23] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:28:24] [Server thread/INFO]: <ChengXi123> 干啥呢？
+[10:30:07] [Server thread/INFO]: <ChengXi123> 跟我来
+[10:30:26] [Server thread/INFO]: Xuan_Se lost connection: Disconnected
+[10:30:26] [Server thread/INFO]: Xuan_Se left the game
+[10:30:30] [Server thread/INFO]: Xuan_Se[/127.0.0.1:56412] logged in with entity id 9841 at (-41.656801539212765, 82.0, 238.59483502461268)
+[10:30:30] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:30:30] [Server thread/INFO]: Xuan_Se joined the game
+[10:31:17] [Server thread/INFO]: <ChengXi123> ?
+[10:31:35] [Server thread/INFO]: <Xuan_Se> cao
+[10:31:50] [Server thread/INFO]: Xuan_Se fell from a high place
+[10:31:52] [Server thread/INFO]: <ChengXi123> 不要？
+[10:32:08] [Server thread/INFO]: Xuan_Se has made the advancement [We Need to Go Deeper]
+[10:33:27] [Server thread/INFO]: <ChengXi123> 吃这个
+[10:34:12] [Server thread/INFO]: <ChengXi123> 想看什么？
+[10:34:23] [Server thread/INFO]: <Xuan_Se> 鞘翅火箭有无
+[10:34:35] [Server thread/INFO]: Xuan_Se has reached the goal [Sky's the Limit]
+[10:34:47] [Server thread/INFO]: <ChengXi123> 想看什么？
+[10:34:54] [Server thread/INFO]: <Xuan_Se> 我也不知道
+[10:34:56] [Server thread/INFO]: <Xuan_Se> 233333
+[10:35:03] [Server thread/INFO]: <ChengXi123> 刷沙机？刷石机？
+[10:36:08] [Server thread/INFO]: <ChengXi123> 我带你转转吧
+[10:36:14] [Server thread/INFO]: <Xuan_Se> hao
+[10:37:37] [Server thread/INFO]: <ChengXi123> 人呢
+[10:38:42] [Server thread/INFO]: Xuan_Se has made the advancement [Stone Age]
+[10:39:14] [Server thread/INFO]: <Xuan_Se> 还可以啊
+[10:39:28] [Server thread/INFO]: <ChengXi123> 给我飞
+[10:39:35] [Server thread/INFO]: <Xuan_Se> ?
+[10:39:35] [Server thread/INFO]: <ChengXi123> 跟我飞
+[10:41:06] [Server thread/INFO]: <ChengXi123> 跟我来
+[10:41:47] [Server thread/INFO]: Xuan_Se has made the advancement [Acquire Hardware]
+[10:42:17] [Server thread/INFO]: <Xuan_Se> 种子是多少
+[10:42:32] [Server thread/INFO]: <ChengXi123> 忘了
+[10:42:36] [Server thread/INFO]: <Xuan_Se> emmmmmm
+[10:42:38] [Server thread/INFO]: <ChengXi123> 下去
+[10:43:39] [Server thread/INFO]: <ChengXi123> 我先去睡个觉
+[10:44:09] [Server thread/INFO]: Xuan_Se has made the advancement [Monster Hunter]
+[10:44:28] [Server thread/INFO]: <ChengXi123> 跟我来
+[10:44:53] [Server thread/INFO]: <Xuan_Se> ????
+[10:44:57] [Server thread/INFO]: <Xuan_Se> nirenne
+[10:45:14] [Server thread/INFO]: <ChengXi123> 240 208
+[10:46:12] [Server thread/INFO]: <ChengXi123> 红石被人拿完了
+[10:47:40] [RCON Listener #1/INFO]: Rcon connection from: /185.202.1.189
+[10:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[10:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[10:49:20] [Server thread/INFO]: Xuan_Se has made the advancement [Eye Spy]
+[10:49:30] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[10:49:30] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[10:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4051ms or 81 ticks behind
+[10:49:50] [Server thread/INFO]: Xuan_Se has made the advancement [The End?]
+[10:50:00] [Server thread/INFO]: ChengXi123 fell from a high place
+[10:50:06] [Server thread/INFO]: <Xuan_Se> ??????
+[10:50:20] [Server thread/INFO]: <ChengXi123> 失误失误
+[10:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[10:51:01] [Server thread/INFO]: <Xuan_Se> 这么多绿宝石
+[10:51:27] [Server thread/INFO]: Xuan_Se has made the advancement [Cover Me With Diamonds]
+[10:53:02] [Server thread/INFO]: <Xuan_Se> 为什么不做衰落的
+[10:53:10] [Server thread/INFO]: <ChengXi123> 效率不高
+[10:53:22] [Server thread/INFO]: <Xuan_Se> 不把
+[10:53:31] [Server thread/INFO]: <Xuan_Se> 那个高一些吧
+[10:53:33] [Server thread/INFO]: <ChengXi123> y1的效率最高
+[10:53:52] [Server thread/INFO]: <Xuan_Se> 击杀跟不上刷新啊
+[10:54:42] [Server thread/INFO]: <Xuan_Se> ?
+[10:56:05] [Server thread/INFO]: <Xuan_Se> 刷砂砾干啥······
+[10:56:14] [Server thread/INFO]: <ChengXi123> 装饰
+[10:56:21] [Server thread/INFO]: <Xuan_Se> ???
+[10:56:31] [Server thread/INFO]: <ChengXi123> 就是无聊
+[10:56:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[10:56:34] [Server thread/INFO]: Xuan_Se has made the advancement [Sweet Dreams]
+[10:57:20] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:57:20] [Server thread/INFO]: ChengXi123 left the game
+[10:57:30] [Server thread/INFO]: ChengXi123[/127.0.0.1:57287] logged in with entity id 21572 at (-382.01341303941024, 73.0, 495.0201330780634)
+[10:57:30] [Server thread/INFO]: ChengXi123 joined the game
+[10:57:30] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:58:01] [Server thread/INFO]: <ChengXi123> 你会红石吗？
+[10:58:09] [Server thread/INFO]: <Xuan_Se> 部分
+[10:58:28] [Server thread/INFO]: <ChengXi123> 比我厉害就是了
+[10:58:30] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[10:58:30] [Server thread/INFO]: ChengXi123 left the game
+[10:58:30] [Server thread/WARN]: handleDisconnection() called twice
+[10:58:56] [Server thread/INFO]: ChengXi123[/127.0.0.1:57339] logged in with entity id 21832 at (-367.67133357828453, 71.875, 514.3891230987776)
+[10:58:56] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:58:56] [Server thread/INFO]: ChengXi123 joined the game
+[10:59:14] [Server thread/INFO]: <ChengXi123> 我要去铺地板了
+[10:59:31] [Server thread/INFO]: <Xuan_Se> 在哪？
+[10:59:42] [Server thread/INFO]: <ChengXi123> 出生点下面
+[10:59:45] [Server thread/INFO]: <Xuan_Se> ao
+[10:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[11:00:08] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:00:08] [Server thread/INFO]: ChengXi123 left the game
+[11:00:20] [Server thread/INFO]: ChengXi123[/127.0.0.1:57390] logged in with entity id 22418 at (-153.50150786623337, 96.8708047443945, 257.49195326615353)
+[11:00:20] [Server thread/INFO]: ChengXi123 joined the game
+[11:00:20] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:00:52] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:57415] logged in with entity id 22663 at (-326.32197019892493, 84.0, 616.1813725222463)
+[11:00:52] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:00:52] [Server thread/INFO]: WhiteSky_Bai joined the game
+[11:00:56] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:00:56] [Server thread/INFO]: ChengXi123 left the game
+[11:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[11:05:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Ingot'/24130, l='skimit', x=-145.11, y=81.00, z=208.13]
+[11:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[11:08:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[11:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4069ms or 81 ticks behind
+[11:10:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7856ms or 157 ticks behind
+[11:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[11:10:40] [Server thread/INFO]: Xuan_Se has completed the challenge [Return to Sender]
+[11:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[11:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3035ms or 60 ticks behind
+[11:15:43] [Server thread/INFO]: Xuan_Se has reached the goal [Postmortal]
+[11:16:39] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[11:16:39] [Server thread/INFO]: WhiteSky_Bai left the game
+[11:19:37] [Server thread/INFO]: Xuan_Se lost connection: Disconnected
+[11:19:37] [Server thread/INFO]: Xuan_Se left the game
+[11:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
+[11:43:45] [Server thread/INFO]: RZYplus[/127.0.0.1:58821] logged in with entity id 31021 at (150.81023413462415, 114.7125, 183.5)
+[11:43:45] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:43:45] [Server thread/INFO]: RZYplus joined the game
+[11:43:45] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-04_11-43-45
+[11:43:45] [Server thread/INFO]: [TextileBackup]: Saving server...
+[11:43:45] [Thread-56/INFO]: [TextileBackup]: Starting compression...
+[11:44:47] [Thread-56/INFO]: [TextileBackup]: Compression finished
+[11:44:47] [Thread-56/INFO]: [TextileBackup]: Deleting: 2020-05-03_18-11-48.zip
+[11:44:48] [Thread-56/INFO]: [TextileBackup]: Done!
+[12:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[12:03:58] [Server thread/INFO]: RZYplus lost connection: Disconnected
+[12:03:58] [Server thread/INFO]: RZYplus left the game
+[12:40:45] [Server thread/INFO]: XxiaoyunX[/127.0.0.1:60698] logged in with entity id 35059 at (-370.96864584231326, 69.0, 525.363107704839)
+[12:40:45] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:40:45] [Server thread/INFO]: XxiaoyunX joined the game
+[12:43:44] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-04_12-43-44
+[12:43:44] [Server thread/INFO]: [TextileBackup]: Saving server...
+[12:43:46] [Thread-57/INFO]: [TextileBackup]: Starting compression...
+[12:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[12:44:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[12:44:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[12:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[12:45:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3050ms or 61 ticks behind
+[12:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3118ms or 62 ticks behind
+[12:45:54] [Thread-57/INFO]: [TextileBackup]: Compression finished
+[12:45:54] [Thread-57/INFO]: [TextileBackup]: Deleting: 2020-05-03_18-17-58.zip
+[12:45:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4512ms or 90 ticks behind
+[12:45:55] [Thread-57/INFO]: [TextileBackup]: Done!
+[12:50:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[12:55:12] [Server thread/FATAL]: Error executing task on Server
+java.lang.IllegalStateException: POI data mismatch: already registered at class_2338{x=-371, y=69, z=513}
+	at net.minecraft.class_4157.method_20350(class_4157.java:82) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4157.method_19146(class_4157.java:66) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4153.method_19115(class_4153.java:49) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3218.method_19499(class_3218.java:1295) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) [intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:743) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:138) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:725) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:719) [intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:703) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$zhh000$modifiedRunLoop(MinecraftServer.java:4406) [intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:634) [intermediary-server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+[13:06:56] [Server thread/INFO]: XxiaoyunX was slain by Zombie
+[13:07:14] [Server thread/INFO]: XxiaoyunX was slain by Zombie
+[13:07:55] [Server thread/INFO]: XxiaoyunX was slain by Zombie
+[13:10:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[13:17:47] [Server thread/INFO]: XxiaoyunX lost connection: Disconnected
+[13:17:47] [Server thread/INFO]: XxiaoyunX left the game
+[13:22:01] [Server thread/INFO]: Cora_cold[/127.0.0.1:62052] logged in with entity id 41658 at (-595.7525707883026, 69.0, 521.2196395967227)
+[13:22:01] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:22:01] [Server thread/INFO]: Cora_cold joined the game
+[13:30:54] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[13:30:54] [Server thread/INFO]: Cora_cold left the game
+[16:51:43] [Server thread/INFO]: Cora_cold[/127.0.0.1:52571] logged in with entity id 45248 at (-549.6633120769573, 69.0, 490.0413246003387)
+[16:51:43] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:51:43] [Server thread/INFO]: Cora_cold joined the game
+[16:51:43] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-04_16-51-43
+[16:51:43] [Server thread/INFO]: [TextileBackup]: Saving server...
+[16:51:44] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[16:51:44] [Server thread/INFO]: Cora_cold left the game
+[16:51:44] [Thread-58/INFO]: [TextileBackup]: Starting compression...
+[16:51:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8745ms or 174 ticks behind
+[16:51:53] [Server thread/INFO]: Cora_cold[/127.0.0.1:52575] logged in with entity id 45250 at (-549.6633120769573, 69.0, 490.0413246003387)
+[16:51:53] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:51:53] [Server thread/INFO]: Cora_cold joined the game
+[16:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[16:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[16:53:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4592ms or 91 ticks behind
+[16:53:44] [Thread-58/INFO]: [TextileBackup]: Compression finished
+[16:53:44] [Thread-58/INFO]: [TextileBackup]: Deleting: 2020-05-03_20-40-16.zip
+[16:53:44] [Thread-58/INFO]: [TextileBackup]: Done!
+[17:00:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-187, y=61, z=177} class_2338{x=-187, y=61, z=176}
+[17:03:37] [Server thread/INFO]: XxiaoyunX[/127.0.0.1:52959] logged in with entity id 48319 at (-369.58084407597397, 69.0, 514.9693580573763)
+[17:03:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:03:38] [Server thread/INFO]: XxiaoyunX joined the game
+[17:04:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-153, y=4, z=225} class_2338{x=-153, y=5, z=225}
+[17:06:08] [Server thread/INFO]: <Cora_cold> ?
+[17:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[17:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4990ms or 99 ticks behind
+[17:11:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[17:11:25] [Server thread/INFO]: XxiaoyunX lost connection: Disconnected
+[17:11:25] [Server thread/INFO]: XxiaoyunX left the game
+[17:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[17:24:00] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[17:24:00] [Server thread/INFO]: Cora_cold left the game
+[17:52:17] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:54554] logged in with entity id 54675 at (-329.4531351216512, 84.5, 616.6831313527127)
+[17:52:17] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:52:18] [Server thread/INFO]: WhiteSky_Bai joined the game
+[17:52:18] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-04_17-52-18
+[17:52:18] [Server thread/INFO]: [TextileBackup]: Saving server...
+[17:52:18] [Thread-59/INFO]: [TextileBackup]: Starting compression...
+[17:53:48] [Thread-59/INFO]: [TextileBackup]: Compression finished
+[17:53:48] [Thread-59/INFO]: [TextileBackup]: Deleting: 2020-05-03_21-25-25.zip
+[17:53:49] [Thread-59/INFO]: [TextileBackup]: Done!
+[17:56:51] [Server thread/INFO]: There are 1 of a max 8 players online: WhiteSky_Bai
+[17:56:59] [Server thread/INFO]: [Server] 服务器重启
+[17:57:08] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[17:57:08] [Server thread/INFO]: WhiteSky_Bai left the game
+[17:58:43] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:54781] logged in with entity id 55248 at (-370.7201071031619, 69.0, 524.5646357117515)
+[17:58:43] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:58:43] [Server thread/INFO]: MAX_XiaoKui joined the game
+[17:58:56] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[17:58:56] [Server thread/INFO]: MAX_XiaoKui left the game
+[17:59:57] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:54824] logged in with entity id 55422 at (-370.7201071031619, 69.0, 524.5646357117515)
+[17:59:57] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:59:57] [Server thread/INFO]: MAX_XiaoKui joined the game
+[18:00:07] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[18:00:07] [Server thread/INFO]: MAX_XiaoKui left the game
+[20:15:01] [Server thread/INFO]: RZYplus[/127.0.0.1:60481] logged in with entity id 55563 at (-366.2262365225722, 68.9375, 496.44811729077344)
+[20:15:01] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:15:01] [Server thread/INFO]: RZYplus joined the game
+[20:15:01] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-04_20-15-01
+[20:15:01] [Server thread/INFO]: [TextileBackup]: Saving server...
+[20:15:02] [Thread-60/INFO]: [TextileBackup]: Starting compression...
+[20:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[20:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20:16:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
+[20:16:36] [Thread-60/INFO]: [TextileBackup]: Compression finished
+[20:16:36] [Thread-60/INFO]: [TextileBackup]: Deleting: 2020-05-03_21-30-05.zip
+[20:16:36] [Thread-60/INFO]: [TextileBackup]: Done!
+[20:23:39] [Server thread/INFO]: RZYplus lost connection: Disconnected
+[20:23:39] [Server thread/INFO]: RZYplus left the game
+[20:29:37] [Server thread/INFO]: ChengXi123[/127.0.0.1:61131] logged in with entity id 57060 at (1.17777150102794, 6.0, 320.6356828862265)
+[20:29:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:29:37] [Server thread/INFO]: ChengXi123 joined the game
+[20:32:00] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[20:32:00] [Server thread/INFO]: ChengXi123 left the game
+[20:41:38] [Server thread/INFO]: ChengXi123[/127.0.0.1:61661] logged in with entity id 57895 at (37.633182427907265, 142.0, 689.1479504768703)
+[20:41:38] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:41:38] [Server thread/INFO]: ChengXi123 joined the game
+[20:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[20:47:18] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[20:47:18] [Server thread/INFO]: ChengXi123 left the game
+[20:55:57] [Server thread/INFO]: ChengXi123[/127.0.0.1:62294] logged in with entity id 60524 at (-418.5316809506584, 70.0, 532.6337832131653)
+[20:55:57] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:55:57] [Server thread/INFO]: ChengXi123 joined the game
+[20:57:57] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[20:57:57] [Server thread/INFO]: ChengXi123 left the game
+[20:57:57] [Server thread/WARN]: handleDisconnection() called twice
+[20:58:03] [Server thread/INFO]: ChengXi123[/127.0.0.1:62387] logged in with entity id 60949 at (-399.4695757420912, 70.76680405164726, 550.3440188622484)
+[20:58:03] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:58:03] [Server thread/INFO]: ChengXi123 joined the game
+[20:59:03] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[20:59:03] [Server thread/INFO]: ChengXi123 left the game
+[20:59:03] [Server thread/WARN]: handleDisconnection() called twice
+[20:59:34] [Server thread/INFO]: ChengXi123[/127.0.0.1:62456] logged in with entity id 61315 at (-312.69897288475454, 87.44732223471887, 612.8531881022644)
+[20:59:34] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:59:34] [Server thread/INFO]: ChengXi123 joined the game
+[21:00:27] [Server thread/INFO]: There are 1 of a max 8 players online: ChengXi123
+[21:07:00] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[21:07:00] [Server thread/INFO]: ChengXi123 left the game

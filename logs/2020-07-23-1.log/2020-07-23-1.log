@@ -1,0 +1,18 @@
+[00:28:47] [Server thread/INFO]: Stopping the server
+[00:28:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:28:47] [Server thread/INFO]: end<--[HERE]
+[00:28:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:28:47] [Server thread/INFO]: exit<--[HERE]
+[00:28:47] [Server thread/INFO]: Stopping server
+[00:28:47] [Server thread/INFO]: Saving players
+[00:28:47] [Server thread/INFO]: Saving worlds
+[00:28:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:28:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:28:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:28:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:28:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:28:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:28:48] [Server thread/INFO]: Thread RCON Listener stopped

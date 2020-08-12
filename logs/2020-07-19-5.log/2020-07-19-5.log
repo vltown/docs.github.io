@@ -1,0 +1,322 @@
+[18:35:27] [main/INFO]: Loading for game Minecraft 1.16.1
+[18:35:36] [main/INFO]: [FabricLoader] Loading 51 mods: fabric-renderer-api-v1@0.2.13+eae12eb87c, fabric-keybindings-v0@0.2.0+3fa9f7c57c, fabricloader@0.8.8+build.202, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f7c, lithium@0.5.0, fabric-dimensions-v1@1.0.0+a71b30537c, fabric-object-builder-api-v1@1.5.5+e00ecb5f7c, fabric-api-base@0.1.3+12a8474c7c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d7c, fabric-textures-v0@1.0.4+eae12eb87c, fabric-rendering-fluids-v1@0.1.7+12a8474c7c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea897c, fabric-renderer-registries-v1@2.0.1+5a0f9a607c, carpet-extra@1.4.0, fabric-loot-tables-v1@0.1.10+059ea8667c, fabric@0.13.1+build.370-1.16, carpet@1.4.0, fabric-particles-v1@0.2.1+0a6f2a707c, fabric-networking-v0@0.1.10+e00ecb5f7c, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b7c, minecraft@1.16.1, fabric-screen-handler-api-v1@1.0.1+f362c86e7c, here@0.0.8-mc1.16, fabric-command-api-v1@1.0.8+5ce533987c, jankson@3.0.0+j1.2.0, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.1.4+5794386e7c, fabric-renderer-indigo@0.3.1+059ea8667c, org_apache_commons_commons-compress@1.19, fabric-biomes-v1@0.2.7+059ea8667c, fabric-events-interaction-v0@0.3.3+7066030f7c, fabric-crash-report-info-v1@0.1.2+b7f9825d7c, fabric-rendering-v0@1.1.0+534104907c, fabric-key-binding-api-v1@1.0.0+e16a97747c, fabric-rendering-v1@1.1.2+346247d77c, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.5+059ea8667c, fabric-content-registries-v0@0.1.9+059ea8667c, fabric-tag-extensions-v0@0.2.5+5a6e8f4c7c, fabric-registry-sync-v0@0.3.8+7dba2d6c7c, fabric-commands-v0@0.2.0+52d308367c, textile_backup@1.2.3-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce997c, fabric-events-lifecycle-v0@0.1.3+0d474ec47c, fabric-models-v0@0.1.0+dfdb52d67c, fabric-item-groups-v0@0.2.0+438f96367c, fabric-object-builders-v0@0.6.0+da175ad67c
+[18:35:36] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[18:35:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[18:35:48] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-v0.mixins.json:MixinEntityTracker and should be specified in value
+[18:35:52] [main/WARN]: @Mixin target net[18:36:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:36:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:36:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:36:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:36:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:36:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:36:57] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), FZ.sDatapack-1.5.0-SNAPSHOT-dev.20200411.0751.zip
+[18:37:08] [Worker-Main-2/INFO]: Loaded 7 recipes
+[18:37:10] [Worker-Main-2/INFO]: Loaded 927 advancements
+[18:37:15] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:dimension_type, minecraft:chunk_generator_type
+[18:37:15] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[18:37:21] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[18:37:21] [Server thread/INFO]: Loading properties
+[18:37:21] [Server thread/INFO]: Default game type: SURVIVAL
+[18:37:21] [Server thread/INFO]: Generating keypair
+[18:37:27] [Server thread/INFO]: Starting Minecraft server on *:26565
+[18:37:27] [Server thread/INFO]: Using default channel type
+[18:37:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:37:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:37:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:37:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:37:46] [Server thread/INFO]: Preparing level "world"
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[18:37:46] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
+[18:37:55] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[18:37:55] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[18:37:55] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[18:37:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:47] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:49] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:49] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:49] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:49] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:50] [Server thread/INFO]: Preparing spawn area: 0%
+[18:38:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:38:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:38:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:38:52] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:38:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Server thread/INFO]: Preparing spawn area: 0%
+[18:39:03] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[18:39:03] [Worker-Main-3/INFO]: Preparing spawn area: 83%
+[18:39:05] [Server thread/INFO]: Preparing spawn area: 83%
+[18:39:05] [Server thread/INFO]: Preparing spawn area: 83%
+[18:39:05] [Server thread/INFO]: Preparing spawn area: 83%
+[18:39:05] [Server thread/INFO]: Preparing spawn area: 83%
+[18:39:22] [Server thread/INFO]: Time elapsed: 87042 ms
+[18:39:22] [Server thread/INFO]: Done (95.634s)! For help, type "help"
+[18:39:22] [Server thread/INFO]: Starting remote control listener
+[18:39:22] [Server thread/INFO]: Thread RCON Listener started
+[18:39:23] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[18:39:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4046ms or 80 ticks behind
+[18:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9974ms or 199 ticks behind
+[18:40:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[18:41:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[18:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[18:41:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[18:42:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[18:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[19:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
+[19:30:23] [Server thread/INFO]: KL_Tian[/127.0.0.1:55474] logged in with entity id 167 at (-42.5, 64.0, 239.5)
+[19:30:24] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:30:24] [Server thread/INFO]: KL_Tian joined the game
+[19:30:25] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-19_19-30-25
+[19:30:25] [Server thread/INFO]: Saving server...
+[19:30:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:30:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:30:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:30:28] [Thread-80/INFO]: Starting backup
+[19:30:32] [Thread-80/INFO]: Starting compression...
+[19:30:33] [Server thread/INFO]: <KL_Tian> ?
+[19:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30691ms or 613 ticks behind
+[19:31:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7979ms or 159 ticks behind
+[19:32:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14689ms or 293 ticks behind
+[19:32:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[19:32:24] [Server thread/INFO]: KL_Tian was slain by Spider
+[19:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4290ms or 85 ticks behind
+[19:32:58] [Thread-80/INFO]: Compression took: 146.2975161s
+[19:32:58] [Thread-80/INFO]: Done!
+[19:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[19:34:16] [Server thread/INFO]: KL_Tian was slain by Zombie
+[19:34:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
+[19:34:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4768ms or 95 ticks behind
+[19:34:57] [Server thread/INFO]: KL_Tian has made the advancement [Bring Home the Beacon]
+[19:34:57] [Server thread/INFO]: KL_Tian has reached the goal [Beaconator]
+[19:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16807ms or 336 ticks behind
+[19:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9130ms or 182 ticks behind
+[19:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9396ms or 187 ticks behind
+[19:36:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5446ms or 108 ticks behind
+[19:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
+[19:37:16] [Server thread/INFO]: KL_Tian was slain by Zombie
+[19:37:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[19:37:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8714ms or 174 ticks behind
+[19:37:53] [Server thread/INFO]: KL_Tian fell off scaffolding
+[19:38:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5902ms or 118 ticks behind
+[19:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5103ms or 102 ticks behind
+[19:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[19:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[19:39:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[19:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4208ms or 84 ticks behind
+[19:40:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3047ms or 60 ticks behind
+[19:41:04] [Server thread/INFO]: KL_Tian fell from a high place
+[19:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[19:41:24] [Server thread/INFO]: <KL_Tian> o
+[19:41:54] [Server thread/INFO]: KL_Tian was slain by Slime
+[19:42:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
+[19:42:48] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:55755] logged in with entity id 2907 at (-34.46999816255759, 64.0, 252.56686867704838)
+[19:42:48] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:42:48] [Server thread/INFO]: MAX_XiaoKui joined the game
+[19:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2344ms or 46 ticks behind
+[19:42:49] [Netty Server IO #0/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[19:43:11] [Server thread/INFO]: <MAX_XiaoKui> 我身上东西都是正常的
+[19:43:15] [Server thread/INFO]: <KL_Tian> ?
+[19:43:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[19:43:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[19:44:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[19:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4969ms or 99 ticks behind
+[19:44:25] [Server thread/INFO]: KL_Tian fell from a high place
+[19:44:28] [Server thread/INFO]: <MAX_XiaoKui> 我可以给你单独回档
+[19:44:31] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[19:44:31] [Server thread/INFO]: KL_Tian left the game
+[19:44:49] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[19:44:49] [Server thread/INFO]: MAX_XiaoKui left the game
+[19:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
+[20:25:10] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:56724] logged in with entity id 3347 at (-33.740911569453736, 5.0, 120.24026489785686)
+[20:25:10] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:25:10] [Server thread/INFO]: MAX_XiaoKui joined the game
+[20:25:11] [Netty Server IO #1/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[20:25:50] [Server thread/INFO]: KL_Tian[/127.0.0.1:56741] logged in with entity id 3490 at (-42.5, 64.0, 239.5)
+[20:25:50] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:25:50] [Server thread/INFO]: KL_Tian joined the game
+[20:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2191ms or 43 ticks behind
+[20:25:59] [Server thread/INFO]: <KL_Tian> ?????
+[20:26:02] [Server thread/INFO]: <MAX_XiaoKui> emmm
+[20:26:12] [Server thread/INFO]: <KL_Tian> 全没了额
+[20:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[20:26:15] [Server thread/INFO]: <MAX_XiaoKui> 那我试一下更久远的存档
+[20:26:23] [Server thread/INFO]: <KL_Tian> e
+[20:26:31] [Server thread/INFO]: <KL_Tian> 我现在这个存档是多久以前的啊
+[20:26:44] [Server thread/INFO]: <KL_Tian> 我现在这个存档是多久以前的啊
+[20:27:05] [Server thread/INFO]: <KL_Tian> e
+[20:27:14] [Server thread/INFO]: <KL_Tian> 你试试中午的
+[20:27:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[20:29:01] [Server thread/INFO]: <KL_Tian> ?
+[20:29:33] [Server thread/INFO]: <KL_Tian> 你试试中午的额
+[20:29:43] [Server thread/INFO]: <MAX_XiaoKui> 我在解压
+[20:29:52] [Server thread/INFO]: <KL_Tian> e
+[20:30:22] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-19_20-30-22
+[20:30:22] [Server thread/INFO]: Saving server...
+[20:30:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:30:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:30:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2983ms or 59 ticks behind
+[20:30:25] [Thread-119/INFO]: Starting backup
+[20:30:25] [Thread-119/INFO]: Starting compression...
+[20:30:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13991ms or 279 ticks behind
+[20:31:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12084ms or 241 ticks behind
+[20:31:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10652ms or 213 ticks behind
+[20:32:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6726ms or 134 ticks behind
+[20:32:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[20:32:30] [Thread-119/INFO]: Compression took: 124.1911289s
+[20:32:30] [Thread-119/INFO]: Done!
+[20:33:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7832ms or 156 ticks behind
+[20:35:16] [Server thread/INFO]: <KL_Tian> 好了吗额
+[20:37:28] [Server thread/INFO]: <KL_Tian> o
+[20:37:30] [Server thread/INFO]: KL_Tian lost connection: Disconnected
+[20:37:30] [Server thread/INFO]: KL_Tian left the game
+[20:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[20:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[20:39:37] [Server thread/INFO]: KL_Tian[/127.0.0.1:57044] logged in with entity id 4850 at (-5918.2328519823495, 3531.3173245101893, 591.8387779043134)
+[20:39:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:39:37] [Server thread/INFO]: KL_Tian joined the game
+[20:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16370ms or 327 ticks behind
+[20:39:52] [Server thread/INFO]: <KL_Tian> ???????
+[20:40:02] [Server thread/INFO]: <KL_Tian> 好了
+[20:40:02] [Server thread/INFO]: <MAX_XiaoKui> ?
+[20:40:54] [Server Watchdog/FATAL]: A single server tick took 61.15 seconds (should be max 0.05)
+[20:40:54] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20:40:58] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Server\skimit_survival\.\crash-reports\crash-2020-07-19_20.40.55-server.txt
+[20:41:03] [Server thread/INFO]: Stopping server
+[20:41:03] [Server thread/INFO]: Saving players
+[20:41:08] [Server thread/INFO]: MAX_XiaoKui lost connection: Internal Exception: java.lang.StackOverflowError
+[20:41:08] [Server thread/INFO]: MAX_XiaoKui left the game

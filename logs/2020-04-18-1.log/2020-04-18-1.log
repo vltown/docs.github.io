@@ -1,0 +1,104 @@
+[00:28:20] [Server thread/INFO]: mingyuang[/127.0.0.1:52095] logged in with entity id 12042 at (-42.5, 64.0, 239.5)
+[00:28:20] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:28:21] [Server thread/INFO]: mingyuang joined the game
+[00:28:21] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-18_00-28-21
+[00:28:21] [Server thread/INFO]: [TextileBackup]: Saving server...
+[00:28:21] [Thread-51/INFO]: [TextileBackup]: Starting compression...
+[00:28:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[00:28:37] [Server thread/INFO]: mingyuang has made the advancement [We Need to Go Deeper]
+[00:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4891ms or 97 ticks behind
+[00:29:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17846ms or 356 ticks behind
+[00:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11690ms or 233 ticks behind
+[00:29:48] [Server thread/INFO]: mingyuang lost connection: Disconnected
+[00:29:48] [Server thread/INFO]: mingyuang left the game
+[00:30:11] [Thread-51/INFO]: [TextileBackup]: Compression finished
+[00:30:11] [Thread-51/INFO]: [TextileBackup]: Deleting: 2020-04-17_13-03-17.zip
+[00:30:11] [Thread-51/INFO]: [TextileBackup]: Done!
+[00:32:44] [Server thread/INFO]: mingyuang[/127.0.0.1:52257] logged in with entity id 12351 at (-14.52359107636671, 115.0, 29.508854538645757)
+[00:32:44] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:32:44] [Server thread/INFO]: mingyuang joined the game
+[00:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[00:33:36] [Server thread/INFO]: mingyuang fell from a high place
+[00:33:50] [Server thread/INFO]: mingyuang lost connection: Disconnected
+[00:33:50] [Server thread/INFO]: mingyuang left the game
+[00:36:41] [Server thread/INFO]: mingyuang[/127.0.0.1:52405] logged in with entity id 12696 at (-48.71943238956083, 70.00133597911214, 240.9318673078646)
+[00:36:41] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:36:41] [Server thread/INFO]: mingyuang joined the game
+[00:37:57] [Server thread/INFO]: mingyuang lost connection: Timed out
+[00:37:57] [Server thread/INFO]: mingyuang left the game
+[00:37:57] [Server thread/WARN]: handleDisconnection() called twice
+[00:39:01] [Server thread/INFO]: mingyuang[/127.0.0.1:52499] logged in with entity id 12846 at (-40.63025062300528, 65.0, 243.69999998807907)
+[00:39:01] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:39:01] [Server thread/INFO]: mingyuang joined the game
+[00:39:33] [Server thread/INFO]: mingyuang fell from a high place
+[00:40:02] [Server thread/INFO]: mingyuang lost connection: Timed out
+[00:40:02] [Server thread/INFO]: mingyuang left the game
+[00:40:02] [Server thread/WARN]: handleDisconnection() called twice
+[00:48:11] [Server thread/INFO]: mingyuang[/127.0.0.1:52851] logged in with entity id 12994 at (-42.5, 64.0, 239.5)
+[00:48:11] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:48:11] [Server thread/INFO]: mingyuang joined the game
+[00:48:27] [Server thread/INFO]: mingyuang lost connection: Timed out
+[00:48:27] [Server thread/INFO]: mingyuang left the game
+[00:48:27] [Server thread/WARN]: handleDisconnection() called twice
+[00:48:50] [Server thread/INFO]: mingyuang[/127.0.0.1:52877] logged in with entity id 13062 at (-42.5, 64.0, 239.5)
+[00:48:50] [Server thread/INFO]: mingyuang joined the game
+[00:48:51] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:49:05] [Server thread/INFO]: mingyuang lost connection: Timed out
+[00:49:05] [Server thread/INFO]: mingyuang left the game
+[00:49:05] [Server thread/WARN]: handleDisconnection() called twice
+[01:12:18] [Server thread/INFO]: mingyuang[/127.0.0.1:53734] logged in with entity id 13128 at (-42.5, 64.0, 239.5)
+[01:12:18] [Server thread/INFO]: mingyuang joined the game
+[01:12:19] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[01:12:41] [Server thread/INFO]: mingyuang tried to swim in lava
+[01:15:47] [Server thread/INFO]: mingyuang has made the advancement [Eye Spy]
+[01:17:06] [Server thread/INFO]: mingyuang was slain by Zombie Pigman
+[01:17:51] [Server thread/INFO]: mingyuang fell from a high place
+[01:18:14] [Server thread/INFO]: mingyuang was slain by Zombie Pigman
+[01:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[01:19:27] [Server thread/INFO]: mingyuang has made the advancement [A Seedy Place]
+[01:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[01:21:16] [Server thread/INFO]: mingyuang has made the advancement [The Parrots and the Bats]
+[01:23:31] [Server thread/INFO]: mingyuang has made the advancement [Acquire Hardware]
+[01:23:31] [Server thread/INFO]: mingyuang has made the advancement [Ice Bucket Challenge]
+[01:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[01:26:23] [Server thread/INFO]: mingyuang has made the advancement [Isn't It Iron Pick]
+[01:26:23] [Server thread/INFO]: mingyuang has made the advancement [Suit Up]
+[01:28:21] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-18_01-28-21
+[01:28:21] [Server thread/INFO]: [TextileBackup]: Saving server...
+[01:28:22] [Thread-52/INFO]: [TextileBackup]: Starting compression...
+[01:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:28:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16997ms or 339 ticks behind
+[01:29:05] [Server thread/INFO]: mingyuang has made the advancement [Monster Hunter]
+[01:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13062ms or 261 ticks behind
+[01:29:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18775ms or 375 ticks behind
+[01:30:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11097ms or 221 ticks behind
+[01:30:34] [Thread-52/INFO]: [TextileBackup]: Compression finished
+[01:30:34] [Thread-52/INFO]: [TextileBackup]: Deleting: 2020-04-17_14-03-15.zip
+[01:30:34] [Thread-52/INFO]: [TextileBackup]: Done!
+[01:30:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
+[01:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[01:38:43] [Server thread/INFO]: mingyuang lost connection: Disconnected
+[01:38:43] [Server thread/INFO]: mingyuang left the game
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown command
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'skimit'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-04-18_05-30-01
+[05:30:01] [Server thread/INFO]: [TextileBackup]: Saving server...
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Thread-53/INFO]: [TextileBackup]: Starting compression...
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (skimit): All chunks are saved
+[05:30:50] [Thread-53/INFO]: [TextileBackup]: Compression finished
+[05:30:50] [Thread-53/INFO]: [TextileBackup]: Deleting: 2020-04-17_15-03-16.zip
+[05:30:50] [Thread-53/INFO]: [TextileBackup]: Done!

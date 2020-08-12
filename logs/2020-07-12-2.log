@@ -1,0 +1,610 @@
+[06:01:05] [main/INFO]: Loading for game Minecraft 1.16.1
+[06:01:09] [main/INFO]: [FabricLoader] Loading 51 mods: fabric-renderer-api-v1@0.2.13+eae12eb87c, fabric-keybindings-v0@0.2.0+3fa9f7c57c, fabricloader@0.8.8+build.202, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f7c, lithium@0.5.0, fabric-dimensions-v1@1.0.0+a71b30537c, fabric-object-builder-api-v1@1.5.5+e00ecb5f7c, fabric-api-base@0.1.3+12a8474c7c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d7c, fabric-textures-v0@1.0.4+eae12eb87c, fabric-rendering-fluids-v1@0.1.7+12a8474c7c, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea897c, fabric-renderer-registries-v1@2.0.1+5a0f9a607c, carpet-extra@1.4.0, fabric-loot-tables-v1@0.1.10+059ea8667c, fabric@0.13.1+build.370-1.16, carpet@1.4.0, fabric-particles-v1@0.2.1+0a6f2a707c, fabric-networking-v0@0.1.10+e00ecb5f7c, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b7c, minecraft@1.16.1, fabric-screen-handler-api-v1@1.0.1+f362c86e7c, here@0.0.8-mc1.16, fabric-command-api-v1@1.0.8+5ce533987c, jankson@3.0.0+j1.2.0, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.1.4+5794386e7c, fabric-renderer-indigo@0.3.1+059ea8667c, org_apache_commons_commons-compress@1.19, fabric-biomes-v1@0.2.7+059ea8667c, fabric-events-interaction-v0@0.3.3+7066030f7c, fabric-crash-report-info-v1@0.1.2+b7f9825d7c, fabric-rendering-v0@1.1.0+534104907c, fabric-key-binding-api-v1@1.0.0+e16a97747c, fabric-rendering-v1@1.1.2+346247d77c, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.5+059ea8667c, fabric-content-registries-v0@0.1.9+059ea8667c, fabric-tag-extensions-v0@0.2.5+5a6e8f4c7c, fabric-registry-sync-v0@0.3.8+7dba2d6c7c, fabric-commands-v0@0.2.0+52d308367c, textile_backup@1.2.3-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce997c, fabric-events-lifecycle-v0@0.1.3+0d474ec47c, fabric-models-v0@0.1.0+dfdb52d67c, fabric-item-groups-v0@0.2.0+438f96367c, fabric-object-builders-v0@0.6.0+da175ad67c
+[06:01:09] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[06:01:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[06:01:15] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-v0.mixins.json:MixinEntityTracker and should be specified in value
+[06:01:19] [main/WARN]: @Mixin target net[06:01:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[06:02:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:15] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1)
+[06:02:20] [Worker-Main-2/INFO]: Loaded 7 recipes
+[06:02:22] [Worker-Main-2/INFO]: Loaded 927 advancements
+[06:02:25] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:dimension_type, minecraft:chunk_generator_type
+[06:02:25] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[06:02:27] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[06:02:27] [Server thread/INFO]: Loading properties
+[06:02:27] [Server thread/INFO]: Default game type: SURVIVAL
+[06:02:28] [Server thread/INFO]: Generating keypair
+[06:02:30] [Server thread/INFO]: Starting Minecraft server on *:26565
+[06:02:30] [Server thread/INFO]: Using default channel type
+[06:02:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:02:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:02:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:02:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:02:42] [Server thread/INFO]: Preparing level "world"
+[06:02:42] [Server thread/ERROR]: [CM]: Carpet Mod Setting commandCameramode is not a valid - ignoring...
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[06:02:46] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[06:02:46] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[06:02:46] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[06:02:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:03:10] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:10] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:10] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:10] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:10] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:11] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:12] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:12] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:12] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:13] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:03:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 0%
+[06:03:21] [Server thread/INFO]: Preparing spawn area: 83%
+[06:03:22] [Server thread/INFO]: Preparing spawn area: 83%
+[06:03:28] [Server thread/INFO]: Time elapsed: 41998 ms
+[06:03:28] [Server thread/INFO]: Done (45.937s)! For help, type "help"
+[06:03:28] [Server thread/INFO]: Starting remote control listener
+[06:03:28] [Server thread/INFO]: Thread RCON Listener started
+[06:03:29] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[06:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3834ms or 76 ticks behind
+[06:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14277ms or 285 ticks behind
+[13:45:22] [Server thread/INFO]: Naando[/127.0.0.1:59706] logged in with entity id 466 at (-365.91237133052437, 70.0, 525.1735080174593)
+[13:45:23] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:45:23] [Server thread/INFO]: Naando joined the game
+[13:45:24] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-12_13-45-24
+[13:45:24] [Server thread/INFO]: Saving server...
+[13:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:45:25] [Thread-246/INFO]: Starting backup
+[13:45:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3153ms or 63 ticks behind
+[13:45:28] [Thread-246/INFO]: Starting compression...
+[13:45:31] [Server thread/INFO]: Naando lost connection: Disconnected
+[13:45:31] [Server thread/INFO]: Naando left the game
+[13:45:32] [Server thread/INFO]: Naando[/127.0.0.1:59709] logged in with entity id 477 at (-365.91237133052437, 70.0, 525.1735080174593)
+[13:45:32] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:45:33] [Server thread/INFO]: Naando joined the game
+[13:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24702ms or 494 ticks behind
+[13:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17565ms or 351 ticks behind
+[13:46:43] [Thread-246/INFO]: Compression took: 75.3358866s
+[13:46:44] [Thread-246/INFO]: Deleting: 2020-07-11_13-02-01.zip
+[13:46:44] [Thread-246/INFO]: Done!
+[13:47:54] [Server thread/INFO]: Naando lost connection: Disconnected
+[13:47:54] [Server thread/INFO]: Naando left the game
+[13:50:39] [Server thread/INFO]: Naando[/127.0.0.1:59895] logged in with entity id 2251 at (-398.8192932889441, 69.0, 519.8715726026497)
+[13:50:39] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:50:39] [Server thread/INFO]: Naando joined the game
+[13:50:56] [Server thread/INFO]: <Naando> shi yiha
+[13:51:23] [Server thread/INFO]: <Naando> qwq
+[13:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
+[13:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[13:55:11] [Server thread/INFO]: <Naando> 回弹很恐怖
+[13:57:13] [Server thread/INFO]: Naando has reached the goal [You Need a Mint]
+[14:00:47] [Server thread/INFO]: Naando lost connection: Disconnected
+[14:00:47] [Server thread/INFO]: Naando left the game
+[19:10:23] [Server thread/INFO]: Cora_cold[/127.0.0.1:55690] logged in with entity id 10552 at (77.60226656999131, 5.0, 235.42339854907712)
+[19:10:23] [Server thread/INFO]: Cora_cold joined the game
+[19:10:23] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:10:24] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-12_19-10-24
+[19:10:24] [Server thread/INFO]: Saving server...
+[19:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:10:25] [Thread-384/INFO]: Starting backup
+[19:10:25] [Thread-384/INFO]: Starting compression...
+[19:10:26] [Netty Server IO #0/INFO]: Player Cora_cold joined with a matching carpet client
+[19:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4304ms or 86 ticks behind
+[19:10:46] [Thread-384/INFO]: Compression took: 20.928539s
+[19:10:46] [Thread-384/INFO]: Deleting: 2020-07-11_14-02-01.zip
+[19:10:46] [Thread-384/INFO]: Done!
+[19:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[19:11:24] [Server thread/INFO]: <Cora_cold> 有，但是没上线
+[19:12:07] [Server thread/INFO]: <Cora_cold> 嬲啊
+[19:13:02] [Server thread/INFO]: <Cora_cold> 不知道，如果我姐不用的话
+[19:26:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-81, y=7, z=127} class_2338{x=-81, y=6, z=126}
+[19:28:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-91, y=7, z=126} class_2338{x=-92, y=7, z=126}
+[19:28:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-91, y=7, z=124} class_2338{x=-92, y=7, z=124}
+[19:28:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=7, z=124} class_2338{x=-92, y=7, z=124}
+[19:28:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=7, z=124} class_2338{x=-92, y=7, z=124}
+[19:28:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=7, z=124} class_2338{x=-92, y=7, z=124}
+[19:28:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=7, z=124} class_2338{x=-92, y=7, z=124}
+[19:28:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=7, z=124} class_2338{x=-92, y=7, z=124}
+[19:28:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=7, z=124} class_2338{x=-92, y=7, z=124}
+[19:28:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=8, z=123} class_2338{x=-89, y=7, z=123}
+[19:28:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=8, z=123} class_2338{x=-89, y=7, z=123}
+[19:28:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=8, z=123} class_2338{x=-89, y=7, z=123}
+[19:28:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-90, y=7, z=121} class_2338{x=-90, y=7, z=122}
+[19:28:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=118} class_2338{x=-80, y=8, z=118}
+[19:28:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=118} class_2338{x=-79, y=8, z=118}
+[19:28:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=118} class_2338{x=-79, y=8, z=118}
+[19:28:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=118} class_2338{x=-79, y=8, z=118}
+[19:29:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-84, y=7, z=120} class_2338{x=-85, y=7, z=120}
+[19:34:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-97, y=7, z=124} class_2338{x=-97, y=6, z=125}
+[19:37:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-104, y=8, z=127} class_2338{x=-106, y=7, z=129}
+[19:42:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-140, y=21, z=126} class_2338{x=-140, y=21, z=127}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=18, z=121} class_2338{x=-133, y=17, z=121}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=18, z=121} class_2338{x=-133, y=17, z=121}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-133, y=18, z=122} class_2338{x=-133, y=17, z=121}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=18, z=122} class_2338{x=-133, y=17, z=121}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-133, y=19, z=122} class_2338{x=-133, y=17, z=121}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-133, y=19, z=122} class_2338{x=-133, y=17, z=121}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-133, y=19, z=122} class_2338{x=-133, y=17, z=121}
+[19:42:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-133, y=19, z=122} class_2338{x=-133, y=17, z=121}
+[19:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-121, y=16, z=128} class_2338{x=-121, y=16, z=132}
+[19:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-121, y=16, z=128} class_2338{x=-121, y=16, z=132}
+[19:44:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-121, y=16, z=128} class_2338{x=-121, y=16, z=132}
+[19:48:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-142, y=12, z=117} class_2338{x=-141, y=13, z=116}
+[19:48:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=13, z=115} class_2338{x=-141, y=13, z=116}
+[19:48:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-149, y=11, z=127} class_2338{x=-148, y=13, z=128}
+[19:53:24] [Server thread/INFO]: X_mikl[/127.0.0.1:57300] logged in with entity id 41068 at (-139.09207058023736, 82.0, 197.37050506559942)
+[19:53:24] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:53:24] [Server thread/INFO]: X_mikl joined the game
+[19:53:31] [Netty Server IO #0/INFO]: Player X_mikl joined with a matching carpet client
+[19:53:45] [Server thread/INFO]: <Cora_cold> 你好啊
+[19:55:51] [Server thread/INFO]: <Cora_cold> 喂在吗
+[19:56:08] [Server thread/INFO]: <X_mikl> 我吗？
+[19:56:11] [Server thread/INFO]: <Cora_cold> en
+[19:56:22] [Server thread/INFO]: <X_mikl> 什么事
+[19:56:22] [Server thread/INFO]: <Cora_cold> 你在干嘛？
+[19:56:33] [Server thread/INFO]: <X_mikl> 调设置
+[19:56:34] [Server thread/INFO]: <Cora_cold> 你在哪？
+[19:56:35] [Server thread/INFO]: <Cora_cold> o
+[19:57:56] [Server thread/INFO]: <X_mikl> 你加了MOD吗
+[19:58:06] [Server thread/INFO]: <Cora_cold> 群里的客户端啊
+[19:58:14] [Server thread/INFO]: <Cora_cold> 有很多辅助mod
+[19:58:23] [Server thread/INFO]: <X_mikl> 我不会用
+[19:58:24] [Server thread/INFO]: <Cora_cold> 自然结构显示的
+[19:58:30] [Server thread/INFO]: <X_mikl> 我加了
+[19:58:37] [Server thread/INFO]: <X_mikl> 我好菜的
+[19:59:53] [Server thread/INFO]: <X_mikl> 为什么不装个REI呢？
+[20:00:00] [Server thread/INFO]: <X_mikl> 合成表我就住
+[20:00:04] [Server thread/INFO]: <X_mikl> 记不住
+[20:00:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-151, y=8, z=120} class_2338{x=-150, y=8, z=119}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-144, y=9, z=118} class_2338{x=-146, y=9, z=118}
+[20:00:34] [Server thread/INFO]: <Cora_cold> 1.12之后不就有一个合成表吗？虽然不好用
+[20:00:55] [Server thread/INFO]: <X_mikl> 合成书好垃圾，还要解锁
+[20:01:42] [Server thread/INFO]: <X_mikl> 你现在在干嘛
+[20:01:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:01:58] [Server thread/INFO]: <Cora_cold> 挖方块
+[20:02:00] [Server thread/INFO]: <Cora_cold> 你在哪？
+[20:02:18] [Server thread/INFO]: <X_mikl> 我在出生点附近的刷铁机那
+[20:02:23] [Server thread/INFO]: <Cora_cold> 我在下面
+[20:02:36] [Server thread/INFO]: <Cora_cold> 离你最近的角落里
+[20:02:55] [Server thread/INFO]: <X_mikl> 小地图真烂
+[20:02:59] [Server thread/INFO]: X_mikl fell from a high place
+[20:03:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Brown Concrete Powder'/47702, l='ServerLevel[world]', x=-109.88, y=5.00, z=117.72]
+[20:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[20:03:20] [Server thread/INFO]: <Cora_cold> ?
+[20:03:29] [Server thread/INFO]: <X_mikl> 一夜回到解放前
+[20:03:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-114, y=5, z=116} class_2338{x=-116, y=5, z=116}
+[20:04:03] [Server thread/INFO]: <X_mikl> 你打个招呼吧
+[20:04:11] [Server thread/INFO]: <X_mikl> ./here
+[20:04:41] [Server thread/INFO]: <Cora_cold> 这个服你玩多久了/
+[20:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[20:05:05] [Server thread/INFO]: <X_mikl> 两三周吧
+[20:05:41] [Server thread/INFO]: <X_mikl> 你在哪
+[20:05:54] [Server thread/INFO]: <Cora_cold> 给你做水桶
+[20:06:18] [Server thread/INFO]: X_mikl was slain by Slime
+[20:06:28] [Server thread/INFO]: <X_mikl> eeeeeeeee
+[20:06:46] [Server thread/INFO]: <Cora_cold> 挑下来
+[20:06:46] [Server thread/INFO]: <X_mikl> 我关下光影
+[20:07:44] [Server thread/INFO]: X_mikl fell from a high place
+[20:07:51] [Server thread/INFO]: <X_mikl> eeeeeeeee
+[20:08:05] [Server thread/INFO]: X_mikl fell from a high place
+[20:08:25] [Server thread/INFO]: <Cora_cold> 晚上好啊
+[20:08:31] [Server thread/INFO]: ... Time warp completed with 0 tps, or Infinity mspt
+[20:08:37] [Server thread/INFO]: <X_mikl> 晚上好
+[20:08:41] [Server thread/INFO]: <Cora_cold> 看他信仰之跃
+[20:08:45] [Server thread/INFO]: X_mikl fell from a high place
+[20:08:59] [Server thread/INFO]: <Cora_cold> 你行不行
+[20:09:01] [Server thread/INFO]: <X_mikl> 我太菜了
+[20:09:23] [Server thread/INFO]: X_mikl has made the advancement [Diamonds!]
+[20:09:46] [Server thread/INFO]: <X_mikl> 我好卡
+[20:09:56] [Server thread/INFO]: <Cora_cold> 还行
+[20:10:22] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-12_20-10-22
+[20:10:22] [Server thread/INFO]: Saving server...
+[20:10:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:10:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:10:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:10:24] [Thread-420/INFO]: Starting backup
+[20:10:24] [Thread-420/INFO]: Starting compression...
+[20:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[20:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9258ms or 185 ticks behind
+[20:10:55] [Server thread/INFO]: <X_mikl> 我怎么上去
+[20:10:56] [Thread-420/INFO]: Compression took: 31.8404742s
+[20:10:56] [Thread-420/INFO]: Deleting: 2020-07-11_17-09-01.zip
+[20:10:56] [Thread-420/INFO]: Done!
+[20:11:03] [Server thread/INFO]: <Cora_cold> 别上去了
+[20:11:12] [Server thread/INFO]: X_mikl has reached the goal [Postmortal]
+[20:11:16] [Server thread/INFO]: <Cora_cold> 大方块
+[20:11:27] [Server thread/INFO]: <X_mikl> 没有
+[20:11:33] [Server thread/INFO]: <Cora_cold> 我这里很多
+[20:11:35] [Server thread/INFO]: <X_mikl> 一个字：穷
+[20:13:14] [Server thread/INFO]: <X_mikl> 勤奋的你
+[20:13:29] [Server thread/INFO]: <Cora_cold> 你看右边的榜就知道了
+[20:13:37] [Server thread/INFO]: <X_mikl> 66666666666666666666666
+[20:13:50] [Server thread/INFO]: <Cora_cold> 这只是记录钻石镐
+[20:13:58] [Server thread/INFO]: <X_mikl> 6666666666666666666666666666666666666666666666666666666666666666
+[20:14:02] [Server thread/INFO]: <Cora_cold> 下届合金稿子蹦年
+[20:14:07] [Server thread/INFO]: <Cora_cold> 下届合金稿子不行
+[20:14:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-160, y=4, z=128} class_2338{x=-160, y=4, z=130}
+[20:14:33] [Server thread/INFO]: <X_mikl> 肝帝牛逼
+[20:14:48] [Server thread/INFO]: <Cora_cold> 我只是来养老的
+[20:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[20:15:04] [Server thread/INFO]: <X_mikl> ^_^
+[20:15:38] [Server thread/INFO]: <X_mikl> 你会联机吗，不开服务器，几个人一起玩的那种
+[20:15:56] [Server thread/INFO]: <Cora_cold> 之前会用游侠，不过两三年没用了
+[20:16:14] [Server thread/INFO]: <X_mikl> 我不会
+[20:16:43] [Server thread/INFO]: <X_mikl> 等会我去玩一格生存空岛
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:16:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-131, y=7, z=121} class_2338{x=-129, y=7, z=121}
+[20:17:22] [Server thread/INFO]: <X_mikl> 谢谢招待
+[20:17:28] [Server thread/INFO]: <X_mikl> 我走了
+[20:17:29] [Server thread/INFO]: <Cora_cold> meishi
+[20:17:32] [Server thread/INFO]: <Cora_cold> o
+[20:18:32] [Server thread/INFO]: X_mikl tried to swim in lava to escape Zombie
+[20:19:36] [Server thread/INFO]: <X_mikl> 服务器能开连点器吗
+[20:19:55] [Server thread/INFO]: <Cora_cold> 应该可以，他们破基岩的时候应该使用了
+[20:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20:20:27] [Server thread/INFO]: <X_mikl> 你开了光影没
+[20:20:37] [Server thread/INFO]: <Cora_cold> 配置不行
+[20:20:44] [Server thread/INFO]: <X_mikl> 多少
+[20:24:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=56, z=114} class_2338{x=-56, y=55, z=114}
+[20:24:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=56, z=114} class_2338{x=-56, y=55, z=114}
+[20:24:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-46, y=61, z=112} class_2338{x=-45, y=59, z=112}
+[20:24:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-44, y=58, z=112} class_2338{x=-45, y=59, z=112}
+[20:26:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-94, y=67, z=112} class_2338{x=-92, y=67, z=112}
+[20:26:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-100, y=65, z=112} class_2338{x=-101, y=65, z=112}
+[20:26:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-100, y=65, z=112} class_2338{x=-101, y=65, z=112}
+[20:26:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-100, y=65, z=112} class_2338{x=-101, y=65, z=112}
+[20:27:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/63928, l='ServerLevel[world]', x=-174.26, y=4.02, z=253.78]
+[20:27:40] [Server thread/INFO]: <Cora_cold> 在干嘛
+[20:27:51] [Server thread/INFO]: <Cora_cold> 5000的笔记本
+[20:28:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/64398, l='ServerLevel[world]', x=-174.30, y=4.00, z=254.80]
+[20:28:50] [Server thread/INFO]: <X_mikl> 这刷铁机效率真高
+[20:29:10] [Server thread/INFO]: <Cora_cold> 只是双向的，没做四向
+[20:29:16] [Server thread/INFO]: <X_mikl> 呵呵
+[20:29:16] [Server thread/INFO]: <Cora_cold> 估计还要拆了从做
+[20:29:21] [Server thread/INFO]: <X_mikl> 挖槽
+[20:29:25] [Server thread/INFO]: <X_mikl> 卧槽
+[20:29:32] [Server thread/INFO]: X_mikl tried to swim in lava
+[20:29:34] [Server thread/INFO]: <Cora_cold> e
+[20:29:45] [Server thread/INFO]: <X_mikl> 这光影真好看
+[20:29:57] [Server thread/INFO]: <X_mikl> 你分配了多少内存给我的世界
+[20:30:08] [Server thread/INFO]: <X_mikl> 我6144MB，就是6G
+[20:30:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[20:30:13] [Server thread/INFO]: <Cora_cold> 4g
+[20:30:22] [Server thread/INFO]: <X_mikl> FPS30到50
+[20:30:31] [Server thread/INFO]: <X_mikl> 袭击？？？？
+[20:30:34] [Server thread/INFO]: <Cora_cold> en
+[20:30:46] [Server thread/INFO]: <Cora_cold> 我之前在下面打的
+[20:30:51] [Server thread/INFO]: <X_mikl> 黑漆漆的，看不见
+[20:30:56] [Server thread/INFO]: <X_mikl> 0.0
+[20:31:57] [Server thread/INFO]: <X_mikl> 我打算去curseforge上下个REI，合成表都不知道
+[20:32:03] [Server thread/INFO]: <X_mikl> 谢谢大佬
+[20:32:21] [Server thread/INFO]: <X_mikl> 爱你哦[呕]
+[20:32:26] [Server thread/INFO]: X_mikl fell from a high place
+[20:32:28] [Server thread/INFO]: <Cora_cold> ???
+[20:32:32] [Server thread/INFO]: <Cora_cold> 你要干嘛？
+[20:32:55] [Server thread/INFO]: <X_mikl> 我装备没了
+[20:33:12] [Server thread/INFO]: <Cora_cold> 打中了
+[20:33:25] [Server thread/INFO]: X_mikl fell from a high place
+[20:33:27] [Server thread/INFO]: <Cora_cold> 我服了
+[20:33:38] [Server thread/INFO]: <Cora_cold> 袭击在那个家里生成
+[20:33:39] [Server thread/INFO]: <X_mikl> 放桶水谢谢
+[20:34:32] [Server thread/INFO]: <X_mikl> 放桶水谢谢
+[20:35:02] [Server thread/INFO]: <Cora_cold> ?
+[20:35:02] [Server thread/INFO]: <X_mikl> 你捡到我装备了吗
+[20:35:05] [Server thread/INFO]: <Cora_cold> 我没有
+[20:35:30] [Server thread/INFO]: X_mikl was shot by Skeleton
+[20:35:33] [Server thread/INFO]: <X_mikl> 不
+[20:35:39] [Server thread/INFO]: <X_mikl> 我装备啊
+[20:35:45] [Server thread/INFO]: <X_mikl> 才捡到的
+[20:36:29] [Server thread/INFO]: <X_mikl> 卧槽，刷在地上了
+[20:36:42] [Server thread/INFO]: X_mikl was blown up by Creeper
+[20:36:46] [Server thread/INFO]: <Cora_cold> ,,,,,
+[20:36:58] [Server thread/INFO]: <Cora_cold> 你的装备还在吗？
+[20:37:00] [Server thread/INFO]: <X_mikl> 你有没有多的
+[20:38:08] [Server thread/INFO]: <X_mikl> 我捡到了
+[20:38:12] [Server thread/INFO]: <X_mikl> 哇哈哈哈
+[20:38:23] [Server thread/INFO]: X_mikl has made the advancement [Cover Me With Diamonds]
+[20:38:38] [Server thread/INFO]: <X_mikl> 你装备好好啊
+[20:38:48] [Server thread/INFO]: <X_mikl> 你装备真好啊
+[20:39:01] [Server thread/INFO]: <Cora_cold> 末地刷经验附的
+[20:39:08] [Server thread/INFO]: <X_mikl> 6
+[20:40:11] [Server thread/INFO]: <X_mikl> 找谁啊？
+[20:40:58] [Server thread/INFO]: <X_mikl> 我玩单人只开简单和和平，呜呜呜呜
+[20:41:25] [Server thread/INFO]: <X_mikl> 你在哪
+[20:41:32] [Server thread/INFO]: X_mikl was slain by Iron Golem
+[20:41:41] [Server thread/INFO]: <X_mikl> ??????????????????
+[20:41:48] [Server thread/INFO]: <X_mikl> 我又死了
+[20:42:05] [Server thread/INFO]: <X_mikl> 谢谢
+[20:42:19] [Server thread/INFO]: <Cora_cold> [x:-530, y:67, z:483]
+[20:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[20:42:29] [Server thread/INFO]: <X_mikl> ？
+[20:42:36] [Server thread/INFO]: <Cora_cold> 我去末地你去吗？
+[20:42:48] [Server thread/INFO]: <X_mikl> ^_^，不去
+[20:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:43:00] [Server thread/INFO]: <X_mikl> 我还不想死
+[20:43:15] [Server thread/INFO]: <X_mikl> 我有鞘翅，你要吗
+[20:43:20] [Server thread/INFO]: <Cora_cold> 我有啊
+[20:43:25] [Server thread/INFO]: <X_mikl> 我也有
+[20:43:32] [Server thread/INFO]: <X_mikl> 所以装备在哪
+[20:43:38] [Server thread/INFO]: <Cora_cold> 我发的那个坐标
+[20:43:49] [Server thread/INFO]: <X_mikl> 腐竹，能开连点器吗
+[20:43:52] [Server thread/INFO]: <X_mikl> ok
+[20:43:56] [Server thread/INFO]: <Cora_cold> 我去末地修耐久
+[20:44:04] [Server thread/INFO]: <X_mikl> 那我拿完东西也去
+[20:44:04] [Server thread/INFO]: <Cora_cold> 服主17号放假
+[20:44:14] [Server thread/INFO]: chy[/127.0.0.1:59180] logged in with entity id 72935 at (-302.4984008618071, 69.5, 418.1423540068242)
+[20:44:14] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:44:14] [Server thread/INFO]: chy joined the game
+[20:44:15] [Netty Server IO #0/INFO]: Player chy joined with a matching carpet client
+[20:44:22] [Server thread/INFO]: <X_mikl> 明天我休学仪式，然后放假
+[20:44:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5788ms or 115 ticks behind
+[20:44:33] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:44:33] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7186ms or 143 ticks behind
+[20:45:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5043ms or 100 ticks behind
+[20:45:22] [Server thread/INFO]: <Cora_cold> 有点卡，等我修完耐久我就回去
+[20:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10090ms or 201 ticks behind
+[20:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9878ms or 197 ticks behind
+[20:45:56] [Server thread/INFO]: chy was slain by Iron Golem
+[20:46:14] [Server thread/INFO]: <Cora_cold> 你们怎么那么喜欢调戏铁傀儡？
+[20:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7043ms or 140 ticks behind
+[20:46:23] [Server thread/INFO]: <X_mikl> 我以为我打得死
+[20:46:28] [Server thread/INFO]: <chy> 我是被铁傀儡围住了
+[20:46:32] [Server thread/INFO]: <X_mikl> 现实很残酷
+[20:46:34] [Server thread/INFO]: <chy> 出不来
+[20:46:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8998ms or 179 ticks behind
+[20:46:54] [Server thread/INFO]: <Cora_cold> 那里的羊毛地毯是你铺的？
+[20:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6962ms or 139 ticks behind
+[20:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6353ms or 127 ticks behind
+[20:47:25] [Server thread/INFO]: <X_mikl> 我去拿装备了
+[20:47:46] [Server thread/INFO]: <Cora_cold> 你在用鞘翅吗？
+[20:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8597ms or 171 ticks behind
+[20:47:50] [Server thread/INFO]: <X_mikl> en
+[20:47:56] [Server thread/INFO]: <Cora_cold> 慢点飞
+[20:48:00] [Server thread/INFO]: <X_mikl> 刀了
+[20:48:04] [Server thread/INFO]: <X_mikl> 到了
+[20:48:10] [Server thread/INFO]: <X_mikl> 在哪？
+[20:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9018ms or 180 ticks behind
+[20:48:14] [Server thread/INFO]: <X_mikl> 进去
+[20:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[20:48:30] [Server thread/INFO]: <chy> ..........
+[20:48:34] [Server thread/INFO]: chy was slain by Iron Golem
+[20:48:37] [Server thread/INFO]: <chy> ???/
+[20:48:40] [Server thread/INFO]: <X_mikl> hhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[20:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2740ms or 54 ticks behind
+[20:48:57] [Server thread/INFO]: <chy> 辛亏装备全放末影箱里了
+[20:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:49:15] [Server thread/INFO]: <Cora_cold> 日子过得不错，吃附魔金苹果
+[20:49:24] [Server thread/INFO]: <X_mikl> 额
+[20:49:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5287ms or 105 ticks behind
+[20:49:32] [Server thread/INFO]: <X_mikl> 我发财了
+[20:49:46] [Server thread/INFO]: <Cora_cold> 那是服主家的东西
+[20:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
+[20:49:49] [Server thread/INFO]: <X_mikl> 好多东西
+[20:49:53] [Server thread/INFO]: <Cora_cold> 少拿点
+[20:50:00] [Server thread/INFO]: <X_mikl> 说了 自 取
+[20:50:07] [Server thread/INFO]: <X_mikl> 嘻嘻嘻嘻
+[20:50:15] [Server thread/INFO]: <chy> emmmm
+[20:50:23] [Server thread/INFO]: <X_mikl> 看我这躁动的小手
+[20:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10485ms or 209 ticks behind
+[20:51:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[20:51:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/80594, l='ServerLevel[world]', x=-29.24, y=65.04, z=271.88]
+[20:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[20:51:29] [Server thread/INFO]: <X_mikl> 我拿一套钻石套不过分吧
+[20:51:35] [Server thread/INFO]: <X_mikl> 怎么没鞋子
+[20:51:36] [Server thread/INFO]: <Cora_cold> 没事
+[20:51:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[20:51:50] [Server thread/INFO]: <X_mikl> 额
+[20:52:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4165ms or 83 ticks behind
+[20:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5520ms or 110 ticks behind
+[20:53:05] [Server thread/INFO]: <Cora_cold> xiaolou，你这做的也不是很大啊
+[20:54:06] [Server thread/INFO]: chy lost connection: Disconnected
+[20:54:06] [Server thread/INFO]: chy left the game
+[20:54:34] [Server thread/INFO]: <X_mikl> 怎么绑定
+[20:54:55] [Server thread/INFO]: <X_mikl> 真没鞋子吗？
+[20:55:13] [Server thread/INFO]: <Cora_cold> 我原本以为你打算把箱子放在墙里面，只开箱子侧面
+[20:55:25] [Server thread/INFO]: <Cora_cold> 你这个做的跟超市一样
+[20:56:31] [Server thread/INFO]: <X_mikl> 带我去末地修东西呗
+[20:56:40] [Server thread/INFO]: <Cora_cold> dd
+[20:56:42] [Server thread/INFO]: <X_mikl> Cora_cold
+[20:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
+[20:58:43] [Server thread/INFO]: <Cora_cold> 去地狱
+[20:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[20:59:56] [Server thread/INFO]: <Cora_cold> 沙？
+[20:59:59] [Server thread/INFO]: <Cora_cold> 啥？
+[21:01:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
+[21:01:10] [Server thread/INFO]: X_mikl has made the advancement [Eye Spy]
+[21:01:16] [Server thread/INFO]: <Cora_cold> 直接进来往后走
+[21:01:24] [Server thread/INFO]: <Cora_cold> 进末地
+[21:01:48] [Server thread/INFO]: <X_mikl> 等我一下，我建个导航点
+[21:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[21:02:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4731ms or 94 ticks behind
+[21:03:17] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/89244, l='ServerLevel[world]', x=194.27, y=2.00, z=-0.26]
+[21:03:17] [Server thread/INFO]: X_mikl has made the advancement [The End?]
+[21:03:18] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/89327, l='ServerLevel[world]', x=194.25, y=2.00, z=-0.02]
+[21:03:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21:04:21] [Server thread/INFO]: <X_mikl> 我拿一桶水
+[21:04:27] [Server thread/INFO]: <Cora_cold> 哦
+[21:04:36] [Server thread/INFO]: <Cora_cold> 血量
+[21:04:41] [Server thread/INFO]: <Cora_cold> 别考太近
+[21:04:51] [Server thread/INFO]: <X_mikl> 一格半
+[21:04:53] [Server thread/INFO]: <X_mikl> 吓死了
+[21:05:10] [Server thread/INFO]: <X_mikl> 可是我没经验修补
+[21:05:16] [Server thread/INFO]: <X_mikl> qwq
+[21:06:34] [Server thread/INFO]: <X_mikl> 没经验修补怎么办
+[21:06:50] [Server thread/INFO]: X_mikl has made the advancement [Bring Home the Beacon]
+[21:06:50] [Server thread/INFO]: X_mikl has reached the goal [Beaconator]
+[21:06:54] [Server thread/INFO]: <Cora_cold> 搞不了
+[21:06:59] [Server thread/INFO]: <X_mikl> no
+[21:07:17] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[21:07:17] [Server thread/INFO]: Cora_cold left the game
+[21:10:22] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-12_21-10-22
+[21:10:22] [Server thread/INFO]: Saving server...
+[21:10:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:10:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:10:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:10:23] [Thread-457/INFO]: Starting backup
+[21:10:23] [Thread-457/INFO]: Starting compression...
+[21:10:42] [Server thread/INFO]: Cora_cold[/127.0.0.1:60176] logged in with entity id 92301 at (184.20655204462375, 4.0, 6.530274901056099)
+[21:10:42] [Server thread/INFO]: Cora_cold joined the game
+[21:10:42] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:10:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[21:10:43] [Netty Server IO #1/INFO]: Player Cora_cold joined with a matching carpet client
+[21:10:54] [Server thread/INFO]: <X_mikl> 你有青金石没
+[21:11:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[21:11:32] [Server thread/INFO]: <Cora_cold> you
+[21:11:37] [Thread-457/INFO]: Compression took: 74.0545849s
+[21:11:37] [Thread-457/INFO]: Deleting: 2020-07-11_19-20-51.zip
+[21:11:37] [Thread-457/INFO]: Done!
+[21:11:44] [Server thread/INFO]: <X_mikl> 给我亿点
+[21:13:02] [Server thread/INFO]: <X_mikl> 修得真快
+[21:16:06] [Server thread/INFO]: X_mikl has made the advancement [Enchanter]
+[21:16:24] [Server thread/INFO]: Cora_cold has completed the challenge [Hot Tourist Destinations]
+[21:16:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[21:16:55] [Server thread/INFO]: Cora_cold has made the advancement [Those Were the Days]
+[21:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[21:17:02] [Server thread/INFO]: Cora_cold has made the advancement [War Pigs]
+[21:17:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[21:18:34] [Server thread/INFO]: <X_mikl> 你在哪
+[21:18:50] [Server thread/INFO]: <Cora_cold> 地狱
+[21:18:54] [Server thread/INFO]: <X_mikl> o
+[21:18:55] [Server thread/INFO]: <Cora_cold> 出生点已经挖完了
+[21:18:59] [Server thread/INFO]: <X_mikl> 额
+[21:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[21:19:11] [Server thread/INFO]: <X_mikl> 我也来帮忙吧
+[21:19:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[21:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3365ms or 67 ticks behind
+[21:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[21:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[21:20:52] [Server thread/INFO]: <X_mikl> 到出生点了
+[21:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[21:21:07] [Server thread/INFO]: <X_mikl> 地狱共享位置吧
+[21:21:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[21:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[21:23:04] [Server thread/INFO]: <X_mikl> 你人呢
+[21:23:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
+[21:24:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-57, y=118, z=70} class_2338{x=-15, y=86, z=262}
+[21:24:58] [Server thread/INFO]: <Cora_cold> 我回主世界了
+[21:25:01] [Server thread/INFO]: <Cora_cold> 我要下了
+[21:25:08] [Server thread/INFO]: <X_mikl> 哦
+[21:25:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21:25:39] [Server thread/INFO]: <X_mikl> 我怎么回去
+[21:25:42] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[21:25:42] [Server thread/INFO]: Cora_cold left the game
+[21:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4578ms or 91 ticks behind
+[21:26:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2567ms or 51 ticks behind
+[21:28:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[21:30:42] [Server thread/INFO]: X_mikl has made the advancement [A Throwaway Joke]
+[21:33:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[21:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[21:34:52] [Server thread/INFO]: X_mikl lost connection: Disconnected
+[21:34:52] [Server thread/INFO]: X_mikl left the game
+[23:22:13] [Server thread/INFO]: extclp[/127.0.0.1:65209] logged in with entity id 106836 at (-575.9250000119209, 200.5, 1189.054226921533)
+[23:22:13] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:22:13] [Server thread/INFO]: extclp joined the game
+[23:22:14] [Server thread/INFO]: Backup started by: SERVER on: 2020-07-12_23-22-14
+[23:22:14] [Server thread/INFO]: Saving server...
+[23:22:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:22:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:22:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:22:15] [Thread-526/INFO]: Starting backup
+[23:22:15] [Thread-526/INFO]: Starting compression...
+[23:22:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[23:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[23:23:06] [Thread-526/INFO]: Compression took: 50.212894s
+[23:23:06] [Thread-526/INFO]: Deleting: 2020-07-11_20-20-50.zip
+[23:23:06] [Thread-526/INFO]: Done!
+[23:23:32] [Server thread/INFO]: extclp lost connection: Disconnected
+[23:23:32] [Server thread/INFO]: extclp left the game

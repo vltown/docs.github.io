@@ -1,0 +1,666 @@
+[06:01:07] [main/INFO]: Loading for game Minecraft 1.15.2
+[06:01:12] [main/WARN]: Mod `jankson` (2.0.0+j1.2.0) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[06:01:12] [main/INFO]: [FabricLoader] Loading 44 mods: minecraft@1.15.2, fabric-networking-blockentity-v0@0.2.3+e08a73050c, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+dfdb52d60c, jankson@2.0.0+j1.2.0, fabricloader@0.7.8+build.189, phosphor@0.5.2+build.6, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, lithium@0.4.6, fabric-dimensions-v1@0.3.0+2ad156310c, org_apache_commons_commons-compress@1.9, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@0.1.0+534104900c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, mm@2.0, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-commands-v0@0.1.2+b7f9825d0c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, com_moandjiezana_toml_toml4j@0.7.2, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, textile_backup@1.1.0-1.15, fabric-mining-levels-v0@0.1.1+b7f9825d0c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, carpet-extra@1.3.15, fabric-events-lifecycle-v0@0.1.2+b7f9825d0c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.5.1+build.294-1.15, carpet@1.3.15, fabric-item-groups-v0@0.1.6+ec40b2e10c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-particles-v1@0.1.1+dfdb52d60c, fabric-networking-v0@0.1.7+12515ed90c, fabric-object-builders-v0@0.1.3+e4c9a9c30c, cotton-config@1.0.0-rc.7
+[06:01:12] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Server/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[06:01:12] [main/INFO]: Lithium's configuration file was loaded successfully
+[06:01:14] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.chunk.no_chunk_locking.MixinPalettedContainer' as no configuration enables it
+[06:01:14] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinRedstoneWireBlock' as no configuration enables it
+[06:01:14] [main/INFO]: Not applying mixin 'me.jellysquid.mods.lithium.mixin.redstone.MixinWorld' as no configuration enables it
+[06:01:18] [main/INFO]: Transforming class net/minecraft/class_2382 using patch set 'Modify mutability flags in Vec3i'
+[06:01:26] [main/INFO]: Transforming class net/minecraft/class_2338$class_2339 using patch set 'Use mutable fields in Vec3i'
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:02:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:02:38] [main/INFO]: Definitely not up to no good
+[06:02:38] [main/INFO]: [TextileBackup]: Loading TextileBackup by Szum123321
+[06:02:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[06:02:39] [Server thread/INFO]: Loading properties
+[06:02:39] [Server thread/INFO]: Default game type: SURVIVAL
+[06:02:39] [Server thread/INFO]: Generating keypair
+[06:02:40] [Server thread/INFO]: Starting Minecraft server on *:26565
+[06:02:40] [Server thread/INFO]: Using default channel type
+[06:02:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:02:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:02:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:02:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:02:41] [Server thread/INFO]: Preparing level "skimit"
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting commandCameramode as false from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[06:02:41] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[06:02:42] [Server thread/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[06:02:42] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Mining Levels (v0)
+[06:02:45] [Server thread/INFO]: Loaded 6 recipes
+[06:02:46] [Server thread/INFO]: Loaded 825 advancements
+[06:02:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:55] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[06:02:56] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[06:02:58] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:58] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:58] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:58] [Server thread/INFO]: Preparing spawn area: 0%
+[06:02:58] [Server thread/INFO]: Preparing spawn area: 83%
+[06:03:00] [Server thread/INFO]: Time elapsed: 9793 ms
+[06:03:00] [Server thread/INFO]: Done (18.399s)! For help, type "help"
+[06:03:00] [Server thread/INFO]: Starting remote control listener
+[06:03:00] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25636
+[06:03:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[06:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[07:09:07] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:58785] logged in with entity id 181 at (-20.51144245831609, 65.0, 261.03507220210423)
+[07:09:08] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:09:08] [Server thread/INFO]: WhiteSky_Bai joined the game
+[07:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3809ms or 76 ticks behind
+[07:09:11] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_07-09-11
+[07:09:11] [Server thread/INFO]: [TextileBackup]: Saving server...
+[07:09:12] [Thread-54/INFO]: [TextileBackup]: Starting compression...
+[07:10:14] [Server thread/INFO]: WhiteSky_Bai fell from a high place
+[07:10:59] [Thread-54/INFO]: [TextileBackup]: Compression finished
+[07:10:59] [Thread-54/INFO]: [TextileBackup]: Deleting: 2020-05-09_10-07-28.zip
+[07:10:59] [Thread-54/INFO]: [TextileBackup]: Done!
+[07:11:33] [Server thread/INFO]: WhiteSky_Bai tried to swim in lava
+[07:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[07:13:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6362ms or 127 ticks behind
+[07:14:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[07:14:16] [Server thread/INFO]: Villager class_1646['Villager'/1471, l='skimit', x=-406.35, y=67.98, z=476.44] died, message: 'Villager was slain by Zombie Villager'
+[07:16:17] [Server thread/INFO]: Villager class_1646['Villager'/1476, l='skimit', x=-406.85, y=67.16, z=476.85] died, message: 'Villager was slain by Zombie Villager'
+[07:17:03] [Server thread/INFO]: Villager class_1646['Villager'/1472, l='skimit', x=-407.10, y=67.01, z=472.82] died, message: 'Villager was slain by Zombie Villager'
+[07:18:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[07:21:25] [Server thread/INFO]: WhiteSky_Bai fell from a high place
+[07:48:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4000ms or 80 ticks behind
+[07:49:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9919, l='skimit', x=-395.45, y=71.26, z=472.74]
+[07:49:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9933, l='skimit', x=-396.47, y=71.26, z=472.30]
+[07:50:19] [Server thread/INFO]: Villager class_1646['Villager'/9928, l='skimit', x=-406.85, y=67.17, z=476.82] died, message: 'Villager was slain by Zombie Villager'
+[07:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2601ms or 52 ticks behind
+[07:53:31] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[07:53:31] [Server thread/INFO]: WhiteSky_Bai left the game
+[10:01:56] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:64557] logged in with entity id 10734 at (-388.96582510700665, 69.0, 523.4275566171024)
+[10:01:56] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:01:56] [Server thread/INFO]: WhiteSky_Bai joined the game
+[10:01:56] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_10-01-56
+[10:01:56] [Server thread/INFO]: [TextileBackup]: Saving server...
+[10:01:56] [Thread-55/INFO]: [TextileBackup]: Starting compression...
+[10:02:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[10:02:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[10:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[10:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12464ms or 249 ticks behind
+[10:04:09] [Thread-55/INFO]: [TextileBackup]: Compression finished
+[10:04:09] [Thread-55/INFO]: [TextileBackup]: Deleting: 2020-05-09_11-07-29.zip
+[10:04:10] [Thread-55/INFO]: [TextileBackup]: Done!
+[10:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2678ms or 53 ticks behind
+[10:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
+[10:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[10:15:09] [Server thread/INFO]: WhiteSky_Bai has made the advancement [A Seedy Place]
+[10:17:02] [Server thread/INFO]: WhiteSky_Bai has made the advancement [The Parrots and the Bats]
+[10:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[10:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[10:38:37] [Server thread/INFO]: Villager class_1646['Villager'/11033, l='skimit', x=-406.85, y=67.02, z=471.15] died, message: 'Villager was slain by Zombie Villager'
+[10:39:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
+[10:40:04] [Server thread/INFO]: WhiteSky_Bai has made the advancement [Ol' Betsy]
+[10:40:05] [Server thread/INFO]: WhiteSky_Bai has made the advancement [Take Aim]
+[10:51:55] [Server thread/INFO]: Villager class_1646['Villager'/24623, l='skimit', x=-406.85, y=67.08, z=476.85] died, message: 'Villager was slain by Zombie Villager'
+[10:54:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[10:55:26] [Server thread/INFO]: ChengXi123[/127.0.0.1:50006] logged in with entity id 25646 at (-23.977822518737735, 64.0, 262.69999998807907)
+[10:55:26] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:55:26] [Server thread/INFO]: ChengXi123 joined the game
+[10:55:55] [Server thread/INFO]: <WhiteSky_Bai> 仙人掌不生产- -
+[10:56:14] [Server thread/INFO]: <WhiteSky_Bai> 图腾还有么
+[10:56:22] [Server thread/INFO]: <WhiteSky_Bai> 我已经捡尸三次了
+[10:56:23] [Server thread/INFO]: <WhiteSky_Bai> = =
+[10:56:44] [Server thread/INFO]: <WhiteSky_Bai> 关键这个设计他不是很卡
+[10:57:41] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[10:57:41] [Server thread/INFO]: ChengXi123 left the game
+[10:57:41] [Server thread/WARN]: handleDisconnection() called twice
+[10:57:53] [Server thread/INFO]: ChengXi123[/127.0.0.1:50094] logged in with entity id 26130 at (-21.441958788277265, 61.0, 260.45722289792644)
+[10:57:53] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:57:53] [Server thread/INFO]: ChengXi123 joined the game
+[10:58:41] [Server thread/INFO]: <WhiteSky_Bai> 锁住了
+[10:58:45] [Server thread/INFO]: <WhiteSky_Bai> 漏斗东西进不去
+[10:58:47] [Server thread/INFO]: <WhiteSky_Bai> 我试过了
+[10:59:04] [Server thread/INFO]: <WhiteSky_Bai> ?
+[10:59:07] [Server thread/INFO]: <ChengXi123> 进去了啊
+[10:59:18] [Server thread/INFO]: <WhiteSky_Bai> 你后面给他充能就会锁住
+[10:59:19] [Server thread/INFO]: <ChengXi123> 中继器呢？
+[10:59:57] [Server thread/INFO]: <WhiteSky_Bai> 这么做的话扔错东西就找不回来了
+[11:00:03] [Server thread/INFO]: <WhiteSky_Bai> 我那个还有一层保险- -
+[11:00:15] [Server thread/INFO]: <ChengXi123> 谁让你扔
+[11:00:22] [Server thread/INFO]: <WhiteSky_Bai> 手误就gg
+[11:01:27] [Server thread/INFO]: <WhiteSky_Bai> 要不还是检测箱子吧
+[11:01:34] [Server thread/INFO]: <WhiteSky_Bai> 我怕我那天受点错了
+[11:01:52] [Server thread/INFO]: <ChengXi123> 点错就是你的问题了
+[11:01:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_11-01-55
+[11:01:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[11:01:56] [Thread-56/INFO]: [TextileBackup]: Starting compression...
+[11:02:08] [Server thread/INFO]: <WhiteSky_Bai> 一层保险啊= =
+[11:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[11:02:20] [Server thread/INFO]: <WhiteSky_Bai> 丑了点没关系
+[11:02:36] [Server thread/INFO]: <ChengXi123> 一次只能扔两个，迟早把投掷器堵死
+[11:02:45] [Server thread/INFO]: <WhiteSky_Bai> ？
+[11:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2258ms or 45 ticks behind
+[11:02:56] [Server thread/INFO]: <WhiteSky_Bai> 一次怎么可能只能扔俩个
+[11:03:28] [Server thread/INFO]: <ChengXi123> 因为物品在箱子的时间短，扔的很少
+[11:03:30] [Server thread/INFO]: <WhiteSky_Bai> 他可以保持箱子里一直是空的
+[11:03:38] [Server thread/INFO]: <WhiteSky_Bai> 漏斗里会剩
+[11:03:44] [Server thread/INFO]: <WhiteSky_Bai> 但是漏斗可以作为一层保险
+[11:03:49] [Server thread/INFO]: <WhiteSky_Bai> 可以找回
+[11:03:55] [Thread-56/INFO]: [TextileBackup]: Compression finished
+[11:03:55] [Thread-56/INFO]: [TextileBackup]: Deleting: 2020-05-09_12-07-29.zip
+[11:03:55] [Thread-56/INFO]: [TextileBackup]: Done!
+[11:04:00] [Server thread/INFO]: <ChengXi123> 箱子是空的，投掷器满了怎么办？
+[11:04:16] [Server thread/INFO]: <WhiteSky_Bai> 投掷器满了再扔东西
+[11:04:21] [Server thread/INFO]: <WhiteSky_Bai> 投掷器一直都是满的
+[11:04:30] [Server thread/INFO]: <WhiteSky_Bai> 箱子永远是空的
+[11:04:33] [Server thread/INFO]: <ChengXi123> 那跟手动扔有什么区别
+[11:04:36] [Server thread/INFO]: <WhiteSky_Bai> = =
+[11:04:45] [Server thread/INFO]: <WhiteSky_Bai> 作为一层保险啊
+[11:04:58] [Server thread/INFO]: <ChengXi123> 手动扔更保险
+[11:05:25] [Server thread/INFO]: <WhiteSky_Bai> 你这么设计东西扔进去就没了
+[11:05:37] [Server thread/INFO]: <WhiteSky_Bai> 我需要一层保险 - -
+[11:05:42] [Server thread/INFO]: <WhiteSky_Bai> 手贱直接gg
+[11:05:44] [Server thread/INFO]: <ChengXi123> 垃圾桶不就是要东西没掉吗？
+[11:06:07] [Server thread/INFO]: <WhiteSky_Bai> 你不小心把重要的东西扔了不也要去垃圾桶找吗
+[11:06:08] [Server thread/INFO]: <WhiteSky_Bai> = =
+[11:06:16] [Server thread/INFO]: <ChengXi123> 又不是人人都手贱
+[11:06:33] [Server thread/INFO]: <WhiteSky_Bai> 你是不是就觉得检测箱子不好看- -
+[11:06:57] [Server thread/INFO]: <ChengXi123> 有点
+[11:07:00] [Server thread/INFO]: <WhiteSky_Bai> = =
+[11:07:26] [Server thread/INFO]: <WhiteSky_Bai> 把这个仙人掌扩建一层吧
+[11:07:27] [Server thread/INFO]: <WhiteSky_Bai> = =
+[11:07:33] [Server thread/INFO]: <WhiteSky_Bai> 感觉效率真的低
+[11:07:42] [Server thread/INFO]: <WhiteSky_Bai> 还得有人在才生长
+[11:08:02] [Server thread/INFO]: <ChengXi123> 仙人掌根本出不来
+[11:08:19] [Server thread/INFO]: <WhiteSky_Bai> 关键只能这么设计啊
+[11:08:23] [Server thread/INFO]: <ChengXi123> 全都现场销毁了
+[11:08:32] [Server thread/INFO]: <WhiteSky_Bai> 你想个办法呗
+[11:09:38] [Server thread/INFO]: <ChengXi123> 活塞还有吗？
+[11:10:33] [Server thread/INFO]: <WhiteSky_Bai> 还有不死图腾吗
+[11:10:34] [Server thread/INFO]: <WhiteSky_Bai> = =
+[11:10:40] [Server thread/INFO]: <WhiteSky_Bai> 活塞我去做点
+[11:11:55] [Server thread/INFO]: <WhiteSky_Bai> 我去拿点石头
+[11:12:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2453ms or 49 ticks behind
+[11:12:33] [Server thread/INFO]: <WhiteSky_Bai> 大概要多少活塞
+[11:12:51] [Server thread/INFO]: <ChengXi123> 两个
+[11:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[11:14:31] [Server thread/INFO]: <ChengXi123> 这样就行了
+[11:14:46] [Server thread/INFO]: <WhiteSky_Bai> 图腾有木有- -
+[11:14:53] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:14:53] [Server thread/INFO]: ChengXi123 left the game
+[11:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11:56:30] [Server thread/INFO]: Villager class_1646['Villager'/41271, l='skimit', x=-405.89, y=67.36, z=471.19] died, message: 'Villager was slain by Zombie Villager'
+[12:01:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_12-01-55
+[12:01:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[12:01:56] [Thread-57/INFO]: [TextileBackup]: Starting compression...
+[12:02:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[12:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6289ms or 125 ticks behind
+[12:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
+[12:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2615ms or 52 ticks behind
+[12:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7103ms or 142 ticks behind
+[12:03:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4885ms or 97 ticks behind
+[12:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[12:04:26] [Server thread/INFO]: WhiteSky_Bai fell from a high place
+[12:04:34] [Thread-57/INFO]: [TextileBackup]: Compression finished
+[12:04:34] [Thread-57/INFO]: [TextileBackup]: Deleting: 2020-05-09_14-05-45.zip
+[12:04:34] [Thread-57/INFO]: [TextileBackup]: Done!
+[12:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[12:05:11] [Server thread/INFO]: Villager class_1646['Villager'/43740, l='skimit', x=-406.17, y=67.18, z=474.58] died, message: 'Villager was slain by Zombie Villager'
+[12:06:34] [Server thread/INFO]: Aod_lcy[/127.0.0.1:52408] logged in with entity id 44259 at (-38.640441961387324, 68.0, 238.2339523011669)
+[12:06:34] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:06:35] [Server thread/INFO]: Aod_lcy joined the game
+[12:09:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[12:14:15] [Server thread/INFO]: Villager class_1646['Villager'/45497, l='skimit', x=-405.49, y=67.16, z=471.49] died, message: 'Villager was slain by Zombie Villager'
+[12:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[12:19:44] [Server thread/INFO]: <WhiteSky_Bai> 兄弟来帮个忙
+[12:19:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[12:23:25] [Server thread/INFO]: Villager class_1646['Villager'/47017, l='skimit', x=-406.10, y=67.21, z=476.15] died, message: 'Villager was slain by Zombie Villager'
+[12:24:37] [Server thread/INFO]: Aod_lcy lost connection: Timed out
+[12:24:37] [Server thread/INFO]: Aod_lcy left the game
+[12:24:38] [Server thread/WARN]: handleDisconnection() called twice
+[12:36:32] [Server thread/INFO]: XxiaoyunX[/127.0.0.1:53426] logged in with entity id 51371 at (-396.69999998807907, 69.0, 531.7104645385333)
+[12:36:32] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:36:32] [Server thread/INFO]: XxiaoyunX joined the game
+[12:37:27] [Server thread/INFO]: <XxiaoyunX> 哟
+[12:37:41] [Server thread/INFO]: <XxiaoyunX> 平时不见你玩啊
+[12:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[12:40:05] [Server thread/INFO]: Villager class_1646['Villager'/52383, l='skimit', x=-405.45, y=67.20, z=471.86] died, message: 'Villager was slain by Zombie Villager'
+[12:41:39] [Server thread/WARN]: Fetching packet for removed entity class_1642['Zombie'/46062, l='skimit', x=-324.50, y=46.35, z=352.02]
+[12:44:09] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[12:44:09] [Server thread/INFO]: WhiteSky_Bai left the game
+[12:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2243ms or 44 ticks behind
+[12:51:59] [Server thread/INFO]: Villager class_1646['Librarian'/9123, l='skimit', x=-143.95, y=70.90, z=454.26] died, message: 'Librarian was slain by XxiaoyunX'
+[13:01:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_13-01-55
+[13:01:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[13:01:56] [Thread-58/INFO]: [TextileBackup]: Starting compression...
+[13:02:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[13:02:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[13:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3053ms or 61 ticks behind
+[13:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[13:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2937ms or 58 ticks behind
+[13:03:58] [Thread-58/INFO]: [TextileBackup]: Compression finished
+[13:03:58] [Thread-58/INFO]: [TextileBackup]: Deleting: 2020-05-09_15-05-45.zip
+[13:03:58] [Thread-58/INFO]: [TextileBackup]: Done!
+[13:25:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[13:26:14] [Server thread/INFO]: XxiaoyunX lost connection: Disconnected
+[13:26:14] [Server thread/INFO]: XxiaoyunX left the game
+[13:29:30] [Server thread/INFO]: Aod_lcy[/127.0.0.1:55346] logged in with entity id 60112 at (-322.5651019529524, 69.0, 445.6364226742546)
+[13:29:30] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:29:30] [Server thread/INFO]: Aod_lcy joined the game
+[13:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[13:42:51] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:55798] logged in with entity id 62143 at (-20.42737875560787, 61.0, 266.87890514533774)
+[13:42:51] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:42:51] [Server thread/INFO]: WhiteSky_Bai joined the game
+[13:43:00] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[13:43:00] [Server thread/INFO]: WhiteSky_Bai left the game
+[13:43:03] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:55806] logged in with entity id 62265 at (-20.42737875560787, 61.0, 266.87890514533774)
+[13:43:03] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:43:03] [Server thread/INFO]: WhiteSky_Bai joined the game
+[13:47:59] [Server thread/INFO]: Aod_lcy was slain by Phantom
+[13:50:42] [Server thread/INFO]: <WhiteSky_Bai> 是我卡还是服务器卡
+[14:01:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_14-01-55
+[14:01:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[14:01:55] [Thread-59/INFO]: [TextileBackup]: Starting compression...
+[14:03:32] [Thread-59/INFO]: [TextileBackup]: Compression finished
+[14:03:32] [Thread-59/INFO]: [TextileBackup]: Deleting: 2020-05-09_19-48-53.zip
+[14:03:32] [Thread-59/INFO]: [TextileBackup]: Done!
+[14:36:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[14:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[14:40:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77519, l='skimit', x=-396.43, y=71.26, z=474.65]
+[14:41:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77798, l='skimit', x=-396.70, y=71.26, z=472.50]
+[14:41:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77814, l='skimit', x=-396.70, y=71.26, z=472.50]
+[14:41:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77884, l='skimit', x=-396.51, y=71.26, z=474.63]
+[14:41:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77900, l='skimit', x=-396.51, y=71.26, z=474.63]
+[14:41:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/77933, l='skimit', x=-396.51, y=71.26, z=474.63]
+[14:41:12] [Server thread/INFO]: Villager class_1646['Villager'/76718, l='skimit', x=-406.85, y=67.06, z=476.37] died, message: 'Villager was slain by Zombie Villager'
+[14:41:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78011, l='skimit', x=-396.51, y=71.26, z=474.63]
+[14:41:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78029, l='skimit', x=-396.51, y=71.26, z=474.63]
+[14:41:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78059, l='skimit', x=-396.51, y=71.26, z=474.63]
+[14:41:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78069, l='skimit', x=-396.51, y=71.26, z=474.63]
+[14:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[14:48:22] [Server thread/INFO]: Villager class_1646['Villager'/79033, l='skimit', x=-405.46, y=67.21, z=475.47] died, message: 'Villager was slain by Zombie Villager'
+[14:51:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[14:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5692ms or 113 ticks behind
+[14:52:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81210, l='skimit', x=-393.78, y=71.26, z=468.50]
+[14:52:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81210, l='skimit', x=-393.78, y=71.26, z=468.50]
+[14:52:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81223, l='skimit', x=-393.78, y=71.26, z=468.50]
+[14:52:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81223, l='skimit', x=-393.78, y=71.26, z=468.50]
+[14:52:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81233, l='skimit', x=-391.43, y=71.26, z=468.50]
+[14:52:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81233, l='skimit', x=-391.43, y=71.26, z=468.50]
+[14:52:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81236, l='skimit', x=-393.65, y=71.26, z=468.50]
+[14:52:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81236, l='skimit', x=-393.65, y=71.26, z=468.50]
+[14:52:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81251, l='skimit', x=-393.65, y=71.26, z=468.50]
+[14:52:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/81251, l='skimit', x=-393.65, y=71.26, z=468.50]
+[14:57:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[14:57:31] [Server thread/INFO]: Villager class_1646['Villager'/81257, l='skimit', x=-405.47, y=67.17, z=473.03] died, message: 'Villager was slain by Zombie Villager'
+[14:57:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[15:00:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[15:01:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_15-01-55
+[15:01:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[15:01:56] [Thread-60/INFO]: [TextileBackup]: Starting compression...
+[15:02:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[15:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[15:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[15:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2333ms or 46 ticks behind
+[15:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
+[15:03:53] [Thread-60/INFO]: [TextileBackup]: Compression finished
+[15:03:53] [Thread-60/INFO]: [TextileBackup]: Deleting: 2020-05-09_20-48-53.zip
+[15:03:55] [Thread-60/INFO]: [TextileBackup]: Done!
+[15:06:30] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[15:06:30] [Server thread/INFO]: WhiteSky_Bai left the game
+[15:06:53] [Server thread/INFO]: Aod_lcy was slain by Slime
+[15:07:19] [Server thread/WARN]: Fetching packet for removed entity class_1642['Zombie'/76100, l='skimit', x=-320.50, y=59.35, z=335.40]
+[15:10:47] [Server thread/INFO]: Villager class_1646['Villager'/86142, l='skimit', x=-405.48, y=67.16, z=476.20] died, message: 'Villager was slain by Zombie Villager'
+[15:10:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[15:20:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[15:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[15:33:08] [Server thread/INFO]: Villager class_1646['Villager'/86868, l='skimit', x=-405.52, y=67.17, z=473.07] died, message: 'Villager was slain by Zombie Villager'
+[15:36:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[15:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[15:52:34] [Server thread/INFO]: Aod_lcy experienced kinetic energy
+[15:52:57] [Server thread/INFO]: Aod_lcy tried to swim in lava
+[15:53:21] [Server thread/INFO]: Aod_lcy fell from a high place
+[15:53:33] [Server thread/INFO]: Aod_lcy fell from a high place
+[15:53:45] [Server thread/INFO]: Aod_lcy fell from a high place
+[15:54:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[15:55:45] [Server thread/INFO]: Villager class_1646['Villager'/92611, l='skimit', x=-405.63, y=67.16, z=471.23] died, message: 'Villager was slain by Zombie Villager'
+[15:56:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[16:01:55] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_16-01-55
+[16:01:55] [Server thread/INFO]: [TextileBackup]: Saving server...
+[16:01:56] [Thread-61/INFO]: [TextileBackup]: Starting compression...
+[16:03:44] [Thread-61/INFO]: [TextileBackup]: Compression finished
+[16:03:44] [Thread-61/INFO]: [TextileBackup]: Deleting: 2020-05-09_21-48-56.zip
+[16:03:44] [Thread-61/INFO]: [TextileBackup]: Done!
+[16:07:22] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[16:07:22] [Server thread/INFO]: Aod_lcy left the game
+[16:14:12] [Server thread/INFO]: RZYplus[/127.0.0.1:60837] logged in with entity id 96987 at (-45.14667534455266, 115.0, 32.88288122934436)
+[16:14:12] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:14:12] [Server thread/INFO]: RZYplus joined the game
+[16:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[16:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[16:23:49] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:23:49] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[16:28:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/104223, l='skimit', x=-396.70, y=71.26, z=474.59]
+[16:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[16:31:16] [Server thread/WARN]: Fetching packet for removed entity class_1642['Zombie'/104944, l='skimit', x=-423.50, y=37.35, z=538.40]
+[16:33:32] [Server thread/INFO]: RZYplus lost connection: Disconnected
+[16:33:32] [Server thread/INFO]: RZYplus left the game
+[16:46:01] [Server thread/INFO]: RZYplus[/127.0.0.1:61905] logged in with entity id 105992 at (-346.67807213371685, 95.0, 730.3000000119209)
+[16:46:01] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:46:01] [Server thread/INFO]: RZYplus joined the game
+[16:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16:49:29] [Server thread/INFO]: Villager class_1646['Villager'/107254, l='skimit', x=-406.50, y=67.20, z=476.60] died, message: 'Villager was slain by Zombie Villager'
+[16:50:37] [Server thread/INFO]: RZYplus lost connection: Disconnected
+[16:50:37] [Server thread/INFO]: RZYplus left the game
+[16:53:03] [Server thread/INFO]: Cora_cold[/127.0.0.1:62142] logged in with entity id 107786 at (-376.9845948193511, 69.0, 523.4594316378084)
+[16:53:03] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:53:03] [Server thread/INFO]: Cora_cold joined the game
+[16:56:06] [Server thread/INFO]: <Cora_cold> 村民的邪恶py
+[16:56:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[17:01:56] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_17-01-56
+[17:01:56] [Server thread/INFO]: [TextileBackup]: Saving server...
+[17:01:56] [Thread-62/INFO]: [TextileBackup]: Starting compression...
+[17:02:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-378, y=68, z=520} class_2338{x=-378, y=68, z=521}
+[17:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:02:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10578ms or 211 ticks behind
+[17:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[17:03:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3992ms or 79 ticks behind
+[17:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[17:03:58] [Thread-62/INFO]: [TextileBackup]: Compression finished
+[17:03:58] [Thread-62/INFO]: [TextileBackup]: Deleting: 2020-05-09_22-48-54.zip
+[17:03:59] [Thread-62/INFO]: [TextileBackup]: Done!
+[17:06:22] [Server thread/INFO]: Villager class_1646['Villager'/108457, l='skimit', x=-412.85, y=65.00, z=466.50] died, message: 'Villager was slain by Zombie'
+[17:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[17:10:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-317, y=96, z=479} class_2338{x=-317, y=97, z=479}
+[17:10:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-317, y=81, z=479} class_2338{x=-317, y=83, z=479}
+[17:11:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/111373, l='skimit', x=-396.70, y=71.26, z=471.50]
+[17:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[17:23:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/113673, l='skimit', x=-394.41, y=71.26, z=480.32]
+[17:23:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/113738, l='skimit', x=-392.41, y=71.26, z=468.81]
+[17:23:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/113758, l='skimit', x=-392.41, y=71.26, z=468.81]
+[17:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2317ms or 46 ticks behind
+[17:27:37] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:63283] logged in with entity id 114364 at (-20.85077129355026, 64.0, 264.29452030317043)
+[17:27:37] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:27:37] [Server thread/INFO]: WhiteSky_Bai joined the game
+[17:28:35] [Server thread/INFO]: <WhiteSky_Bai> 有皮革不
+[17:28:43] [Server thread/INFO]: <Cora_cold> 没
+[17:28:46] [Server thread/INFO]: <WhiteSky_Bai> em
+[17:31:19] [Server thread/INFO]: <Cora_cold> 你在哪？
+[17:31:25] [Server thread/INFO]: <WhiteSky_Bai> 刷贴
+[17:31:28] [Server thread/INFO]: <WhiteSky_Bai> 铁
+[17:31:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-394, y=71, z=445} class_2338{x=-393, y=71, z=445}
+[17:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[17:35:11] [Server thread/INFO]: <Cora_cold> 看不见你
+[17:35:19] [Server thread/INFO]: <WhiteSky_Bai> 交易所
+[17:35:24] [Server thread/INFO]: <WhiteSky_Bai> 我在换绿宝石
+[17:36:01] [Server thread/INFO]: <Cora_cold> 为什么用黑曜石把村民围起来
+[17:36:11] [Server thread/INFO]: <WhiteSky_Bai> 不是我干的
+[17:36:12] [Server thread/INFO]: <WhiteSky_Bai> 我不知道
+[17:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[17:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3702ms or 74 ticks behind
+[17:38:52] [Server thread/INFO]: <WhiteSky_Bai> 你有图腾吗
+[17:39:06] [Server thread/INFO]: <WhiteSky_Bai> xx
+[17:41:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-196, y=70, z=388} class_2338{x=-196, y=69, z=390}
+[17:41:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-196, y=70, z=388} class_2338{x=-196, y=69, z=390}
+[17:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[17:42:36] [Server thread/INFO]: <WhiteSky_Bai> 对了经验机你要看吗
+[17:42:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:42:43] [Server thread/INFO]: <Cora_cold> 不了
+[17:42:45] [Server thread/INFO]: <Cora_cold> 我要下了
+[17:42:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[17:42:59] [Server thread/INFO]: <WhiteSky_Bai> o
+[17:43:00] [Server thread/INFO]: <WhiteSky_Bai> bue
+[17:43:03] [Server thread/INFO]: <WhiteSky_Bai> bye
+[17:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[17:44:52] [Server thread/INFO]: Cora_cold lost connection: Disconnected
+[17:44:52] [Server thread/INFO]: Cora_cold left the game
+[17:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[17:59:22] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[17:59:22] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:06:20] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:64559] logged in with entity id 124630 at (-145.3319869399036, 71.0, 405.290195220898)
+[18:06:20] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:06:20] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:06:20] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_18-06-20
+[18:06:20] [Server thread/INFO]: [TextileBackup]: Saving server...
+[18:06:20] [Thread-63/INFO]: [TextileBackup]: Starting compression...
+[18:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4699ms or 93 ticks behind
+[18:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[18:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5510ms or 110 ticks behind
+[18:07:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[18:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4654ms or 93 ticks behind
+[18:08:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[18:08:33] [Thread-63/INFO]: [TextileBackup]: Compression finished
+[18:08:33] [Thread-63/INFO]: [TextileBackup]: Deleting: 2020-05-10_05-30-01.zip
+[18:08:33] [Thread-63/INFO]: [TextileBackup]: Done!
+[18:17:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[18:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[18:19:45] [Server thread/INFO]: WhiteSky_Bai has made the advancement [Hot Stuff]
+[18:20:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18:20:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[18:21:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[18:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[18:24:41] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[18:24:41] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:25:10] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:65200] logged in with entity id 131714 at (-367.6222822760003, 71.875, 511.61278738166936)
+[18:25:10] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:25:10] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:25:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[18:25:55] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[18:25:55] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:26:14] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:65232] logged in with entity id 131983 at (-367.3442832705549, 71.875, 511.71326309026756)
+[18:26:14] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:26:14] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[18:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
+[18:42:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[18:54:15] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[18:54:15] [Server thread/INFO]: WhiteSky_Bai left the game
+[19:03:36] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:50153] logged in with entity id 136591 at (-211.0105701783355, 70.0, -130.50743751349927)
+[19:03:36] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:03:36] [Server thread/INFO]: WhiteSky_Bai joined the game
+[19:06:20] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_19-06-20
+[19:06:20] [Server thread/INFO]: [TextileBackup]: Saving server...
+[19:06:21] [Thread-64/INFO]: [TextileBackup]: Starting compression...
+[19:06:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[19:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[19:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[19:08:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[19:08:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
+[19:08:38] [Thread-64/INFO]: [TextileBackup]: Compression finished
+[19:08:38] [Thread-64/INFO]: [TextileBackup]: Deleting: 2020-05-10_07-09-12.zip
+[19:08:39] [Thread-64/INFO]: [TextileBackup]: Done!
+[19:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[19:48:01] [Server thread/INFO]: Naando[/127.0.0.1:51662] logged in with entity id 142110 at (-186.38077041693444, 69.0, 434.83004822459606)
+[19:48:01] [Server thread/INFO]: Naando joined the game
+[19:48:01] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:48:20] [Server thread/INFO]: <Naando> hi
+[19:48:24] [Server thread/INFO]: <WhiteSky_Bai> agng
+[19:49:10] [Server thread/INFO]: <Naando> 我鼠标不好使
+[19:49:35] [Server thread/INFO]: <WhiteSky_Bai> 换一个
+[19:49:42] [Server thread/INFO]: <Naando> 买了
+[19:49:49] [Server thread/INFO]: <Naando> 还没发货呢
+[19:49:54] [Server thread/INFO]: <WhiteSky_Bai> 最后电脑不好使就好玩了
+[19:50:02] [Server thread/INFO]: <Naando> 你人呢
+[19:50:10] [Server thread/INFO]: <Naando> 我刚才怎么需要注册
+[19:50:10] [Server thread/INFO]: <WhiteSky_Bai> 养殖场
+[19:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[19:52:07] [Server thread/INFO]: <Naando> 那个
+[19:52:22] [Server thread/INFO]: <Naando> 村庄搁那
+[19:52:33] [Server thread/INFO]: <WhiteSky_Bai> -211 70 -128
+[19:52:38] [Server thread/INFO]: <Naando> o
+[19:53:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2413ms or 48 ticks behind
+[19:53:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7385ms or 147 ticks behind
+[19:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[19:55:11] [Server thread/INFO]: <Naando> 你人在哪
+[19:55:16] [Server thread/INFO]: <Naando> 我想看一下
+[19:55:28] [Server thread/INFO]: <Naando> 我挺久没看见活人了
+[19:56:42] [Server thread/INFO]: Naando experienced kinetic energy
+[19:56:50] [Server thread/INFO]: <Naando> ???????????????????????????????????????????????????????????????????????????
+[19:56:58] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[19:56:58] [Server thread/INFO]: WhiteSky_Bai left the game
+[19:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[19:59:05] [Server thread/INFO]: <Naando> npc
+[20:03:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[20:03:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
+[20:04:54] [Server thread/INFO]: Naando has made the advancement [Getting an Upgrade]
+[20:06:20] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_20-06-20
+[20:06:20] [Server thread/INFO]: [TextileBackup]: Saving server...
+[20:06:20] [Thread-65/INFO]: [TextileBackup]: Starting compression...
+[20:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[20:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7796ms or 155 ticks behind
+[20:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[20:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5680ms or 113 ticks behind
+[20:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7120ms or 142 ticks behind
+[20:08:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[20:08:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3994ms or 79 ticks behind
+[20:08:42] [Thread-65/INFO]: [TextileBackup]: Compression finished
+[20:08:42] [Thread-65/INFO]: [TextileBackup]: Deleting: 2020-05-10_10-01-56.zip
+[20:08:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[20:08:43] [Thread-65/INFO]: [TextileBackup]: Done!
+[20:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
+[20:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[20:14:32] [Server thread/WARN]: Fetching packet for removed entity class_1642['Zombie'/147832, l='skimit', x=-420.54, y=39.35, z=504.90]
+[20:14:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4081ms or 81 ticks behind
+[20:18:28] [Server thread/INFO]: ChengXi123[/127.0.0.1:52650] logged in with entity id 148586 at (-23.958655894479364, 68.0, 266.26411909591036)
+[20:18:28] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:18:28] [Server thread/INFO]: ChengXi123 joined the game
+[20:18:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:18:44] [Server thread/INFO]: <ChengXi123> hi
+[20:19:09] [Server thread/INFO]: <Naando> hi
+[20:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[20:19:44] [Server thread/INFO]: <ChengXi123> 你在哪，好久没见到你了
+[20:19:51] [Server thread/INFO]: <Naando> 家
+[20:20:22] [Server thread/INFO]: <Naando> 我到村庄了
+[20:21:09] [Server thread/INFO]: <Naando> 我造了个洗脚房
+[20:21:20] [Server thread/INFO]: <ChengXi123> 好玩吗？
+[20:21:54] [Server thread/INFO]: <ChengXi123> 血条消失术
+[20:22:48] [Server thread/INFO]: <ChengXi123> 锋利5的斧子
+[20:22:50] [Server thread/INFO]: Naando hit the ground too hard
+[20:22:59] [Server thread/INFO]: <Naando> 你等着
+[20:23:09] [Server thread/INFO]: <Naando> 我换个PVP材质
+[20:23:18] [Server thread/INFO]: <ChengXi123> 没事，我快上学了
+[20:24:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2905ms or 58 ticks behind
+[20:24:39] [Server thread/INFO]: <Naando> 新手村
+[20:24:40] [Server thread/INFO]: <Naando> awa
+[20:25:26] [Server thread/INFO]: <ChengXi123> 树场彻底坏了
+[20:26:05] [Server thread/INFO]: <Naando> 你人呢
+[20:27:18] [Server thread/INFO]: Naando lost connection: Disconnected
+[20:27:18] [Server thread/INFO]: Naando left the game
+[20:27:22] [Server thread/INFO]: Naando[/127.0.0.1:52934] logged in with entity id 151245 at (-365.6329398235948, 68.9375, 492.914847059557)
+[20:27:22] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:27:22] [Server thread/INFO]: Naando joined the game
+[20:27:35] [Server thread/INFO]: <Naando> 我不玩了
+[20:27:38] [Server thread/INFO]: <Naando> byebye
+[20:27:41] [Server thread/INFO]: Naando lost connection: Disconnected
+[20:27:41] [Server thread/INFO]: Naando left the game
+[20:28:15] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[20:28:15] [Server thread/INFO]: ChengXi123 left the game
+[20:28:15] [Server thread/WARN]: handleDisconnection() called twice
+[20:28:51] [Server thread/INFO]: ChengXi123[/127.0.0.1:52988] logged in with entity id 151384 at (-315.6393780604631, 80.76636799395752, 411.5824982747271)
+[20:28:51] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:28:51] [Server thread/INFO]: ChengXi123 joined the game
+[20:29:34] [Server thread/INFO]: RZYplus[/127.0.0.1:53013] logged in with entity id 151554 at (-417.83090739937404, 69.9375, 521.5192772525696)
+[20:29:34] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:29:34] [Server thread/INFO]: RZYplus joined the game
+[20:29:51] [Server thread/INFO]: RZYplus lost connection: Disconnected
+[20:29:51] [Server thread/INFO]: RZYplus left the game
+[20:32:08] [Server thread/INFO]: RZYplus[/127.0.0.1:53098] logged in with entity id 151996 at (-417.83090739937404, 69.9375, 521.5192772525696)
+[20:32:08] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:32:08] [Server thread/INFO]: RZYplus joined the game
+[20:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[20:35:17] [Server thread/INFO]: <RZYplus> =重建%50
+[20:35:23] [Server thread/INFO]: Yu_Chei[/127.0.0.1:53206] logged in with entity id 152690 at (-388.3821203576405, 69.0, 511.46681878772984)
+[20:35:23] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:35:23] [Server thread/INFO]: Yu_Chei joined the game
+[20:37:26] [Server thread/INFO]: Yu_Chei lost connection: Disconnected
+[20:37:26] [Server thread/INFO]: Yu_Chei left the game
+[20:38:48] [Server thread/INFO]: Yu_Chei[/127.0.0.1:53321] logged in with entity id 153658 at (-381.99695041101177, 69.0, 518.565859775169)
+[20:38:48] [Netty Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:38:48] [Server thread/INFO]: Yu_Chei joined the game
+[20:39:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2582ms or 51 ticks behind
+[20:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6461ms or 129 ticks behind
+[20:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3124ms or 62 ticks behind
+[20:40:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:42:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[20:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4938ms or 98 ticks behind
+[20:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[20:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5546ms or 110 ticks behind
+[20:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[20:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4607ms or 92 ticks behind
+[20:49:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[20:50:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3909ms or 78 ticks behind
+[20:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[20:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7228ms or 144 ticks behind
+[20:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[20:54:07] [Server thread/INFO]: <ChengXi123> 睡觉
+[20:55:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[20:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6255ms or 125 ticks behind
+[20:57:14] [Server thread/INFO]: <Yu_Chei> 你们在干嘛·
+[20:57:38] [Server thread/INFO]: <RZYplus> 搞电影身药水
+[20:57:57] [Server thread/INFO]: <RZYplus> 去掏海底神殿
+[20:58:17] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[20:58:17] [Server thread/INFO]: ChengXi123 left the game
+[20:58:34] [Server thread/INFO]: <Yu_Chei> 不是打下来一个吗
+[20:58:41] [Server thread/INFO]: ChengXi123[/127.0.0.1:53959] logged in with entity id 160586 at (-317.4023373949099, 77.0, 416.74440150508593)
+[20:58:41] [Netty Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:58:41] [Server thread/INFO]: ChengXi123 joined the game
+[20:58:57] [Server thread/INFO]: <RZYplus> 有鱼塔了吗
+[20:59:06] [Server thread/INFO]: <RZYplus> 在哪
+[20:59:22] [Server thread/INFO]: <Yu_Chei> 跟我来
+[20:59:24] [Server thread/INFO]: <RZYplus> 我想搞一下海晶灯
+[20:59:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[21:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4825ms or 96 ticks behind
+[21:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2543ms or 50 ticks behind
+[21:00:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6352ms or 127 ticks behind
+[21:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2680ms or 53 ticks behind
+[21:02:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
+[21:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[21:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18146ms or 362 ticks behind
+[21:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14407ms or 288 ticks behind
+[21:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9754ms or 195 ticks behind
+[21:05:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7624ms or 152 ticks behind
+[21:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8413ms or 168 ticks behind
+[21:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5460ms or 109 ticks behind
+[21:06:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4264ms or 85 ticks behind
+[21:06:22] [Server thread/INFO]: [TextileBackup]: Backup started by: SERVER on: 2020-05-10_21-06-22
+[21:06:22] [Server thread/INFO]: [TextileBackup]: Saving server...
+[21:06:24] [Thread-66/INFO]: [TextileBackup]: Starting compression...
+[21:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5709ms or 114 ticks behind
+[21:06:33] [Server thread/INFO]: <RZYplus> 哦~这样打啊
+[21:06:59] [Server thread/INFO]: <Yu_Chei> 这个是我打下来的
+[21:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26330ms or 526 ticks behind
+[21:07:24] [Server thread/INFO]: <RZYplus> 居然把里面掏干了
+[21:07:44] [Server thread/INFO]: RZYplus lost connection: Disconnected
+[21:07:44] [Server thread/INFO]: RZYplus left the game
+[21:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24129ms or 482 ticks behind
+[21:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18462ms or 369 ticks behind
+[21:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7024ms or 140 ticks behind
+[21:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[21:09:01] [Thread-66/INFO]: [TextileBackup]: Compression finished
+[21:09:01] [Thread-66/INFO]: [TextileBackup]: Deleting: 2020-05-10_11-01-56.zip
+[21:09:01] [Thread-66/INFO]: [TextileBackup]: Done!
+[21:11:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[21:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[21:15:20] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[21:15:20] [Server thread/INFO]: ChengXi123 left the game
+[21:18:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[21:20:09] [Server thread/INFO]: Yu_Chei lost connection: Disconnected
+[21:20:09] [Server thread/INFO]: Yu_Chei left the game
