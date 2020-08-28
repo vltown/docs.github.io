@@ -3,7 +3,7 @@
 ## 卫星地图
 
 [俯瞰地图](http://overview.map.skimit.world/)（[备用地址](http://overview.map.skimit.cn/)）（2020年8月19日更新）  
-[3D地图](http://3d.map.skimit.cn/)（重建中）
+[3D地图](http://bluemap.skimit.cn:6902)（实时更新，可看玩家位置）
 
 ## 联系
 
