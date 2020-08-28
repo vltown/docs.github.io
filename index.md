@@ -10,13 +10,13 @@
   
 [服务器日志公开](./logs/#skimit服务器日志公开)（建设中）
   
-[skimit服务器的网页地图](/map/#skimit服务器卫星地图索引)（非实时，不定期更新）  
+[skimit服务器的网页地图](/map/#skimit服务器卫星地图索引)
   
 [.skin文件转换器/盗版自定义皮肤](./Skinfile-Generator)  
   
 [服务器在线数据](https://mc.iroselle.com/server/207/data)  
   
-![展示图，挂了请告知](https://s1.ax1x.com/2020/04/11/GH8xJI.png)  
+![展示图，挂了请告知](images/banner.jpg)  
 ## 反馈和建议
 [提交bug或需求](https://github.com/skimitmc/skimit.cn/issues)  
 ## 联系
