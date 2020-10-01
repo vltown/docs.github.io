@@ -1,3 +1,12 @@
+<style>
+      #banner {
+        background-image: url(https://skimit.cn/images/banner.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-blend-mode: darken;
+        background-position: center center;
+      }
+    </style>
 # skimit服务器
 [![状态贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)](https://mc.iroselle.com/server/207/data)  
 
