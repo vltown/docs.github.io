@@ -1,6 +1,9 @@
 # skimit服务器
+一个Minecraft1.16.2原本生存公益服务器
+
 [![状态贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)](https://mc.iroselle.com/server/207/data)  
 
+![在线玩家趋势图](https://tietu.iroselle.com/share/tietu/data/2602/player.png)  
 ## 链接
 [服务器规定](./rules/#skimit服务器规定)  
   
