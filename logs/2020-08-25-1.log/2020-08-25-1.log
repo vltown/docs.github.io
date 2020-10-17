@@ -1,0 +1,439 @@
+[00:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_00-17-41
+[00:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[00:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[00:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_07-09-14.zip
+[00:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[01:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_01-17-41
+[01:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_08-09-14.zip
+[01:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[02:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_02-17-41
+[02:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[02:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[02:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_09-09-14.zip
+[02:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[03:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_03-17-41
+[03:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[03:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[03:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_10-09-14.zip
+[03:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[04:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_04-17-41
+[04:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[04:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[04:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_11-09-18.zip
+[04:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[05:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_05-17-41
+[05:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[05:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[05:17:44] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_12-09-17.zip
+[05:17:44] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: _say 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: __stop___<--[HERE]
+[06:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_06-17-41
+[06:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[06:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[06:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_13-09-14.zip
+[06:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[07:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_07-17-41
+[07:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[07:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[07:17:44] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_14-09-14.zip
+[07:17:44] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[07:17:53] [Server thread/INFO]: aka213[/127.0.0.1:55492] logged in with entity id 138442 at (-543.6203965144676, 82.0, 568.4327594483415)
+[07:17:53] [Server thread/INFO]: aka213 joined the game
+[07:17:53] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:17:57] [Netty Epoll Server IO #3/INFO]: Player aka213 joined with a matching carpet client
+[07:18:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-544, y=72, z=568} class_2338{x=-544, y=71, z=568}
+[07:18:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-544, y=70, z=568} class_2338{x=-544, y=71, z=568}
+[07:18:38] [Server thread/INFO]: aka213 lost connection: Disconnected
+[07:18:38] [Server thread/INFO]: aka213 left the game
+[07:45:38] [Server thread/INFO]: ChengXi123[/127.0.0.1:49578] logged in with entity id 138706 at (-42.36965242766235, 64.0, 244.57848909739135)
+[07:45:38] [Server thread/INFO]: ChengXi123 joined the game
+[07:45:38] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:45:39] [Netty Epoll Server IO #5/INFO]: Player ChengXi123 joined with a matching carpet client
+[07:46:13] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[07:46:13] [Server thread/INFO]: ChengXi123 left the game
+[08:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_08-17-41
+[08:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[08:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[08:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_15-09-14.zip
+[08:17:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[08:24:32] [Server thread/INFO]: xiaojian520[/127.0.0.1:55101] logged in with entity id 138838 at (-457.79936503802185, 70.0, 512.0399731932117)
+[08:24:32] [Server thread/INFO]: xiaojian520 joined the game
+[08:24:32] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:24:35] [Netty Epoll Server IO #0/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[08:24:48] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[08:24:48] [Server thread/INFO]: xiaojian520 left the game
+[08:25:38] [Server thread/INFO]: ChengXi123[/127.0.0.1:33921] logged in with entity id 139088 at (-43.35051827355861, 64.875, 252.48354343718168)
+[08:25:38] [Server thread/INFO]: ChengXi123 joined the game
+[08:25:38] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:25:38] [Netty Epoll Server IO #7/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:27:33] [Server thread/INFO]: xiaojian520[/127.0.0.1:50773] logged in with entity id 140092 at (-457.79936503802185, 70.0, 512.0399731932117)
+[08:27:33] [Server thread/INFO]: xiaojian520 joined the game
+[08:27:33] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:27:40] [Netty Epoll Server IO #1/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[08:27:56] [Server thread/INFO]: aka213[/127.0.0.1:38448] logged in with entity id 140160 at (-543.6203965144676, 68.0, 568.4327594483415)
+[08:27:56] [Server thread/INFO]: aka213 joined the game
+[08:27:56] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:27:59] [Netty Epoll Server IO #6/INFO]: Player aka213 joined with a matching carpet client
+[08:28:03] [Server thread/INFO]: <xiaojian520> hi
+[08:28:44] [Server thread/INFO]: <ChengXi123> 吃生鸡肉会饥饿的？
+[08:28:49] [Server thread/INFO]: <xiaojian520> en
+[08:28:49] [Server thread/INFO]: <aka213> 来看地
+[08:28:54] [Server thread/INFO]: <xiaojian520> ?
+[08:29:07] [Server thread/INFO]: <aka213> pvp场建在这
+[08:29:09] [Server thread/INFO]: <ChengXi123> 干嘛呦，老打人
+[08:29:33] [Server thread/INFO]: <xiaojian520> 哪
+[08:29:51] [Server thread/INFO]: <ChengXi123> 这？
+[08:29:53] [Server thread/INFO]: <aka213> en
+[08:29:55] [Server thread/INFO]: <xiaojian520> ./here
+[08:29:58] [Server thread/INFO]: <ChengXi123> 可以啊
+[08:30:02] [Server thread/INFO]: <aka213> ok
+[08:30:46] [Server thread/INFO]: <xiaojian520> 这不是我挖的吗
+[08:30:48] [Server thread/INFO]: <xiaojian520> 这块地
+[08:30:54] [Server thread/INFO]: <aka213> 对啊
+[08:30:59] [Server thread/INFO]: <xiaojian520> qwq
+[08:31:03] [Server thread/INFO]: <aka213> 坑我填的
+[08:31:03] [Server thread/INFO]: <xiaojian520> 那你做吧
+[08:33:41] [Server thread/WARN]: Boat (vehicle of ChengXi123) moved wrongly! 1.444441645778383
+[08:34:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144527, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[08:34:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144527, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[08:34:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144549, l='ServerLevel[world]', x=-401.70, y=74.26, z=478.50]
+[08:34:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144549, l='ServerLevel[world]', x=-401.70, y=74.26, z=478.50]
+[08:34:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144560, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[08:34:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144560, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[08:35:38] [Server thread/INFO]: <ChengXi123> aka213你来看看这个
+[08:35:50] [Server thread/INFO]: <aka213> ??
+[08:36:08] [Server thread/INFO]: <aka213> ??
+[08:36:25] [Server thread/INFO]: <aka213> 这么大够了吧
+[08:36:39] [Server thread/INFO]: <ChengXi123> 这，这么小？
+[08:36:50] [Server thread/INFO]: <aka213> 那往外扩
+[08:36:58] [Server thread/INFO]: <aka213> 你觉得要多大
+[08:39:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-554, y=67, z=583} class_2338{x=-558, y=68, z=586}
+[08:40:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-521, y=68, z=591} class_2338{x=-521, y=67, z=590}
+[08:40:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-521, y=68, z=591} class_2338{x=-521, y=67, z=590}
+[08:40:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-521, y=68, z=591} class_2338{x=-521, y=67, z=590}
+[08:42:48] [Server thread/INFO]: <ChengXi123> 就铺个地板，建个围墙，搞点障碍物，搞个弓箭对射的地方，装饰一下就好了
+[08:43:41] [Server thread/INFO]: <aka213> ???
+[08:44:05] [Server thread/INFO]: <aka213> 哪个傻逼把我音乐盒挖了
+[08:47:10] [Server thread/INFO]: <ChengXi123> 挖几格？
+[08:47:23] [Server thread/INFO]: <aka213> 我把木板换上
+[08:47:31] [Server thread/INFO]: <aka213> 然后弄个围墙
+[08:47:45] [Server thread/INFO]: <aka213> 地板是石头还是木头
+[08:48:21] [Server thread/INFO]: <ChengXi123> 你定啊，就觉得怎么好看就怎么弄
+[08:48:34] [Server thread/INFO]: <aka213> emmm
+[08:48:41] [Server thread/INFO]: <aka213> 木头的话岩浆咋办
+[08:48:58] [Server thread/INFO]: <ChengXi123> 你拿岩浆打？
+[08:49:05] [Server thread/INFO]: <aka213> 不拿岩浆吗
+[08:49:54] [Server thread/INFO]: <aka213> 算了我弄点石砖把
+[08:50:16] [Server thread/INFO]: <ChengXi123> 那你可以在天上搞个黑曜石平台，专门搞岩浆战、水晶战
+[08:50:27] [Server thread/INFO]: <aka213> 。。。
+[08:50:32] [Server thread/INFO]: <aka213> 水晶？
+[08:50:59] [Server thread/INFO]: <ChengXi123> 对啊，比TNT伤害高多了
+[08:51:08] [Server thread/INFO]: <aka213> ...
+[08:51:18] [Server thread/INFO]: <aka213> 谁舍得啊
+[08:51:32] [Server thread/INFO]: <ChengXi123> 你先去镜像服试试怎么铺好看
+[08:51:44] [Server thread/INFO]: <aka213> 石砖好一点
+[08:51:57] [Server thread/INFO]: <ChengXi123> 纯石砖就不好看了
+[08:52:08] [Server thread/INFO]: <aka213> 那还有啥
+[08:52:19] [Server thread/INFO]: <ChengXi123> 去镜像服试试嘛
+[08:52:25] [Server thread/INFO]: <aka213> ok
+[08:52:38] [Server thread/INFO]: <ChengXi123> . 关了
+[08:52:38] [Server thread/INFO]: <aka213> ?
+[08:52:41] [Server thread/INFO]: <aka213> 进不去
+[08:53:05] [Server thread/INFO]: <ChengXi123> 石砖给我点
+[08:53:23] [Server thread/INFO]: <aka213> 自己做
+[08:53:28] [Server thread/INFO]: <aka213> 石头丢着了
+[08:55:09] [Server thread/INFO]: <ChengXi123> 我去烧点裂石砖
+[08:55:13] [Server thread/INFO]: <aka213> ok
+[08:57:09] [Server thread/INFO]: <xiaojian520> 凋零玫瑰农场就差凋零了
+[08:57:22] [Server thread/INFO]: <xiaojian520> 但是这凋零不知道怎么让他不爆
+[08:57:53] [Server thread/INFO]: <xiaojian520> 现在谁卖合金
+[08:58:00] [Server thread/INFO]: <aka213> 。。
+[08:58:06] [Server thread/INFO]: <aka213> 看你拿什么换
+[08:58:14] [Server thread/INFO]: <xiaojian520> 我拿钻石
+[08:58:28] [Server thread/INFO]: <aka213> ?
+[08:58:37] [Server thread/INFO]: <xiaojian520> wc
+[08:58:40] [Server thread/INFO]: <xiaojian520> 我钻石呢
+[08:58:53] [Server thread/INFO]: <ChengXi123> 你不是创造是过了吗？
+[08:59:30] [Server thread/INFO]: <xiaojian520> 试过是试过了，但是呢，我没想到凋零咋弄进去的
+[08:59:57] [Server thread/INFO]: <ChengXi123> aka213搞在借我一下
+[09:00:02] [Server thread/INFO]: <aka213> 现在又不缺
+[09:00:07] [Server thread/INFO]: <ChengXi123> 直接在里面召唤啊
+[09:00:14] [Server thread/INFO]: <xiaojian520> 他会爆炸
+[09:00:29] [Server thread/INFO]: <ChengXi123> 本来就会啊
+[09:01:37] [Server thread/INFO]: <xiaojian520> 18块钻石块可以换吗
+[09:01:51] [Server thread/INFO]: <aka213> ?
+[09:02:06] [Server thread/INFO]: <xiaojian520> 换合金
+[09:02:40] [Server thread/INFO]: <aka213> ..
+[09:02:42] [Server thread/INFO]: <xiaojian520> 要吗
+[09:02:48] [Server thread/INFO]: <xiaojian520> 我就要一个
+[09:02:59] [Server thread/INFO]: <aka213> ..
+[09:03:22] [Server thread/INFO]: <aka213> 中间用矿石把
+[09:08:41] [Server thread/INFO]: <xiaojian520> az
+[09:09:38] [Server thread/INFO]: <xiaojian520> 不死图腾要吗
+[09:09:48] [Server thread/INFO]: <aka213> 我有1盒
+[09:09:59] [Server thread/INFO]: <xiaojian520> 你需要啥
+[09:10:03] [Server thread/INFO]: <aka213> ..
+[09:10:05] [Server thread/INFO]: <aka213> 没啥
+[09:10:27] [Server thread/INFO]: <ChengXi123> 他需要锋利5
+[09:10:33] [Server thread/INFO]: <aka213> 嗯
+[09:10:41] [Server thread/INFO]: <aka213> 这确实需要
+[09:10:50] [Server thread/INFO]: <xiaojian520> 要来干哈
+[09:11:01] [Server thread/INFO]: <aka213> 搞顶级剑
+[09:11:11] [Server thread/INFO]: <aka213> 我拿把剑过于昂贵了
+[09:11:14] [Server thread/INFO]: <xiaojian520> 多少本换你一个
+[09:11:16] [Server thread/INFO]: <aka213> 无法顶级
+[09:11:38] [Server thread/INFO]: <aka213> 我也不知道啥价格
+[09:11:39] [Server thread/INFO]: <xiaojian520> 一本换一个吧
+[09:11:45] [Server thread/INFO]: <xiaojian520> 我tm还想也没有
+[09:12:11] [Server thread/INFO]: <aka213> 我现在就惦记着chengxi的拿一盒
+[09:12:17] [Server thread/INFO]: <xiaojian520> 等会
+[09:12:19] [Server thread/INFO]: <xiaojian520> 我有事
+[09:12:21] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[09:12:21] [Server thread/INFO]: xiaojian520 left the game
+[09:12:37] [Server thread/INFO]: <ChengXi123> 我只有5本锋利4，没有锋利5
+[09:12:45] [Server thread/INFO]: <aka213> 锋利4够了
+[09:15:59] [Server thread/INFO]: <ChengXi123> 给你一个好东西
+[09:16:03] [Server thread/INFO]: <aka213> ?
+[09:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_09-17-41
+[09:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[09:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:17:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:17:42] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[09:17:47] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_16-09-16.zip
+[09:17:47] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[09:18:20] [Server thread/INFO]: <ChengXi123> aka213镐子
+[09:19:50] [Server thread/INFO]: <ChengXi123> 给你好东西
+[09:19:57] [Server thread/INFO]: <aka213> 草
+[09:20:00] [Server thread/INFO]: <ChengXi123> 草
+[09:20:19] [Server thread/INFO]: <aka213> 这能采集到？
+[09:20:28] [Server thread/INFO]: <ChengXi123> 剪刀啊
+[09:20:36] [Server thread/INFO]: <aka213> ..
+[09:20:54] [Server thread/INFO]: <ChengXi123> 要不弄个出口争夺战
+[09:21:06] [Server thread/INFO]: <aka213> 随便了
+[09:21:09] [Server thread/INFO]: <ChengXi123> 只有赢了才让出去
+[09:21:14] [Server thread/INFO]: <aka213> 嗯
+[09:21:34] [Server thread/INFO]: <ChengXi123> 我去bolo学个密道
+[09:21:50] [Server thread/INFO]: <ChengXi123> 就我们知道怎么用
+[09:21:56] [Server thread/INFO]: <aka213> 666
+[09:24:22] [Server thread/INFO]: <aka213> 观战是直接平台还是玻璃
+[09:24:44] [Server thread/INFO]: <ChengXi123> 玻璃吧，弄高一点
+[09:24:47] [Server thread/INFO]: <aka213> OK
+[09:25:13] [Server thread/INFO]: <aka213> 那观战席弄个水电梯？
+[09:25:22] [Server thread/INFO]: <ChengXi123> 你的镐子
+[09:25:25] [Server thread/INFO]: <ChengXi123> 好
+[09:25:30] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[09:25:30] [Server thread/INFO]: ChengXi123 left the game
+[09:26:47] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 1)]
+[09:27:18] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 2)]
+[09:27:27] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 3)]
+[09:27:34] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 4)]
+[09:27:38] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 5)]
+[09:27:43] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 6)]
+[09:27:47] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 7)]
+[09:27:52] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 8)]
+[09:27:58] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 9)]
+[09:28:01] [Server thread/INFO]: [aka213: Triggered [scoreSwitch] (set value to 1)]
+[10:01:04] [Server thread/INFO]: ChengXi123[/127.0.0.1:53327] logged in with entity id 169199 at (-538.5060261035949, 76.0, 604.6541643978394)
+[10:01:04] [Server thread/INFO]: ChengXi123 joined the game
+[10:01:04] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:01:04] [Netty Epoll Server IO #3/INFO]: Player ChengXi123 joined with a matching carpet client
+[10:01:21] [Server thread/INFO]: <aka213> 没玻璃了
+[10:01:39] [Server thread/INFO]: <ChengXi123> 去烧啊，不是有熔炉组吗
+[10:06:21] [Server thread/INFO]: wushi_[/127.0.0.1:55733] logged in with entity id 170772 at (0.35244238863078153, 106.0, -592.4027017536014)
+[10:06:21] [Server thread/INFO]: wushi_ joined the game
+[10:06:21] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:06:24] [Netty Epoll Server IO #0/WARN]: Player wushi_ joined with another carpet version: 1.4.0+v200623
+[10:08:13] [Server thread/INFO]: <ChengXi123> aka213密室做在哪？
+[10:08:18] [Server thread/INFO]: <aka213> 随便啊
+[10:08:34] [Server thread/INFO]: <aka213> 我们弄几漏斗
+[10:08:47] [Server thread/INFO]: <aka213> 把他们东西吸进去
+[10:12:35] [Server thread/INFO]: <ChengXi123> 睡觉时间
+[10:13:35] [Server thread/INFO]: Villager class_1646['Villager'/174598, l='ServerLevel[world]', x=-193.51, y=64.00, z=-715.25] died, message: 'Villager was slain by wushi_'
+[10:15:07] [Server thread/INFO]: <ChengXi123> 干啥？
+[10:15:21] [Server thread/INFO]: <aka213> 这个吸东西强不强
+[10:15:33] [Server thread/INFO]: <aka213> 他们死了装备吸走
+[10:15:46] [Server thread/INFO]: <ChengXi123> 不能隔方块吸
+[10:15:49] [Server thread/INFO]: <aka213> emmm
+[10:15:56] [Server thread/INFO]: <aka213> 藏地毯吧
+[10:16:33] [Server thread/INFO]: <ChengXi123> 你不用考虑吸装备，在旁边弄个复活点，死了就进来捡装备
+[10:16:38] [Server thread/INFO]: <aka213> 6666
+[10:17:04] [Server thread/INFO]: <aka213> 我去烧玻璃了
+[10:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_10-17-41
+[10:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[10:17:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:17:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:17:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:17:42] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[10:17:50] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_18-04-26.zip
+[10:17:50] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[10:18:37] [Server thread/INFO]: <ChengXi123> aka213要不以后你好东西藏密室里
+[10:18:57] [Server thread/INFO]: <aka213> 我末影箱
+[10:19:29] [Server thread/INFO]: <aka213> 那里有沙子
+[10:20:14] [Server thread/INFO]: <ChengXi123> 出生点
+[10:23:38] [Server thread/INFO]: wushi_ lost connection: Timed out
+[10:23:38] [Server thread/INFO]: wushi_ left the game
+[10:24:45] [Server thread/INFO]: <ChengXi123> 来打苦力怕
+[10:25:09] [Server thread/INFO]: <aka213> 找不到沙子
+[10:25:38] [Server thread/INFO]: <aka213> c
+[10:25:38] [Server thread/INFO]: <ChengXi123> 观众席不用全覆盖
+[10:30:43] [Server thread/INFO]: <ChengXi123> 给我两石砖
+[10:33:43] [Server thread/INFO]: xiaojian520[/127.0.0.1:36852] logged in with entity id 179497 at (-2059.3483708171634, 68.0, 524.2717590678143)
+[10:33:43] [Server thread/INFO]: xiaojian520 joined the game
+[10:33:43] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:33:47] [Netty Epoll Server IO #5/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[10:34:13] [Server thread/INFO]: <xiaojian520> hi
+[10:35:51] [Server thread/INFO]: <xiaojian520> 服务器还缺啥机器
+[10:36:19] [Server thread/INFO]: <ChengXi123> 凋零骷髅塔
+[10:37:29] [Server thread/INFO]: <xiaojian520> 那些我到时候在做
+[10:37:39] [Server thread/INFO]: <ChengXi123> 猪人塔
+[10:37:42] [Server thread/INFO]: <xiaojian520> 等某个红石大佬上线在弄那个
+[10:37:50] [Server thread/INFO]: <xiaojian520> 还有呢
+[10:38:05] [Server thread/INFO]: <xiaojian520> 猪人塔手撸的行不
+[10:38:09] [Server thread/INFO]: <ChengXi123> 你能想到的都没有
+[10:38:16] [Server thread/INFO]: <ChengXi123> xing
+[10:39:50] [Server thread/INFO]: <xiaojian520> 1
+[10:41:41] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[10:41:41] [Server thread/INFO]: xiaojian520 left the game
+[10:41:41] [Server thread/INFO]: <ChengXi123> aka213来，教你怎么用
+[10:42:08] [Server thread/INFO]: <ChengXi123> 快点来
+[10:42:54] [Server thread/INFO]: <ChengXi123> 把一个东西丢到半砖上，出来的时候把箱子的东西拿出来就可以了
+[10:43:13] [Server thread/INFO]: <aka213> 66
+[10:43:35] [Server thread/INFO]: <ChengXi123> 反正就是箱子有东西就开门，没东西就关门
+[10:43:36] [Server thread/INFO]: <aka213> 666
+[10:44:18] [Server thread/INFO]: <ChengXi123> 下面还没装饰
+[10:44:26] [Server thread/INFO]: <aka213> o
+[10:49:58] [Server thread/INFO]: ChengXi123 suffocated in a wall
+[10:50:00] [Server thread/INFO]: <aka213> ?
+[10:50:22] [Server thread/INFO]: <ChengXi123> 你在墙边放了半砖，上不去
+[10:50:30] [Server thread/INFO]: <aka213> c
+[10:51:12] [Server thread/INFO]: <aka213> 这个v咋弄
+[10:51:18] [Server thread/INFO]: <aka213> 怎么弄怎么不像
+[10:51:51] [Server thread/INFO]: <aka213> 嗯
+[10:51:53] [Server thread/INFO]: <aka213> 可以
+[10:54:06] [Server thread/INFO]: <ChengXi123> 要不短的两边墙角放半砖
+[10:54:10] [Server thread/INFO]: <aka213> ok
+[10:58:02] [Server thread/INFO]: <ChengXi123> 要搞点障碍物，有些人可能要对射
+[10:58:06] [Server thread/INFO]: <aka213> ok
+[11:00:55] [Server thread/INFO]: <ChengXi123> 正在考虑下面怎么设计
+[11:01:27] [Server thread/INFO]: <ChengXi123> 障碍物用石砖
+[11:01:32] [Server thread/INFO]: <aka213> ok
+[11:01:40] [Server thread/INFO]: <ChengXi123> 其他东西有点违和
+[11:02:25] [Server thread/INFO]: <ChengXi123> 就想这样的就可以
+[11:02:51] [Server thread/INFO]: <ChengXi123> 不用留口
+[11:06:12] [Server thread/INFO]: <ChengXi123> 对角障碍搞一样的
+[11:06:20] [Server thread/INFO]: <aka213> ok
+[11:09:20] [Server thread/INFO]: <aka213> ??
+[11:11:01] [Server thread/INFO]: wushi_[/127.0.0.1:48406] logged in with entity id 188550 at (-139.28125513171074, 82.0, 192.33798800897995)
+[11:11:01] [Server thread/INFO]: wushi_ joined the game
+[11:11:01] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:11:16] [Server thread/INFO]: wushi_ lost connection: Timed out
+[11:11:16] [Server thread/INFO]: wushi_ left the game
+[11:11:33] [Server thread/INFO]: wushi_[/127.0.0.1:38373] logged in with entity id 188698 at (-139.28125513171074, 82.0, 192.33798800897995)
+[11:11:33] [Server thread/INFO]: wushi_ joined the game
+[11:11:33] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:11:34] [Netty Epoll Server IO #2/WARN]: Player wushi_ joined with another carpet version: 1.4.0+v200623
+[11:12:37] [Server thread/INFO]: <ChengXi123> 差不多了
+[11:12:40] [Server thread/INFO]: <aka213> en
+[11:12:54] [Server thread/INFO]: <ChengXi123> 我来看看房间
+[11:13:00] [Server thread/INFO]: <ChengXi123> 你来
+[11:13:44] [Server thread/INFO]: <aka213> 可以
+[11:17:01] [Server thread/INFO]: <ChengXi123> 唯一出口
+[11:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_11-17-41
+[11:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[11:17:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:17:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:17:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:17:42] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[11:17:50] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_19-05-33.zip
+[11:17:50] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[11:19:40] [Server thread/INFO]: <aka213> ?
+[11:19:48] [Server thread/INFO]: <aka213> 为什么我感觉我有加速
+[11:19:51] [Server thread/INFO]: <aka213> 怎么这么快
+[11:20:16] [Server thread/INFO]: <ChengXi123> 连跳 有加速
+[11:20:21] [Server thread/INFO]: <aka213> p
+[11:20:22] [Server thread/INFO]: <aka213> o
+[11:20:44] [Server thread/INFO]: <ChengXi123> 跳跃落地的0.5秒内有加速
+[11:20:58] [Server thread/INFO]: <aka213> 到时候禁止附魔金
+[11:22:53] [Server thread/INFO]: <ChengXi123> 最后那里是极限跳
+[11:23:28] [Server thread/INFO]: <ChengXi123> 这里
+[11:23:36] [Server thread/INFO]: <aka213> .
+[11:23:43] [Server thread/INFO]: <ChengXi123> 不能用鞘翅
+[11:25:09] [Server thread/INFO]: <ChengXi123> 我够了了
+[11:25:21] [Server thread/INFO]: <aka213> 从斜角那里
+[11:25:51] [Server thread/INFO]: <aka213> 我吃饭去了
+[11:25:54] [Server thread/INFO]: <ChengXi123> 88
+[11:25:55] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:25:55] [Server thread/INFO]: ChengXi123 left the game
+[11:25:56] [Server thread/INFO]: <aka213> 88
+[11:25:57] [Server thread/INFO]: aka213 lost connection: Disconnected
+[11:25:57] [Server thread/INFO]: aka213 left the game
+[11:34:37] [Server thread/INFO]: SSJ was slain by wushi_
+[11:34:37] [Server thread/INFO]: SSJ lost connection: Killed
+[11:34:37] [Server thread/INFO]: SSJ left the game
+[11:34:41] [Server thread/INFO]: wushi_ lost connection: Disconnected
+[11:34:41] [Server thread/INFO]: wushi_ left the game
+[12:17:41] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_12-17-41
+[12:17:41] [Server thread/INFO]: [Textile Backup] Saving server...
+[12:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:17:41] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[12:17:47] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_20-17-41.zip
+[12:17:47] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[12:28:07] [Server thread/INFO]: wushi_[/127.0.0.1:53377] logged in with entity id 195613 at (2.699999988079071, 60.0, 10.922599992657988)
+[12:28:07] [Server thread/INFO]: wushi_ joined the game
+[12:28:07] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:28:22] [Server thread/INFO]: wushi_ lost connection: Timed out
+[12:28:22] [Server thread/INFO]: wushi_ left the game
+[12:28:46] [Server thread/INFO]: wushi_[/127.0.0.1:40918] logged in with entity id 195702 at (2.699999988079071, 60.0, 10.922599992657988)
+[12:28:46] [Server thread/INFO]: wushi_ joined the game
+[12:28:46] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:28:47] [Netty Epoll Server IO #0/WARN]: Player wushi_ joined with another carpet version: 1.4.0+v200623
+[12:32:49] [Server thread/INFO]: wushi_ lost connection: Disconnected
+[12:32:49] [Server thread/INFO]: wushi_ left the game
+[13:14:33] [Server thread/INFO]: wushi6969[/127.0.0.1:50056] logged in with entity id 196639 at (-91.3, 66.0, -340.70493)
+[13:14:33] [Server thread/INFO]: wushi6969 joined the game
+[13:14:33] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:14:48] [Server thread/INFO]: wushi6969 lost connection: Timed out
+[13:14:48] [Server thread/INFO]: wushi6969 left the game
+[13:28:07] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-25_13-28-07
+[13:28:07] [Server thread/INFO]: [Textile Backup] Saving server...
+[13:28:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:28:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:28:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:28:07] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[13:28:13] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_21-17-42.zip
+[13:28:13] [pool-3-thread-1/INFO]: [Textile Backup] Done!

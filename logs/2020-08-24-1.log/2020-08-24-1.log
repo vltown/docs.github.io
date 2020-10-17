@@ -1,0 +1,1057 @@
+[00:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_00-09-14
+[00:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[00:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[00:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_08-09-14.zip
+[00:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[00:12:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6845449, l='ServerLevel[world]', x=-401.70, y=70.26, z=440.50]
+[00:13:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6846240, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[00:53:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6876415, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[01:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_01-09-14
+[01:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_09-09-14.zip
+[01:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[01:13:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6892242, l='ServerLevel[world]', x=-401.70, y=70.26, z=440.50]
+[01:25:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6900374, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[01:32:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6906830, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[02:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_02-09-14
+[02:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[02:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[02:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_10-09-14.zip
+[02:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[02:13:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6937953, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[02:13:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6937965, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[02:34:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6953206, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[02:34:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6953213, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[03:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_03-09-14
+[03:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[03:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[03:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_11-09-14.zip
+[03:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[03:12:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6982871, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[03:13:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6983245, l='ServerLevel[world]', x=-401.70, y=70.26, z=460.53]
+[03:13:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6983256, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[03:33:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6998421, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[03:52:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7013089, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[04:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_04-09-14
+[04:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[04:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[04:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_12-09-14.zip
+[04:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[04:12:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7028363, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[05:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_05-09-14
+[05:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[05:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[05:09:22] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_13-09-14.zip
+[05:09:22] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: _say 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: __stop___<--[HERE]
+[05:53:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7104181, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[05:54:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7104885, l='ServerLevel[world]', x=-367.30, y=74.26, z=438.50]
+[06:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_06-09-14
+[06:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[06:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[06:09:22] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_14-09-14.zip
+[06:09:22] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[06:13:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7119170, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[06:25:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7127619, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[06:32:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7133726, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[06:33:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7134163, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[06:53:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7149354, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[07:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_07-09-14
+[07:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[07:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[07:09:22] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_15-09-14.zip
+[07:09:22] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[07:13:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7164598, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[07:33:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7179144, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[07:52:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7193761, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.51]
+[07:53:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7194515, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[08:00:34] [Server thread/INFO]: ChengXi123[/127.0.0.1:59606] logged in with entity id 7199477 at (-2062.706165945053, 72.0, 520.4722483772048)
+[08:00:34] [Server thread/INFO]: ChengXi123 joined the game
+[08:00:34] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:00:35] [Netty Epoll Server IO #2/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08:04:39] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[08:04:39] [Server thread/INFO]: ChengXi123 left the game
+[08:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_08-09-14
+[08:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[08:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[08:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_16-09-14.zip
+[08:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[08:13:19] [Server thread/INFO]: ChengXi123[/127.0.0.1:57774] logged in with entity id 7210949 at (-433.3966021372191, 69.5, 419.5248221249677)
+[08:13:19] [Server thread/INFO]: ChengXi123 joined the game
+[08:13:19] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:13:20] [Netty Epoll Server IO #0/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:13:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7211267, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[08:13:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7211267, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[08:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08:22:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08:24:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08:25:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[08:26:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[08:26:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[08:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08:27:21] [Server thread/INFO]: xiaojian520[/127.0.0.1:56888] logged in with entity id 7223670 at (-52.12499222835208, 129.0, 63.712757263184486)
+[08:27:21] [Server thread/INFO]: xiaojian520 joined the game
+[08:27:21] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08:27:32] [Netty Epoll Server IO #0/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[08:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
+[08:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2676ms or 53 ticks behind
+[08:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[08:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[08:28:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2116ms or 42 ticks behind
+[08:28:51] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[08:28:51] [Server thread/INFO]: ChengXi123 left the game
+[08:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08:29:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[08:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08:30:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
+[08:30:42] [Server thread/INFO]: <xiaojian520> 1
+[08:31:24] [Server thread/INFO]: ChengXi123[/127.0.0.1:60437] logged in with entity id 7227251 at (-38.37252299800706, 76.7531999805212, 105.6036744767264)
+[08:31:24] [Server thread/INFO]: ChengXi123 joined the game
+[08:31:24] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:31:24] [Netty Epoll Server IO #5/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:31:27] [Server thread/INFO]: <xiaojian520> hi
+[08:31:32] [Server thread/INFO]: <ChengXi123> hi
+[08:31:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08:31:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5157ms or 103 ticks behind
+[08:32:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3463ms or 69 ticks behind
+[08:32:30] [Server thread/INFO]: <xiaojian520> 怎么弄那个投影弄成凭空放置
+[08:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
+[08:32:49] [Server thread/INFO]: <ChengXi123> easy什么什么的那个
+[08:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3403ms or 68 ticks behind
+[08:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[08:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3203ms or 64 ticks behind
+[08:34:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3556ms or 71 ticks behind
+[08:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[08:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[08:37:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
+[08:38:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[08:38:30] [Server thread/INFO]: <xiaojian520> 不知道哪个
+[08:38:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[08:38:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3356ms or 67 ticks behind
+[08:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[08:39:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[08:39:35] [Server thread/INFO]: <ChengXi123> 耶耶耶耶耶，我进行了1.16.2的第一次物品复制
+[08:39:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3130ms or 62 ticks behind
+[08:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[08:40:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[08:40:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3110ms or 62 ticks behind
+[08:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
+[08:41:09] [Server thread/INFO]: <ChengXi123> 以后不缺鞘翅了
+[08:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[08:42:34] [Server thread/INFO]: <ChengXi123> 热键里的easyplacetoggle
+[08:42:45] [Server thread/INFO]: <ChengXi123> xiaojian520
+[08:43:06] [Server thread/INFO]: <xiaojian520> o
+[08:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08:44:08] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[08:44:08] [Server thread/INFO]: xiaojian520 left the game
+[08:44:18] [Server thread/INFO]: xiaojian520[/127.0.0.1:46433] logged in with entity id 7239634 at (-166.41392647494493, 60.0625, -44.561103266680654)
+[08:44:18] [Server thread/INFO]: xiaojian520 joined the game
+[08:44:18] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:44:19] [Netty Epoll Server IO #6/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[08:44:28] [Server thread/INFO]: <ChengXi123> 你在哪
+[08:44:35] [Server thread/INFO]: <xiaojian520> 我在末地
+[08:44:45] [Server thread/INFO]: <xiaojian520> 1
+[08:44:49] [Server thread/INFO]: <xiaojian520> 不行呀
+[08:44:56] [Server thread/INFO]: <ChengXi123> 发个/here
+[08:46:10] [Server thread/INFO]: <ChengXi123> 那个是轻松放置
+[08:46:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7241582, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[08:46:45] [Server thread/INFO]: <ChengXi123> 只能快速放投影里的东西
+[08:48:02] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[08:48:02] [Server thread/INFO]: ChengXi123 left the game
+[08:55:17] [Server thread/INFO]: ChengXi123[/127.0.0.1:60184] logged in with entity id 7248725 at (-157.57873997335912, 53.0, -50.69999998807907)
+[08:55:17] [Server thread/INFO]: ChengXi123 joined the game
+[08:55:17] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:55:18] [Netty Epoll Server IO #6/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:55:58] [Server thread/INFO]: <ChengXi123> 加油，搞机器的职位就送给你了
+[08:56:02] [Server thread/INFO]: <xiaojian520> ...
+[08:56:06] [Server thread/INFO]: <xiaojian520> 我不
+[08:57:30] [Server thread/INFO]: <ChengXi123> 我不是给你脚手架了吗？
+[08:57:36] [Server thread/INFO]: <xiaojian520> .....
+[08:59:03] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[08:59:03] [Server thread/INFO]: ChengXi123 left the game
+[08:59:04] [Server thread/INFO]: ChengXi123[/127.0.0.1:53880] logged in with entity id 7251814 at (-157.4228123206072, 53.0, -50.69999998807907)
+[08:59:04] [Server thread/INFO]: ChengXi123 joined the game
+[08:59:04] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:59:04] [Netty Epoll Server IO #0/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:59:56] [Server thread/INFO]: <ChengXi123> 以后的鱼塔，猪人塔，猪灵交易所，村民工程，袭击塔都交给你了
+[09:00:03] [Server thread/INFO]: <xiaojian520> 不
+[09:00:14] [Server thread/INFO]: <xiaojian520> 不要啊
+[09:00:17] [Server thread/INFO]: <ChengXi123> 我相信你可以的
+[09:00:43] [Server thread/INFO]: <ChengXi123> 我要正式退休
+[09:01:10] [Server thread/INFO]: <xiaojian520> ....
+[09:01:18] [Server thread/INFO]: <xiaojian520> 我开学我也玩不了多久
+[09:01:59] [Server thread/INFO]: <ChengXi123> 我要体验一下那些在我隔壁看我修机器又不帮忙的感觉
+[09:02:27] [Server thread/INFO]: <ChengXi123> 你不会用脚手架？
+[09:02:32] [Server thread/INFO]: <xiaojian520> 会
+[09:02:39] [Server thread/INFO]: <xiaojian520> 我不想搭
+[09:02:43] [Server thread/INFO]: <xiaojian520> 我想飞上去
+[09:03:25] [Server thread/INFO]: <ChengXi123> 既然你同意了，那我就跟小葵说一下
+[09:03:34] [Server thread/INFO]: <xiaojian520> ？？？
+[09:03:40] [Server thread/INFO]: <ChengXi123> 未来的工程师
+[09:03:43] [Server thread/INFO]: <xiaojian520> 不啊
+[09:03:47] [Server thread/INFO]: <xiaojian520> 我要建核弹岛
+[09:03:57] [Server thread/INFO]: <ChengXi123> 没事，骗你的
+[09:04:46] [Server thread/INFO]: <ChengXi123> 什么？！你要浪费火药？你不知道现在火药很稀有吗？
+[09:05:08] [Server thread/INFO]: <xiaojian520> 刷怪塔的火药我拿光了
+[09:05:10] [Server thread/INFO]: <xiaojian520> qwq
+[09:05:40] [Server thread/INFO]: <ChengXi123> cao
+[09:05:56] [Server thread/INFO]: <ChengXi123> f**k
+[09:05:58] [Server thread/INFO]: <xiaojian520> ??
+[09:06:25] [Server thread/INFO]: <ChengXi123> you are f**king s**t
+[09:06:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7258629, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[09:07:22] [Server thread/INFO]: <xiaojian520> az
+[09:07:42] [Server thread/INFO]: <xiaojian520> 他又砍不死我
+[09:07:45] [Server thread/INFO]: <ChengXi123> 砍你妈
+[09:07:57] [Server thread/INFO]: <xiaojian520> ...
+[09:07:58] [Server thread/INFO]: <ChengXi123> 人家修机器啊
+[09:08:23] [Server thread/INFO]: <ChengXi123> 好不容易有一个自觉修机器的
+[09:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_09-09-14
+[09:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[09:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[09:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_17-09-15.zip
+[09:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[09:10:01] [Server thread/INFO]: <ChengXi123> 要让他自觉的修完所有有用的机器
+[09:10:05] [Server thread/INFO]: <xiaojian520> az
+[09:16:25] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[09:16:25] [Server thread/INFO]: ChengXi123 left the game
+[09:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Carrot'/7272642, l='ServerLevel[world]', x=-367.67, y=68.94, z=460.42]
+[09:30:32] [Server thread/INFO]: <xiaojian520> 谁上线帮个忙
+[09:30:37] [Server thread/INFO]: <xiaojian520> 我稿子丢了
+[09:30:42] [Server thread/INFO]: <xiaojian520> 帮我弄把盖子
+[09:30:43] [Server thread/INFO]: <xiaojian520> 稿子
+[09:30:56] [Server thread/INFO]: <xiaojian520> 不小心丢虚空去了
+[09:31:38] [Server thread/INFO]: <xiaojian520> 没时间
+[09:32:08] [Server thread/INFO]: <xiaojian520> 帮我弄把稿子呗
+[09:32:13] [Server thread/INFO]: <xiaojian520> 精准采集那种
+[09:32:49] [Server thread/INFO]: <xiaojian520> 没稿子挖了
+[09:32:50] [Server thread/INFO]: <xiaojian520> qwq
+[09:36:14] [Server thread/INFO]: <xiaojian520> ..
+[09:36:27] [Server thread/INFO]: ChengXi123[/127.0.0.1:47513] logged in with entity id 7283630 at (-155.30000001192093, 53.0, -48.69999998807907)
+[09:36:27] [Server thread/INFO]: ChengXi123 joined the game
+[09:36:27] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:36:27] [Netty Epoll Server IO #7/INFO]: Player ChengXi123 joined with a matching carpet client
+[09:36:33] [Server thread/INFO]: ChengXi123 fell out of the world
+[09:36:36] [Server thread/INFO]: <xiaojian520> ????
+[09:36:37] [Server thread/INFO]: <xiaojian520> ??
+[09:36:44] [Server thread/INFO]: <ChengXi123> ...
+[09:37:01] [Server thread/INFO]: <ChengXi123> 不然放哪？
+[09:37:16] [Server thread/INFO]: <xiaojian520> 借我个稿子
+[09:37:35] [Server thread/INFO]: <ChengXi123> 我末影箱里25个潜影盒，都满了，就因为没有家，没地放
+[09:38:06] [Server thread/INFO]: <ChengXi123> 没有
+[09:38:13] [Server thread/INFO]: <xiaojian520> 快来
+[09:39:27] [Server thread/INFO]: <xiaojian520> ？？
+[09:40:01] [Server thread/INFO]: <xiaojian520> 那稿子现在能帮我弄把吗‘
+[09:40:05] [Server thread/INFO]: <xiaojian520> 神搞
+[09:40:22] [Server thread/INFO]: <ChengXi123> 正在赶过来
+[09:41:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09:41:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3298ms or 65 ticks behind
+[09:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3923ms or 78 ticks behind
+[09:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3486ms or 69 ticks behind
+[09:42:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4951ms or 99 ticks behind
+[09:42:53] [Server thread/INFO]: <ChengXi123> en
+[09:42:54] [Server thread/INFO]: <xiaojian520> 来了吗
+[09:43:03] [Server thread/INFO]: <ChengXi123> 快到了
+[09:43:56] [Server thread/INFO]: <xiaojian520> 快来
+[09:45:11] [Server thread/INFO]: <ChengXi123> 你人呢？
+[09:45:58] [Server thread/INFO]: <ChengXi123> 我还有20把这样的镐子
+[09:46:03] [Server thread/INFO]: <xiaojian520> 6
+[09:46:13] [Server thread/INFO]: <ChengXi123> 给我点烟花
+[09:46:35] [Server thread/INFO]: <ChengXi123> 你做的烟花？
+[09:46:38] [Server thread/INFO]: <xiaojian520> en
+[09:46:49] [Server thread/INFO]: <ChengXi123> 为什么是飞行1的？
+[09:46:57] [Server thread/INFO]: <xiaojian520> 我咋知道
+[09:47:01] [Server thread/INFO]: Stone lost connection: Killed
+[09:47:01] [Server thread/INFO]: Stone left the game
+[09:47:12] [Server thread/INFO]: <xiaojian520> 你得问烟花
+[09:47:13] [Server thread/INFO]: <ChengXi123> 你会做飞行3的吗？
+[09:47:16] [Server thread/INFO]: <xiaojian520> 不会
+[09:47:42] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[09:47:42] [Server thread/INFO]: ChengXi123 left the game
+[10:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7297654, l='ServerLevel[world]', x=-586.58, y=73.00, z=1179.42]
+[10:02:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7297831, l='ServerLevel[world]', x=-588.02, y=73.00, z=1189.56]
+[10:03:53] [Server thread/INFO]: ChengXi123[/127.0.0.1:58720] logged in with entity id 7298140 at (-11.551544945759446, 60.0, -10.290756190080504)
+[10:03:53] [Server thread/INFO]: ChengXi123 joined the game
+[10:03:53] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:03:54] [Netty Epoll Server IO #4/INFO]: Player ChengXi123 joined with a matching carpet client
+[10:04:17] [Server thread/INFO]: xiaojian520 fell from a high place
+[10:04:25] [Server thread/INFO]: <xiaojian520> 快去末地
+[10:04:33] [Server thread/INFO]: <xiaojian520> 我凉了
+[10:05:28] [Server thread/INFO]: <xiaojian520> ..
+[10:06:11] [Server thread/INFO]: <ChengXi123> 捡到潜影盒里了
+[10:06:14] [Server thread/INFO]: <xiaojian520> 1
+[10:07:13] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:07:13] [Server thread/INFO]: ChengXi123 left the game
+[10:08:12] [Server thread/INFO]: <xiaojian520> 我头呢
+[10:08:36] [Server thread/INFO]: <xiaojian520> 鞘翅也没那
+[10:08:53] [Server thread/INFO]: <xiaojian520> 哎哟我滴妈呀
+[10:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_10-09-14
+[10:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[10:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[10:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_18-09-14.zip
+[10:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[10:09:37] [Server thread/INFO]: <xiaojian520> az
+[10:09:43] [Server thread/INFO]: <xiaojian520> 烟花都给你了
+[10:10:02] [Server thread/INFO]: <xiaojian520> 我潜影盒呢
+[10:10:08] [Server thread/INFO]: <xiaojian520> 里面全是火药
+[10:10:10] [Server thread/INFO]: ChengXi123[/127.0.0.1:54954] logged in with entity id 7301338 at (6.633878061240472, 59.0, 27.688241769454525)
+[10:10:10] [Server thread/INFO]: ChengXi123 joined the game
+[10:10:11] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:10:11] [Netty Epoll Server IO #7/INFO]: Player ChengXi123 joined with a matching carpet client
+[10:10:42] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:10:42] [Server thread/INFO]: ChengXi123 left the game
+[10:10:49] [Server thread/INFO]: <xiaojian520> 先自闭一会
+[10:12:10] [Server thread/INFO]: <xiaojian520> 这不能怪我呀
+[10:12:14] [Server thread/INFO]: <xiaojian520> 怪那鞘翅
+[10:12:50] [Server thread/INFO]: <xiaojian520> 刚刚我从很高飞下来，直接坠下来都不死，然后我又轻轻的坠再来死了
+[10:13:22] [Server thread/INFO]: <xiaojian520> hhhhc
+[10:13:44] [Server thread/INFO]: <xiaojian520> 刷怪塔有
+[10:14:04] [Server thread/INFO]: <xiaojian520> me too
+[10:20:23] [Server thread/INFO]: xiaojian520 was slain by Iron Golem
+[10:20:33] [Server thread/INFO]: <xiaojian520> az
+[10:29:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-278, y=63, z=323} class_2338{x=-278, y=62, z=321}
+[10:31:04] [Server thread/INFO]: <xiaojian520> 砍我？？
+[10:31:39] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[10:31:39] [Server thread/INFO]: xiaojian520 left the game
+[10:31:43] [Server thread/INFO]: xiaojian520[/127.0.0.1:39213] logged in with entity id 7316282 at (-51.84353156786948, 131.0526139666752, 94.1590834948446)
+[10:31:43] [Server thread/INFO]: xiaojian520 joined the game
+[10:31:43] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:31:44] [Netty Epoll Server IO #0/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[10:32:07] [Server thread/INFO]: <xiaojian520> 没，卡住了
+[10:32:14] [Server thread/INFO]: aka213[/127.0.0.1:38692] logged in with entity id 7316725 at (-416.5, 75.0, 483.5)
+[10:32:14] [Server thread/INFO]: aka213 joined the game
+[10:32:14] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:32:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-53, y=128, z=104} class_2338{x=-54, y=127, z=104}
+[10:32:18] [Netty Epoll Server IO #0/INFO]: Player aka213 joined with a matching carpet client
+[10:32:25] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[10:32:25] [Server thread/INFO]: xiaojian520 left the game
+[10:32:29] [Server thread/INFO]: xiaojian520[/127.0.0.1:51667] logged in with entity id 7317058 at (-52.69999998807907, 129.7507971670921, 104.59881797759249)
+[10:32:29] [Server thread/INFO]: xiaojian520 joined the game
+[10:32:29] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:32:29] [Netty Epoll Server IO #4/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[10:32:42] [Server thread/INFO]: <xiaojian520> 1
+[10:32:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10:32:59] [Server thread/INFO]: <aka213> 2
+[10:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[10:33:08] [Server thread/INFO]: <xiaojian520> 3
+[10:33:09] [Server thread/INFO]: <aka213> 你在哪
+[10:33:12] [Server thread/INFO]: ChengXi123[/127.0.0.1:55603] logged in with entity id 7318025 at (-56.42483478127182, 61.0, -29.339345947618824)
+[10:33:12] [Server thread/INFO]: ChengXi123 joined the game
+[10:33:12] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:33:12] [Netty Epoll Server IO #6/INFO]: Player ChengXi123 joined with a matching carpet client
+[10:33:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7318103, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[10:33:20] [Server thread/INFO]: <xiaojian520> 你猜
+[10:33:29] [Server thread/INFO]: <xiaojian520> 我又去偷火药了
+[10:33:41] [Server thread/INFO]: <aka213> 给我留点
+[10:33:58] [Server thread/INFO]: [ChengXi123: Non OP players can't control other real players]
+[10:34:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[10:35:13] [Server thread/INFO]: <ChengXi123> 没有床？
+[10:35:49] [Server thread/INFO]: aka213 was slain by xiaojian520
+[10:35:51] [Server thread/INFO]: <aka213> c
+[10:36:16] [Server thread/INFO]: <xiaojian520> 别打了
+[10:36:20] [Server thread/INFO]: <xiaojian520> 东西帮你拿
+[10:36:43] [Server thread/INFO]: <ChengXi123> 我试试伤害
+[10:37:10] [Server thread/INFO]: <xiaojian520> ??
+[10:37:58] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[10:37:58] [Server thread/INFO]: xiaojian520 left the game
+[10:38:29] [Server thread/INFO]: <aka213> 不要了？
+[10:38:38] [Server thread/INFO]: <ChengXi123> 送你了
+[10:38:45] [Server thread/INFO]: <aka213> 我的比你的厉害
+[10:39:01] [Server thread/INFO]: <ChengXi123> 我还有两把
+[10:39:16] [Server thread/INFO]: xiaojian520[/127.0.0.1:48094] logged in with entity id 7321110 at (-577.6999999880791, 75.0, 1082.1871047332024)
+[10:39:16] [Server thread/INFO]: xiaojian520 joined the game
+[10:39:16] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:39:22] [Netty Epoll Server IO #6/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[10:39:23] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:39:23] [Server thread/INFO]: ChengXi123 left the game
+[10:39:30] [Server thread/INFO]: <xiaojian520> 在这
+[10:41:08] [Server thread/INFO]: <xiaojian520> 你咋又合金套
+[10:41:19] [Server thread/INFO]: <aka213> 我20多个合金了
+[10:41:24] [Server thread/INFO]: <xiaojian520> 还有吗
+[10:41:36] [Server thread/INFO]: <xiaojian520> 给点呗
+[10:41:36] [Server thread/INFO]: <aka213> 你得换
+[10:41:43] [Server thread/INFO]: <xiaojian520> 咋换
+[10:41:53] [Server thread/INFO]: <aka213> 拿东西换被
+[10:42:01] [Server thread/INFO]: <xiaojian520> 半组钻石可以吗
+[10:42:16] [Server thread/INFO]: <aka213> 钻石我下一次矿1组半
+[10:42:22] [Server thread/INFO]: <aka213> 太多了
+[10:42:25] [Server thread/INFO]: <xiaojian520> az
+[10:42:37] [Server thread/INFO]: <xiaojian520> 就给我一个可以吧
+[10:42:51] [Server thread/INFO]: <aka213> 1个都老贵了
+[10:43:01] [Server thread/INFO]: <xiaojian520> 三叉戟要不
+[10:43:04] [Server thread/INFO]: <xiaojian520> 有
+[10:43:26] [Server thread/INFO]: <xiaojian520> 三叉戟总得给两个吧
+[10:43:28] [Server thread/INFO]: <aka213> ..
+[10:43:38] [Server thread/INFO]: <xiaojian520> 附魔的
+[10:43:39] [Server thread/INFO]: <aka213> 看附魔
+[10:43:46] [Server thread/INFO]: <aka213> 我有3把三叉戟
+[10:43:46] [Server thread/INFO]: <xiaojian520> 你等着
+[10:44:00] [Server thread/INFO]: <aka213> 好像是满配的了
+[10:44:56] [Server thread/INFO]: <xiaojian520> 1
+[10:45:08] [Server thread/INFO]: <aka213> 2
+[10:45:23] [Server thread/INFO]: <xiaojian520> 我的也是
+[10:45:28] [Server thread/INFO]: <aka213> 那就不要了
+[10:45:48] [Server thread/INFO]: <xiaojian520> 给一个嘛
+[10:46:21] [Server thread/INFO]: <aka213> 三个凋零骷髅头换1个
+[10:46:31] [Server thread/INFO]: <xiaojian520> 火药要吗
+[10:46:38] [Server thread/INFO]: <aka213> 算了不要骷髅头了
+[10:46:43] [Server thread/INFO]: <aka213> 我有了
+[10:46:51] [Server thread/INFO]: <xiaojian520> 给个嘛
+[10:47:22] [Server thread/INFO]: <xiaojian520> 给个嘛
+[10:47:23] [Server thread/INFO]: ChengXi123[/127.0.0.1:46935] logged in with entity id 7323648 at (-582.4830670532688, 201.0, 1184.237500011921)
+[10:47:23] [Server thread/INFO]: ChengXi123 joined the game
+[10:47:23] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:47:23] [Netty Epoll Server IO #1/INFO]: Player ChengXi123 joined with a matching carpet client
+[10:47:25] [Server thread/INFO]: <aka213> 自己挖呀
+[10:47:31] [Server thread/INFO]: <xiaojian520> 难挖
+[10:47:47] [Server thread/INFO]: <xiaojian520> 就给个嘛
+[10:47:50] [Server thread/INFO]: <aka213> ..
+[10:48:24] [Server thread/INFO]: <ChengXi123> 我先看看我有什么
+[10:48:56] [Server thread/INFO]: <xiaojian520> 我去帮你附魔个经验修补你要吗
+[10:49:09] [Server thread/INFO]: <aka213> 经验修补我不缺啊
+[10:49:10] [Server thread/INFO]: <ChengXi123> 5本锋利4，,8本经验修补
+[10:49:16] [Server thread/INFO]: <aka213> 我要了
+[10:49:19] [Server thread/INFO]: <aka213> 出多少
+[10:49:28] [Server thread/INFO]: <ChengXi123> 不卖
+[10:49:30] [Server thread/INFO]: <aka213> qwq
+[10:49:39] [Server thread/INFO]: <xiaojian520> 这东西我都没挖过
+[10:49:44] [Server thread/INFO]: <aka213> 锋利老难附魔了
+[10:49:52] [Server thread/INFO]: <ChengXi123> 我挖过，然后给别人了
+[10:49:55] [Server thread/INFO]: <xiaojian520> 你们看我啥皮肤
+[10:49:55] [Server thread/INFO]: <aka213> 做把神器得搞半天
+[10:50:15] [Server thread/INFO]: <aka213> 看看我的威力
+[10:50:19] [Server thread/INFO]: ChengXi123 was slain by aka213 using [开天辟地斧]
+[10:50:23] [Server thread/INFO]: <aka213> 6
+[10:50:25] [Server thread/INFO]: <xiaojian520> 66666
+[10:50:27] [Server thread/INFO]: <aka213> 2刀死
+[10:50:35] [Server thread/INFO]: <ChengXi123> 妈的，我打字呢
+[10:50:40] [Server thread/INFO]: <aka213> 哈哈哈哈
+[10:51:01] [Server thread/INFO]: <xiaojian520> 啥附魔吖，你这斧子
+[10:51:09] [Server thread/INFO]: <aka213> 看名字
+[10:51:18] [Server thread/INFO]: <aka213> 上面可以显示
+[10:51:33] [Server thread/INFO]: <ChengXi123> 我锋利4是村民交易的，那个村民早被人打死了
+[10:51:35] [Server thread/INFO]: ChengXi123 was slain by aka213 using [资本主义的神威]
+[10:51:38] [Server thread/INFO]: <aka213> ..
+[10:51:42] [Server thread/INFO]: <aka213> 打错了
+[10:51:54] [Server thread/INFO]: <aka213> 我要打天上的
+[10:52:59] [Server thread/INFO]: <aka213> 你可以开矿显挖
+[10:53:00] [Server thread/INFO]: <ChengXi123> 我好像没什么东西了
+[10:54:03] [Server thread/INFO]: <xiaojian520> 我发现我网络好好
+[10:54:06] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:54:06] [Server thread/INFO]: ChengXi123 left the game
+[10:54:10] [Server thread/INFO]: <aka213> 666
+[10:54:30] [Server thread/INFO]: ChengXi123[/127.0.0.1:34078] logged in with entity id 7324858 at (-574.9610165675656, 60.87773568741734, 1241.9420464850311)
+[10:54:30] [Server thread/INFO]: ChengXi123 joined the game
+[10:54:30] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:54:31] [Netty Epoll Server IO #6/INFO]: Player ChengXi123 joined with a matching carpet client
+[10:54:57] [Server thread/INFO]: <xiaojian520> 我去挖下届合金去了
+[10:55:07] [Server thread/INFO]: <aka213> 开矿显
+[10:55:35] [Server thread/INFO]: <xiaojian520> 你看矿透挖的？？
+[10:55:48] [Server thread/INFO]: <aka213> 我是太白带的然后其他是买的
+[10:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10:56:18] [Server thread/INFO]: <xiaojian520> 那种地方多
+[10:56:23] [Server thread/INFO]: <xiaojian520> 哪种
+[10:56:28] [Server thread/INFO]: <aka213> 如果没有上次大回档我应该40个了
+[10:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[10:56:51] [Server thread/INFO]: <xiaojian520> 我咋知道
+[10:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[10:57:05] [Server thread/INFO]: <ChengXi123> 还是隔壁服嫖合金好
+[10:57:10] [Server thread/INFO]: <aka213> 666
+[10:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5786ms or 115 ticks behind
+[10:57:43] [Server thread/INFO]: <aka213> chengxi来我家
+[10:57:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6308ms or 126 ticks behind
+[10:57:54] [Server thread/INFO]: <ChengXi123> 那些跟红石无关的服主不管
+[10:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7710ms or 154 ticks behind
+[10:58:13] [Server thread/INFO]: <aka213> 太白这个傻逼
+[10:58:28] [Server thread/INFO]: <xiaojian520> 这矿透咋这么卡呢
+[10:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[10:58:31] [Server thread/INFO]: <aka213> 在我家箱子里放了个你的剑就是我的剑
+[10:58:50] [Server thread/INFO]: <aka213> 矿透还好把
+[10:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6603ms or 132 ticks behind
+[10:58:56] [Server thread/INFO]: <aka213> chengxi
+[10:59:01] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[10:59:01] [Server thread/INFO]: ChengXi123 left the game
+[10:59:01] [Server thread/INFO]: <aka213> 快来我家
+[10:59:11] [Server thread/INFO]: <aka213> 我这里有一些好康的
+[10:59:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[10:59:19] [Server thread/INFO]: <aka213> md
+[10:59:30] [Server thread/INFO]: <aka213> ?
+[10:59:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4522ms or 90 ticks behind
+[10:59:38] [Server thread/INFO]: <aka213> 群文件
+[10:59:39] [Server thread/INFO]: ChengXi123[/127.0.0.1:48984] logged in with entity id 7327651 at (-315.9775621482121, 89.0, 650.1561641055288)
+[10:59:39] [Server thread/INFO]: ChengXi123 joined the game
+[10:59:39] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:59:39] [Netty Epoll Server IO #2/INFO]: Player ChengXi123 joined with a matching carpet client
+[10:59:44] [Server thread/INFO]: <aka213> xray
+[10:59:51] [Server thread/INFO]: <aka213> chengxi
+[10:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5459ms or 109 ticks behind
+[10:59:53] [Server thread/INFO]: <aka213> 快来
+[11:00:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6596ms or 131 ticks behind
+[11:00:26] [Server thread/INFO]: <aka213> 来我家你在干嘛
+[11:00:35] [Server thread/INFO]: <xiaojian520> 我的就是xray
+[11:00:36] [Server thread/INFO]: <xiaojian520> 卡
+[11:00:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7990ms or 159 ticks behind
+[11:00:43] [Server thread/INFO]: <aka213> 还好吧
+[11:00:44] [Server thread/INFO]: <ChengXi123> 哪个是你家?
+[11:00:49] [Server thread/INFO]: <aka213> 来别墅
+[11:00:52] [Server thread/INFO]: <xiaojian520> 掉帧
+[11:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6327ms or 126 ticks behind
+[11:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3868ms or 77 ticks behind
+[11:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3122ms or 62 ticks behind
+[11:01:51] [Server thread/INFO]: <aka213> 过来
+[11:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3515ms or 70 ticks behind
+[11:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4762ms or 95 ticks behind
+[11:02:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=66, z=52} class_2338{x=-52, y=67, z=40}
+[11:02:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=66, z=52} class_2338{x=-52, y=67, z=40}
+[11:02:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=66, z=52} class_2338{x=-52, y=67, z=40}
+[11:02:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=66, z=52} class_2338{x=-52, y=67, z=40}
+[11:02:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6426ms or 128 ticks behind
+[11:02:43] [Server thread/INFO]: <ChengXi123> 没开声音
+[11:02:47] [Server thread/INFO]: <aka213> c
+[11:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6945ms or 138 ticks behind
+[11:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7638ms or 152 ticks behind
+[11:03:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5237ms or 104 ticks behind
+[11:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
+[11:04:08] [Server thread/INFO]: <ChengXi123> 不玩了
+[11:04:16] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:04:16] [Server thread/INFO]: ChengXi123 left the game
+[11:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
+[11:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3413ms or 68 ticks behind
+[11:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
+[11:04:54] [Server thread/INFO]: <aka213> 你有多少火药xiaojian
+[11:05:08] [Server thread/INFO]: <xiaojian520> 大概6 7组
+[11:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3124ms or 62 ticks behind
+[11:05:24] [Server thread/INFO]: <aka213> 卖多少
+[11:05:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[11:05:32] [Server thread/INFO]: <xiaojian520> az
+[11:05:39] [Server thread/INFO]: <xiaojian520> 1个合金
+[11:05:42] [Server thread/INFO]: <aka213> ok
+[11:05:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
+[11:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
+[11:06:22] [Server thread/INFO]: <xiaojian520> 你要买吗
+[11:06:25] [Server thread/INFO]: <aka213> en
+[11:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
+[11:06:27] [Server thread/INFO]: <xiaojian520> o
+[11:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4291ms or 85 ticks behind
+[11:06:52] [Server thread/INFO]: <xiaojian520> 我在地狱交通
+[11:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
+[11:07:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5689ms or 113 ticks behind
+[11:07:29] [Server thread/INFO]: <xiaojian520> 等会哈
+[11:07:33] [Server thread/INFO]: <xiaojian520> 我去拿一下火药
+[11:08:33] [Server thread/INFO]: <xiaojian520> 我好像只有5组
+[11:08:37] [Server thread/INFO]: <aka213> 。。
+[11:08:41] [Server thread/INFO]: <aka213> s行吧
+[11:08:52] [Server thread/INFO]: <aka213> 那就不附赠碎片了
+[11:09:07] [Server thread/INFO]: <xiaojian520> 那如果赠，赠多少
+[11:09:10] [Server thread/INFO]: <xiaojian520> 美好
+[11:09:13] [Server thread/INFO]: <xiaojian520> 没好
+[11:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_11-09-14
+[11:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[11:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:09:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:09:18] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[11:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4711ms or 94 ticks behind
+[11:09:18] [Server thread/INFO]: <aka213> ?
+[11:09:22] [Server thread/INFO]: <aka213> 啊这
+[11:09:26] [Server thread/INFO]: <xiaojian520> ？？
+[11:09:29] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_19-09-14.zip
+[11:09:29] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[11:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11:09:45] [Server thread/INFO]: <xiaojian520> 你来地狱交通吧
+[11:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4515ms or 90 ticks behind
+[11:11:34] [Server thread/INFO]: <xiaojian520> 锻造台咋做
+[11:13:11] [Server thread/INFO]: <xiaojian520> aka
+[11:13:15] [Server thread/INFO]: <aka213> ?
+[11:13:27] [Server thread/INFO]: <xiaojian520> 你那个合金斧伤害多少
+[11:13:30] [Server thread/INFO]: <aka213> 13
+[11:13:33] [Server thread/INFO]: <xiaojian520> 6
+[11:13:38] [Server thread/INFO]: <aka213> 锋利5
+[11:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[11:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6095ms or 121 ticks behind
+[11:16:41] [Server thread/INFO]: <xiaojian520> aka
+[11:16:44] [Server thread/INFO]: <aka213> ?
+[11:16:44] [Server thread/INFO]: <xiaojian520> 还要火药吗
+[11:16:48] [Server thread/INFO]: <aka213> 补了
+[11:16:49] [Server thread/INFO]: <xiaojian520> 10组2个合金
+[11:16:59] [Server thread/INFO]: <aka213> nonono
+[11:17:10] [Server thread/INFO]: <xiaojian520> 我贼几把多
+[11:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5934ms or 118 ticks behind
+[11:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21978ms or 439 ticks behind
+[11:21:47] [Server thread/INFO]: <xiaojian520> 1
+[11:21:50] [Server thread/INFO]: <aka213> 2
+[11:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3965ms or 79 ticks behind
+[11:22:42] [Server thread/INFO]: <xiaojian520> 快一箱子火药了
+[11:23:22] [Server thread/INFO]: <xiaojian520> 你们加了皮肤mod吗
+[11:25:04] [Server thread/INFO]: <xiaojian520> 别睡觉啊
+[11:25:08] [Server thread/INFO]: <aka213> ..
+[11:25:32] [Server thread/INFO]: <xiaojian520> 这火药太多了
+[11:25:38] [Server thread/INFO]: <aka213> 你在哪
+[11:25:51] [Server thread/INFO]: <xiaojian520> 刷怪塔
+[11:25:54] [Server thread/INFO]: <aka213> ..
+[11:26:41] [Server thread/INFO]: aka213 lost connection: Disconnected
+[11:26:41] [Server thread/INFO]: aka213 left the game
+[11:26:42] [Server thread/INFO]: <xiaojian520> ...
+[11:30:06] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[11:30:06] [Server thread/INFO]: xiaojian520 left the game
+[11:30:43] [Server thread/INFO]: xiaojian520[/127.0.0.1:48985] logged in with entity id 7348819 at (-52.219804981085694, 131.1446423980946, 101.29030399995156)
+[11:30:43] [Server thread/INFO]: xiaojian520 joined the game
+[11:30:43] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:30:43] [Netty Epoll Server IO #6/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[11:36:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-57, y=51, z=51} class_2338{x=-58, y=49, z=51}
+[11:36:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-57, y=51, z=51} class_2338{x=-58, y=49, z=51}
+[11:38:51] [Server thread/INFO]: xiaojian520 has made the advancement [Hidden in the Depths]
+[11:38:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-81, y=13, z=5} class_2338{x=-81, y=16, z=5}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:41:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-80, y=12, z=-61} class_2338{x=-82, y=13, z=-60}
+[11:49:13] [Server thread/INFO]: <xiaojian520> 挖了11个残害了
+[11:50:00] [Server thread/INFO]: xiaojian520 has completed the challenge [Return to Sender]
+[11:50:21] [Server thread/INFO]: <xiaojian520> wc
+[11:50:24] [Server thread/INFO]: <xiaojian520> 谁换的
+[11:50:43] [Server thread/INFO]: <xiaojian520> 你现在有多少个定
+[11:51:06] [Server thread/INFO]: <xiaojian520> 6
+[11:51:21] [Server thread/INFO]: <xiaojian520> 挖了残骸是要烧吗
+[11:52:30] [Server thread/INFO]: <xiaojian520> 群里
+[11:53:24] [Server thread/INFO]: <xiaojian520> o
+[11:53:49] [Server thread/INFO]: <xiaojian520> 然后弄出来的碎片要干嘛
+[11:54:23] [Server thread/INFO]: aka213[/127.0.0.1:52493] logged in with entity id 7356670 at (-571.4550960428978, 69.0, 374.7585522198878)
+[11:54:23] [Server thread/INFO]: aka213 joined the game
+[11:54:23] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:54:25] [Netty Epoll Server IO #3/INFO]: Player aka213 joined with a matching carpet client
+[11:55:01] [Server thread/INFO]: <xiaojian520> 3块了
+[11:55:05] [Server thread/INFO]: <aka213> 666
+[11:55:07] [Server thread/INFO]: XxiaoyunX[/127.0.0.1:50836] logged in with entity id 7357123 at (177.25769624245993, 33.875, 312.09514140762565)
+[11:55:07] [Server thread/INFO]: XxiaoyunX joined the game
+[11:55:07] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:55:08] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:55:32] [Server thread/INFO]: <aka213> 你想上死亡榜吗
+[11:55:34] [Server thread/INFO]: <aka213> 我带你
+[11:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11:55:40] [Server thread/INFO]: <xiaojian520> aka
+[11:55:42] [Server thread/INFO]: <xiaojian520> 带带他吧
+[11:55:43] [Server thread/INFO]: <aka213> ?
+[11:55:44] [Server thread/INFO]: <aka213> ok
+[11:55:45] [Server thread/INFO]: <XxiaoyunX> 我在炸残骸
+[11:55:54] [Server thread/INFO]: <XxiaoyunX> 我比你们更NB
+[11:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[11:56:05] [Server thread/INFO]: <aka213> 我们都是开透视的
+[11:56:07] [Server thread/INFO]: <xiaojian520> aka
+[11:56:09] [Server thread/INFO]: <aka213> 谁还炸啊
+[11:56:11] [Server thread/INFO]: <XxiaoyunX> WTF？
+[11:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[11:56:15] [Server thread/INFO]: <xiaojian520> aka
+[11:56:18] [Server thread/INFO]: <aka213> ?
+[11:56:20] [Server thread/INFO]: <xiaojian520> 你的头盔卖吗
+[11:56:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7358064, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[11:56:30] [Server thread/INFO]: <aka213> 我没有头盔
+[11:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[11:56:36] [Server thread/INFO]: <xiaojian520> az
+[11:56:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7358271, l='ServerLevel[world]', x=-367.30, y=74.26, z=478.50]
+[11:56:39] [Server thread/INFO]: <XxiaoyunX> no
+[11:56:41] [Server thread/INFO]: <aka213> 我一般都是苦力怕
+[11:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3444ms or 68 ticks behind
+[11:57:00] [Server thread/INFO]: XxiaoyunX was killed by [Intentional Game Design]
+[11:57:04] [Server thread/INFO]: <aka213> 哈哈哈哈
+[11:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11:57:20] [Server thread/INFO]: <XxiaoyunX> 旧的不去，新的不来
+[11:57:25] [Server thread/INFO]: <aka213> 6666
+[11:57:39] [Server thread/INFO]: <XxiaoyunX> 我有巨额资产
+[11:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[11:57:43] [Server thread/INFO]: <aka213> 什么
+[11:57:47] [Server thread/INFO]: <aka213> 我来换
+[11:57:49] [Server thread/INFO]: <XxiaoyunX> 嘿嘿
+[11:57:58] [Server thread/INFO]: <xiaojian520> 差不多一箱子火药换你两个合金可以吗
+[11:58:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11:58:07] [Server thread/INFO]: <aka213> 不要
+[11:58:10] [Server thread/INFO]: <xiaojian520> 要嘛
+[11:58:18] [Server thread/INFO]: <XxiaoyunX> 我是1.15.2时代的人。。。
+[11:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[11:58:19] [Server thread/INFO]: <aka213> no
+[11:58:34] [Server thread/INFO]: <aka213> 你在哪
+[11:58:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4497ms or 89 ticks behind
+[11:58:40] [Server thread/INFO]: <XxiaoyunX> 合金我没有
+[11:58:45] [Server thread/INFO]: <aka213> 发个/here
+[11:58:48] [Server thread/INFO]: <aka213> 我来找你
+[11:58:54] [Server thread/INFO]: <aka213> 合金我很多了
+[11:58:56] [Server thread/INFO]: <XxiaoyunX> 不用
+[11:58:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[11:58:57] [Server thread/INFO]: <aka213> 我看看你有啥
+[11:59:12] [Server thread/INFO]: <xiaojian520> aka
+[11:59:16] [Server thread/INFO]: <aka213> ?
+[11:59:22] [Server thread/INFO]: <xiaojian520> 5组火药换你3个碎片可以吗
+[11:59:23] [Server thread/INFO]: <xiaojian520> qwq
+[11:59:31] [Server thread/INFO]: <aka213> nonono
+[11:59:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7361711, l='ServerLevel[world]', x=-303.16, y=70.00, z=362.45]
+[11:59:57] [Server thread/INFO]: <xiaojian520> 我一开始以为9个碎片合一个合金
+[12:00:00] [Server thread/INFO]: <aka213> ...
+[12:00:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[12:00:08] [Server thread/INFO]: <XxiaoyunX> 我是个上个时代的老古董。。。
+[12:00:13] [Server thread/INFO]: <aka213> 666
+[12:00:16] [Server thread/INFO]: <XxiaoyunX> 害。。。
+[12:00:17] [Server thread/INFO]: <aka213> 所以你人呢
+[12:00:48] [Server thread/INFO]: aka213 fell from a high place
+[12:00:50] [Server thread/INFO]: <aka213> c
+[12:00:59] [Server thread/INFO]: <aka213> 收尸
+[12:01:11] [Server thread/INFO]: <xiaojian520> 死习惯了就好
+[12:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:01:46] [Server thread/INFO]: <XxiaoyunX> 飞回家
+[12:01:52] [Server thread/INFO]: <aka213> 东西还我
+[12:02:05] [Server thread/INFO]: <aka213> ??
+[12:02:09] [Server thread/INFO]: <aka213> 你什么意思
+[12:02:10] [Server thread/INFO]: <XxiaoyunX> ?
+[12:02:19] [Server thread/INFO]: <aka213> 我东西拿了就走？
+[12:02:22] [Server thread/INFO]: <XxiaoyunX> ？？？？
+[12:02:29] [Server thread/INFO]: <XxiaoyunX> 那是你的啊
+[12:02:40] [Server thread/INFO]: <XxiaoyunX> c
+[12:02:41] [Server thread/INFO]: <aka213> 你刚刚没看见我下来吗
+[12:02:44] [Server thread/INFO]: <XxiaoyunX> 没看见
+[12:02:48] [Server thread/INFO]: <aka213> ..
+[12:02:50] [Server thread/INFO]: <XxiaoyunX> 你等会
+[12:03:17] [Server thread/INFO]: <xiaojian520> 吃饭去了
+[12:03:25] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[12:03:25] [Server thread/INFO]: xiaojian520 left the game
+[12:03:53] [Server thread/INFO]: <aka213> 好的谢谢
+[12:04:09] [Server thread/INFO]: <aka213> 如果我是你
+[12:04:17] [Server thread/INFO]: <aka213> 我就抢走跑路
+[12:04:18] [Server thread/INFO]: <XxiaoyunX> 杀了我
+[12:04:22] [Server thread/INFO]: XxiaoyunX was slain by aka213 using [资本主义的神威]
+[12:04:56] [Server thread/INFO]: <aka213> 人呢
+[12:05:08] [Server thread/INFO]: <XxiaoyunX> 我在找回家的路
+[12:05:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[12:05:14] [Server thread/INFO]: <aka213> 我带你
+[12:05:20] [Server thread/INFO]: <aka213> 你家在哪
+[12:05:27] [Server thread/INFO]: <XxiaoyunX> 一个大型火柴盒
+[12:05:30] [Server thread/INFO]: <aka213> ..
+[12:05:34] [Server thread/INFO]: <aka213> 没见过
+[12:05:42] [Server thread/INFO]: <XxiaoyunX> 在H2O的庄园旁边
+[12:05:47] [Server thread/INFO]: <aka213> ?
+[12:05:52] [Server thread/INFO]: <aka213> 都没去过
+[12:05:52] [Server thread/INFO]: <XxiaoyunX> 你不知道
+[12:06:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[12:06:05] [Server thread/INFO]: <XxiaoyunX> 那是1.15.2的事了
+[12:06:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2751ms or 55 ticks behind
+[12:06:23] [Server thread/INFO]: <aka213> 我回老家看看
+[12:07:17] [Server thread/INFO]: <XxiaoyunX> 往日不在。。。chengxi的房子，，好怀念
+[12:07:30] [Server thread/INFO]: <aka213> 他还有房子？
+[12:07:34] [Server thread/INFO]: <XxiaoyunX> 有
+[12:07:37] [Server thread/INFO]: <aka213> 那里
+[12:07:40] [Server thread/INFO]: <aka213> 我去看看
+[12:07:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7369515, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[12:08:03] [Server thread/INFO]: <XxiaoyunX> 这里
+[12:08:29] [Server thread/INFO]: <aka213> ..
+[12:08:53] [Server thread/INFO]: <XxiaoyunX> 我到家了
+[12:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_12-09-14
+[12:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[12:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:09:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:09:17] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[12:09:17] [Server thread/INFO]: <aka213> 这玩意。。。
+[12:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[12:09:28] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_20-09-14.zip
+[12:09:28] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[12:09:34] [Server thread/INFO]: <XxiaoyunX> ????
+[12:09:39] [Server thread/INFO]: <aka213> 都在城墙外了
+[12:09:45] [Server thread/INFO]: <XxiaoyunX> 好东西都被抢走了。。。
+[12:09:49] [Server thread/INFO]: <aka213> ?
+[12:09:56] [Server thread/INFO]: <aka213> 什么好东西
+[12:10:07] [Server thread/INFO]: <XxiaoyunX> 蓝冰，钻石，绿宝石
+[12:10:18] [Server thread/INFO]: <aka213> 都不值钱了
+[12:10:30] [Server thread/INFO]: <aka213> 钻石我下矿1次1组半
+[12:10:35] [Server thread/INFO]: <XxiaoyunX> 块
+[12:10:38] [Server thread/INFO]: <aka213> 绿宝石可以用铁换
+[12:10:57] [Server thread/INFO]: <aka213> 块也不值钱了啊
+[12:11:01] [Server thread/INFO]: <XxiaoyunX> 我的家啊
+[12:11:08] [Server thread/INFO]: <aka213> 现在没啥值钱得了
+[12:11:23] [Server thread/INFO]: <aka213> 这是炸的吧
+[12:12:50] [Server thread/INFO]: <XxiaoyunX> 我是第一个吃上附魔金苹果的人。。。
+[12:12:54] [Server thread/INFO]: <aka213> 666
+[12:13:06] [Server thread/INFO]: <aka213> 现在这东西一盒一盒地摆着
+[12:13:13] [Server thread/INFO]: <XxiaoyunX> cola刚弄来就给了我。。。
+[12:13:18] [Server thread/INFO]: <aka213> 6666
+[12:14:49] [Server thread/INFO]: <aka213> 蓝冰是干嘛的
+[12:15:00] [Server thread/INFO]: <XxiaoyunX> 造地狱交通
+[12:15:07] [Server thread/INFO]: <aka213> ..
+[12:16:16] [Server thread/INFO]: <aka213> ..
+[12:16:28] [Server thread/INFO]: <aka213> 你要不新造个家吧
+[12:16:32] [Server thread/INFO]: <XxiaoyunX> 不
+[12:16:53] [Server thread/INFO]: <aka213> 你铁路都连不上啊
+[12:17:07] [Server thread/INFO]: <XxiaoyunX> 我原来也连不上
+[12:17:14] [Server thread/INFO]: <aka213> ...
+[12:18:03] [Server thread/INFO]: <XxiaoyunX> 以前我这里很热闹的。。。
+[12:18:48] [Server thread/INFO]: <aka213> 现在服务器都没啥人
+[12:18:57] [Server thread/INFO]: <XxiaoyunX> chengxi。。。
+[12:20:05] [Server thread/INFO]: <XxiaoyunX> 原来的物资点呢
+[12:20:13] [Server thread/INFO]: <aka213> ?
+[12:20:18] [Server thread/INFO]: <aka213> 有这个东西吗
+[12:20:30] [Server thread/INFO]: <aka213> 应该是这个吧
+[12:20:31] [Server thread/INFO]: <XxiaoyunX> 就是现在的喷泉
+[12:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12:22:29] [Server thread/INFO]: <XxiaoyunX> 我的蘑菇屋。。。、
+[12:22:32] [Server thread/INFO]: <aka213> ?
+[12:22:52] [Server thread/INFO]: <aka213> 啊这
+[12:23:27] [Server thread/INFO]: <XxiaoyunX> 后来归我了
+[12:23:51] [Server thread/INFO]: <aka213> 这里没啥东西
+[12:24:00] [Server thread/INFO]: <aka213> ,,
+[12:24:03] [Server thread/INFO]: <aka213> 给你烟花
+[12:24:07] [Server thread/INFO]: <aka213> 你干嘛
+[12:24:11] [Server thread/INFO]: <XxiaoyunX> 飞
+[12:24:35] [Server thread/INFO]: <aka213> 这是
+[12:24:46] [Server thread/INFO]: <aka213> na的飞机
+[12:24:59] [Server thread/INFO]: <XxiaoyunX> Nan_Yang?
+[12:25:03] [Server thread/INFO]: <aka213> 不是
+[12:25:05] [Server thread/INFO]: <XxiaoyunX> 没听说过
+[12:25:23] [Server thread/INFO]: <aka213> na2hco3_CN
+[12:25:27] [Server thread/INFO]: <XxiaoyunX> o
+[12:26:18] [Server thread/INFO]: <XxiaoyunX> 我已经不适合玩这个服务器了
+[12:26:27] [Server thread/INFO]: <aka213> ...
+[12:26:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7377277, l='ServerLevel[world]', x=-302.85, y=73.63, z=362.14]
+[12:26:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7377289, l='ServerLevel[world]', x=-302.44, y=73.67, z=362.13]
+[12:27:00] [Server thread/INFO]: <XxiaoyunX> 要开学了
+[12:27:49] [Server thread/INFO]: <XxiaoyunX> 周末我爸妈在家
+[12:28:11] [Server thread/INFO]: <XxiaoyunX> 没有
+[12:28:45] [Server thread/INFO]: <aka213> 6
+[12:28:53] [Server thread/INFO]: <aka213> 溜了
+[12:28:54] [Server thread/INFO]: aka213 lost connection: Disconnected
+[12:28:54] [Server thread/INFO]: aka213 left the game
+[12:29:46] [Server thread/INFO]: xiaojian520[/127.0.0.1:42387] logged in with entity id 7380345 at (-139.58142750679013, 77.0, 442.90014979358574)
+[12:29:46] [Server thread/INFO]: xiaojian520 joined the game
+[12:29:46] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:30:01] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[12:30:01] [Server thread/INFO]: xiaojian520 left the game
+[12:30:14] [Server thread/INFO]: xiaojian520[/127.0.0.1:45875] logged in with entity id 7380423 at (-139.58142750679013, 77.0, 442.90014979358574)
+[12:30:14] [Server thread/INFO]: xiaojian520 joined the game
+[12:30:14] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:30:16] [Server thread/INFO]: <XxiaoyunX> 传奇落幕了
+[12:30:25] [Server thread/INFO]: <XxiaoyunX> 我该退坑了
+[12:30:29] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[12:30:29] [Server thread/INFO]: xiaojian520 left the game
+[12:30:44] [Server thread/INFO]: xiaojian520[/127.0.0.1:36576] logged in with entity id 7380660 at (-139.58142750679013, 77.0, 442.90014979358574)
+[12:30:44] [Server thread/INFO]: xiaojian520 joined the game
+[12:30:44] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:30:58] [Netty Epoll Server IO #7/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[12:31:58] [Server thread/INFO]: <XxiaoyunX> Aod cola,都不知道去哪里了
+[12:32:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7379216, l='ServerLevel[world]', x=-302.37, y=70.03, z=362.88]
+[12:32:25] [Server thread/INFO]: Villager class_1646['Farmer'/7378618, l='ServerLevel[world]', x=-401.70, y=68.94, z=438.50] died, message: 'Farmer was slain by Zombie'
+[12:33:53] [Server thread/INFO]: <XxiaoyunX> 我有龙蛋qwq
+[12:34:30] [Server thread/INFO]: <xiaojian520> 龙蛋不值钱
+[12:34:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[12:34:47] [Server thread/INFO]: <XxiaoyunX> 名字的颜色代表什么
+[12:35:16] [Server thread/INFO]: <XxiaoyunX> ?
+[12:37:06] [Server thread/INFO]: XxiaoyunX lost connection: Disconnected
+[12:37:06] [Server thread/INFO]: XxiaoyunX left the game
+[12:51:26] [Server thread/INFO]: <xiaojian520> aka
+[12:51:33] [Server thread/INFO]: <xiaojian520> @qkq
+[12:51:36] [Server thread/INFO]: <xiaojian520> @aka
+[12:51:57] [Server thread/INFO]: <xiaojian520> 你的斧子啥附魔
+[12:51:59] [Server thread/INFO]: <xiaojian520> 全部告诉我吧
+[12:52:04] [Server thread/INFO]: <xiaojian520> 我也来一把
+[12:52:33] [Server thread/INFO]: <xiaojian520> 然后呢
+[12:53:32] [Server thread/INFO]: <xiaojian520> o
+[12:53:49] [Server thread/INFO]: <xiaojian520> o
+[12:53:52] [Server thread/INFO]: <xiaojian520> 我先不弄
+[12:56:23] [Server thread/INFO]: <xiaojian520> 头盔可以附魔什么
+[12:59:00] [Server thread/INFO]: <xiaojian520> 水下呼吸有吗
+[12:59:04] [Server thread/INFO]: <xiaojian520> 谁有附魔书
+[12:59:25] [Server thread/INFO]: <xiaojian520> 没把
+[13:00:09] [Server thread/INFO]: <xiaojian520> 你们觉得我的大宝剑叫啥名字好
+[13:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_13-09-14
+[13:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[13:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[13:09:25] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_21-09-14.zip
+[13:09:25] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[13:13:37] [Server thread/INFO]: <xiaojian520> 有人还要火药吗
+[13:26:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7404354, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[13:27:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7404435, l='ServerLevel[world]', x=-367.30, y=74.26, z=478.50]
+[13:27:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7404454, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[13:29:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-363, y=12, z=496} class_2338{x=-363, y=12, z=495}
+[13:38:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7407392, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[13:43:22] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[13:43:22] [Server thread/INFO]: xiaojian520 left the game
+[13:43:22] [Server thread/WARN]: handleDisconnection() called twice
+[13:43:55] [Server thread/INFO]: xiaojian520[/127.0.0.1:48577] logged in with entity id 7410079 at (100.5, 49.0, 0.5)
+[13:43:55] [Server thread/INFO]: xiaojian520 joined the game
+[13:43:55] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:43:55] [Netty Epoll Server IO #7/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[13:49:17] [Server thread/INFO]: <xiaojian520> 66
+[13:49:19] [Server thread/INFO]: <xiaojian520> 66
+[13:49:19] [Server thread/INFO]: <xiaojian520> 66
+[14:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_14-09-14
+[14:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[14:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[14:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_22-09-14.zip
+[14:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[14:16:06] [Server thread/INFO]: <xiaojian520> 史莱姆农场弄了没
+[14:19:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7422607, l='ServerLevel[world]', x=-587.57, y=73.00, z=1180.43]
+[14:34:26] [Server thread/INFO]: <xiaojian520> 我调了
+[14:34:58] [Server thread/INFO]: <xiaojian520> en
+[14:46:59] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[14:46:59] [Server thread/INFO]: xiaojian520 left the game
+[15:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_15-09-14
+[15:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[15:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[15:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_23-09-14.zip
+[15:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[15:33:38] [Server thread/INFO]: xiaojian520[/127.0.0.1:47952] logged in with entity id 7440410 at (-374.9622679932636, 69.0, 511.62239145589183)
+[15:33:38] [Server thread/INFO]: xiaojian520 joined the game
+[15:33:38] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:33:41] [Netty Epoll Server IO #3/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[15:57:51] [Server thread/INFO]: <xiaojian520> 为啥
+[15:58:26] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[15:58:26] [Server thread/INFO]: xiaojian520 left the game
+[15:59:15] [Server thread/INFO]: xiaojian520[/127.0.0.1:39274] logged in with entity id 7447668 at (-168.93032240935287, 109.0, -27.520866121741232)
+[15:59:15] [Server thread/INFO]: xiaojian520 joined the game
+[15:59:15] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:59:16] [Netty Epoll Server IO #1/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[15:59:58] [Server thread/INFO]: <xiaojian520> aka
+[16:00:01] [Server thread/INFO]: <xiaojian520> 你也来做机器呀
+[16:00:34] [Server thread/INFO]: <xiaojian520> 那来呀
+[16:06:46] [Server thread/INFO]: aka213[/127.0.0.1:57429] logged in with entity id 7449437 at (-421.2866225231341, 78.5, 485.2727659959957)
+[16:06:46] [Server thread/INFO]: aka213 joined the game
+[16:06:46] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:06:49] [Netty Epoll Server IO #3/INFO]: Player aka213 joined with a matching carpet client
+[16:06:50] [Server thread/INFO]: <xiaojian520> 2
+[16:06:53] [Server thread/INFO]: <xiaojian520> hi
+[16:07:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7450191, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.49]
+[16:07:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7450210, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[16:07:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7450218, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[16:08:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7450450, l='ServerLevel[world]', x=-401.70, y=70.26, z=480.50]
+[16:08:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7450467, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[16:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-24_16-09-14
+[16:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[16:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:09:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:09:16] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[16:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[16:09:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7450934, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[16:09:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7450947, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[16:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-24_00-09-14.zip
+[16:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[16:09:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7451000, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[16:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:13:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:17:04] [Server thread/INFO]: wuhao[/127.0.0.1:57266] logged in with entity id 7456770 at (-1899.4744075769145, 72.0, 480.5450549618241)
+[16:17:04] [Server thread/INFO]: wuhao joined the game
+[16:17:04] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:17:06] [Netty Epoll Server IO #3/WARN]: Player wuhao joined with another carpet version: 1.4.8+v200811
+[16:17:14] [Server thread/INFO]: <xiaojian520> hi
+[16:18:14] [Server thread/INFO]: <xiaojian520> hi
+[16:18:17] [Server thread/INFO]: <xiaojian520> 你的皮肤好nb
+[16:18:33] [Server thread/INFO]: <xiaojian520> 小本
+[16:18:39] [Server thread/INFO]: <wuhao> az
+[16:18:56] [Server thread/INFO]: <aka213> 小本三人组拍视频饿了
+[16:19:01] [Server thread/INFO]: <wuhao> 我用皮肤站上来的bug
+[16:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3687ms or 73 ticks behind
+[16:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4901ms or 98 ticks behind
+[16:19:59] [Server thread/INFO]: <wuhao> 如果我要回档找谁
+[16:20:42] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[16:20:42] [Server thread/INFO]: xiaojian520 left the game
+[16:20:42] [Server thread/INFO]: aka213 lost connection: Timed out
+[16:20:42] [Server thread/INFO]: aka213 left the game
+[16:20:42] [Server thread/INFO]: wuhao lost connection: Disconnected
+[16:20:42] [Server thread/INFO]: wuhao left the game
+[16:20:43] [Server thread/INFO]: xiaojian520[/127.0.0.1:57349] logged in with entity id 7459400 at (1360.9114320937417, 31.00133597911215, 1407.7482110565625)
+[16:20:43] [Server thread/INFO]: xiaojian520 joined the game
+[16:20:44] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:20:44] [Server thread/INFO]: wuhao[/127.0.0.1:40033] logged in with entity id 7459401 at (-2124.7338072669268, 67.02442408821369, -1290.1074155920774)
+[16:20:44] [Server thread/INFO]: wuhao joined the game
+[16:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38123ms or 762 ticks behind
+[16:20:45] [Server thread/INFO]: wuhao lost connection: Disconnected
+[16:20:45] [Server thread/INFO]: wuhao left the game
+[16:20:48] [Server thread/INFO]: wuhao[/127.0.0.1:58455] logged in with entity id 7459468 at (-2124.7338072669268, 67.02442408821369, -1290.1074155920774)
+[16:20:48] [Server thread/INFO]: wuhao joined the game
+[16:20:48] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:20:49] [Netty Epoll Server IO #5/WARN]: Player wuhao joined with another carpet version: 1.4.8+v200811
+[16:20:57] [Netty Epoll Server IO #3/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[16:25:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 217430ms or 4348 ticks behind
+[16:25:43] [Server Watchdog/FATAL]: A single server tick took 217.43 seconds (should be max 0.05)
+[16:25:43] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[16:26:04] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[16:26:04] [Server thread/INFO]: xiaojian520 left the game
+[16:26:04] [Server Watchdog/ERROR]: This crash report has been saved to: /srv/skimit_survival/./crash-reports/crash-2020-08-24_16.26.04-server.txt
+[16:26:05] [Server thread/INFO]: wuhao lost connection: Disconnected
+[16:26:05] [Server thread/INFO]: wuhao left the game
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@664b1f00[id=<null>,name=xiaojian520,properties={},legacy=false] (/127.0.0.1:45417) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@1f9fb531[id=<null>,name=wuhao,properties={},legacy=false] (/127.0.0.1:34397) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@40cc39e5[id=<null>,name=aka213,properties={},legacy=false] (/127.0.0.1:39569) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@6dba1dc9[id=<null>,name=xiaojian520,properties={},legacy=false] (/127.0.0.1:56776) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@53b7bc61[id=<null>,name=wuhao,properties={},legacy=false] (/127.0.0.1:39971) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@3163ad1b[id=<null>,name=aka213,properties={},legacy=false] (/127.0.0.1:40503) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@1041b9c3[id=<null>,name=xiaojian520,properties={},legacy=false] (/127.0.0.1:40925) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@2da8ba57[id=<null>,name=aka213,properties={},legacy=false] (/127.0.0.1:49322) lost connection: Disconnected
+[16:26:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@43924f37[id=<null>,name=xiaojian520,properties={},legacy=false] (/127.0.0.1:33002) lost connection: Disconnected
+[16:26:07] [Server thread/INFO]: xiaojian520[/127.0.0.1:44415] logged in with entity id 7463638 at (-159.72277331563765, 109.0, -32.78064946937944)
+[16:26:07] [Server thread/INFO]: xiaojian520 joined the game
+[16:26:07] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:26:07] [Server thread/INFO]: Stopping server
+[16:26:08] [Server thread/INFO]: Saving players
+[16:26:08] [Server thread/INFO]: Saving worlds
+[16:26:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:26:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:26:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:26:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end

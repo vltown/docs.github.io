@@ -1,0 +1,95 @@
+[00:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-10_00-14-08
+[00:14:08] [Server thread/INFO]: Saving server...
+[00:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:14:10] [pool-3-thread-1/INFO]: Starting backup
+[00:14:10] [pool-3-thread-1/INFO]: Starting compression...
+[00:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[00:14:14] [pool-3-thread-1/INFO]: Compression took: 04.041 seconds.
+[00:14:14] [pool-3-thread-1/INFO]: Done!
+[00:16:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/149317, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[00:16:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/149368, l='ServerLevel[world]', x=-401.70, y=70.26, z=440.50]
+[00:16:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/149423, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[00:21:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/150566, l='ServerLevel[world]', x=-367.30, y=74.26, z=460.50]
+[00:29:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/153736, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[00:32:35] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[00:32:35] [Server thread/INFO]: na2hco3_CN left the game
+[00:32:47] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:60545] logged in with entity id 154637 at (-364.5975876696203, 70.0, 518.3059597931577)
+[00:32:47] [Server thread/INFO]: na2hco3_CN joined the game
+[00:32:47] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:33:03] [Server thread/INFO]: Tudou lost connection: Killed
+[00:33:03] [Server thread/INFO]: Tudou left the game
+[00:33:13] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[00:33:13] [Server thread/INFO]: na2hco3_CN left the game
+[01:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-10_01-14-08
+[01:14:08] [Server thread/INFO]: Saving server...
+[01:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:14:08] [pool-3-thread-1/INFO]: Starting backup
+[01:14:08] [pool-3-thread-1/INFO]: Starting compression...
+[01:14:12] [pool-3-thread-1/INFO]: Compression took: 03.856 seconds.
+[01:14:12] [pool-3-thread-1/INFO]: Done!
+[02:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-10_02-14-08
+[02:14:08] [Server thread/INFO]: Saving server...
+[02:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:14:08] [pool-3-thread-1/INFO]: Starting backup
+[02:14:08] [pool-3-thread-1/INFO]: Starting compression...
+[02:14:12] [pool-3-thread-1/INFO]: Compression took: 03.802 seconds.
+[02:14:12] [pool-3-thread-1/INFO]: Done!
+[03:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-10_03-14-08
+[03:14:08] [Server thread/INFO]: Saving server...
+[03:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:14:08] [pool-3-thread-1/INFO]: Starting backup
+[03:14:08] [pool-3-thread-1/INFO]: Starting compression...
+[03:14:11] [pool-3-thread-1/INFO]: Compression took: 03.702 seconds.
+[03:14:11] [pool-3-thread-1/INFO]: Done!
+[04:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-10_04-14-08
+[04:14:08] [Server thread/INFO]: Saving server...
+[04:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:14:08] [pool-3-thread-1/INFO]: Starting backup
+[04:14:08] [pool-3-thread-1/INFO]: Starting compression...
+[04:14:12] [pool-3-thread-1/INFO]: Compression took: 03.991 seconds.
+[04:14:12] [pool-3-thread-1/INFO]: Done!
+[05:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-10_05-14-08
+[05:14:08] [Server thread/INFO]: Saving server...
+[05:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:14:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:14:08] [pool-3-thread-1/INFO]: Starting backup
+[05:14:08] [pool-3-thread-1/INFO]: Starting compression...
+[05:14:11] [pool-3-thread-1/INFO]: Compression took: 03.706 seconds.
+[05:14:11] [pool-3-thread-1/INFO]: Deleting: 2020-08-09_16-01-04.zip
+[05:14:11] [pool-3-thread-1/INFO]: Done!
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: alert 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Backup started by: Server Shutdown on: 2020-08-10_05-30-01
+[05:30:01] [pool-3-thread-1/INFO]: Starting backup
+[05:30:01] [pool-3-thread-1/INFO]: Starting compression...
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:03] [Server thread/INFO]: Thread RCON Listener stopped
+[05:30:04] [pool-3-thread-1/INFO]: Compression took: 03.413 seconds.
+[05:30:04] [pool-3-thread-1/INFO]: Done!

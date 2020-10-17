@@ -1,0 +1,800 @@
+[00:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:02:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19482088, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.02]
+[00:03:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19482137, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.53]
+[00:05:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19482356, l='ServerLevel[world]', x=-88.43, y=7.00, z=278.05]
+[00:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:16:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19483557, l='ServerLevel[world]', x=-89.95, y=7.12, z=280.27]
+[00:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:21:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19484141, l='ServerLevel[world]', x=-87.09, y=7.00, z=281.98]
+[00:28:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19484900, l='ServerLevel[world]', x=-88.11, y=7.00, z=281.95]
+[00:29:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19484951, l='ServerLevel[world]', x=-88.11, y=7.12, z=281.95]
+[00:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_01-10-00
+[01:10:00] [Server thread/INFO]: Saving server...
+[01:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:10:00] [pool-3-thread-1/INFO]: Starting backup
+[01:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[01:10:03] [pool-3-thread-1/INFO]: Compression took: 02.867 seconds.
+[01:10:03] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_14-50-00.zip
+[01:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_14-50-00.zip
+[01:10:03] [pool-3-thread-1/INFO]: Done!
+[01:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[01:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:21:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19490313, l='ServerLevel[world]', x=-87.93, y=7.00, z=278.05]
+[01:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:44:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19492995, l='ServerLevel[world]', x=-87.29, y=7.00, z=281.95]
+[01:47:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19493373, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.81]
+[01:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:52:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19493879, l='ServerLevel[world]', x=-87.96, y=7.12, z=281.95]
+[02:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:08:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19495467, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.86]
+[02:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:14:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19496172, l='ServerLevel[world]', x=-88.14, y=7.00, z=278.05]
+[02:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:47:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19499879, l='ServerLevel[world]', x=-88.16, y=7.00, z=278.05]
+[02:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:54:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19500648, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.18]
+[03:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_03-10-00
+[03:10:00] [Server thread/INFO]: Saving server...
+[03:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[03:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:10:00] [pool-3-thread-1/INFO]: Starting backup
+[03:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[03:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[03:10:03] [pool-3-thread-1/INFO]: Compression took: 03.486 seconds.
+[03:10:03] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_15-50-00.zip
+[03:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_15-50-00.zip
+[03:10:03] [pool-3-thread-1/INFO]: Done!
+[03:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[03:17:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19503048, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.23]
+[03:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:28:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19504125, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.67]
+[03:28:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19504159, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.50]
+[03:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:39:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19505331, l='ServerLevel[world]', x=-88.89, y=7.00, z=281.95]
+[03:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:58:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19507547, l='ServerLevel[world]', x=-88.21, y=7.00, z=281.95]
+[04:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:01:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19508002, l='ServerLevel[world]', x=-84.45, y=7.00, z=280.75]
+[04:02:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19508036, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.28]
+[04:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:10:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19508924, l='ServerLevel[world]', x=-87.53, y=7.00, z=281.95]
+[04:16:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19509728, l='ServerLevel[world]', x=-87.83, y=7.00, z=281.95]
+[04:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:34:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19511802, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.95]
+[04:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:54:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19513952, l='ServerLevel[world]', x=-87.97, y=7.00, z=278.05]
+[04:54:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19514077, l='ServerLevel[world]', x=-87.85, y=7.00, z=281.95]
+[05:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:09:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19515647, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.31]
+[05:09:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19515651, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.88]
+[05:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_05-10-00
+[05:10:00] [Server thread/INFO]: Saving server...
+[05:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[05:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:10:00] [pool-3-thread-1/INFO]: Starting backup
+[05:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[05:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[05:10:02] [pool-3-thread-1/INFO]: Compression took: 02.771 seconds.
+[05:10:02] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_16-50-00.zip
+[05:10:02] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_16-50-00.zip
+[05:10:02] [pool-3-thread-1/INFO]: Done!
+[05:10:02] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[05:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:22:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19517263, l='ServerLevel[world]', x=-87.51, y=7.00, z=281.95]
+[05:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:45:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19520000, l='ServerLevel[world]', x=-87.83, y=7.00, z=278.05]
+[05:46:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19520115, l='ServerLevel[world]', x=-87.93, y=7.00, z=278.05]
+[05:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:07:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19522367, l='ServerLevel[world]', x=-88.79, y=7.00, z=278.05]
+[06:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:31:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19524802, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.16]
+[06:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:40:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19525815, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.65]
+[06:49:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19526718, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.83]
+[06:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:04:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19528319, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.06]
+[07:05:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19528444, l='ServerLevel[world]', x=-88.63, y=7.00, z=281.95]
+[07:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_07-10-00
+[07:10:00] [Server thread/INFO]: Saving server...
+[07:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[07:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:10:00] [pool-3-thread-1/INFO]: Starting backup
+[07:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[07:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[07:10:02] [pool-3-thread-1/INFO]: Compression took: 02.747 seconds.
+[07:10:02] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_17-50-00.zip
+[07:10:02] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_17-50-00.zip
+[07:10:02] [pool-3-thread-1/INFO]: Done!
+[07:10:02] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[07:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:41:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19532233, l='ServerLevel[world]', x=-88.41, y=7.00, z=278.05]
+[07:47:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19532998, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.86]
+[07:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:21:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19536432, l='ServerLevel[world]', x=-87.70, y=7.00, z=278.05]
+[08:29:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19537262, l='ServerLevel[world]', x=-87.40, y=7.00, z=281.95]
+[08:29:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19537366, l='ServerLevel[world]', x=-90.46, y=7.00, z=278.62]
+[08:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:38:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19538415, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.02]
+[08:39:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19538547, l='ServerLevel[world]', x=-87.60, y=7.00, z=281.95]
+[08:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:43:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19538943, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.85]
+[08:45:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19539103, l='ServerLevel[world]', x=-86.05, y=7.12, z=280.99]
+[08:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:56:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19540232, l='ServerLevel[world]', x=-87.66, y=7.00, z=278.05]
+[08:59:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19540544, l='ServerLevel[world]', x=-88.97, y=7.00, z=278.05]
+[09:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[09:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[09:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_09-10-00
+[09:10:00] [Server thread/INFO]: Saving server...
+[09:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[09:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:10:00] [pool-3-thread-1/INFO]: Starting backup
+[09:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[09:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[09:10:02] [pool-3-thread-1/INFO]: Compression took: 02.721 seconds.
+[09:10:02] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_18-50-00.zip
+[09:10:02] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_18-50-00.zip
+[09:10:02] [pool-3-thread-1/INFO]: Done!
+[09:10:02] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[09:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[09:20:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19542816, l='ServerLevel[world]', x=-88.65, y=7.00, z=281.95]
+[09:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[09:33:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19544434, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.03]
+[09:37:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19544908, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.53]
+[09:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[09:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[09:50:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19546279, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.97]
+[10:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[10:00:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19547226, l='ServerLevel[world]', x=-87.01, y=7.00, z=281.95]
+[10:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[10:15:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19548539, l='ServerLevel[world]', x=-88.16, y=7.00, z=281.95]
+[10:17:09] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:64629] logged in with entity id 19548682 at (-67.80225712440821, 122.0, 521.0663341360566)
+[10:17:09] [Server thread/INFO]: na2hco3_CN joined the game
+[10:17:09] [Netty Server IO #11/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:17:10] [Netty Server IO #11/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[10:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[10:21:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19550136, l='ServerLevel[world]', x=-88.99, y=7.00, z=278.05]
+[10:22:09] [Server thread/INFO]: aka213[/127.0.0.1:64808] logged in with entity id 19550253 at (-94.35154745323297, 116.0, 504.4076485254642)
+[10:22:09] [Server thread/INFO]: aka213 joined the game
+[10:22:09] [Netty Server IO #13/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:22:13] [Netty Server IO #13/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[10:22:24] [Server thread/INFO]: <na2hco3_CN> 猪人塔在哪
+[10:22:45] [Server thread/INFO]: <aka213> 跟我拉锯
+[10:22:48] [Server thread/INFO]: <aka213> 跟我来
+[10:23:21] [Server thread/INFO]: <na2hco3_CN> 你在哪
+[10:23:32] [Server thread/INFO]: <aka213> 飞机
+[10:25:10] [Server thread/INFO]: <aka213> ?
+[10:25:14] [Server thread/INFO]: <aka213> 你在干嘛
+[10:25:23] [Server thread/INFO]: <na2hco3_CN> 跟丢了
+[10:27:00] [Server thread/INFO]: <aka213> 铺顶
+[10:27:45] [Server thread/INFO]: <na2hco3_CN> 往里面这圈铺进行了呗
+[10:28:01] [Server thread/INFO]: <aka213> 外圈有了
+[10:28:11] [Server thread/INFO]: <aka213> 把这些空的全铺了
+[10:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[10:32:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19558997, l='ServerLevel[world]', x=-91.49, y=7.00, z=281.78]
+[10:32:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19559635, l='ServerLevel[world]', x=-88.42, y=7.00, z=278.05]
+[10:33:11] [Server thread/INFO]: <na2hco3_CN> 铺完了
+[10:33:18] [Server thread/INFO]: <aka213> 额？
+[10:33:42] [Server thread/INFO]: <aka213> 下面的盒子
+[10:35:12] [Server thread/INFO]: <na2hco3_CN> 吃的没了
+[10:37:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19563046, l='ServerLevel[world]', x=-88.66, y=7.00, z=278.05]
+[10:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[10:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[10:50:38] [Server thread/INFO]: <na2hco3_CN> 扫个地去
+[10:50:42] [Server thread/INFO]: <na2hco3_CN> 挂个机
+[10:57:14] [Server thread/INFO]: <aka213> 收到
+[11:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[11:07:33] [Server thread/INFO]: <aka213> 太慢了
+[11:07:39] [Server thread/INFO]: <aka213> 方块给我
+[11:07:44] [Server thread/INFO]: <aka213> 我来演示
+[11:08:11] [Server thread/INFO]: <aka213> 额
+[11:09:02] [Server thread/INFO]: <aka213> 对了
+[11:09:06] [Server thread/INFO]: <aka213> 我吃饭去了
+[11:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[11:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_11-10-00
+[11:10:00] [Server thread/INFO]: Saving server...
+[11:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[11:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:10:00] [pool-3-thread-1/INFO]: Starting backup
+[11:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[11:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[11:10:03] [pool-3-thread-1/INFO]: Compression took: 02.814 seconds.
+[11:10:03] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_19-50-00.zip
+[11:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_19-50-00.zip
+[11:10:03] [pool-3-thread-1/INFO]: Done!
+[11:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[11:10:03] [Server thread/INFO]: <aka213> 百步穿杨
+[11:10:15] [Server thread/INFO]: <aka213> 额
+[11:12:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19586298, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.00]
+[11:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[11:23:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19592208, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.99]
+[11:24:04] [Server thread/INFO]: <na2hco3_CN> 额
+[11:24:08] [Server thread/INFO]: <na2hco3_CN> 猪人塔坏了
+[11:26:19] [Server thread/INFO]: <na2hco3_CN> oo
+[11:26:28] [Server thread/INFO]: <na2hco3_CN> 刚刚地狱有人
+[11:27:20] [Server thread/INFO]: na2hco3_CN has made the advancement [Oh Shiny]
+[11:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[11:30:37] [Server thread/INFO]: <aka213> 刷啊
+[11:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[11:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[11:51:34] [Server thread/INFO]: aka213 lost connection: Disconnected
+[11:51:34] [Server thread/INFO]: aka213 left the game
+[11:52:04] [Server thread/INFO]: na2hco3_CN fell from a high place
+[11:55:08] [Server thread/INFO]: na2hco3_CN fell off a ladder
+[11:58:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19629369, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.01]
+[11:59:51] [Server thread/INFO]: <na2hco3_CN> 有无选手修修
+[12:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[12:01:17] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[12:01:17] [Server thread/INFO]: na2hco3_CN left the game
+[12:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[12:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[12:22:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19631900, l='ServerLevel[world]', x=-88.99, y=7.00, z=281.95]
+[12:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[12:37:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19633565, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.74]
+[12:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[12:43:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19634108, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.04]
+[12:44:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19634185, l='ServerLevel[world]', x=-88.11, y=7.00, z=278.05]
+[12:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[13:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[13:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[13:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_13-10-00
+[13:10:00] [Server thread/INFO]: Saving server...
+[13:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[13:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:10:00] [pool-3-thread-1/INFO]: Starting backup
+[13:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[13:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[13:10:03] [pool-3-thread-1/INFO]: Compression took: 02.864 seconds.
+[13:10:03] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_20-50-00.zip
+[13:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_20-50-00.zip
+[13:10:03] [pool-3-thread-1/INFO]: Done!
+[13:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[13:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[13:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[13:36:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19639973, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.17]
+[13:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[13:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:05:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19642946, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.66]
+[14:07:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19643161, l='ServerLevel[world]', x=-87.96, y=7.00, z=281.95]
+[14:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:33:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19646170, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.61]
+[14:39:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19646829, l='ServerLevel[world]', x=-87.98, y=7.00, z=281.95]
+[14:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:40:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19646928, l='ServerLevel[world]', x=-88.42, y=7.00, z=278.05]
+[14:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_15-10-00
+[15:10:00] [Server thread/INFO]: Saving server...
+[15:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[15:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:10:00] [pool-3-thread-1/INFO]: Starting backup
+[15:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[15:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[15:10:03] [pool-3-thread-1/INFO]: Compression took: 02.917 seconds.
+[15:10:03] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_21-50-00.zip
+[15:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_21-50-00.zip
+[15:10:03] [pool-3-thread-1/INFO]: Done!
+[15:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[15:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:24:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19651642, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.85]
+[15:26:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19651864, l='ServerLevel[world]', x=-87.94, y=7.00, z=278.05]
+[15:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:33:09] [Server thread/INFO]: aka213[/127.0.0.1:59588] logged in with entity id 19652538 at (34.756009482742186, 103.0, 28.25130316046559)
+[15:33:09] [Server thread/INFO]: aka213 joined the game
+[15:33:09] [Netty Server IO #24/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:33:12] [Netty Server IO #24/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[15:34:05] [Server thread/INFO]: zeao[/127.0.0.1:59626] logged in with entity id 19652744 at (-84.9080121235265, 116.0, 511.63921246457255)
+[15:34:05] [Server thread/INFO]: zeao joined the game
+[15:34:05] [Netty Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:34:23] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:59642] logged in with entity id 19653386 at (473.69999998807907, 244.0, -263.1554654508676)
+[15:34:23] [Server thread/INFO]: na2hco3_CN joined the game
+[15:34:23] [Netty Server IO #11/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:34:25] [Netty Server IO #11/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[15:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:47:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19662478, l='ServerLevel[world]', x=-396.43, y=69.96, z=435.56]
+[15:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:54:34] [Server thread/INFO]: na2hco3_CN was slain by aka213
+[15:55:33] [Server thread/INFO]: na2hco3_CN was slain by aka213
+[15:56:17] [Server thread/INFO]: na2hco3_CN was slain by aka213
+[15:56:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-543, y=67, z=596}
+[15:57:01] [Server thread/INFO]: Qian_linger[/127.0.0.1:60463] logged in with entity id 19664567 at (-86.31925958882502, 115.0, 544.3704575810557)
+[15:57:01] [Server thread/INFO]: Qian_linger joined the game
+[15:57:01] [Netty Server IO #18/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:58:54] [Server thread/INFO]: zeao was slain by aka213
+[16:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:00:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Iron Boots'/19665264, l='ServerLevel[world]', x=-526.02, y=68.00, z=595.78]
+[16:04:24] [Server thread/INFO]: Qian_linger has completed the challenge [Cover Me in Debris]
+[16:08:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-168, y=99, z=589} class_2338{x=-168, y=100, z=592}
+[16:08:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-168, y=99, z=589} class_2338{x=-168, y=100, z=592}
+[16:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:11:16] [Server thread/INFO]: aka213 was slain by Qian_linger
+[16:13:11] [Server thread/INFO]: <aka213> 卢食传说
+[16:15:41] [Server thread/INFO]: aka213 lost connection: Disconnected
+[16:15:41] [Server thread/INFO]: aka213 left the game
+[16:15:51] [Server thread/INFO]: aka213[local] logged in with entity id 19671861 at (-156.95633998715164, 71.0, 439.545141069986)
+[16:15:51] [Server thread/INFO]: aka213 joined the game
+[16:15:58] [Server thread/INFO]: aka213 lost connection: Killed
+[16:15:58] [Server thread/INFO]: aka213 left the game
+[16:15:58] [Server thread/INFO]: aka213[/127.0.0.1:61153] logged in with entity id 19671880 at (-156.84238141506114, 71.0, 439.34988579661064)
+[16:15:58] [Server thread/INFO]: aka213 joined the game
+[16:15:58] [Netty Server IO #9/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:15:59] [Netty Server IO #9/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[16:16:56] [Server thread/INFO]: [na2hco3_CN: Player na2hco3_CN is already logged on]
+[16:17:00] [Server thread/INFO]: <na2hco3_CN> ./player na2hco3_CN spawn
+[16:17:03] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[16:17:03] [Server thread/INFO]: na2hco3_CN left the game
+[16:17:37] [Server thread/INFO]: na2hco3_CN[local] logged in with entity id 19672423 at (-545.1229650376356, 76.0, 597.8459823014928)
+[16:17:37] [Server thread/INFO]: na2hco3_CN joined the game
+[16:17:47] [Server thread/INFO]: na2hco3_CN lost connection: Killed
+[16:17:47] [Server thread/INFO]: na2hco3_CN left the game
+[16:17:47] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:61219] logged in with entity id 19672495 at (-544.629645321619, 76.0, 598.2553800072558)
+[16:17:47] [Server thread/INFO]: na2hco3_CN joined the game
+[16:17:47] [Netty Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:17:47] [Netty Server IO #2/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[16:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3955ms or 79 ticks behind
+[16:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[16:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:20:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2914ms or 58 ticks behind
+[16:21:25] [Server thread/INFO]: <na2hco3_CN> pvp
+[16:21:53] [Server thread/INFO]: Qian_linger has made the advancement [Take Aim]
+[16:24:28] [Server thread/INFO]: na2hco3CN1277[/127.0.0.1:61732] logged in with entity id 19674261 at (-93.71271, 68.0, 529.4646)
+[16:24:28] [Server thread/INFO]: na2hco3CN1277 joined the game
+[16:24:28] [Netty Server IO #26/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:24:44] [Server thread/INFO]: Qian_linger has made the advancement [A Throwaway Joke]
+[16:24:58] [Server thread/INFO]: na2hco3CN1277 lost connection: Timed out
+[16:24:58] [Server thread/INFO]: na2hco3CN1277 left the game
+[16:25:00] [Server thread/INFO]: na2hco3_CN was shot by aka213
+[16:25:13] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[16:25:13] [Server thread/INFO]: na2hco3_CN left the game
+[16:25:17] [Server thread/INFO]: na2hco3_CN[local] logged in with entity id 19674663 at (-380.4330513979831, 69.0, 458.4884253520384)
+[16:25:17] [Server thread/INFO]: na2hco3_CN joined the game
+[16:25:23] [Server thread/INFO]: na2hco3_CN lost connection: Killed
+[16:25:23] [Server thread/INFO]: na2hco3_CN left the game
+[16:25:23] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:61774] logged in with entity id 19674679 at (-380.9422691195768, 69.0, 458.20684740275306)
+[16:25:23] [Server thread/INFO]: na2hco3_CN joined the game
+[16:25:24] [Netty Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:25:24] [Netty Server IO #7/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[16:29:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-389, y=70, z=493} class_2338{x=-389, y=69, z=493}
+[16:29:29] [Server thread/INFO]: na2hco3_CN fell from a high place
+[16:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:30:48] [Server thread/INFO]: [Qian_linger: Player na2hco3_CN is already logged on]
+[16:37:35] [Server thread/INFO]: Shuchang[local] logged in with entity id 19683606 at (-301.69999998807907, 67.0, 415.30000001192093)
+[16:37:35] [Server thread/INFO]: Shuchang joined the game
+[16:37:35] [Thread-11807/INFO]: [STDERR]: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonObject.get(String)" because the return value of "com.google.gson.JsonObject.getAsJsonObject(String)" is null
+[16:37:35] [Thread-11807/INFO]: [STDERR]: 	at de.bluecolored.bluemap.common.plugin.skins.PlayerSkin.readTextureUrl(PlayerSkin.java:146)
+[16:37:35] [Thread-11807/INFO]: [STDERR]: 	at de.bluecolored.bluemap.common.plugin.skins.PlayerSkin.lambda$loadSkin$1(PlayerSkin.java:108)
+[16:37:35] [Thread-11807/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:832)
+[16:38:43] [Server thread/INFO]: Shuchang was slain by na2hco3_CN
+[16:38:43] [Server thread/INFO]: Shuchang lost connection: Killed
+[16:38:43] [Server thread/INFO]: Shuchang left the game
+[16:38:50] [Server thread/INFO]: Shuchang[local] logged in with entity id 19684253 at (-301.69999998807907, 67.0, 415.30000001192093)
+[16:38:50] [Server thread/INFO]: Shuchang joined the game
+[16:39:11] [Server thread/INFO]: aka213 has made the advancement [Sticky Situation]
+[16:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:42:09] [Server thread/INFO]: Shuchang was slain by na2hco3_CN
+[16:42:09] [Server thread/INFO]: Shuchang lost connection: Killed
+[16:42:09] [Server thread/INFO]: Shuchang left the game
+[16:42:24] [Server thread/INFO]: Shuchang[local] logged in with entity id 19686491 at (-301.69999998807907, 67.0, 415.30000001192093)
+[16:42:24] [Server thread/INFO]: Shuchang joined the game
+[16:43:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19687696, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.01]
+[16:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:50:29] [Server thread/INFO]: Shuchang was slain by na2hco3_CN
+[16:50:29] [Server thread/INFO]: Shuchang lost connection: Killed
+[16:50:29] [Server thread/INFO]: Shuchang left the game
+[16:52:14] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[16:52:14] [Server thread/INFO]: na2hco3_CN left the game
+[16:54:52] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:62815] logged in with entity id 19705996 at (-313.5896184214255, 64.0, 418.51686299683143)
+[16:54:52] [Server thread/INFO]: na2hco3_CN joined the game
+[16:54:53] [Netty Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:54:55] [Netty Server IO #7/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[16:58:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Chest'/19708550, l='ServerLevel[world]', x=-482.13, y=62.21, z=1264.68]
+[17:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:00:07] [Server thread/INFO]: <aka213> ereh
+[17:00:09] [Server thread/INFO]: <aka213> ereh/
+[17:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_17-10-00
+[17:10:00] [Server thread/INFO]: Saving server...
+[17:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[17:10:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:10:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:10:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:10:01] [pool-3-thread-1/INFO]: Starting backup
+[17:10:01] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[17:10:01] [pool-3-thread-1/INFO]: Starting compression...
+[17:10:04] [pool-3-thread-1/INFO]: Compression took: 02.924 seconds.
+[17:10:04] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_22-50-00.zip
+[17:10:04] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_22-50-00.zip
+[17:10:04] [pool-3-thread-1/INFO]: Done!
+[17:10:04] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[17:11:38] [Server thread/INFO]: na2hco3_CN was slain by zeao
+[17:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:28:36] [Server thread/INFO]: aka213 lost connection: Disconnected
+[17:28:36] [Server thread/INFO]: aka213 left the game
+[17:29:17] [Server thread/INFO]: aka213[/127.0.0.1:64073] logged in with entity id 19723754 at (-480.50999999046326, 62.7125, 1267.5)
+[17:29:17] [Server thread/INFO]: aka213 joined the game
+[17:29:17] [Netty Server IO #8/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:29:18] [Netty Server IO #8/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[17:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:36:25] [Server thread/INFO]: Qian_linger fell from a high place
+[17:38:40] [Server thread/INFO]: Qian_linger fell from a high place
+[17:39:46] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:64578] logged in with entity id 19728671 at (-400.4367530521869, 68.0, 526.7635029200221)
+[17:39:46] [Server thread/INFO]: WhiteSky_Bai joined the game
+[17:39:46] [Netty Server IO #16/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:41:39] [Server thread/INFO]: <aka213> 刷东西
+[17:41:43] [Server thread/INFO]: <aka213> 给我点
+[17:41:50] [Server thread/INFO]: <WhiteSky_Bai> a
+[17:41:53] [Server thread/INFO]: <aka213> 刷点必须的
+[17:41:55] [Server thread/INFO]: <WhiteSky_Bai> 不是你在刷吗
+[17:42:03] [Server thread/INFO]: <aka213> 我在钓鱼
+[17:42:21] [Server thread/INFO]: <WhiteSky_Bai> 哪呢
+[17:42:24] [Server thread/INFO]: <WhiteSky_Bai> 我去找你
+[17:45:31] [Server thread/INFO]: <aka213> 你干嘛
+[17:45:41] [Server thread/INFO]: <WhiteSky_Bai> 干你
+[17:46:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Light Blue Concrete'/19732732, l='ServerLevel[world]', x=100.51, y=49.00, z=0.07]
+[17:46:55] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/19734153, l='ServerLevel[world]', x=193.73, y=1.31, z=0.47]
+[17:47:07] [Server thread/INFO]: <WhiteSky_Bai> 有病？
+[17:47:16] [Server thread/INFO]: <aka213> 你是傻逼？
+[17:47:20] [Server thread/INFO]: <WhiteSky_Bai> nt东西
+[17:47:32] [Server thread/INFO]: <zeao> ？？？
+[17:47:33] [Server thread/INFO]: <aka213> 故意打海龟蛋？
+[17:47:39] [Server thread/INFO]: <aka213> 我看你
+[17:47:40] [Server thread/INFO]: <WhiteSky_Bai> 咋地
+[17:47:42] [Server thread/INFO]: <aka213> nt吧
+[17:47:49] [Server thread/INFO]: <aka213> 都快好了你打？
+[17:48:01] [Server thread/INFO]: <aka213> 我养的咋地？
+[17:48:32] [Server thread/INFO]: <aka213> 别
+[17:48:40] [Server thread/INFO]: <aka213> 别tm来烦
+[17:48:54] [Server thread/INFO]: <aka213> 告诉你位置你就这样犯贱？
+[17:49:31] [Server thread/INFO]: <aka213> 滚
+[17:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:50:36] [Server thread/INFO]: <zeao> 别骂了别骂了
+[17:50:49] [Server thread/INFO]: <zeao> aka，榜单怎么换来自
+[17:50:56] [Server thread/INFO]: <zeao> 来着
+[17:50:57] [Server thread/INFO]: <aka213> 群公告
+[17:51:08] [Server thread/INFO]: <aka213> 里面有
+[17:52:16] [Server thread/INFO]: <aka213> 自己玩吧窝囊废
+[17:52:43] [Server thread/INFO]: [zeao: Triggered [scoreSwitch] (set value to 1)]
+[17:56:57] [Server thread/INFO]: Kicked WhiteSky_Bai: ??????????
+[17:56:57] [Server thread/INFO]: WhiteSky_Bai lost connection: ??????????
+[17:56:57] [Server thread/INFO]: WhiteSky_Bai left the game
+[17:57:01] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:65290] logged in with entity id 19749541 at (-472.88543753105927, 58.899911622415836, 1242.212886516774)
+[17:57:01] [Server thread/INFO]: WhiteSky_Bai joined the game
+[17:57:01] [Netty Server IO #17/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:58:58] [Server thread/INFO]: zeao lost connection: Disconnected
+[17:58:58] [Server thread/INFO]: zeao left the game
+[17:59:43] [Server thread/INFO]: WhiteSky_Bai was slain by aka213
+[18:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:00:01] [Server thread/INFO]: <aka213> 警告过了
+[18:00:18] [Server thread/INFO]: <WhiteSky_Bai> 你以为这样就能阻止我？
+[18:00:39] [Server thread/INFO]: <aka213> 你想干嘛？
+[18:00:50] [Server thread/INFO]: <aka213> 就是不让别人玩对吧
+[18:01:06] [Server thread/INFO]: <aka213> 这是minecraft生存服
+[18:01:29] [Server thread/INFO]: <aka213> 不是通过恶心别人来得到优越感的地方
+[18:01:34] [Server thread/INFO]: <aka213> 懂？
+[18:01:36] [Server thread/INFO]: <WhiteSky_Bai> 我优越了？
+[18:01:41] [Server thread/INFO]: <WhiteSky_Bai> 你那只眼睛看到的？
+[18:01:51] [Server thread/INFO]: <aka213> 呵呵
+[18:01:58] [Server thread/INFO]: <WhiteSky_Bai> 您收起您那优越感吧
+[18:02:00] [Server thread/INFO]: <WhiteSky_Bai> 还呵呵
+[18:02:04] [Server thread/INFO]: <WhiteSky_Bai> 你就会呵呵了
+[18:02:04] [Server thread/INFO]: <aka213> 对号入坐吧
+[18:02:59] [Server thread/INFO]: <WhiteSky_Bai> 优越感章口就来啊
+[18:03:07] [Server thread/INFO]: <aka213> 你认为这样很好玩吗
+[18:03:09] [Server thread/INFO]: <WhiteSky_Bai> 好风气
+[18:03:17] [Server thread/INFO]: <aka213> 我说了不要对号入座
+[18:03:26] [Server thread/INFO]: <WhiteSky_Bai> 我说你呢= =
+[18:03:30] [Server thread/INFO]: <WhiteSky_Bai> 什么对号入座
+[18:03:37] [Server thread/INFO]: <aka213> 我也不知道啊
+[18:03:39] [Server thread/INFO]: <WhiteSky_Bai> 是不是听不懂在这臆想啊
+[18:03:48] [Server thread/INFO]: <aka213> 不过现在是跟你说了
+[18:04:08] [Server thread/INFO]: <aka213> 离别人远点
+[18:04:15] [Server thread/INFO]: <WhiteSky_Bai> 你来了
+[18:04:16] [Server thread/INFO]: <aka213> 没人受得了恶心
+[18:04:19] [Server thread/INFO]: <WhiteSky_Bai> 优越感
+[18:05:01] [Server thread/INFO]: <aka213> 算我倒霉
+[18:05:07] [Server thread/INFO]: <aka213> 本以为悔改了
+[18:05:24] [Server thread/INFO]: <WhiteSky_Bai> 好恶心= =
+[18:05:27] [Server thread/INFO]: <WhiteSky_Bai> 这哪学的
+[18:05:29] [Server thread/INFO]: <aka213> 引鬼子进村了
+[18:05:57] [Server thread/INFO]: <aka213> 要建设就建设
+[18:06:07] [Server thread/INFO]: <aka213> 摸鱼也没人阻拦你
+[18:06:09] [Server thread/INFO]: <WhiteSky_Bai> 装什么成熟啊？
+[18:06:15] [Server thread/INFO]: <WhiteSky_Bai> 好玩？
+[18:06:16] [Server thread/INFO]: <aka213> 别烦人
+[18:06:18] [Server thread/INFO]: <WhiteSky_Bai> 多大了？
+[18:06:24] [Server thread/INFO]: <aka213> 12岁
+[18:06:28] [Server thread/INFO]: <WhiteSky_Bai> nb
+[18:06:31] [Server thread/INFO]: <WhiteSky_Bai> 我服气
+[18:06:39] [Server thread/INFO]: <WhiteSky_Bai> 跟你说多了也没意义
+[18:06:51] [Server thread/INFO]: <aka213> 至少不会跟你做一样的事情
+[18:09:19] [Server thread/INFO]: <WhiteSky_Bai> 有句话怎么说来着
+[18:09:25] [Server thread/INFO]: <WhiteSky_Bai> 认清现实
+[18:09:32] [Server thread/INFO]: <WhiteSky_Bai> b站也别看多咯
+[18:09:53] [Server thread/INFO]: <aka213> 我只知道你是个贱人
+[18:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:10:05] [Server thread/INFO]: <WhiteSky_Bai> 开喷了？
+[18:10:28] [Server thread/INFO]: <WhiteSky_Bai> 你去派出所拍全家福了吗
+[18:10:35] [Server thread/INFO]: <WhiteSky_Bai> 玩这种游戏？
+[18:10:43] [Server thread/INFO]: <WhiteSky_Bai> 那你自己慢慢玩
+[18:10:47] [Server thread/INFO]: <WhiteSky_Bai> 不陪了
+[18:14:39] [Server thread/INFO]: WhiteSky_Bai was slain by aka213
+[18:15:40] [Server thread/INFO]: <WhiteSky_Bai> 那么多tnt看不出来？
+[18:15:46] [Server thread/INFO]: <WhiteSky_Bai> 你是没长眼睛？
+[18:18:17] [Server thread/INFO]: <aka213> 是的
+[18:18:26] [Server thread/INFO]: <aka213> 暑假的时候恶心EDGW
+[18:18:34] [Server thread/INFO]: <aka213> 炸铁路
+[18:18:43] [Server thread/INFO]: <aka213> 然后回档了
+[18:19:43] [Server thread/INFO]: <WhiteSky_Bai> 说了半天你不就等那一句吗
+[18:19:45] [Server thread/INFO]: <WhiteSky_Bai> 我帮你说
+[18:19:49] [Server thread/INFO]: <WhiteSky_Bai> 帮我把他号封了
+[18:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:20:27] [Server thread/INFO]: <WhiteSky_Bai> 那你去叫人啊
+[18:20:30] [Server thread/INFO]: <WhiteSky_Bai> 我等着呢
+[18:20:54] [Server thread/INFO]: <WhiteSky_Bai> 别问
+[18:20:56] [Server thread/INFO]: <WhiteSky_Bai> 不会
+[18:21:06] [Server thread/INFO]: <WhiteSky_Bai> 你加油说
+[18:21:38] [Server thread/INFO]: <WhiteSky_Bai> 呵呵
+[18:21:42] [Server thread/INFO]: <WhiteSky_Bai> 呵呵呵呵呵呵呵呵呵呵
+[18:22:07] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[18:22:07] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:29:06] [Server thread/INFO]: [aka213: Can only manipulate existing players]
+[18:29:58] [Server thread/INFO]: WhiteSky_Bai[local] logged in with entity id 19765129 at (-473.5425072386904, 65.0, 1266.4351274518804)
+[18:29:58] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:30:13] [Server thread/INFO]: WhiteSky_Bai was slain by aka213
+[18:30:13] [Server thread/INFO]: WhiteSky_Bai lost connection: Killed
+[18:30:13] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:33:01] [Server thread/INFO]: WhiteSky_Bai[local] logged in with entity id 19765851 at (-478.17423520441525, 63.0, 1267.2123873141372)
+[18:33:01] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:33:28] [Server thread/INFO]: WhiteSky_Bai was slain by aka213
+[18:33:28] [Server thread/INFO]: WhiteSky_Bai lost connection: Killed
+[18:33:28] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:34:48] [Server thread/INFO]: WhiteSky_Bai[local] logged in with entity id 19766298 at (-478.4747465770549, 64.0, 1268.300000011921)
+[18:34:48] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:35:45] [Server thread/INFO]: WhiteSky_Bai was slain by aka213
+[18:35:45] [Server thread/INFO]: WhiteSky_Bai lost connection: Killed
+[18:35:45] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:40:45] [Server thread/INFO]: WhiteSky_Bai[local] logged in with entity id 19770205 at (-471.6843341767788, 64.0, 1258.300000011921)
+[18:40:45] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:40:49] [Server thread/INFO]: WhiteSky_Bai was slain by aka213
+[18:40:49] [Server thread/INFO]: WhiteSky_Bai lost connection: Killed
+[18:40:49] [Server thread/INFO]: WhiteSky_Bai left the game
+[18:41:40] [Server thread/INFO]: [aka213: Can only manipulate existing players]
+[18:41:43] [Server thread/INFO]: WhiteSky_Bai[local] logged in with entity id 19770506 at (-471.6527134691612, 63.5625, 1258.7339715836072)
+[18:41:43] [Server thread/INFO]: WhiteSky_Bai joined the game
+[18:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[18:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15744ms or 314 ticks behind
+[18:55:17] [Server thread/INFO]: Qian_linger lost connection: Disconnected
+[18:55:17] [Server thread/INFO]: Qian_linger left the game
+[19:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_19-10-00
+[19:10:00] [Server thread/INFO]: Saving server...
+[19:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[19:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:10:00] [pool-3-thread-1/INFO]: Starting backup
+[19:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[19:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[19:10:03] [pool-3-thread-1/INFO]: Compression took: 02.921 seconds.
+[19:10:03] [pool-3-thread-1/INFO]: Deleting: 2020-09-21_23-50-00.zip
+[19:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-21_23-50-00.zip
+[19:10:03] [pool-3-thread-1/INFO]: Done!
+[19:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[19:12:19] [Server thread/INFO]: aka213 lost connection: Disconnected
+[19:12:19] [Server thread/INFO]: aka213 left the game
+[19:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:27:20] [Server thread/INFO]: <na2hco3_CN> ?
+[19:27:42] [Server thread/INFO]: <na2hco3_CN> 谁给我砍死了
+[19:28:52] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[19:28:52] [Server thread/INFO]: na2hco3_CN left the game
+[19:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:38:19] [Server thread/INFO]: wuhao[/127.0.0.1:52757] logged in with entity id 19782397 at (-7079.339289798364, 5.0, -6909.717965683424)
+[19:38:19] [Server thread/INFO]: wuhao joined the game
+[19:38:20] [Netty Server IO #23/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:38:21] [Netty Server IO #23/WARN]: Player wuhao joined with another carpet version: 1.4.8+v200811
+[19:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:42:44] [Server thread/INFO]: wuhao lost connection: Disconnected
+[19:42:44] [Server thread/INFO]: wuhao left the game
+[19:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:56:08] [Server thread/INFO]: aka213[/127.0.0.1:53392] logged in with entity id 19785729 at (-480.2762623735845, 62.7125, 1267.5)
+[19:56:08] [Server thread/INFO]: aka213 joined the game
+[19:56:08] [Netty Server IO #31/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:56:10] [Netty Server IO #31/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[20:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:01:34] [Server thread/INFO]: aka213 lost connection: Disconnected
+[20:01:34] [Server thread/INFO]: aka213 left the game
+[20:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:23:49] [Server thread/INFO]: Incorrect argument for command
+[20:23:49] [Server thread/INFO]: backup reload<--[HERE]
+[20:23:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:23:53] [Server thread/INFO]: backup<--[HERE]
+[20:23:59] [Server thread/INFO]: Incorrect argument for command
+[20:23:59] [Server thread/INFO]: backup help<--[HERE]
+[20:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_21-10-00
+[21:10:00] [Server thread/INFO]: Saving server...
+[21:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[21:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:10:00] [pool-3-thread-1/INFO]: Starting backup
+[21:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[21:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[21:10:03] [pool-3-thread-1/INFO]: Compression took: 02.763 seconds.
+[21:10:03] [pool-3-thread-1/INFO]: Deleting: 2020-09-30_11-10-00.zip
+[21:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-30_11-10-00.zip
+[21:10:03] [pool-3-thread-1/INFO]: Done!
+[21:10:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[21:14:13] [Server thread/INFO]: ChengXi123[/127.0.0.1:56258] logged in with entity id 19798319 at (473.29305513518347, 256.0, -278.80887401512996)
+[21:14:13] [Server thread/INFO]: ChengXi123 joined the game
+[21:14:13] [Netty Server IO #23/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:14:14] [Netty Server IO #23/WARN]: Player ChengXi123 joined with another carpet version: 1.4.9+v200815
+[21:15:03] [Server thread/INFO]: wuhao[/127.0.0.1:56288] logged in with entity id 19798726 at (-7082.39493077101, 4.0, -6909.243792453272)
+[21:15:03] [Server thread/INFO]: wuhao joined the game
+[21:15:03] [Netty Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:15:04] [Netty Server IO #3/WARN]: Player wuhao joined with another carpet version: 1.4.8+v200811
+[21:16:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/19799287, l='ServerLevel[world]', x=-7082.36, y=5.74, z=-6904.33]
+[21:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:20:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19800860, l='ServerLevel[world]', x=467.70, y=244.06, z=-265.29]
+[21:24:02] [Server thread/INFO]: <ChengXi123> wuhao你在哪
+[21:25:18] [Server thread/INFO]: <ChengXi123> wuhao你在哪
+[21:29:43] [Server thread/INFO]: <ChengXi123> 有地狱门吗
+[21:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:30:02] [Server thread/INFO]: <wuhao> 有，等一下
+[21:32:04] [Server thread/INFO]: <ChengXi123> 好了吗？
+[21:34:26] [Server thread/INFO]: <ChengXi123> wuhao还在吗
+[21:37:05] [Server thread/INFO]: <ChengXi123> 谢谢
+[21:37:28] [Server thread/INFO]: ChengXi123 has completed the challenge [Subspace Bubble]
+[21:37:43] [Server thread/INFO]: wuhao lost connection: Disconnected
+[21:37:43] [Server thread/INFO]: wuhao left the game
+[21:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:40:17] [Server thread/INFO]: <ChengXi123> 刚好一个区块
+[21:40:44] [Server thread/INFO]: <ChengXi123> 还没填海
+[21:43:01] [Server thread/INFO]: <ChengXi123> 没有
+[21:43:21] [Server thread/INFO]: <ChengXi123> 哦，有，有个洞
+[21:43:43] [Server thread/INFO]: <ChengXi123> 基岩快破好了
+[21:44:32] [Server thread/INFO]: <ChengXi123> 所以要不要填
+[21:45:40] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[21:45:40] [Server thread/INFO]: ChengXi123 left the game
+[21:45:49] [Server thread/INFO]: ChengXi123[/127.0.0.1:57376] logged in with entity id 19814099 at (-7093.100928632538, 70.16610926093821, -6905.2855753994345)
+[21:45:49] [Server thread/INFO]: ChengXi123 joined the game
+[21:45:49] [Netty Server IO #20/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:45:49] [Netty Server IO #20/WARN]: Player ChengXi123 joined with another carpet version: 1.4.9+v200815
+[21:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:50:18] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[21:50:18] [Server thread/INFO]: ChengXi123 left the game
+[22:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:01:50] [Server thread/INFO]: wuhao[/127.0.0.1:57999] logged in with entity id 19817260 at (-885.2884668246425, 128.0, -867.9926220850735)
+[22:01:50] [Server thread/INFO]: wuhao joined the game
+[22:01:50] [Netty Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:01:51] [Netty Server IO #5/WARN]: Player wuhao joined with another carpet version: 1.4.8+v200811
+[22:04:52] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:58110] logged in with entity id 19818233 at (-61.5, 122.0, 520.5)
+[22:04:52] [Server thread/INFO]: na2hco3_CN joined the game
+[22:04:52] [Netty Server IO #14/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:04:56] [Netty Server IO #14/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[22:06:40] [Server thread/INFO]: ChengXi123[/127.0.0.1:58172] logged in with entity id 19818901 at (-7092.699999988079, 3.0, -6906.699999988079)
+[22:06:40] [Server thread/INFO]: ChengXi123 joined the game
+[22:06:40] [Netty Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:06:40] [Netty Server IO #6/WARN]: Player ChengXi123 joined with another carpet version: 1.4.9+v200815
+[22:06:41] [Netty Server IO #6/WARN]: Player ChengXi123 joined with another carpet version: 1.4.9+v200815
+[22:07:18] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[22:07:18] [Server thread/INFO]: na2hco3_CN left the game
+[22:07:24] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:58201] logged in with entity id 19819183 at (-76.30000001192093, 116.0, 512.5803653925728)
+[22:07:24] [Server thread/INFO]: na2hco3_CN joined the game
+[22:07:24] [Netty Server IO #17/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:07:25] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[22:07:25] [Server thread/INFO]: na2hco3_CN left the game
+[22:07:44] [Server thread/INFO]: <ChengXi123> 我要破基岩
+[22:07:57] [Server thread/INFO]: <wuhao> 自备物品
+[22:09:09] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:58259] logged in with entity id 19819742 at (-76.30000001192093, 116.0, 512.5803653925728)
+[22:09:09] [Server thread/INFO]: na2hco3_CN joined the game
+[22:09:09] [Netty Server IO #8/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:09:12] [Netty Server IO #8/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[22:09:58] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[22:09:58] [Server thread/INFO]: na2hco3_CN left the game
+[22:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:11:15] [Server thread/INFO]: <wuhao> cheng
+[22:11:44] [Server thread/INFO]: <wuhao> 别破掉中间3x3的基岩
+[22:14:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19825395, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[22:15:41] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[22:15:41] [Server thread/INFO]: ChengXi123 left the game
+[22:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/19829661, l='ServerLevel[world]', x=-7083.25, y=6.69, z=-6897.32]
+[22:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/19829664, l='ServerLevel[world]', x=-7087.66, y=5.63, z=-6898.63]
+[22:25:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Coal'/19829665, l='ServerLevel[world]', x=-7087.72, y=5.43, z=-6897.64]
+[22:26:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/19829979, l='ServerLevel[world]', x=-7085.68, y=5.68, z=-6900.55]
+[22:28:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Torch'/19830528, l='ServerLevel[world]', x=-7078.70, y=5.48, z=-6909.39]
+[22:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:37:09] [Server thread/INFO]: wuhao lost connection: Disconnected
+[22:37:09] [Server thread/INFO]: wuhao left the game
+[22:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[23:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[23:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[23:10:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-10-06_23-10-00
+[23:10:00] [Server thread/INFO]: Saving server...
+[23:10:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[23:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:10:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:10:00] [pool-3-thread-1/INFO]: Starting backup
+[23:10:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[23:10:00] [pool-3-thread-1/INFO]: Starting compression...
+[23:10:04] [pool-3-thread-1/INFO]: Compression took: 03.800 seconds.
+[23:10:04] [pool-3-thread-1/INFO]: Deleting: 2020-09-30_12-10-00.zip
+[23:10:04] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-09-30_12-10-00.zip
+[23:10:04] [pool-3-thread-1/INFO]: Done!
+[23:10:04] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[23:13:27] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:60558] logged in with entity id 19839562 at (-111.81399789300163, 116.0, 521.6547922338552)
+[23:13:27] [Server thread/INFO]: na2hco3_CN joined the game
+[23:13:27] [Netty Server IO #14/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:13:27] [Netty Server IO #14/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[23:13:57] [Server thread/INFO]: <na2hco3_CN> 你在哪
+[23:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[23:24:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19847649, l='ServerLevel[world]', x=467.30, y=244.06, z=-265.16]
+[23:24:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19847658, l='ServerLevel[world]', x=467.30, y=244.06, z=-265.14]
+[23:24:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19847783, l='ServerLevel[world]', x=467.70, y=244.06, z=-265.70]
+[23:24:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19847883, l='ServerLevel[world]', x=467.70, y=244.06, z=-265.70]
+[23:25:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19848183, l='ServerLevel[world]', x=467.30, y=244.06, z=-265.16]
+[23:25:32] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[23:25:32] [Server thread/INFO]: na2hco3_CN left the game
+[23:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[23:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[23:50:00] [Server thread/INFO]: Player shuijiao is already logged on

@@ -1,0 +1,98 @@
+[21:46:49] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[21:46:50] [main/WARN]: Missing data pack fabric/fabric-tool-attribute-api-v1
+[21:46:50] [main/WARN]: Missing data pack fabric/player-roles
+[21:46:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:46:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:46:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:46:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:46:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:46:50] [main/INFO]: Reloading ResourceManager: Default, bukkit, FZ.sDatapack-1.5.0-SNAPSHOT
+[21:46:51] [Worker-Main-10/INFO]: Loaded 7 recipes
+[21:46:51] [Worker-Main-10/ERROR]: Failed to load function fz:carpet/script
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 45: ...arpet run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1766) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 45: ...arpet run <--[HERE]
+	at cy.a(SourceFile:62) ~[server.jar:?]
+	at vw.a(SourceFile:86) ~[server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	... 6 more
+[21:46:51] [Worker-Main-10/ERROR]: Failed to load function fz:carpet/scarpettagplayer
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 48: ...arpet run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1766) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 48: ...arpet run <--[HERE]
+	at cy.a(SourceFile:62) ~[server.jar:?]
+	at vw.a(SourceFile:86) ~[server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	... 6 more
+[21:46:51] [Worker-Main-10/INFO]: Loaded 927 advancements
+[21:46:52] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[21:46:52] [Server thread/INFO]: Loading properties
+[21:46:52] [Server thread/INFO]: Default game type: SURVIVAL
+[21:46:52] [Server thread/INFO]: Generating keypair
+[21:46:52] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: ¾ä±úÎÞÐ§¡£
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:271) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:282) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:343) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:297) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:188) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:181) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at zg$1.run(SourceFile:89) [server.jar:?]
+[21:46:52] [Server thread/INFO]: Starting Minecraft server on *:34268
+[21:46:52] [Server thread/INFO]: Using default channel type
+[21:46:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:46:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:46:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:46:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:46:52] [Server thread/INFO]: Preparing level "world"
+[21:46:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:46:53] [Server thread/INFO]: Preparing spawn area: 0%
+[21:46:53] [Server thread/INFO]: Preparing spawn area: 0%
+[21:46:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:46:54] [Server thread/INFO]: Time elapsed: 1516 ms
+[21:46:54] [Server thread/INFO]: Done (1.623s)! For help, type "help"
+[21:46:54] [Server thread/INFO]: Starting remote control listener
+[21:46:54] [Server thread/INFO]: Thread RCON Listener started
+[21:46:54] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[21:50:01] [Server thread/INFO]: Plants352039[/127.0.0.1:57991] logged in with entity id 149 at (-509.79447403888213, 78.0, 484.8207550742814)
+[21:50:01] [Server thread/INFO]: Plants352039 joined the game
+[21:50:02] [Server thread/WARN]: Trying to add entity with duplicated UUID 3e39b2b1-5b7c-4bc3-b066-75b1c8dccbd6. Existing minecraft:villager#244, new: minecraft:villager#298
+[21:50:02] [Server thread/WARN]: Trying to add entity with duplicated UUID 88d597db-cf4e-49cd-b031-6b552d317917. Existing minecraft:villager#245, new: minecraft:villager#299
+[21:50:02] [Server thread/WARN]: Trying to add entity with duplicated UUID eb5e1629-0244-4f62-aecf-8e557cfaeeb1. Existing minecraft:villager#247, new: minecraft:villager#300
+[21:50:02] [Server thread/WARN]: Trying to add entity with duplicated UUID 3dabaca6-cf8a-66eb-6e8a-63647c9ba954. Existing minecraft:villager#246, new: minecraft:villager#302
+[21:50:02] [Server thread/WARN]: Trying to add entity with duplicated UUID bc61537a-57d0-b251-c351-a62964066501. Existing minecraft:villager#248, new: minecraft:villager#304
+[21:52:46] [Server thread/INFO]: Stopping the server
+[21:52:46] [Server thread/INFO]: Stopping server
+[21:52:46] [Server thread/INFO]: Saving players
+[21:52:46] [Server thread/INFO]: Saving worlds
+[21:52:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:52:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:52:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:52:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:52:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:52:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:52:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:52:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:52:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:52:46] [Server thread/INFO]: Thread RCON Listener stopped

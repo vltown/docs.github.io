@@ -1,0 +1,531 @@
+[11:20:08] [main/INFO]: Loading for game Minecraft 1.16.2
+[11:20:09] [main/INFO]: [FabricLoader] Loading 53 mods: fabric-renderer-api-v1@0.2.13+eae12eb84e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, fabricloader@0.9.1+build.205, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.5.1-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.6.0+e81ec80b4e, fabric-game-rule-api-v1@1.0.1+91555cd14e, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-rendering-fluids-v1@0.1.10+e5d3217f4e, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-renderer-registries-v1@2.1.0+e2862de64e, carpet-extra@1.4.8, fabric-loot-tables-v1@1.0.0+fac8f3664e, fabric@0.18.0+build.397-1.16, carpet@1.4.9, fabric-particles-v1@0.2.1+0a6f2a704e, fabric-networking-v0@0.1.10+e00ecb5f4e, cotton-config@1.0.0-rc.7, fabric-screen-handler-api-v1@1.1.0+872498414e, minecraft@1.16.2, here@0.0.10-mc1.16, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.8+5ce533984e, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.2.1+02fb8fda4e, fabric-renderer-indigo@0.3.4+5d32f5834e, player-roles@1.1.0, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-events-interaction-v0@0.3.3+7066030f4e, fabric-item-api-v1@1.0.0+16acbe5b4e, fabric-rendering-v0@1.1.0+534104904e, fabric-rendering-v1@1.2.0+fc24ff244e, fabric-key-binding-api-v1@1.0.1+730711c64e, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.9+e5d3217f4e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, fabric-commands-v0@0.2.0+52d308364e, fabric-registry-sync-v0@0.4.3+e5d3217f4e, textile_backup@2.0.0-1.16.2, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-object-builders-v0@0.6.1+ba4afa574e
+[11:20:09] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[11:20:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.1 Source=file:/srv/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[11:20:12] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[11:20:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[11:20:21] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[11:20:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:20:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:20:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:20:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:20:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:20:23] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), Player Roles, FZ.sDatapack-1.5.0-SNAPSHOT
+[11:20:25] [Worker-Main-6/INFO]: Loaded 7 recipes
+[11:20:26] [Worker-Main-6/INFO]: Loaded 927 advancements
+[11:20:27] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[11:20:27] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[11:20:27] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[11:20:27] [Server thread/INFO]: Loading properties
+[11:20:27] [Server thread/INFO]: Default game type: SURVIVAL
+[11:20:27] [Server thread/INFO]: Generating keypair
+[11:20:28] [Server thread/INFO]: Starting Minecraft server on *:26555
+[11:20:28] [Server thread/INFO]: Using epoll channel type
+[11:20:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:20:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:20:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:20:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:20:28] [Server thread/INFO]: Preparing level "world"
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[11:20:28] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[11:20:29] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[11:20:29] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[11:20:29] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[11:20:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:32] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:34] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:34] [Server thread/INFO]: Preparing spawn area: 0%
+[11:20:36] [Server thread/INFO]: Time elapsed: 6539 ms
+[11:20:36] [Server thread/INFO]: Done (7.371s)! For help, type "help"
+[11:20:36] [Server thread/INFO]: Starting remote control listener
+[11:20:36] [Server thread/INFO]: Thread RCON Listener started
+[11:20:36] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[11:22:42] [Server thread/INFO]: ChengXi123[/127.0.0.1:54687] logged in with entity id 103 at (-3.4599276114478963, 60.00133597911215, -7.719570108833995)
+[11:22:43] [Server thread/INFO]: ChengXi123 joined the game
+[11:22:43] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:22:43] [Netty Epoll Server IO #6/INFO]: Player ChengXi123 joined with a matching carpet client
+[11:22:44] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[11:22:44] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[11:25:03] [Server thread/INFO]: Alex[local] logged in with entity id 236 at (6.56767351339199, 60.0, 10.292913835998531)
+[11:25:03] [Server thread/INFO]: Alex joined the game
+[11:26:44] [Server thread/INFO]: Alex1[local] logged in with entity id 299 at (7.300000011920929, 56.0, 9.330216301767036)
+[11:26:44] [Server thread/INFO]: Alex1 joined the game
+[11:26:44] [Server thread/INFO]: Alex1 has made the advancement [The End?]
+[11:27:31] [Server thread/INFO]: EDGW[/127.0.0.1:40380] logged in with entity id 321 at (-1224.8556912150138, 69.0, 480.55108509174397)
+[11:27:31] [Server thread/INFO]: EDGW joined the game
+[11:27:31] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:28:15] [Server thread/INFO]: Alex2[local] logged in with entity id 1036 at (9.300000011920929, 57.0, 9.422155535243707)
+[11:28:15] [Server thread/INFO]: Alex2 joined the game
+[11:28:15] [Server thread/INFO]: Alex2 has made the advancement [The End?]
+[11:29:29] [Server thread/INFO]: Steve[local] logged in with entity id 1258 at (16.795101584861385, 61.0, 8.198095409668406)
+[11:29:29] [Server thread/INFO]: Steve joined the game
+[11:29:44] [Server thread/INFO]: ChengXi123 was slain by Enderman
+[11:29:47] [Server thread/INFO]: <EDGW> .
+[11:30:35] [Server thread/INFO]: <EDGW> 哈 我们一共11个班
+[11:32:28] [Server thread/INFO]: <EDGW> .
+[11:35:29] [Server thread/INFO]: <EDGW> .
+[11:35:37] [Server thread/INFO]: Alex fell out of the world
+[11:35:37] [Server thread/INFO]: Alex lost connection: Killed
+[11:35:37] [Server thread/INFO]: Alex left the game
+[11:36:32] [Server thread/INFO]: Alex1 fell out of the world
+[11:36:32] [Server thread/INFO]: Alex1 lost connection: Killed
+[11:36:32] [Server thread/INFO]: Alex1 left the game
+[11:38:28] [Server thread/INFO]: Alex2 fell out of the world
+[11:38:28] [Server thread/INFO]: Alex2 lost connection: Killed
+[11:38:28] [Server thread/INFO]: Alex2 left the game
+[11:38:52] [Server thread/INFO]: <ChengXi123> 那我明天再搞吧
+[11:39:00] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:39:00] [Server thread/INFO]: ChengXi123 left the game
+[11:49:34] [Server thread/INFO]: EDGW was slain by Zombie
+[12:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_12-22-43
+[12:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[12:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:22:43] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[12:22:52] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[12:44:52] [Server thread/INFO]: EDGW lost connection: Disconnected
+[12:44:52] [Server thread/INFO]: EDGW left the game
+[13:21:02] [Server thread/INFO]: EDGW[/127.0.0.1:40916] logged in with entity id 12160 at (-349.69999998807907, 70.0, 479.62264609697485)
+[13:21:02] [Server thread/INFO]: EDGW joined the game
+[13:21:03] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_13-22-43
+[13:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[13:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:22:45] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[13:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[13:22:52] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[13:24:36] [Server thread/INFO]: <EDGW> .
+[13:24:45] [Server thread/INFO]: <EDGW> 百度就是这样
+[13:25:02] [Server thread/INFO]: <EDGW> 淘宝更离谱
+[13:25:30] [Server thread/INFO]: <EDGW> 5年高考 3年模拟吗
+[13:40:52] [Server thread/INFO]: EDGW experienced kinetic energy
+[13:44:56] [Server thread/INFO]: <EDGW> 白色混凝土没了 那就先造路吧
+[13:50:14] [Server thread/INFO]: EDGW fell from a high place
+[13:51:16] [Server thread/INFO]: EDGW drowned
+[13:54:11] [Server thread/INFO]: <EDGW> e 现在1个白色混凝土都没了 固化机的TNT部分谁来修一下w
+[13:58:46] [Server thread/INFO]: EDGW lost connection: Disconnected
+[13:58:46] [Server thread/INFO]: EDGW left the game
+[14:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_14-22-43
+[14:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[14:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:22:43] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[14:22:51] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[14:33:29] [Server thread/INFO]: EDGW[/127.0.0.1:40976] logged in with entity id 28263 at (-491.69999998807907, 75.0, 394.7396029985692)
+[14:33:29] [Server thread/INFO]: EDGW joined the game
+[14:33:29] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:46:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/33904, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[15:11:50] [Server thread/INFO]: PrestoNickel564[/127.0.0.1:39289] logged in with entity id 38560 at (-341.82034, 78.0, 837.7505)
+[15:11:50] [Server thread/INFO]: PrestoNickel564 joined the game
+[15:11:50] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:16:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-307, y=76, z=805}
+[15:17:34] [Server thread/INFO]: EDGW experienced kinetic energy
+[15:18:34] [Server thread/INFO]: EDGW lost connection: Disconnected
+[15:18:34] [Server thread/INFO]: EDGW left the game
+[15:20:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-170, y=71, z=802} class_2338{x=-154, y=74, z=796}
+[15:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_15-22-43
+[15:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[15:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:22:44] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[15:22:46] [Server thread/INFO]: <PrestoNickel564> 我掉里面差点没出来
+[15:22:53] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[15:23:01] [Server thread/INFO]: EDGW[/127.0.0.1:46862] logged in with entity id 41264 at (-1103.6308734897289, 70.0, 479.76816048771894)
+[15:23:01] [Server thread/INFO]: EDGW joined the game
+[15:23:01] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:23:23] [Server thread/INFO]: <EDGW> 大桥长度268m
+[15:23:44] [Server thread/INFO]: <EDGW> 还没造好 路基已经好了 大桥旁边还有一个更大的桥
+[15:24:38] [Server thread/INFO]: EDGW drowned
+[15:24:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=208, y=64, z=864} class_2338{x=209, y=64, z=866}
+[15:24:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=208, y=64, z=864} class_2338{x=209, y=64, z=866}
+[15:26:19] [Server thread/INFO]: <EDGW> 开始自杀
+[15:26:25] [Server thread/INFO]: <EDGW> 回出生点
+[15:26:41] [Server thread/INFO]: EDGW drowned
+[15:29:29] [Server thread/INFO]: EDGW lost connection: Disconnected
+[15:29:29] [Server thread/INFO]: EDGW left the game
+[15:29:41] [Server thread/INFO]: PrestoNickel564 lost connection: Disconnected
+[15:29:41] [Server thread/INFO]: PrestoNickel564 left the game
+[15:41:29] [Server thread/INFO]: Plants352039[/127.0.0.1:53865] logged in with entity id 44112 at (-16.58191925691818, 79.0, 828.4294411972851)
+[15:41:29] [Server thread/INFO]: Plants352039 joined the game
+[15:41:29] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:42:30] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[15:42:30] [Server thread/INFO]: Plants352039 left the game
+[15:42:38] [Server thread/INFO]: Plants352039[/127.0.0.1:60868] logged in with entity id 44352 at (-16.58191925691818, 79.0, 828.4294411972851)
+[15:42:38] [Server thread/INFO]: Plants352039 joined the game
+[15:42:38] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:54:30] [Server thread/INFO]: extclp[/127.0.0.1:39126] logged in with entity id 45697 at (-49.54677373959887, 130.0, 29.146532145886077)
+[15:54:30] [Server thread/INFO]: extclp joined the game
+[15:54:30] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:56:20] [Server thread/INFO]: extclp lost connection: Disconnected
+[15:56:20] [Server thread/INFO]: extclp left the game
+[16:13:37] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[16:13:37] [Server thread/INFO]: Plants352039 left the game
+[16:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_16-22-43
+[16:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[16:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:22:43] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[16:22:54] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[16:57:01] [Server thread/INFO]: aka213[/127.0.0.1:52140] logged in with entity id 48064 at (-443.48244919007493, 69.5, 419.7217045609436)
+[16:57:01] [Server thread/INFO]: aka213 joined the game
+[16:57:01] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:57:05] [Netty Epoll Server IO #1/INFO]: Player aka213 joined with a matching carpet client
+[16:57:51] [Server thread/INFO]: <aka213> Stevew
+[17:00:05] [Server thread/INFO]: EDGW[/127.0.0.1:39776] logged in with entity id 49196 at (-389.49770631762226, 69.875, 466.1347490988639)
+[17:00:05] [Server thread/INFO]: EDGW joined the game
+[17:00:05] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:00:14] [Server thread/INFO]: <aka213> 666
+[17:03:14] [Server thread/INFO]: PrestoNickel564[/127.0.0.1:40982] logged in with entity id 50958 at (170.32693, 62.0, 912.02014)
+[17:03:14] [Server thread/INFO]: PrestoNickel564 joined the game
+[17:03:14] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:04:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=172, y=64, z=893} class_2338{x=171, y=64, z=892}
+[17:04:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=186, y=68, z=870} class_2338{x=187, y=69, z=870}
+[17:04:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=187, y=67, z=867} class_2338{x=188, y=67, z=866}
+[17:06:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=194, y=68, z=804} class_2338{x=193, y=69, z=804}
+[17:08:11] [Server thread/INFO]: PrestoNickel564 lost connection: Disconnected
+[17:08:11] [Server thread/INFO]: PrestoNickel564 left the game
+[17:09:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/56286, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[17:09:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/56294, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[17:09:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/56423, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[17:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[17:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:18:15] [Server thread/INFO]: aka213 has made the advancement [Voluntary Exile]
+[17:19:58] [Server thread/INFO]: <EDGW> 真的不刷了
+[17:22:07] [Server thread/INFO]: EDGW has made the advancement [Remote Getaway]
+[17:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_17-22-43
+[17:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[17:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:22:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:22:46] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[17:22:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
+[17:22:58] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[17:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[17:39:55] [Server thread/INFO]: aka213 lost connection: Disconnected
+[17:39:55] [Server thread/INFO]: aka213 left the game
+[17:46:43] [Server thread/INFO]: <EDGW> 有人进来吗
+[17:51:51] [Server thread/INFO]: aka213[/127.0.0.1:36700] logged in with entity id 79067 at (-416.4355184138226, 78.5, 488.97325655744316)
+[17:51:51] [Server thread/INFO]: aka213 joined the game
+[17:51:51] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:51:53] [Netty Epoll Server IO #4/INFO]: Player aka213 joined with a matching carpet client
+[17:52:16] [Server thread/INFO]: aka213 lost connection: Disconnected
+[17:52:16] [Server thread/INFO]: aka213 left the game
+[17:52:33] [Server thread/INFO]: EDGW fell from a high place
+[17:53:23] [Server thread/INFO]: <EDGW> 那就把服务端关了
+[17:53:36] [Server thread/INFO]: <EDGW> TASKKILL /F /IM JAVA.EXE
+[17:54:52] [Server thread/INFO]: EDGW fell from a high place
+[17:54:54] [Server thread/INFO]: <EDGW> c
+[18:00:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/84154, l='ServerLevel[world]', x=-302.43, y=70.00, z=362.32]
+[18:04:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86084, l='ServerLevel[world]', x=-302.88, y=75.05, z=361.29]
+[18:04:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86088, l='ServerLevel[world]', x=-302.13, y=75.06, z=360.90]
+[18:04:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/86073, l='ServerLevel[world]', x=-302.88, y=75.04, z=361.90]
+[18:11:33] [Server thread/INFO]: EDGW experienced kinetic energy
+[18:13:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/90426, l='ServerLevel[world]', x=-1491.30, y=69.34, z=479.36]
+[18:13:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90429, l='ServerLevel[world]', x=-1491.52, y=71.61, z=482.45]
+[18:13:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/90431, l='ServerLevel[world]', x=-1489.39, y=68.64, z=480.66]
+[18:13:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90432, l='ServerLevel[world]', x=-1493.30, y=70.25, z=484.61]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90461, l='ServerLevel[world]', x=-1496.66, y=69.68, z=484.74]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90469, l='ServerLevel[world]', x=-1497.38, y=70.54, z=480.27]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/90470, l='ServerLevel[world]', x=-1501.74, y=66.27, z=480.58]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90471, l='ServerLevel[world]', x=-1499.64, y=70.59, z=479.64]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90472, l='ServerLevel[world]', x=-1500.29, y=66.43, z=481.70]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90473, l='ServerLevel[world]', x=-1500.36, y=69.67, z=479.36]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90474, l='ServerLevel[world]', x=-1498.44, y=71.70, z=481.53]
+[18:13:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90475, l='ServerLevel[world]', x=-1500.53, y=70.73, z=484.75]
+[18:13:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90527, l='ServerLevel[world]', x=-1516.64, y=68.58, z=483.58]
+[18:13:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90528, l='ServerLevel[world]', x=-1513.39, y=68.72, z=484.45]
+[18:13:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90529, l='ServerLevel[world]', x=-1514.29, y=69.72, z=482.60]
+[18:13:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90571, l='ServerLevel[world]', x=-1509.54, y=65.26, z=482.29]
+[18:13:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Coal'/90572, l='ServerLevel[world]', x=-1513.52, y=66.51, z=480.65]
+[18:13:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90573, l='ServerLevel[world]', x=-1512.58, y=67.40, z=478.30]
+[18:13:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90574, l='ServerLevel[world]', x=-1512.56, y=70.48, z=480.52]
+[18:13:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/90643, l='ServerLevel[world]', x=-1525.58, y=69.64, z=487.65]
+[18:13:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90644, l='ServerLevel[world]', x=-1526.65, y=66.41, z=486.36]
+[18:13:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/90646, l='ServerLevel[world]', x=-1529.74, y=66.61, z=484.42]
+[18:13:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90794, l='ServerLevel[world]', x=-1549.50, y=68.58, z=486.58]
+[18:13:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90795, l='ServerLevel[world]', x=-1553.44, y=70.66, z=483.57]
+[18:13:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/90796, l='ServerLevel[world]', x=-1553.74, y=72.39, z=484.27]
+[18:13:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90797, l='ServerLevel[world]', x=-1554.49, y=68.55, z=483.68]
+[18:13:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Torch'/90798, l='ServerLevel[world]', x=-1555.75, y=68.55, z=482.57]
+[18:13:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/90799, l='ServerLevel[world]', x=-1551.27, y=70.69, z=486.57]
+[18:13:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/90807, l='ServerLevel[world]', x=-1554.37, y=70.61, z=480.51]
+[18:13:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90823, l='ServerLevel[world]', x=-1556.72, y=66.70, z=482.63]
+[18:13:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90824, l='ServerLevel[world]', x=-1555.58, y=68.60, z=485.57]
+[18:13:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90827, l='ServerLevel[world]', x=-1557.65, y=68.39, z=480.73]
+[18:13:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90828, l='ServerLevel[world]', x=-1557.40, y=66.67, z=483.72]
+[18:13:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90829, l='ServerLevel[world]', x=-1557.71, y=66.49, z=480.52]
+[18:13:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90910, l='ServerLevel[world]', x=-1573.67, y=66.34, z=484.36]
+[18:13:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/90911, l='ServerLevel[world]', x=-1572.54, y=66.59, z=482.59]
+[18:13:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90912, l='ServerLevel[world]', x=-1573.42, y=67.28, z=481.54]
+[18:13:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90913, l='ServerLevel[world]', x=-1572.73, y=70.27, z=484.27]
+[18:13:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90952, l='ServerLevel[world]', x=-1574.39, y=64.49, z=480.46]
+[18:13:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/90954, l='ServerLevel[world]', x=-1572.35, y=66.52, z=478.34]
+[18:13:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90955, l='ServerLevel[world]', x=-1575.64, y=69.69, z=478.31]
+[18:13:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90956, l='ServerLevel[world]', x=-1576.71, y=67.26, z=479.26]
+[18:13:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90957, l='ServerLevel[world]', x=-1577.38, y=68.29, z=479.38]
+[18:13:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90969, l='ServerLevel[world]', x=-1583.46, y=66.56, z=483.47]
+[18:13:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/90970, l='ServerLevel[world]', x=-1579.47, y=66.61, z=481.52]
+[18:13:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/90971, l='ServerLevel[world]', x=-1583.59, y=68.49, z=484.62]
+[18:13:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/90972, l='ServerLevel[world]', x=-1580.29, y=65.45, z=483.48]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/91074, l='ServerLevel[world]', x=-1596.30, y=66.35, z=479.27]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Granite'/91075, l='ServerLevel[world]', x=-1598.50, y=65.37, z=481.75]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/91076, l='ServerLevel[world]', x=-1598.34, y=66.52, z=478.38]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/91089, l='ServerLevel[world]', x=-1609.30, y=65.34, z=485.67]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/91090, l='ServerLevel[world]', x=-1607.46, y=68.72, z=486.51]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/91091, l='ServerLevel[world]', x=-1609.38, y=65.65, z=483.57]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/91092, l='ServerLevel[world]', x=-1606.52, y=68.25, z=485.31]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Dirt'/91093, l='ServerLevel[world]', x=-1609.65, y=69.69, z=485.39]
+[18:13:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/91094, l='ServerLevel[world]', x=-1607.36, y=65.71, z=482.55]
+[18:22:03] [Server thread/INFO]: <EDGW> Steve
+[18:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_18-22-43
+[18:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[18:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:22:44] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[18:22:57] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-19_04-48-20.zip
+[18:22:57] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[18:25:01] [Server thread/INFO]: <EDGW> .
+[18:25:16] [Server thread/INFO]: <EDGW> 看B站 看到流鼻血了
+[18:25:35] [Server thread/INFO]: <EDGW> e
+[18:25:37] [Server thread/INFO]: aka213[/127.0.0.1:36752] logged in with entity id 95723 at (-416.4355184138226, 78.5, 488.97325655744316)
+[18:25:37] [Server thread/INFO]: aka213 joined the game
+[18:25:37] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:25:40] [Netty Epoll Server IO #4/INFO]: Player aka213 joined with a matching carpet client
+[18:26:39] [Server thread/INFO]: <EDGW> who can help me? subway and railway are building
+[18:27:06] [Server thread/INFO]: <EDGW> ?
+[18:27:11] [Server thread/INFO]: <aka213> ?
+[18:27:14] [Server thread/INFO]: <EDGW> who can help me? subway and railway are building
+[18:27:15] [Server thread/INFO]: <aka213> 没说你
+[18:27:55] [Server thread/INFO]: <EDGW> .
+[18:28:12] [Server thread/INFO]: <EDGW> 鲨毙
+[18:28:20] [Server thread/INFO]: aka213 lost connection: Disconnected
+[18:28:20] [Server thread/INFO]: aka213 left the game
+[18:29:12] [Server thread/INFO]: <EDGW> 每次写3D游戏 我都会想“我这写出来又没人玩”于是就不写了
+[18:30:58] [Server thread/INFO]: <EDGW> Mac我这个是支持的
+[18:31:09] [Server thread/INFO]: EDGW lost connection: Disconnected
+[18:31:09] [Server thread/INFO]: EDGW left the game
+[18:38:13] [Server thread/INFO]: PrestoNickel564[/127.0.0.1:44510] logged in with entity id 98846 at (185.3, 86.16610717773438, 789.06464)
+[18:38:13] [Server thread/INFO]: PrestoNickel564 joined the game
+[18:38:13] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:45:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-280, y=77, z=815} class_2338{x=-301, y=76, z=780}
+[18:45:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-280, y=77, z=815} class_2338{x=-308, y=76, z=780}
+[18:45:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-313, y=75, z=781} class_2338{x=-313, y=76, z=781}
+[18:52:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-316, y=77, z=794} class_2338{x=-316, y=77, z=796}
+[18:57:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-308, y=75, z=778} class_2338{x=-308, y=76, z=778}
+[19:00:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-302, y=76, z=781} class_2338{x=-304, y=77, z=780}
+[19:08:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=794} class_2338{x=-346, y=79, z=805}
+[19:08:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=794} class_2338{x=-346, y=79, z=806}
+[19:08:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-347, y=78, z=806} class_2338{x=-346, y=79, z=807}
+[19:08:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-346, y=78, z=807} class_2338{x=-346, y=79, z=808}
+[19:08:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-346, y=78, z=808} class_2338{x=-346, y=79, z=809}
+[19:08:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-346, y=78, z=809} class_2338{x=-346, y=79, z=810}
+[19:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-346, y=78, z=810} class_2338{x=-346, y=79, z=811}
+[19:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-346, y=78, z=811} class_2338{x=-345, y=79, z=811}
+[19:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-345, y=78, z=811} class_2338{x=-345, y=79, z=810}
+[19:08:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-345, y=78, z=810} class_2338{x=-345, y=79, z=809}
+[19:08:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-345, y=78, z=809} class_2338{x=-345, y=79, z=808}
+[19:08:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-345, y=78, z=809} class_2338{x=-345, y=79, z=807}
+[19:08:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-345, y=78, z=807} class_2338{x=-345, y=79, z=806}
+[19:08:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-345, y=78, z=806} class_2338{x=-345, y=79, z=805}
+[19:08:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-345, y=78, z=805} class_2338{x=-344, y=79, z=805}
+[19:08:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-344, y=78, z=805} class_2338{x=-344, y=79, z=806}
+[19:08:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-344, y=78, z=806} class_2338{x=-343, y=79, z=806}
+[19:08:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=78, z=806} class_2338{x=-343, y=79, z=805}
+[19:08:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=78, z=805} class_2338{x=-342, y=79, z=805}
+[19:08:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-342, y=78, z=805} class_2338{x=-342, y=79, z=806}
+[19:08:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-342, y=78, z=806} class_2338{x=-341, y=79, z=806}
+[19:09:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-342, y=78, z=806} class_2338{x=-341, y=79, z=805}
+[19:09:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=805} class_2338{x=-340, y=79, z=805}
+[19:09:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=805} class_2338{x=-340, y=79, z=806}
+[19:09:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=806} class_2338{x=-339, y=79, z=806}
+[19:09:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-339, y=78, z=806} class_2338{x=-339, y=79, z=805}
+[19:09:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-339, y=78, z=806} class_2338{x=-338, y=79, z=806}
+[19:09:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-339, y=78, z=806} class_2338{x=-338, y=79, z=805}
+[19:09:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-339, y=78, z=806} class_2338{x=-337, y=79, z=805}
+[19:09:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-338, y=79, z=806} class_2338{x=-337, y=79, z=806}
+[19:09:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=806} class_2338{x=-336, y=79, z=806}
+[19:09:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=806} class_2338{x=-336, y=79, z=805}
+[19:09:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-336, y=78, z=805} class_2338{x=-335, y=79, z=805}
+[19:09:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=805} class_2338{x=-335, y=79, z=806}
+[19:09:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=806} class_2338{x=-334, y=79, z=806}
+[19:09:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=78, z=806} class_2338{x=-333, y=79, z=806}
+[19:09:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-333, y=78, z=806} class_2338{x=-332, y=79, z=806}
+[19:09:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=806} class_2338{x=-333, y=79, z=805}
+[19:09:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=806} class_2338{x=-334, y=79, z=805}
+[19:09:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=806} class_2338{x=-332, y=79, z=805}
+[19:09:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=79, z=807} class_2338{x=-332, y=79, z=807}
+[19:09:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=79, z=807} class_2338{x=-333, y=79, z=807}
+[19:09:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=79, z=807} class_2338{x=-333, y=79, z=808}
+[19:09:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-331, y=79, z=807} class_2338{x=-333, y=79, z=809}
+[19:09:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-333, y=78, z=809} class_2338{x=-334, y=79, z=808}
+[19:09:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-333, y=78, z=809} class_2338{x=-334, y=79, z=807}
+[19:09:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=79, z=808} class_2338{x=-334, y=79, z=809}
+[19:09:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=807} class_2338{x=-332, y=79, z=808}
+[19:09:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=808} class_2338{x=-332, y=79, z=809}
+[19:09:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=809} class_2338{x=-332, y=79, z=810}
+[19:09:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=810} class_2338{x=-332, y=79, z=811}
+[19:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=812} class_2338{x=-333, y=79, z=811}
+[19:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-332, y=78, z=812} class_2338{x=-333, y=79, z=810}
+[19:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=78, z=812} class_2338{x=-334, y=79, z=810}
+[19:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=78, z=812} class_2338{x=-334, y=79, z=811}
+[19:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-334, y=78, z=812} class_2338{x=-335, y=79, z=811}
+[19:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=811} class_2338{x=-335, y=79, z=810}
+[19:09:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=79, z=812} class_2338{x=-336, y=79, z=811}
+[19:09:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=811} class_2338{x=-336, y=79, z=810}
+[19:09:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=811} class_2338{x=-335, y=79, z=809}
+[19:09:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=811} class_2338{x=-336, y=79, z=809}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=811} class_2338{x=-336, y=79, z=808}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-336, y=78, z=808} class_2338{x=-337, y=79, z=809}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-336, y=78, z=808} class_2338{x=-337, y=79, z=808}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=78, z=808} class_2338{x=-337, y=79, z=810}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-336, y=78, z=810} class_2338{x=-338, y=79, z=810}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=810} class_2338{x=-339, y=79, z=810}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-338, y=78, z=810} class_2338{x=-338, y=79, z=811}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-338, y=78, z=810} class_2338{x=-339, y=79, z=811}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-338, y=78, z=810} class_2338{x=-340, y=79, z=810}
+[19:09:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-339, y=78, z=811} class_2338{x=-340, y=79, z=811}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=811} class_2338{x=-341, y=79, z=810}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=810} class_2338{x=-341, y=79, z=809}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=810} class_2338{x=-340, y=79, z=809}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=810} class_2338{x=-339, y=79, z=809}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=79, z=809} class_2338{x=-340, y=79, z=808}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=79, z=809} class_2338{x=-341, y=79, z=808}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=808} class_2338{x=-342, y=79, z=809}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=809} class_2338{x=-342, y=79, z=810}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=809} class_2338{x=-341, y=79, z=811}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=809} class_2338{x=-343, y=79, z=810}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=809} class_2338{x=-343, y=79, z=811}
+[19:09:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=809} class_2338{x=-342, y=79, z=811}
+[19:09:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=809} class_2338{x=-344, y=79, z=811}
+[19:09:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-344, y=78, z=811} class_2338{x=-344, y=79, z=810}
+[19:09:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-344, y=78, z=810} class_2338{x=-344, y=79, z=809}
+[19:09:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-344, y=78, z=809} class_2338{x=-343, y=79, z=809}
+[19:09:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=78, z=809} class_2338{x=-344, y=79, z=808}
+[19:09:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=79, z=808} class_2338{x=-344, y=79, z=807}
+[19:09:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=79, z=808} class_2338{x=-343, y=79, z=807}
+[19:09:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-343, y=79, z=808} class_2338{x=-342, y=79, z=807}
+[19:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-342, y=78, z=807} class_2338{x=-341, y=79, z=807}
+[19:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-341, y=78, z=807} class_2338{x=-340, y=79, z=807}
+[19:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-340, y=78, z=807} class_2338{x=-339, y=79, z=807}
+[19:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-339, y=78, z=807} class_2338{x=-339, y=79, z=808}
+[19:09:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-339, y=78, z=807} class_2338{x=-338, y=79, z=808}
+[19:09:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=808} class_2338{x=-338, y=79, z=807}
+[19:09:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=808} class_2338{x=-337, y=79, z=807}
+[19:09:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-337, y=78, z=808} class_2338{x=-336, y=79, z=807}
+[19:09:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-336, y=78, z=807} class_2338{x=-335, y=79, z=807}
+[19:09:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-336, y=78, z=810} class_2338{x=-338, y=79, z=809}
+[19:09:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-338, y=78, z=810} class_2338{x=-337, y=79, z=811}
+[19:09:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-338, y=78, z=810} class_2338{x=-342, y=79, z=808}
+[19:18:32] [Server thread/INFO]: PrestoNickel564 lost connection: Disconnected
+[19:18:32] [Server thread/INFO]: PrestoNickel564 left the game
+[19:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_19-22-43
+[19:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[19:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:22:43] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[19:22:54] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-19_05-48-20.zip
+[19:22:54] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[20:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_20-22-43
+[20:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[20:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:22:43] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[20:22:54] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-19_06-48-20.zip
+[20:22:54] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[20:52:29] [Server thread/INFO]: EDGW[/127.0.0.1:52659] logged in with entity id 103865 at (-1430.0322884670218, 68.0, 479.9297931536617)
+[20:52:29] [Server thread/INFO]: EDGW joined the game
+[20:52:29] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:56:24] [Server thread/INFO]: <EDGW> 谁来帮忙造公路
+[20:59:23] [Server thread/INFO]: <EDGW> e
+[21:16:41] [Server thread/INFO]: <EDGW> e
+[21:20:49] [Server thread/INFO]: <EDGW> e
+[21:21:08] [Server thread/INFO]: <EDGW> 谁来修一下混凝土固化机啊
+[21:21:29] [Server thread/INFO]: <EDGW> 谁来修一下混凝土固化机啊 全城没有1个混凝土了
+[21:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_21-22-43
+[21:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[21:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:45] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[21:22:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:22:57] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-19_07-48-20.zip
+[21:22:57] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[21:23:09] [Server thread/INFO]: <EDGW> 谁来修一下混凝土固化机啊 全城没有1个混凝土了
+[21:23:31] [Server thread/INFO]: <EDGW> 你作业写完了吗
+[21:23:50] [Server thread/INFO]: <EDGW> 这就对了嘛
+[21:24:01] [Server thread/INFO]: <EDGW> 你打算写一个晚上吗
+[21:24:31] [Server thread/INFO]: <EDGW> e
+[21:24:40] [Server thread/INFO]: <EDGW> 你们不查作业？
+[21:24:51] [Server thread/INFO]: EDGW was blown up by Creeper
+[21:25:02] [Server thread/INFO]: <EDGW> 我们天天查。。。
+[21:25:34] [Server thread/INFO]: <EDGW> 羡慕
+[21:25:44] [Server thread/INFO]: <EDGW> 你们NB
+[21:26:00] [Server thread/INFO]: <EDGW> 就是天王老子来了我们还是要查作业
+[21:27:56] [Server thread/INFO]: <EDGW> E
+[21:28:17] [Server thread/INFO]: EDGW lost connection: Disconnected
+[21:28:17] [Server thread/INFO]: EDGW left the game
+[22:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_22-22-43
+[22:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[22:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:22:43] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[22:22:55] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-19_08-48-23.zip
+[22:22:55] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[22:28:11] [Server thread/INFO]: EDGW[/127.0.0.1:56596] logged in with entity id 116502 at (-625.3354434605484, 70.0, 371.3945678043152)
+[22:28:11] [Server thread/INFO]: EDGW joined the game
+[22:28:11] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:28:44] [Server thread/INFO]: <EDGW> xiaolou家有x-2100啊
+[22:29:00] [Server thread/INFO]: <EDGW> 我实地考察过的
+[22:29:04] [Server thread/INFO]: <EDGW> o
+[22:29:26] [Server thread/INFO]: <EDGW> 居然在城区地铁范围内 可恶
+[22:29:55] [Server thread/INFO]: <EDGW> 城区地铁都得我一个人搞 现在都叫不到人帮忙
+[22:31:45] [Server thread/INFO]: <EDGW> 现在有一个非常不合理的问题 为什么1-4号线都是我负责啊
+[22:32:24] [Server thread/INFO]: <EDGW> e
+[22:32:25] [Server thread/INFO]: <EDGW> 咱地下的二号线炸好了混凝土还没搞呢
+[22:33:40] [Server thread/INFO]: <EDGW> 就3号线没开工 2号线已经停工 4号线还在施工 为了进度 小葵你还是找一个人来吧
+[22:34:22] [Server thread/INFO]: <EDGW> 我也只有3天时间了
+[22:37:48] [Server thread/INFO]: EDGW fell from a high place
+[22:39:21] [Server thread/INFO]: EDGW was slain by Zombie
+[22:41:15] [Server thread/INFO]: EDGW lost connection: Disconnected
+[22:41:15] [Server thread/INFO]: EDGW left the game
+[22:48:40] [Server thread/INFO]: EDGW[/127.0.0.1:42622] logged in with entity id 122443 at (-1449.6400227008914, 109.89511807485358, 508.07935785446494)
+[22:48:40] [Server thread/INFO]: EDGW joined the game
+[22:48:40] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:04:04] [Server thread/INFO]: EDGW lost connection: Disconnected
+[23:04:04] [Server thread/INFO]: EDGW left the game
+[23:22:43] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-19_23-22-43
+[23:22:43] [Server thread/INFO]: [Textile Backup] Saving server...
+[23:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:22:43] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[23:22:55] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-19_09-48-23.zip
+[23:22:55] [pool-3-thread-1/INFO]: [Textile Backup] Done!

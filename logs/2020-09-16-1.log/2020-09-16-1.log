@@ -1,0 +1,127 @@
+[00:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:28:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17459, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.07]
+[00:28:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17461, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.58]
+[00:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:45:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19000, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.92]
+[00:46:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19027, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.33]
+[00:46:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/19033, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.55]
+[00:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:50:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-09-16_00-50-00
+[00:50:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[00:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:50:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[00:50:08] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[00:59:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20559, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.84]
+[01:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:02:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20919, l='ServerLevel[world]', x=-88.36, y=7.00, z=281.95]
+[01:03:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20955, l='ServerLevel[world]', x=-87.94, y=7.00, z=281.95]
+[01:07:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/21573, l='ServerLevel[world]', x=-88.89, y=7.00, z=278.05]
+[01:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:15:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22257, l='ServerLevel[world]', x=-88.99, y=7.00, z=281.95]
+[01:17:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/22476, l='ServerLevel[world]', x=-88.08, y=7.00, z=278.05]
+[01:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:47:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26005, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.98]
+[01:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:50:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-09-16_01-50-00
+[01:50:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:50:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:50:08] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[01:54:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/26834, l='ServerLevel[world]', x=-87.78, y=7.00, z=278.05]
+[01:58:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27224, l='ServerLevel[world]', x=-88.77, y=7.00, z=281.95]
+[02:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:13:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28637, l='ServerLevel[world]', x=-86.04, y=7.00, z=279.14]
+[02:19:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/29297, l='ServerLevel[world]', x=-88.37, y=7.00, z=278.05]
+[02:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:26:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/29934, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.84]
+[02:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:39:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/31415, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.34]
+[02:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:48:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/32317, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.26]
+[02:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:50:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-09-16_02-50-00
+[02:50:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[02:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:50:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[02:50:09] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[02:53:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/32857, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.47]
+[02:59:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/33568, l='ServerLevel[world]', x=-86.05, y=7.12, z=280.29]
+[03:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:06:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/34461, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.05]
+[03:07:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/34559, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.66]
+[03:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:24:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/36569, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.91]
+[03:25:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/36613, l='ServerLevel[world]', x=-88.56, y=7.00, z=281.95]
+[03:29:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/36984, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.66]
+[03:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:31:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/37155, l='ServerLevel[world]', x=-86.03, y=7.00, z=280.99]
+[03:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:50:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-09-16_03-50-00
+[03:50:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[03:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:50:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[03:50:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/39407, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.62]
+[03:50:08] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[03:59:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/40466, l='ServerLevel[world]', x=-87.49, y=7.00, z=278.05]
+[04:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:23:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43048, l='ServerLevel[world]', x=-87.01, y=7.00, z=281.95]
+[04:23:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43056, l='ServerLevel[world]', x=-87.01, y=7.00, z=281.95]
+[04:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:50:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-09-16_04-50-00
+[04:50:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[04:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:50:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:50:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[04:50:08] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[04:52:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46248, l='ServerLevel[world]', x=-88.11, y=7.00, z=281.95]
+[04:53:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46432, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.95]
+[05:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:07:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/47910, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.99]
+[05:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:25:01] [Server thread/INFO]: [Server] 5??????????????????
+[05:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Thread-63/INFO]: WebServer closed.
+[05:30:01] [Server thread/INFO]: BlueMap unloaded!
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2020-09-16_05-30-01
+[05:30:01] [Server thread/INFO]: [Textile Backup] Starting backup
+[05:30:09] [Server thread/INFO]: [Textile Backup] Done!
+[05:30:09] [Server thread/INFO]: Thread RCON Listener stopped

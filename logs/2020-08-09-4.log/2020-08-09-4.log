@@ -1,0 +1,1000 @@
+[21:13:16] [main/INFO]: Loading for game Minecraft 1.16.1
+[21:13:17] [main/INFO]: [FabricLoader] Loading 54 mods: fabric-renderer-api-v1@0.2.13+eae12eb802, fabric-keybindings-v0@0.2.0+3fa9f7c502, fabricloader@0.9.0+build.204, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.5.1-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f02, fabric-dimensions-v1@1.0.0+a71b305302, fabric-object-builder-api-v1@1.5.6+a2d21ddd02, fabric-game-rule-api-v1@1.0.0+fe81e12502, fabric-api-base@0.1.3+12a8474c02, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d02, fabric-textures-v0@1.0.4+eae12eb802, fabric-rendering-fluids-v1@0.1.8+b7084faa02, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea8902, fabric-lifecycle-events-v1@1.2.0+e83e061c02, fabric-renderer-registries-v1@2.0.1+5a0f9a6002, carpet-extra@1.4.0, fabric-loot-tables-v1@1.0.0+386eb69e02, fabric@0.16.2+build.385-1.16.1, carpet@1.4.0, fabric-particles-v1@0.2.1+0a6f2a7002, fabric-networking-v0@0.1.10+e00ecb5f02, cotton-config@1.0.0-rc.7, here@0.0.10-mc1.16, minecraft@1.16.1, fabric-screen-handler-api-v1@1.1.0+97324d1102, fabric-networking-blockentity-v0@0.2.5+b50ffc7b02, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.8+5ce5339802, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.2.0+55e0cc5f02, fabric-renderer-indigo@0.3.4+34d6c87102, org_apache_commons_commons-compress@1.19, fabric-biomes-v1@0.2.7+059ea86602, fabric-crash-report-info-v1@0.1.2+b7f9825d02, fabric-events-interaction-v0@0.3.3+7066030f02, fabric-item-api-v1@1.0.0+16acbe5b02, fabric-rendering-v0@1.1.0+5341049002, fabric-rendering-v1@1.1.2+346247d702, fabric-key-binding-api-v1@1.0.1+f404f3be02, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.6+f41e209802, fabric-content-registries-v0@0.1.9+059ea86602, fabric-tag-extensions-v0@0.2.7+a4c57d8e02, fabric-commands-v0@0.2.0+52d3083602, fabric-registry-sync-v0@0.3.8+7dba2d6c02, textile_backup@1.4.0-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce9902, fabric-events-lifecycle-v0@0.2.0+16acbe5b02, fabric-item-groups-v0@0.2.0+438f963602, fabric-models-v0@0.1.0+dfdb52d602, fabric-object-builders-v0@0.6.1+a2d21ddd02
+[21:13:17] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[21:13:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/srv/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[21:13:21] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[21:13:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[21:13:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:13:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:13:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:37] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), FZ.sDatapack-1.5.0-SNAPSHOT-dev.20200411.0751.zip
+[21:13:40] [Worker-Main-4/INFO]: Loaded 7 recipes
+[21:13:41] [Worker-Main-4/INFO]: Loaded 927 advancements
+[21:13:42] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:dimension_type, minecraft:chunk_generator_type
+[21:13:42] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:13:42] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[21:13:42] [Server thread/INFO]: Loading properties
+[21:13:42] [Server thread/INFO]: Default game type: SURVIVAL
+[21:13:42] [Server thread/INFO]: Generating keypair
+[21:13:43] [Server thread/INFO]: Starting Minecraft server on *:26555
+[21:13:43] [Server thread/INFO]: Using epoll channel type
+[21:13:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:13:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:13:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:13:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:13:43] [Server thread/INFO]: Preparing level "world"
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting portalSuffocationFix as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[21:13:43] [Server thread/INFO]: [CM]: loaded setting commandTick as false from carpet.conf
+[21:13:44] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[21:13:44] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[21:13:44] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[21:13:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:48] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:13:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:13:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:13:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:13:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:13:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:13:52] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[21:13:52] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:53] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:54] [Server thread/INFO]: Preparing spawn area: 0%
+[21:13:54] [Worker-Main-5/INFO]: Preparing spawn area: 91%
+[21:13:55] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[21:13:55] [Worker-Main-6/INFO]: Preparing spawn area: 91%
+[21:13:56] [Server thread/INFO]: Preparing spawn area: 91%
+[21:13:56] [Worker-Main-5/INFO]: Preparing spawn area: 94%
+[21:13:57] [Server thread/INFO]: Preparing spawn area: 94%
+[21:13:57] [Server thread/INFO]: Time elapsed: 13199 ms
+[21:13:57] [Server thread/INFO]: Done (13.982s)! For help, type "help"
+[21:13:57] [Server thread/INFO]: Starting remote control listener
+[21:13:57] [Server thread/INFO]: Thread RCON Listener started
+[21:13:57] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:796
+[21:14:06] [Server thread/INFO]: EDGW[/127.0.0.1:45748] logged in with entity id 211 at (-733.6063325570817, 181.75433045278973, 402.19894619816205)
+[21:14:06] [Server thread/INFO]: EDGW joined the game
+[21:14:06] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[21:14:08] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:34201] logged in with entity id 222 at (137.9535871672882, 74.0, 82.68977314757986)
+[21:14:08] [Server thread/INFO]: MAX_XiaoKui joined the game
+[21:14:09] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:14:09] [Netty Epoll Server IO #0/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[21:14:16] [Server thread/INFO]: Nan_Yang[/127.0.0.1:51448] logged in with entity id 284 at (-376.3855937495388, 76.0, 433.09269988597185)
+[21:14:16] [Server thread/INFO]: Nan_Yang joined the game
+[21:14:16] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6845ms or 136 ticks behind
+[21:15:03] [Server thread/INFO]: WhiteSky_Bai[/127.0.0.1:45763] logged in with entity id 1093 at (-309.9144411651243, 66.0, 365.6201428714541)
+[21:15:03] [Server thread/INFO]: WhiteSky_Bai joined the game
+[21:15:03] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:15:08] [Server thread/INFO]: <Nan_Yang> WhiteSky_Bai
+[21:15:37] [Server thread/INFO]: <Nan_Yang> 你九点半下，你这还上线干嘛awa
+[21:15:44] [Server thread/INFO]: na2hco3_CN[/127.0.0.1:32797] logged in with entity id 1607 at (-59.594509450760896, 117.0, 540.6149907536186)
+[21:15:44] [Server thread/INFO]: na2hco3_CN joined the game
+[21:15:44] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:16:21] [Server thread/INFO]: <WhiteSky_Bai> 玩一下试一下
+[21:16:53] [Server thread/INFO]: <Nan_Yang> 来铺个天花板???awa
+[21:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4317ms or 86 ticks behind
+[21:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
+[21:18:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:19:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:19:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5999, l='ServerLevel[world]', x=-2067.38, y=69.32, z=533.70]
+[21:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[21:19:24] [Server thread/INFO]: <WhiteSky_Bai> 纯黑色的猫
+[21:19:25] [Server thread/INFO]: <WhiteSky_Bai> 抓到了
+[21:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3389ms or 67 ticks behind
+[21:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:20:50] [Server thread/INFO]: <Nan_Yang> WhiteSky_Bai
+[21:20:53] [Server thread/INFO]: <WhiteSky_Bai> e
+[21:20:54] [Server thread/INFO]: <Nan_Yang> 来铺个天花板???awa
+[21:20:59] [Server thread/INFO]: <WhiteSky_Bai> 拒绝
+[21:22:01] [Server thread/INFO]: <WhiteSky_Bai> 纯白的不知道去哪了
+[21:22:05] [Server thread/INFO]: <WhiteSky_Bai> 抓不到了= =
+[21:22:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:22:38] [Server thread/INFO]: Villager class_1646['Librarian'/3261, l='ServerLevel[world]', x=-2080.82, y=67.90, z=523.50] died, message: 'Librarian was slain by Nan_Yang'
+[21:22:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3211ms or 64 ticks behind
+[21:22:59] [Server thread/INFO]: <EDGW> 地铁是手挖吗
+[21:23:02] [Server thread/INFO]: Nan_Yang was slain by Iron Golem
+[21:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[21:23:09] [Server thread/INFO]: <WhiteSky_Bai> nb
+[21:23:09] [Server thread/INFO]: Nan_Yang was slain by Iron Golem
+[21:23:20] [Server thread/INFO]: Nan_Yang was slain by Iron Golem
+[21:23:23] [Server thread/INFO]: <Nan_Yang> ...
+[21:23:27] [Server thread/INFO]: <Nan_Yang> 我错了awa
+[21:23:28] [Server thread/INFO]: <WhiteSky_Bai> e
+[21:23:28] [Server thread/INFO]: <EDGW> >>>
+[21:23:33] [Server thread/INFO]: <WhiteSky_Bai> eee
+[21:23:37] [Server thread/INFO]: Nan_Yang was slain by Iron Golem
+[21:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21:23:40] [Server thread/INFO]: <WhiteSky_Bai> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.e
+[21:23:53] [Server thread/INFO]: <WhiteSky_Bai> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>e
+[21:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:24:02] [Server thread/INFO]: <WhiteSky_Bai> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>e
+[21:24:07] [Server thread/INFO]: zeao[/127.0.0.1:54533] logged in with entity id 8761 at (35.69854164571518, 129.0, 30.69999998807907)
+[21:24:07] [Server thread/INFO]: zeao joined the game
+[21:24:07] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:24:11] [Server thread/INFO]: <WhiteSky_Bai> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>e
+[21:24:14] [Server thread/INFO]: <WhiteSky_Bai> cao
+[21:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[21:24:22] [Server thread/INFO]: <MAX_XiaoKui> 别刷屏
+[21:24:27] [Server thread/INFO]: <WhiteSky_Bai> 聊天框不能玩
+[21:24:28] [Server thread/INFO]: <WhiteSky_Bai> = =
+[21:24:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3753ms or 75 ticks behind
+[21:24:34] [Server thread/INFO]: <Nan_Yang> 小葵
+[21:24:37] [Server thread/INFO]: <MAX_XiaoKui> en
+[21:24:44] [Server thread/INFO]: <Nan_Yang> 和铁傀儡的仇恨咋解决
+[21:24:52] [Server thread/INFO]: <WhiteSky_Bai> 杀了他
+[21:24:55] [Server thread/INFO]: <Nan_Yang> 我不小心带个村民
+[21:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7702ms or 154 ticks behind
+[21:24:58] [Server thread/INFO]: <Nan_Yang> awa
+[21:25:10] [Server thread/INFO]: <MAX_XiaoKui> bzd
+[21:25:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4611ms or 92 ticks behind
+[21:25:33] [Server thread/INFO]: <na2hco3_CN> 谁能帮我搞点萤石
+[21:25:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[21:25:41] [Server thread/INFO]: <Nan_Yang> 女巫塔
+[21:26:24] [Server thread/INFO]: Qian_linger[/127.0.0.1:51631] logged in with entity id 10462 at (189.91959419285556, 2.0625, -0.6924133530337253)
+[21:26:24] [Server thread/INFO]: Qian_linger joined the game
+[21:26:24] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:26:26] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:26:29] [Server thread/INFO]: Qian_linger has reached the goal [Beaconator]
+[21:26:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:26:58] [Server thread/INFO]: <Nan_Yang> wc
+[21:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3643ms or 72 ticks behind
+[21:27:13] [Server thread/INFO]: <EDGW> 地铁够深吗
+[21:27:13] [Server thread/INFO]: <Nan_Yang> 原价16一本的精修卖我50????
+[21:27:20] [Server thread/INFO]: <WhiteSky_Bai> 一组黑曜石
+[21:27:21] [Server thread/INFO]: <WhiteSky_Bai> 芜湖
+[21:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
+[21:27:27] [Server thread/INFO]: <WhiteSky_Bai> 不是13吗
+[21:27:37] [Server thread/INFO]: <Nan_Yang> 卖我50
+[21:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3270ms or 65 ticks behind
+[21:27:46] [Server thread/INFO]: <WhiteSky_Bai> 我这里18
+[21:27:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3265ms or 65 ticks behind
+[21:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3339ms or 66 ticks behind
+[21:28:29] [Server thread/INFO]: <EDGW> 地铁铁道是3格宽还是5格宽
+[21:28:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5146ms or 102 ticks behind
+[21:28:40] [Server thread/INFO]: <MAX_XiaoKui> 5吧
+[21:28:43] [Server thread/INFO]: <EDGW> o
+[21:28:47] [Server thread/INFO]: <Nan_Yang> zeao
+[21:28:51] [Server thread/INFO]: <Nan_Yang> 我的裤子awa
+[21:28:52] [Server thread/INFO]: <zeao> 哎
+[21:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
+[21:29:01] [Server thread/INFO]: <zeao> 在
+[21:29:10] [Server thread/INFO]: <zeao> 最后一道工序
+[21:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[21:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[21:29:43] [Server thread/INFO]: HongZhaJi[local] logged in with entity id 15794 at (135.27584742222672, 81.0, 81.81658174353312)
+[21:29:43] [Server thread/INFO]: HongZhaJi joined the game
+[21:29:45] [Server thread/INFO]: <zeao> 额
+[21:29:50] [Server thread/INFO]: HongZhaJi was slain by MAX_XiaoKui
+[21:29:50] [Server thread/INFO]: HongZhaJi lost connection: Killed
+[21:29:50] [Server thread/INFO]: HongZhaJi left the game
+[21:29:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5624ms or 112 ticks behind
+[21:29:56] [Server thread/INFO]: HongZhaJi[local] logged in with entity id 15969 at (135.41608414966933, 81.0, 81.73982846248894)
+[21:29:56] [Server thread/INFO]: HongZhaJi joined the game
+[21:30:00] [Server thread/INFO]: <zeao> 你亲自来吧
+[21:30:06] [Server thread/INFO]: <zeao> 我没经验了
+[21:30:13] [Server thread/INFO]: <Nan_Yang> 我也没...
+[21:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4068ms or 81 ticks behind
+[21:30:23] [Server thread/INFO]: <WhiteSky_Bai> e
+[21:30:24] [Server thread/INFO]: <zeao> 我在刷冰机这
+[21:30:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3447ms or 68 ticks behind
+[21:30:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[21:30:54] [Server thread/INFO]: <Nan_Yang> 没人点歌了awa
+[21:31:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4569ms or 91 ticks behind
+[21:31:20] [Server thread/INFO]: <zeao> 这边有铁砧
+[21:31:22] [Server thread/INFO]: <Nan_Yang> np
+[21:31:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3383ms or 67 ticks behind
+[21:31:37] [Server thread/INFO]: <zeao> ？咋了
+[21:31:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5694ms or 113 ticks behind
+[21:32:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/18158, l='ServerLevel[world]', x=25.41, y=8.32, z=87.30]
+[21:32:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/18158, l='ServerLevel[world]', x=25.41, y=8.32, z=87.30]
+[21:32:09] [Server thread/INFO]: <WhiteSky_Bai> 音乐呢
+[21:32:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7640ms or 152 ticks behind
+[21:32:12] [Server thread/INFO]: <EDGW> .
+[21:32:14] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:32:14] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:32:15] [Server thread/INFO]: <EDGW> 你妹MOD
+[21:32:16] [Server thread/INFO]: <MAX_XiaoKui> 我在正常
+[21:32:18] [Server thread/INFO]: <Nan_Yang> 咱能放点阳间玩意吗...
+[21:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8515ms or 170 ticks behind
+[21:32:50] [Server thread/INFO]: WhiteSky_Bai lost connection: Disconnected
+[21:32:50] [Server thread/INFO]: WhiteSky_Bai left the game
+[21:32:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4900ms or 98 ticks behind
+[21:33:04] [Server thread/INFO]: <Nan_Yang> 谁有空
+[21:33:08] [Server thread/INFO]: <Nan_Yang> 来帮忙
+[21:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3723ms or 74 ticks behind
+[21:33:24] [Server thread/INFO]: <zeao> 我还行
+[21:33:27] [Server thread/INFO]: <Nan_Yang> zeao
+[21:33:30] [Server thread/INFO]: <Nan_Yang> 来
+[21:33:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4601ms or 92 ticks behind
+[21:33:44] [Server thread/INFO]: <zeao> 就差个na的稿子没弄好了
+[21:33:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
+[21:34:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[21:34:23] [Server thread/INFO]: ChengXi123[/127.0.0.1:47639] logged in with entity id 20194 at (-412.96896927832717, 70.0, 488.5986762818624)
+[21:34:23] [Server thread/INFO]: ChengXi123 joined the game
+[21:34:23] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:34:26] [Netty Epoll Server IO #6/INFO]: Player ChengXi123 joined with a matching carpet client
+[21:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2543ms or 50 ticks behind
+[21:34:28] [Server thread/INFO]: <Nan_Yang> zeao
+[21:34:34] [Server thread/INFO]: <Nan_Yang> 得多久
+[21:34:41] [Server thread/INFO]: <Nan_Yang> 来帮忙awa
+[21:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[21:34:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/20466, l='ServerLevel[world]', x=-204.69, y=9.54, z=87.53]
+[21:34:47] [Server thread/INFO]: <zeao> 来了
+[21:34:52] [Server thread/INFO]: <na2hco3_CN> 啊？
+[21:34:56] [Server thread/INFO]: <na2hco3_CN> 我回档了
+[21:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[21:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2308ms or 46 ticks behind
+[21:35:21] [Server thread/INFO]: <zeao> 你在哪
+[21:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2950ms or 59 ticks behind
+[21:35:50] [Server thread/INFO]: <MAX_XiaoKui> 我把混凝土机用投影复制到镜像服改造去
+[21:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[21:36:01] [Server thread/INFO]: <zeao> 为啥我看不到
+[21:36:01] [Server thread/INFO]: <na2hco3_CN> e
+[21:36:03] [Server thread/INFO]: <Nan_Yang> 能用吗那个???
+[21:36:09] [Server thread/INFO]: <Nan_Yang> 别
+[21:36:10] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[21:36:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[21:36:19] [Server thread/INFO]: <Nan_Yang> 村民还没运
+[21:36:25] [Server thread/INFO]: <ChengXi123> ?
+[21:36:29] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[21:36:29] [Server thread/INFO]: MAX_XiaoKui left the game
+[21:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[21:36:32] [Server thread/INFO]: <Nan_Yang> 得先运村民
+[21:37:07] [Server thread/INFO]: <zeao> 又要扩建农村啊
+[21:37:12] [Server thread/INFO]: <Nan_Yang> en
+[21:37:20] [Server thread/INFO]: <Nan_Yang> 还有2个没造呢
+[21:37:25] [Server thread/INFO]: <zeao> 需要我干嘛
+[21:37:32] [Server thread/INFO]: <Nan_Yang> 来铺屋顶
+[21:37:35] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[21:37:41] [Server thread/INFO]: <Nan_Yang> 你会运村民不
+[21:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:37:54] [Server thread/INFO]: <ChengXi123> 在哪运？
+[21:38:07] [Server thread/INFO]: <Nan_Yang> xiaolou家
+[21:38:14] [Server thread/INFO]: <EDGW> 这个熔炉咋用
+[21:38:24] [Server thread/INFO]: <Nan_Yang> EDGW
+[21:38:26] [Server thread/INFO]: <Nan_Yang> 过来
+[21:38:26] [Server thread/INFO]: <EDGW> ?
+[21:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:38:28] [Server thread/INFO]: <EDGW> o
+[21:38:38] [Server thread/INFO]: <EDGW> where
+[21:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:39:04] [Server thread/INFO]: <Nan_Yang> 直接把东西放进去，但是千万别放不可燃的
+[21:39:09] [Server thread/INFO]: <zeao> 等一下
+[21:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[21:39:10] [Server thread/INFO]: <EDGW> o
+[21:39:20] [Server thread/INFO]: <zeao> 我没锄头
+[21:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[21:39:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[21:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[21:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3558ms or 71 ticks behind
+[21:40:30] [Server thread/INFO]: <Nan_Yang> EDGW
+[21:40:35] [Server thread/INFO]: <Nan_Yang> zeao
+[21:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3416ms or 68 ticks behind
+[21:40:44] [Server thread/INFO]: <Nan_Yang> 别慌耕地
+[21:40:51] [Server thread/INFO]: <Nan_Yang> 别慌耕地
+[21:40:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[21:41:01] [Server thread/INFO]: <Nan_Yang> 村民还没运
+[21:41:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2981ms or 59 ticks behind
+[21:41:17] [Server thread/INFO]: <Nan_Yang> 水那里留着
+[21:41:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:41:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
+[21:42:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3702ms or 74 ticks behind
+[21:42:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[21:42:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27662, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[21:42:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27662, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[21:42:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27662, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[21:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[21:43:04] [Server thread/INFO]: <Nan_Yang> 水那里留着
+[21:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[21:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2930ms or 58 ticks behind
+[21:43:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:43:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/28845, l='ServerLevel[world]', x=72.45, y=8.35, z=88.56]
+[21:44:07] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[21:44:10] [Server thread/INFO]: <Nan_Yang> 几个村民了
+[21:44:27] [Server thread/INFO]: <Nan_Yang> 别运有职业的
+[21:44:38] [Server thread/INFO]: <Nan_Yang> 别运有职业的
+[21:44:42] [Server thread/INFO]: <Nan_Yang> .........
+[21:44:46] [Server thread/INFO]: <ChengXi123> 没交易过
+[21:45:01] [Server thread/INFO]: <Nan_Yang> 把工作方块翘掉
+[21:45:07] [Server thread/INFO]: <Nan_Yang> 把工作方块敲掉
+[21:45:25] [Server thread/INFO]: <Nan_Yang> 你们睡个觉
+[21:45:30] [Server thread/INFO]: <zeao> 我能看看他有啥不
+[21:45:56] [Server thread/INFO]: <zeao> 你告诉我怎么让村民做船上
+[21:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21:46:07] [Server thread/INFO]: <zeao> 我看完让他坐回去
+[21:46:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/31097, l='ServerLevel[world]', x=-2073.50, y=69.32, z=524.50]
+[21:46:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/31097, l='ServerLevel[world]', x=-2073.50, y=69.32, z=524.50]
+[21:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3195ms or 63 ticks behind
+[21:46:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/31206, l='ServerLevel[world]', x=-72.54, y=6.63, z=89.47]
+[21:46:24] [Server thread/INFO]: <Nan_Yang> 放jiao下
+[21:46:39] [Server thread/INFO]: <Nan_Yang> 不要下的
+[21:46:42] [Server thread/INFO]: <Nan_Yang> 不要小的
+[21:46:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21:46:55] [Server thread/INFO]: <Nan_Yang> 还没长大
+[21:47:00] [Server thread/INFO]: <Nan_Yang> 不能干活
+[21:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3143ms or 62 ticks behind
+[21:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
+[21:47:40] [Server thread/INFO]: <zeao> 耐久一击退一的铁剑
+[21:47:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
+[21:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4913ms or 98 ticks behind
+[21:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6415ms or 128 ticks behind
+[21:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6045ms or 120 ticks behind
+[21:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5501ms or 110 ticks behind
+[21:49:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5703ms or 114 ticks behind
+[21:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5261ms or 105 ticks behind
+[21:50:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6127ms or 122 ticks behind
+[21:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7328ms or 146 ticks behind
+[21:50:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7175ms or 143 ticks behind
+[21:51:12] [Server thread/INFO]: <zeao> 你们在哪运村民
+[21:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8048ms or 160 ticks behind
+[21:51:17] [Server thread/INFO]: <zeao> 我也来
+[21:51:26] [Server thread/INFO]: <ChengXi123> .
+[21:51:31] [Server thread/INFO]: <EDGW> .
+[21:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5576ms or 111 ticks behind
+[21:51:37] [Server thread/INFO]: <EDGW> 这随机的啊
+[21:51:41] [Server thread/INFO]: <zeao> 在那边太无聊了
+[21:51:45] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:35125] logged in with entity id 35792 at (-2059.1205691675177, 70.0, 519.092345152092)
+[21:51:45] [Server thread/INFO]: xiaolouQAQ joined the game
+[21:51:45] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:51:47] [Netty Epoll Server IO #1/INFO]: Player xiaolouQAQ joined with a matching carpet client
+[21:51:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/36060, l='ServerLevel[world]', x=119.36, y=9.28, z=90.70]
+[21:51:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5827ms or 116 ticks behind
+[21:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
+[21:52:36] [Server thread/INFO]: <xiaolouQAQ> ??
+[21:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5098ms or 101 ticks behind
+[21:52:42] [Server thread/INFO]: <xiaolouQAQ> 开幕雷击
+[21:52:46] [Server thread/INFO]: <Nan_Yang> zeao
+[21:52:48] [Server thread/INFO]: <Nan_Yang> 出来
+[21:52:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5501ms or 110 ticks behind
+[21:53:10] [Server thread/INFO]: <EDGW> 太嚣张了hh
+[21:53:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5242ms or 104 ticks behind
+[21:53:30] [Server thread/INFO]: <Nan_Yang> 大型黑奴运送现场
+[21:53:33] [Server thread/INFO]: <EDGW> .
+[21:53:36] [Server thread/INFO]: <Nan_Yang> zeao
+[21:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5151ms or 103 ticks behind
+[21:53:45] [Server thread/INFO]: <Nan_Yang> 往前走
+[21:53:52] [Server thread/INFO]: <Nan_Yang> 别急
+[21:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[21:53:58] [Server thread/WARN]: Boat (vehicle of zeao) moved wrongly! 0.4541015625
+[21:53:58] [Server thread/WARN]: Boat (vehicle of zeao) moved wrongly! 0.4541015625
+[21:54:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6441ms or 128 ticks behind
+[21:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7098ms or 141 ticks behind
+[21:54:43] [Server thread/INFO]: <ChengXi123> !少了一只
+[21:54:54] [Server thread/INFO]: <Nan_Yang> ???
+[21:54:58] [Server thread/INFO]: <EDGW> ?
+[21:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8538ms or 170 ticks behind
+[21:55:06] [Server thread/INFO]: <Nan_Yang> 你那边几只
+[21:55:16] [Server thread/INFO]: <ChengXi123> 过安检的时候不见了一只
+[21:55:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9640ms or 192 ticks behind
+[21:55:36] [Server thread/INFO]: <ChengXi123> 加上之前运的2只
+[21:55:42] [Server thread/INFO]: <xiaolouQAQ> 鉴制砂石咋做？
+[21:55:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8233ms or 164 ticks behind
+[21:55:55] [Server thread/INFO]: <Nan_Yang> 4个沙石
+[21:56:05] [Server thread/INFO]: <xiaolouQAQ> 那是切制
+[21:56:07] [Server thread/INFO]: <Nan_Yang> xiaolouQAQ
+[21:56:14] [Server thread/INFO]: <xiaolouQAQ> 鉴制有苦力怕纹路
+[21:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7789ms or 155 ticks behind
+[21:56:19] [Server thread/INFO]: <ChengXi123> 哦，找到了
+[21:56:25] [Server thread/INFO]: <Nan_Yang> 把你家的砂轮拆掉重放
+[21:56:29] [Server thread/INFO]: <Nan_Yang> xiaolouQAQ
+[21:56:32] [Server thread/INFO]: <ChengXi123> 拆了
+[21:56:32] [Server thread/INFO]: <xiaolouQAQ> ?
+[21:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6473ms or 129 ticks behind
+[21:56:45] [Server thread/INFO]: <Nan_Yang> 他还是武器商人
+[21:56:48] [Server thread/INFO]: <EDGW> 手挖地铁速度惊人
+[21:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7422ms or 148 ticks behind
+[21:57:01] [Server thread/INFO]: <xiaolouQAQ> 你拿武器商人干啥
+[21:57:07] [Server thread/INFO]: <Nan_Yang> ChengXi123铁路运到2f
+[21:57:18] [Server thread/INFO]: <Nan_Yang> ChengXi123运的
+[21:57:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6005ms or 120 ticks behind
+[21:57:24] [Server thread/INFO]: <Nan_Yang> 搞不懂
+[21:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6678ms or 133 ticks behind
+[21:57:42] [Server thread/INFO]: <zeao> 我想带着这个村民遨游四海
+[21:57:45] [Server thread/INFO]: <EDGW> .
+[21:57:46] [Server thread/INFO]: <zeao> 哈哈哈哈
+[21:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7919ms or 158 ticks behind
+[21:58:07] [Server thread/INFO]: <ChengXi123> 他出来的时候我不小心打掉了船，然后他到砂轮那领了职业
+[21:58:21] [Server thread/INFO]: <zeao> 哈哈哈哈哈
+[21:58:24] [Server thread/INFO]: <Nan_Yang> 哪个砂轮
+[21:58:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7116ms or 142 ticks behind
+[21:58:43] [Server thread/INFO]: <ChengXi123> 已经重新放了
+[21:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6382ms or 127 ticks behind
+[21:58:50] [Server thread/INFO]: <Nan_Yang> 但是还不行
+[21:58:57] [Server thread/INFO]: <Nan_Yang> 还是武器商
+[21:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5264ms or 105 ticks behind
+[21:59:15] [Server thread/INFO]: <Nan_Yang> 现在还是吗
+[21:59:17] [Server thread/INFO]: <ChengXi123> 就地处决吧
+[21:59:17] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[21:59:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5910ms or 118 ticks behind
+[21:59:39] [Server thread/INFO]: <zeao> 这么残忍的吗
+[21:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4301ms or 86 ticks behind
+[21:59:53] [Server thread/INFO]: <xiaolouQAQ> 还杀我村民==
+[21:59:55] [Server thread/INFO]: <zeao> 那我带他遨游四海可以不
+[21:59:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/43559, l='ServerLevel[world]', x=136.47, y=4.35, z=92.47]
+[22:00:08] [Server thread/INFO]: <EDGW> ?W
+[22:00:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6600ms or 132 ticks behind
+[22:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7888ms or 157 ticks behind
+[22:00:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7685ms or 153 ticks behind
+[22:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7061ms or 141 ticks behind
+[22:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5372ms or 107 ticks behind
+[22:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4569ms or 91 ticks behind
+[22:02:07] [Server thread/INFO]: <Nan_Yang> zeao
+[22:02:11] [Server thread/INFO]: <Nan_Yang> 过来
+[22:02:11] [Server thread/INFO]: <zeao> 在
+[22:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5675ms or 113 ticks behind
+[22:02:40] [Server thread/INFO]: <Nan_Yang> 再做一个单元
+[22:02:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7352ms or 147 ticks behind
+[22:03:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6057ms or 121 ticks behind
+[22:03:05] [Server thread/INFO]: <zeao> 我去拿点玻璃
+[22:03:21] [Server thread/INFO]: <ChengXi123> 一楼中间两间没村民？
+[22:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5937ms or 118 ticks behind
+[22:03:26] [Server thread/INFO]: <Nan_Yang> ??
+[22:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6898ms or 137 ticks behind
+[22:03:51] [Server thread/INFO]: <Nan_Yang> 村民呢????
+[22:04:04] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[22:04:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/48236, l='ServerLevel[world]', x=-210.27, y=5.70, z=92.46]
+[22:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7923ms or 158 ticks behind
+[22:04:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/48285, l='ServerLevel[world]', x=-211.71, y=7.33, z=92.28]
+[22:04:09] [Server thread/INFO]: <Nan_Yang> 拉过来补货
+[22:04:22] [Server thread/INFO]: <EDGW> 受手撸的惊人速度影响 还是搞盾构机吧
+[22:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7880ms or 157 ticks behind
+[22:04:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7527ms or 150 ticks behind
+[22:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6078ms or 121 ticks behind
+[22:05:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8149ms or 162 ticks behind
+[22:05:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7581ms or 151 ticks behind
+[22:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6835ms or 136 ticks behind
+[22:06:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7656ms or 153 ticks behind
+[22:07:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6434ms or 128 ticks behind
+[22:07:18] [Server thread/INFO]: <ChengXi123> 我想跟那个盔甲商交易。。。
+[22:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7700ms or 154 ticks behind
+[22:07:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5178ms or 103 ticks behind
+[22:07:59] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[22:08:04] [Server thread/INFO]: <Nan_Yang> 村民运过来
+[22:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5295ms or 105 ticks behind
+[22:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[22:08:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/52778, l='ServerLevel[world]', x=122.47, y=9.39, z=92.75]
+[22:08:47] [Server thread/INFO]: <zeao> 我没有铁块
+[22:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5978ms or 119 ticks behind
+[22:09:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/53263, l='ServerLevel[world]', x=76.34, y=9.50, z=92.36]
+[22:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5774ms or 115 ticks behind
+[22:09:20] [Server thread/INFO]: <zeao> 这是铁块还是石英块
+[22:09:28] [Server thread/INFO]: <Nan_Yang> 下一个
+[22:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5943ms or 118 ticks behind
+[22:09:34] [Server thread/INFO]: <Nan_Yang> zeao
+[22:09:36] [Server thread/INFO]: <Nan_Yang> ???
+[22:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9690ms or 193 ticks behind
+[22:10:10] [Server thread/INFO]: <Nan_Yang> 没了???
+[22:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9552ms or 191 ticks behind
+[22:10:22] [Server thread/INFO]: <zeao> 那个单元一楼没封顶
+[22:10:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Wheat Seeds'/54720, l='ServerLevel[world]', x=-118.56, y=68.38, z=420.10]
+[22:10:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Wheat Seeds'/54713, l='ServerLevel[world]', x=-116.28, y=67.94, z=419.20]
+[22:10:38] [Server thread/INFO]: <Nan_Yang> 你封一下
+[22:10:42] [Server thread/INFO]: <Nan_Yang> 平滑石头
+[22:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8982ms or 179 ticks behind
+[22:10:49] [Server thread/INFO]: <zeao> P昂
+[22:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8631ms or 172 ticks behind
+[22:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8445ms or 168 ticks behind
+[22:11:50] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[22:11:52] [Server thread/INFO]: <Nan_Yang> 继续运
+[22:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8627ms or 172 ticks behind
+[22:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10852ms or 217 ticks behind
+[22:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8362ms or 167 ticks behind
+[22:12:54] [Server thread/INFO]: <xiaolouQAQ> 运了给我繁殖
+[22:13:03] [Server thread/INFO]: <Nan_Yang> 我天天喂
+[22:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
+[22:13:12] [Server thread/INFO]: <Nan_Yang> 这点你放心
+[22:13:19] [Server thread/INFO]: <ChengXi123> na2hco3_CN这里搞全物品？
+[22:13:27] [Server thread/INFO]: <xiaolouQAQ> 你才是奴隶主
+[22:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7040ms or 140 ticks behind
+[22:13:29] [Server thread/INFO]: <na2hco3_CN> 额
+[22:13:35] [Server thread/INFO]: <na2hco3_CN> 简单的物品分类
+[22:13:42] [Server thread/INFO]: <Nan_Yang> 我这是计划经济
+[22:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6860ms or 137 ticks behind
+[22:13:51] [Server thread/INFO]: <Nan_Yang> 共 产 主 义
+[22:14:02] [Server thread/INFO]: <ChengXi123> 怎么还养骷髅呢？
+[22:14:02] [Server thread/INFO]: <xiaolouQAQ> D区
+[22:14:04] [Server thread/INFO]: <zeao> 平滑石头怎么造
+[22:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-09_22-14-08
+[22:14:08] [Server thread/INFO]: Saving server...
+[22:14:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:14:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:14:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:14:15] [pool-3-thread-1/INFO]: Starting backup
+[22:14:15] [pool-3-thread-1/INFO]: Starting compression...
+[22:14:16] [Server thread/INFO]: <zeao> 还没封完
+[22:14:16] [Server thread/INFO]: <Nan_Yang> 石头烧
+[22:14:16] [Server thread/INFO]: <xiaolouQAQ> 石头再烧
+[22:14:20] [pool-3-thread-1/INFO]: Compression took: 04.836 seconds.
+[22:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15060ms or 301 ticks behind
+[22:14:20] [pool-3-thread-1/INFO]: Done!
+[22:14:23] [Server thread/INFO]: <na2hco3_CN> ???
+[22:14:31] [Server thread/INFO]: <na2hco3_CN> 刷出来的吧
+[22:14:41] [Server thread/INFO]: <ChengXi123> 那我杀了
+[22:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9440ms or 188 ticks behind
+[22:14:49] [Server thread/INFO]: <na2hco3_CN> o
+[22:15:10] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:58809] logged in with entity id 58915 at (-369.8328235412103, 69.0, 539.7725157092312)
+[22:15:10] [Server thread/INFO]: MAX_XiaoKui joined the game
+[22:15:10] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:15:10] [Netty Epoll Server IO #2/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[22:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10975ms or 219 ticks behind
+[22:15:11] [Netty Epoll Server IO #2/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[22:15:15] [Server thread/INFO]: <xiaolouQAQ> ???
+[22:15:20] [Server thread/INFO]: <MAX_XiaoKui> ?
+[22:15:30] [Server thread/INFO]: <xiaolouQAQ> nanyang我就好这口
+[22:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13517ms or 270 ticks behind
+[22:15:52] [Server thread/INFO]: <Nan_Yang> 小葵是不是开幕雷击awa
+[22:15:55] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[22:15:55] [Server thread/INFO]: ChengXi123 left the game
+[22:16:01] [Server thread/INFO]: EDGW lost connection: Disconnected
+[22:16:01] [Server thread/INFO]: EDGW left the game
+[22:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11946ms or 238 ticks behind
+[22:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8577ms or 171 ticks behind
+[22:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6169ms or 123 ticks behind
+[22:16:53] [Server thread/INFO]: ChengXi123[/127.0.0.1:50383] logged in with entity id 60265 at (-102.20294720076383, 116.0, 522.920353283452)
+[22:16:53] [Server thread/INFO]: ChengXi123 joined the game
+[22:16:53] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:16:53] [Netty Epoll Server IO #2/INFO]: Player ChengXi123 joined with a matching carpet client
+[22:16:54] [Netty Epoll Server IO #2/INFO]: Player ChengXi123 joined with a matching carpet client
+[22:17:06] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[22:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5680ms or 113 ticks behind
+[22:17:14] [Server thread/INFO]: <Nan_Yang> 运村民
+[22:17:20] [Server thread/INFO]: <Nan_Yang> 在地狱门那
+[22:17:27] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[22:17:27] [Server thread/INFO]: MAX_XiaoKui left the game
+[22:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6394ms or 127 ticks behind
+[22:17:51] [Server thread/INFO]: <Nan_Yang> 不妨我们来首威风堂堂
+[22:17:53] [Server thread/INFO]: <Nan_Yang> awa
+[22:17:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7092ms or 141 ticks behind
+[22:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4884ms or 97 ticks behind
+[22:18:25] [Server thread/INFO]: <ChengXi123> .我还没装mod
+[22:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
+[22:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[22:18:58] [Server thread/INFO]: <Nan_Yang> ...
+[22:19:01] [Server thread/INFO]: <Nan_Yang> 点不了
+[22:19:06] [Server thread/INFO]: <xiaolouQAQ> good
+[22:19:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3255ms or 65 ticks behind
+[22:19:15] [Server thread/INFO]: <Nan_Yang> 可惜了
+[22:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4044ms or 80 ticks behind
+[22:19:35] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[22:19:38] [Server thread/INFO]: <Nan_Yang> 继续运
+[22:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[22:19:53] [Server thread/INFO]: <zeao> 好了，就差水和萤石了
+[22:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2833ms or 56 ticks behind
+[22:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2960ms or 59 ticks behind
+[22:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3521ms or 70 ticks behind
+[22:21:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4806ms or 96 ticks behind
+[22:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4259ms or 85 ticks behind
+[22:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3200ms or 64 ticks behind
+[22:21:50] [Server thread/INFO]: <zeao> 各位
+[22:21:53] [Server thread/INFO]: <xiaolouQAQ> ?
+[22:21:57] [Server thread/INFO]: <Nan_Yang> ?
+[22:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4541ms or 90 ticks behind
+[22:22:04] [Server thread/INFO]: <na2hco3_CN> ?
+[22:22:07] [Server thread/INFO]: <ChengXi123> ?
+[22:22:10] [Server thread/INFO]: <zeao> 末地传送门貌似被重制掉了
+[22:22:19] [Server thread/INFO]: <Nan_Yang> ...
+[22:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5404ms or 108 ticks behind
+[22:22:27] [Server thread/INFO]: <xiaolouQAQ> 重新插眼？
+[22:22:40] [Server thread/INFO]: <zeao> 我那个朋友打算去末地，发现门没了
+[22:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4961ms or 99 ticks behind
+[22:22:49] [Server thread/INFO]: <zeao> 他没眼
+[22:22:53] [Server thread/INFO]: <Nan_Yang> 拔掉重新插???
+[22:23:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[22:23:14] [Server thread/INFO]: <zeao> 我去看看情况
+[22:23:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7176ms or 143 ticks behind
+[22:23:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4566ms or 91 ticks behind
+[22:23:46] [Server thread/INFO]: <Nan_Yang> wc
+[22:23:53] [Server thread/INFO]: <Nan_Yang> 地狱门没了
+[22:24:00] [Server thread/INFO]: <xiaolouQAQ> ?
+[22:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
+[22:24:05] [Server thread/INFO]: <Nan_Yang> 只能进回不去???
+[22:24:06] [Server thread/INFO]: <zeao> 他和我说没了
+[22:24:13] [Server thread/INFO]: <zeao> 对
+[22:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6679ms or 133 ticks behind
+[22:24:31] [Server thread/INFO]: <zeao> 过去的地狱门有回来的没了
+[22:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3538ms or 70 ticks behind
+[22:24:46] [Server thread/INFO]: <zeao> 怎么办
+[22:24:50] [Server thread/INFO]: <xiaolouQAQ> 再造
+[22:24:51] [Server thread/INFO]: <zeao> 你有打火石吗
+[22:24:54] [Server thread/INFO]: <Qian_linger> 有问题
+[22:24:57] [Server thread/INFO]: <xiaolouQAQ> 地狱的在就行
+[22:24:57] [Server thread/INFO]: <Nan_Yang> 我没带打火机
+[22:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[22:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[22:25:19] [Server thread/INFO]: <zeao> 我去刷怪塔那边捞一个
+[22:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5751ms or 115 ticks behind
+[22:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4699ms or 93 ticks behind
+[22:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:26:25] [Server thread/INFO]: <Nan_Yang> 我没小黑眼睛
+[22:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:26:53] [Server thread/INFO]: <zeao> 刷怪塔这边也出问题了
+[22:27:02] [Server thread/INFO]: <Nan_Yang> 坏了???
+[22:27:09] [Server thread/INFO]: <ChengXi123> 没了？
+[22:27:11] [Server thread/INFO]: <zeao> 楼上的水收不回去了
+[22:27:19] [Server thread/INFO]: <Nan_Yang> 2个???
+[22:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22:27:31] [Server thread/INFO]: <xiaolouQAQ> 小葵大意了==
+[22:27:39] [Server thread/INFO]: <zeao> 就一个桶
+[22:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:27:53] [Server thread/INFO]: <zeao> 但水收不回去
+[22:28:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22:28:29] [Server thread/INFO]: <zeao> 我手动收回去了
+[22:28:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3151ms or 63 ticks behind
+[22:28:39] [Server thread/INFO]: <zeao> 我再回去看看
+[22:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[22:29:09] [Server thread/INFO]: <zeao> 可以了
+[22:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22:29:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2668ms or 53 ticks behind
+[22:29:43] [Server thread/INFO]: <zeao> 那末地怎么办
+[22:29:48] [Server thread/INFO]: <Nan_Yang> 好了
+[22:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6214ms or 124 ticks behind
+[22:30:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7555ms or 151 ticks behind
+[22:30:19] [Server thread/INFO]: shuaguai[local] logged in with entity id 72883 at (-580.3000000119209, 201.5625, 1184.4507674032095)
+[22:30:19] [Server thread/INFO]: shuaguai joined the game
+[22:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5231ms or 104 ticks behind
+[22:31:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8698ms or 173 ticks behind
+[22:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7578ms or 151 ticks behind
+[22:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6319ms or 126 ticks behind
+[22:31:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/74278, l='ServerLevel[world]', x=-401.70, y=70.26, z=460.51]
+[22:31:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/74278, l='ServerLevel[world]', x=-401.70, y=70.26, z=460.51]
+[22:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6479ms or 129 ticks behind
+[22:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8775ms or 175 ticks behind
+[22:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9041ms or 180 ticks behind
+[22:33:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/75118, l='ServerLevel[world]', x=66.49, y=8.40, z=95.66]
+[22:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8108ms or 162 ticks behind
+[22:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9444ms or 188 ticks behind
+[22:33:45] [Server thread/INFO]: <Nan_Yang> zeao
+[22:33:50] [Server thread/INFO]: <na2hco3_CN> 有没有人闲着的
+[22:33:52] [Server thread/INFO]: <zeao> 在
+[22:34:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10085ms or 201 ticks behind
+[22:34:06] [Server thread/INFO]: <Nan_Yang> 你去把出生点的刷铁机清理清理
+[22:34:12] [Server thread/INFO]: <na2hco3_CN> 帮我搞个一盒白色混凝土和半盒灰色混凝土
+[22:34:12] [Server thread/INFO]: <Nan_Yang> 好像满了
+[22:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8839ms or 176 ticks behind
+[22:34:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5870ms or 117 ticks behind
+[22:34:55] [Server thread/INFO]: <na2hco3_CN> 以及10组的萤石
+[22:34:55] [Server thread/INFO]: <zeao> 行
+[22:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5985ms or 119 ticks behind
+[22:35:15] [Server thread/INFO]: <zeao> 那冰没化
+[22:35:24] [Server thread/INFO]: <zeao> 萤石我放上去了
+[22:35:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/77760, l='ServerLevel[world]', x=-124.65, y=7.54, z=95.59]
+[22:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6452ms or 129 ticks behind
+[22:35:48] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/77985, l='ServerLevel[world]', x=-57.26, y=113.91, z=515.62]
+[22:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5508ms or 110 ticks behind
+[22:36:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/78499, l='ServerLevel[world]', x=-173.51, y=9.39, z=95.32]
+[22:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8340ms or 166 ticks behind
+[22:36:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/78779, l='ServerLevel[world]', x=-202.39, y=9.67, z=95.52]
+[22:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10031ms or 200 ticks behind
+[22:36:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Diorite'/79275, l='ServerLevel[world]', x=-183.64, y=9.36, z=95.29]
+[22:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7305ms or 146 ticks behind
+[22:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6280ms or 125 ticks behind
+[22:37:35] [Server thread/INFO]: Villager class_1646['Weaponsmith'/72848, l='ServerLevel[world]', x=-410.72, y=69.00, z=424.24] died, message: 'Weaponsmith tried to swim in lava'
+[22:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7944ms or 158 ticks behind
+[22:38:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6800ms or 136 ticks behind
+[22:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6340ms or 126 ticks behind
+[22:38:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4336ms or 86 ticks behind
+[22:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4273ms or 85 ticks behind
+[22:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4024ms or 80 ticks behind
+[22:39:40] [Server thread/INFO]: <Qian_linger> ?
+[22:39:42] [Server thread/INFO]: <na2hco3_CN> ?
+[22:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4698ms or 93 ticks behind
+[22:39:51] [Server thread/INFO]: <na2hco3_CN> 好家伙
+[22:39:57] [Server thread/INFO]: <na2hco3_CN> 还有棘刺了
+[22:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5057ms or 101 ticks behind
+[22:40:13] [Server thread/INFO]: <zeao> 这些花怎么办
+[22:40:22] [Server thread/INFO]: <zeao> 扔哪
+[22:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[22:40:31] [Server thread/INFO]: <na2hco3_CN> 找个箱子放呗
+[22:40:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
+[22:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[22:41:22] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[22:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6342ms or 126 ticks behind
+[22:41:44] [Server thread/INFO]: <Nan_Yang> ChengXi123
+[22:41:49] [Server thread/INFO]: <Nan_Yang> 有个小村民跑来
+[22:41:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/83387, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[22:41:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/83387, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[22:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7246ms or 144 ticks behind
+[22:41:52] [Server thread/INFO]: <Nan_Yang> 有个小村民跑了
+[22:42:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6447ms or 128 ticks behind
+[22:42:22] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[22:42:22] [Server thread/INFO]: ChengXi123 left the game
+[22:42:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/83802, l='ServerLevel[world]', x=-401.70, y=70.26, z=440.50]
+[22:42:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6428ms or 128 ticks behind
+[22:42:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5069ms or 101 ticks behind
+[22:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7055ms or 141 ticks behind
+[22:43:20] [Server thread/INFO]: <zeao> 这没垃圾桶的吗
+[22:43:26] [Server thread/INFO]: <Nan_Yang> 有
+[22:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5864ms or 117 ticks behind
+[22:43:39] [Server thread/INFO]: <Nan_Yang> 这
+[22:43:39] [Server thread/INFO]: <na2hco3_CN> 白混凝土有么
+[22:43:51] [Server thread/INFO]: <na2hco3_CN> 彻底用完
+[22:43:54] [Server thread/INFO]: <zeao> 哪呢
+[22:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[22:43:57] [Server thread/INFO]: <Nan_Yang> 这
+[22:44:09] [Server thread/INFO]: <zeao> ......
+[22:44:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7592ms or 151 ticks behind
+[22:44:21] [Server thread/INFO]: <Nan_Yang> 土豆机旁边呢
+[22:44:35] [Server thread/INFO]: <zeao> 我说刷铁机这
+[22:44:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[22:44:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/86856, l='ServerLevel[world]', x=-214.51, y=7.35, z=96.40]
+[22:44:42] [Server thread/INFO]: <Nan_Yang> 没
+[22:44:54] [Server thread/INFO]: <zeao> 这么多花扔起来好累
+[22:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6637ms or 132 ticks behind
+[22:45:08] [Server thread/INFO]: <Nan_Yang> na2hco3_CN
+[22:45:14] [Server thread/INFO]: <zeao> 漏斗怎么造
+[22:45:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7938ms or 158 ticks behind
+[22:45:26] [Server thread/INFO]: <Nan_Yang> 箱子加铁
+[22:45:36] [Server thread/INFO]: <zeao> 没事了
+[22:45:43] [Server thread/INFO]: <zeao> 我没木头
+[22:45:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9357ms or 187 ticks behind
+[22:46:02] [Server thread/INFO]: <Nan_Yang> na2hco3_CN人呢
+[22:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5808ms or 116 ticks behind
+[22:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5411ms or 108 ticks behind
+[22:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4625ms or 92 ticks behind
+[22:47:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4260ms or 85 ticks behind
+[22:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22:47:28] [Server thread/INFO]: <zeao> 给我点木头
+[22:47:37] [Server thread/INFO]: <zeao> 别走，回来
+[22:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4537ms or 90 ticks behind
+[22:47:46] [Server thread/INFO]: <na2hco3_CN> e
+[22:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4893ms or 97 ticks behind
+[22:48:09] [Server thread/INFO]: <zeao> 块
+[22:48:10] [Server thread/INFO]: <Nan_Yang> na2hco3_CN
+[22:48:13] [Server thread/INFO]: <zeao> 快
+[22:48:16] [Server thread/INFO]: <na2hco3_CN> ???
+[22:48:22] [Server thread/INFO]: <na2hco3_CN> 我在搞混凝土
+[22:48:22] [Server thread/INFO]: <Nan_Yang> 投影还是先搓的
+[22:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
+[22:48:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3508ms or 70 ticks behind
+[22:49:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5747ms or 114 ticks behind
+[22:49:18] [Server thread/INFO]: <Nan_Yang> na2hco3_CN
+[22:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[22:49:24] [Server thread/INFO]: <Nan_Yang> give
+[22:49:38] [Server thread/INFO]: hun[local] logged in with entity id 94042 at (-358.30000001192093, 70.0, 523.6999999880791)
+[22:49:38] [Server thread/INFO]: hun joined the game
+[22:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
+[22:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3855ms or 77 ticks behind
+[22:50:11] [Server thread/INFO]: <Nan_Yang> 造路剩的
+[22:50:11] [Server thread/INFO]: <na2hco3_CN> 谢了
+[22:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4313ms or 86 ticks behind
+[22:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
+[22:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5117ms or 102 ticks behind
+[22:51:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8209ms or 164 ticks behind
+[22:51:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/97039, l='ServerLevel[world]', x=-129.62, y=7.37, z=97.30]
+[22:51:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/97039, l='ServerLevel[world]', x=-129.62, y=7.37, z=97.30]
+[22:51:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7462ms or 149 ticks behind
+[22:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6829ms or 136 ticks behind
+[22:52:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
+[22:52:49] [Server thread/INFO]: <Nan_Yang> xiaolouQAQ
+[22:52:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7797ms or 155 ticks behind
+[22:52:52] [Server thread/INFO]: <xiaolouQAQ> ?
+[22:53:04] [Server thread/INFO]: <Nan_Yang> 我给给你家村民喂饭了awa
+[22:53:12] [Server thread/INFO]: <xiaolouQAQ> 好，谢谢
+[22:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7381ms or 147 ticks behind
+[22:53:20] [Server thread/INFO]: <xiaolouQAQ> a.a
+[22:53:31] [Server thread/INFO]: <Nan_Yang> 多生点awa
+[22:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7586ms or 151 ticks behind
+[22:53:44] [Server thread/INFO]: <Nan_Yang> 估计还要25只
+[22:53:45] [Server thread/INFO]: <xiaolouQAQ> 得看床多不多了
+[22:53:51] [Server thread/INFO]: <xiaolouQAQ> ?????
+[22:53:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8466ms or 169 ticks behind
+[22:54:12] [Server thread/INFO]: <xiaolouQAQ> 历史上最罪恶的交易
+[22:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7940ms or 158 ticks behind
+[22:54:33] [Server thread/INFO]: <Nan_Yang> 要是以后扩建估计得上白
+[22:54:37] [Server thread/INFO]: <Nan_Yang> 要是以后扩建估计得上百
+[22:54:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6733ms or 134 ticks behind
+[22:54:51] [Server thread/INFO]: <xiaolouQAQ> 你造啥？
+[22:54:58] [Server thread/INFO]: <Nan_Yang> 农田
+[22:55:03] [Server thread/INFO]: <Nan_Yang> 村民交易所
+[22:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6890ms or 137 ticks behind
+[22:55:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7315ms or 146 ticks behind
+[22:55:46] [Server thread/INFO]: <Nan_Yang> 我这是计划经济，是共产主义awa
+[22:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
+[22:56:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7168ms or 143 ticks behind
+[22:56:22] [Server thread/INFO]: <xiaolouQAQ> 万恶
+[22:56:30] [Server thread/INFO]: <zeao> 这个漏斗为啥不动啊
+[22:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8952ms or 179 ticks behind
+[22:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10073ms or 201 ticks behind
+[22:57:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/105146, l='ServerLevel[world]', x=124.63, y=9.65, z=98.31]
+[22:57:16] [Server thread/INFO]: <zeao> 是得先放箱子再放漏斗吗
+[22:57:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Carrot'/105186, l='ServerLevel[world]', x=-367.30, y=78.33, z=430.07]
+[22:57:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9806ms or 196 ticks behind
+[22:57:35] [Server thread/INFO]: <xiaolouQAQ> 你看看漏斗连的地方对不对
+[22:57:39] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 1)]
+[22:57:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/105959, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[22:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10996ms or 219 ticks behind
+[22:57:56] [Server thread/INFO]: <zeao> 貌似横向连的
+[22:58:00] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 2)]
+[22:58:06] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 3)]
+[22:58:11] [Server thread/INFO]: <xiaolouQAQ> 你是要把他打通是吗
+[22:58:13] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 4)]
+[22:58:15] [Server thread/INFO]: <zeao> 连在泥土上
+[22:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12136ms or 242 ticks behind
+[22:58:20] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 5)]
+[22:58:23] [Server thread/INFO]: <Nan_Yang> 这边建议使用xk原版红石显示材质包，让你减少烦恼awa
+[22:58:26] [Server thread/INFO]: <zeao> 对，做垃圾桶
+[22:58:30] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 6)]
+[22:58:35] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 7)]
+[22:58:40] [Server thread/INFO]: <xiaolouQAQ> 你在哪我来看看
+[22:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9701ms or 194 ticks behind
+[22:58:43] [Server thread/INFO]: <zeao> 垃圾桶不用红石吧
+[22:58:44] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 1)]
+[22:58:50] [Server thread/INFO]: <zeao> 刷铁机这
+[22:58:53] [Server thread/INFO]: [Qian_linger: Triggered [scoreSwitch] (set value to 2)]
+[22:59:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8692ms or 173 ticks behind
+[22:59:25] [Server thread/INFO]: Qian_linger lost connection: Disconnected
+[22:59:25] [Server thread/INFO]: Qian_linger left the game
+[22:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6212ms or 124 ticks behind
+[22:59:30] [Server thread/INFO]: <Nan_Yang> 挂个bot刷土豆，你们谁最后一个下线把这个bot删掉
+[22:59:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3578ms or 71 ticks behind
+[23:00:00] [Server thread/INFO]: Tudou[local] logged in with entity id 108530 at (-394.77923892572915, 106.0, 445.2734181380458)
+[23:00:00] [Server thread/INFO]: Tudou joined the game
+[23:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[23:00:17] [Server thread/INFO]: <xiaolouQAQ> 我来了
+[23:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:00:30] [Server thread/INFO]: <zeao> 这边放铁块的箱子快满了
+[23:00:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2966ms or 59 ticks behind
+[23:00:49] [Server thread/INFO]: <Nan_Yang> zeao给我装一盒
+[23:00:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/109397, l='ServerLevel[world]', x=-196.67, y=9.40, z=98.32]
+[23:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
+[23:01:11] [Server thread/INFO]: <Nan_Yang> 我的又不知道谁拿走了
+[23:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[23:01:17] [Server thread/INFO]: <zeao> 好
+[23:01:26] [Server thread/INFO]: <xiaolouQAQ> 漏斗不会这样吧
+[23:01:39] [Server thread/INFO]: <zeao> 等等，我没带箱子
+[23:01:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23:01:45] [Server thread/INFO]: <xiaolouQAQ> 漏斗没这个功能吧
+[23:01:51] [Server thread/INFO]: <zeao> 啥
+[23:01:53] [Server thread/INFO]: <Nan_Yang> 算了明天在装
+[23:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[23:02:00] [Server thread/INFO]: <xiaolouQAQ> 把东西扔下去
+[23:02:08] [Server thread/INFO]: <zeao> 那他们垃圾箱怎么做的
+[23:02:15] [Server thread/INFO]: <Nan_Yang> 红石
+[23:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2732ms or 54 ticks behind
+[23:02:27] [Server thread/INFO]: <xiaolouQAQ> 我想想
+[23:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:02:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Black Concrete'/111003, l='ServerLevel[world]', x=-360.88, y=66.00, z=527.84]
+[23:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23:03:08] [Server thread/INFO]: <na2hco3_CN> 侦测激活高频
+[23:03:09] [Server thread/INFO]: <Nan_Yang> 你们谁最后一个下线把这个bot删掉
+[23:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23:03:17] [Server thread/INFO]: <zeao> 帮我在这做个垃圾箱
+[23:03:18] [Server thread/INFO]: <Nan_Yang> 叫做 Tudou
+[23:03:23] [Server thread/INFO]: <zeao> 我不会
+[23:03:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23:03:34] [Server thread/INFO]: <Nan_Yang> ./player id kill
+[23:03:39] [Server thread/INFO]: <Nan_Yang> 下了
+[23:03:40] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[23:03:40] [Server thread/INFO]: Nan_Yang left the game
+[23:03:51] [Server thread/INFO]: <xiaolouQAQ> 可以搞个流动过去的，然后丢岩浆里？
+[23:03:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23:03:53] [Server thread/INFO]: <zeao> 可以吗
+[23:04:01] [Server thread/INFO]: <na2hco3_CN> 你搞垃圾桶干啥
+[23:04:02] [Server thread/INFO]: <xiaolouQAQ> 你要下了？
+[23:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:04:13] [Server thread/INFO]: <zeao> 只要是垃圾箱就行了
+[23:04:15] [Server thread/INFO]: <na2hco3_CN> 直接丢了不就行了
+[23:04:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/112587, l='ServerLevel[world]', x=136.72, y=8.36, z=98.34]
+[23:04:26] [Server thread/INFO]: <zeao> 不是,一个个丢太累了
+[23:04:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[23:04:31] [Server thread/INFO]: <xiaolouQAQ> ==
+[23:04:44] [Server thread/INFO]: <na2hco3_CN> ...
+[23:04:49] [Server thread/INFO]: <zeao> 我去帮nanyang装铁
+[23:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2475ms or 49 ticks behind
+[23:04:57] [Server thread/INFO]: na2hco3_CN was slain by Zombie
+[23:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23:05:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:05:41] [Server thread/INFO]: na2hco3_CN hit the ground too hard
+[23:05:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[23:05:59] [Server thread/INFO]: <xiaolouQAQ> 我明天看看能不能做一个
+[23:06:05] [Server thread/INFO]: <zeao> 嗯
+[23:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4784ms or 95 ticks behind
+[23:06:13] [Server thread/INFO]: <xiaolouQAQ> 但这刷铁机
+[23:06:21] [Server thread/INFO]: <xiaolouQAQ> 他本身就不是相连的吧
+[23:06:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Andesite'/115311, l='ServerLevel[world]', x=-78.54, y=9.42, z=99.31]
+[23:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5751ms or 115 ticks behind
+[23:06:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/115473, l='ServerLevel[world]', x=-85.61, y=9.29, z=99.30]
+[23:06:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/115475, l='ServerLevel[world]', x=-83.72, y=8.53, z=99.38]
+[23:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5658ms or 113 ticks behind
+[23:06:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/116119, l='ServerLevel[world]', x=-125.75, y=6.34, z=100.68]
+[23:07:03] [Server thread/INFO]: <zeao> 昂
+[23:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3785ms or 75 ticks behind
+[23:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[23:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
+[23:08:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/118548, l='ServerLevel[world]', x=-102.34, y=6.34, z=99.38]
+[23:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3326ms or 66 ticks behind
+[23:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4304ms or 86 ticks behind
+[23:10:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3921ms or 78 ticks behind
+[23:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3950ms or 79 ticks behind
+[23:10:42] [Server thread/INFO]: <zeao> na2hco3_CN
+[23:10:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6386ms or 127 ticks behind
+[23:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9061ms or 181 ticks behind
+[23:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
+[23:11:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2877ms or 57 ticks behind
+[23:12:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3828ms or 76 ticks behind
+[23:12:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4861ms or 97 ticks behind
+[23:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4184ms or 83 ticks behind
+[23:13:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4447ms or 88 ticks behind
+[23:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3184ms or 63 ticks behind
+[23:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
+[23:14:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4944ms or 98 ticks behind
+[23:14:08] [Server thread/INFO]: Backup started by: Timer on: 2020-08-09_23-14-08
+[23:14:08] [Server thread/INFO]: Saving server...
+[23:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:14:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:14:11] [pool-3-thread-1/INFO]: Starting backup
+[23:14:11] [pool-3-thread-1/INFO]: Starting compression...
+[23:14:15] [pool-3-thread-1/INFO]: Compression took: 04.076 seconds.
+[23:14:15] [pool-3-thread-1/INFO]: Done!
+[23:14:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/125169, l='ServerLevel[world]', x=-145.53, y=9.36, z=100.56]
+[23:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9149ms or 182 ticks behind
+[23:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5684ms or 113 ticks behind
+[23:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5724ms or 114 ticks behind
+[23:15:13] [Server thread/INFO]: <xiaolouQAQ> 下了
+[23:15:15] [Server thread/INFO]: <xiaolouQAQ> 88
+[23:15:23] [Server thread/INFO]: <zeao> 88
+[23:15:25] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[23:15:25] [Server thread/INFO]: xiaolouQAQ left the game
+[23:15:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6155ms or 123 ticks behind
+[23:15:29] [Server thread/INFO]: <na2hco3_CN> 额
+[23:15:30] [Server thread/INFO]: HongZhaJi was slain by Phantom
+[23:15:30] [Server thread/INFO]: HongZhaJi lost connection: Killed
+[23:15:30] [Server thread/INFO]: HongZhaJi left the game
+[23:15:37] [Server thread/INFO]: <zeao> na2hco3_CN
+[23:15:50] [Server thread/INFO]: <zeao> 我待会要和朋友玩PUBG去了
+[23:15:52] [Server thread/INFO]: <na2hco3_CN> 感觉睡觉之前能搞出来
+[23:15:54] [Server thread/INFO]: <na2hco3_CN> 哦
+[23:16:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[23:16:15] [Server thread/INFO]: <zeao> 家里这么多灰色混凝土
+[23:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:17:23] [Server thread/INFO]: <zeao> J
+[23:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:17:45] [Server thread/INFO]: <zeao> 家里这么多混凝土
+[23:17:50] [Server thread/INFO]: <zeao> 灰色的
+[23:17:58] [Server thread/INFO]: <zeao> 你还出去找
+[23:18:18] [Server thread/INFO]: <zeao> 我给你带了整整一箱回来
+[23:18:28] [Server thread/INFO]: <zeao> 我走了
+[23:18:40] [Server thread/INFO]: <zeao> 我朋友找我了
+[23:18:44] [Server thread/INFO]: <zeao> 88
+[23:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23:18:49] [Server thread/INFO]: zeao lost connection: Disconnected
+[23:18:49] [Server thread/INFO]: zeao left the game
+[23:29:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Potato'/133508, l='ServerLevel[world]', x=-401.70, y=78.33, z=430.07]
+[23:34:23] [Server thread/INFO]: na2hco3_CN was blown up by Creeper
+[23:47:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[23:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:52:00] [Server thread/INFO]: na2hco3_CN hit the ground too hard
+[23:56:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143009, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[23:56:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143009, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[23:56:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143009, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[23:56:46] [Server thread/INFO]: hun was slain by na2hco3_CN
+[23:56:46] [Server thread/INFO]: hun lost connection: Killed
+[23:56:46] [Server thread/INFO]: hun left the game
+[23:57:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143324, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[23:57:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143324, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]

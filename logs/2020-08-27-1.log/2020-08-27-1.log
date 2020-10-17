@@ -1,0 +1,282 @@
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: _say 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: __stop___<--[HERE]
+[08:00:39] [Server thread/INFO]: ChengXi123[/127.0.0.1:37222] logged in with entity id 5600 at (-427.62663102821944, 70.0, 534.2522824198494)
+[08:00:39] [Server thread/INFO]: ChengXi123 joined the game
+[08:00:39] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:00:40] [Netty Epoll Server IO #5/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:01:49] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[08:01:49] [Server thread/INFO]: ChengXi123 left the game
+[08:23:57] [Server thread/INFO]: ChengXi123[/127.0.0.1:52388] logged in with entity id 5950 at (-383.63532013525236, 69.0, 459.26010813529354)
+[08:23:57] [Server thread/INFO]: ChengXi123 joined the game
+[08:23:57] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:23:57] [Netty Epoll Server IO #5/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:33:58] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[08:33:58] [Server thread/INFO]: ChengXi123 left the game
+[08:33:58] [Server thread/WARN]: handleDisconnection() called twice
+[08:34:04] [Server thread/INFO]: ChengXi123[/127.0.0.1:38147] logged in with entity id 7655 at (-517.1807279034267, 55.0, 606.8053290653188)
+[08:34:04] [Server thread/INFO]: ChengXi123 joined the game
+[08:34:04] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:34:05] [Netty Epoll Server IO #2/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:38:47] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[08:38:47] [Server thread/INFO]: ChengXi123 left the game
+[09:00:39] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-27_09-00-39
+[09:00:39] [Server thread/INFO]: [Textile Backup] Saving server...
+[09:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:00:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:00:39] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[09:00:43] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-25_03-17-41.zip
+[09:00:43] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[12:03:16] [Server thread/INFO]: goudongxi6066[/127.0.0.1:34986] logged in with entity id 8341 at (-10.714288, 90.0, -399.23892)
+[12:03:16] [Server thread/INFO]: goudongxi6066 joined the game
+[12:03:16] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:03:33] [Server thread/INFO]: goudongxi6066 was slain by Zombie
+[12:09:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-171, y=13, z=192} class_2338{x=-184, y=67, z=168}
+[12:09:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-185, y=66, z=168} class_2338{x=-186, y=66, z=168}
+[12:12:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-205, y=76, z=-46} class_2338{x=-205, y=76, z=-47}
+[12:17:38] [Server thread/INFO]: goudongxi6066 lost connection: Disconnected
+[12:17:38] [Server thread/INFO]: goudongxi6066 left the game
+[12:41:57] [Server thread/INFO]: Nan_Yang[/127.0.0.1:59240] logged in with entity id 11007 at (-369.69999998807907, 76.20000004768372, 426.86250001192093)
+[12:41:57] [Server thread/INFO]: Nan_Yang joined the game
+[12:41:57] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:42:09] [Netty Epoll Server IO #2/INFO]: Player Nan_Yang joined with a matching carpet client
+[12:42:57] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[12:42:57] [Server thread/INFO]: Nan_Yang left the game
+[12:43:00] [Server thread/INFO]: Nan_Yang[/127.0.0.1:39529] logged in with entity id 11223 at (-369.69999998807907, 76.20000004768372, 426.86250001192093)
+[12:43:00] [Server thread/INFO]: Nan_Yang joined the game
+[12:43:00] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:43:05] [Netty Epoll Server IO #0/INFO]: Player Nan_Yang joined with a matching carpet client
+[12:44:00] [Server thread/INFO]: Nan_Yang lost connection: Timed out
+[12:44:00] [Server thread/INFO]: Nan_Yang left the game
+[13:03:16] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-27_13-03-16
+[13:03:16] [Server thread/INFO]: [Textile Backup] Saving server...
+[13:03:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:03:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:03:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:03:16] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[13:03:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-25_04-17-41.zip
+[13:03:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[13:10:25] [Server thread/INFO]: Nan_Yang[/127.0.0.1:47056] logged in with entity id 11394 at (-369.69999998807907, 76.20000004768372, 426.86250001192093)
+[13:10:25] [Server thread/INFO]: Nan_Yang joined the game
+[13:10:25] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:10:51] [Netty Epoll Server IO #5/INFO]: Player Nan_Yang joined with a matching carpet client
+[13:11:26] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[13:11:26] [Server thread/INFO]: Nan_Yang left the game
+[13:11:41] [Server thread/INFO]: Nan_Yang[/127.0.0.1:53547] logged in with entity id 11865 at (-369.69999998807907, 76.20000004768372, 426.86250001192093)
+[13:11:41] [Server thread/INFO]: Nan_Yang joined the game
+[13:11:41] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:11:47] [Netty Epoll Server IO #7/INFO]: Player Nan_Yang joined with a matching carpet client
+[13:14:42] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[13:14:42] [Server thread/INFO]: Nan_Yang left the game
+[13:15:11] [Server thread/INFO]: Nan_Yang[/127.0.0.1:38587] logged in with entity id 12687 at (-289.0111553617179, 69.0, 469.99874053464424)
+[13:15:11] [Server thread/INFO]: Nan_Yang joined the game
+[13:15:11] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:15:13] [Netty Epoll Server IO #5/INFO]: Player Nan_Yang joined with a matching carpet client
+[13:16:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/12963, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[13:22:27] [Server thread/INFO]: Nan_Yang lost connection: Timed out
+[13:22:27] [Server thread/INFO]: Nan_Yang left the game
+[13:22:32] [Server thread/INFO]: Nan_Yang[/127.0.0.1:59265] logged in with entity id 13903 at (47.0689831593162, 101.44788842451962, 194.96453439013732)
+[13:22:32] [Server thread/INFO]: Nan_Yang joined the game
+[13:22:32] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:22:43] [Netty Epoll Server IO #5/INFO]: Player Nan_Yang joined with a matching carpet client
+[13:30:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/15994, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[13:35:51] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[13:35:51] [Server thread/INFO]: Nan_Yang left the game
+[13:39:12] [Server thread/INFO]: goudongxi6066[/127.0.0.1:38855] logged in with entity id 17237 at (-9.222496, 93.0, -410.12158)
+[13:39:12] [Server thread/INFO]: goudongxi6066 joined the game
+[13:39:12] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:50:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=87, z=-391} class_2338{x=-10, y=88, z=-391}
+[13:53:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=87, z=-395} class_2338{x=-183, y=68, z=-298}
+[13:53:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=87, z=-395} class_2338{x=-182, y=68, z=-296}
+[13:53:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-16, y=87, z=-395} class_2338{x=-181, y=68, z=-298}
+[14:00:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=89, z=-396} class_2338{x=0, y=90, z=-397}
+[14:00:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=90, z=-403} class_2338{x=-4, y=91, z=-403}
+[14:00:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=90, z=-403} class_2338{x=-4, y=91, z=-402}
+[14:03:56] [Server thread/INFO]: wushi_[/127.0.0.1:37136] logged in with entity id 20164 at (-6.382992076297745, 105.0, -454.30000001192093)
+[14:03:56] [Server thread/INFO]: wushi_ joined the game
+[14:03:56] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:03:58] [Netty Epoll Server IO #2/WARN]: Player wushi_ joined with another carpet version: 1.4.0+v200623
+[14:07:21] [Server thread/INFO]: goudongxi6066 has made the advancement [Ice Bucket Challenge]
+[14:10:25] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-27_14-10-25
+[14:10:25] [Server thread/INFO]: [Textile Backup] Saving server...
+[14:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:10:25] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[14:10:30] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-25_05-17-41.zip
+[14:10:30] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[14:18:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-11, y=91, z=-407} class_2338{x=-4, y=92, z=-408}
+[14:27:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=91, z=-407} class_2338{x=-12, y=92, z=-407}
+[14:27:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-12, y=91, z=-408} class_2338{x=-3, y=92, z=-410}
+[14:30:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-6, y=94, z=-412} class_2338{x=-13, y=87, z=-392}
+[14:43:06] [Server thread/INFO]: ChengXi123[/127.0.0.1:35908] logged in with entity id 23552 at (-514.7957200736773, 61.0, 602.8190467490512)
+[14:43:06] [Server thread/INFO]: ChengXi123 joined the game
+[14:43:06] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:43:07] [Netty Epoll Server IO #0/INFO]: Player ChengXi123 joined with a matching carpet client
+[14:44:38] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[14:44:38] [Server thread/INFO]: ChengXi123 left the game
+[14:58:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-31, y=11, z=-362} class_2338{x=-8, y=92, z=-404}
+[15:06:45] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-10, y=94, z=-412} class_2338{x=-33, y=89, z=-414}
+[15:10:25] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-27_15-10-25
+[15:10:25] [Server thread/INFO]: [Textile Backup] Saving server...
+[15:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:10:25] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[15:10:31] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-25_06-17-41.zip
+[15:10:31] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[15:30:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=11, z=-366} class_2338{x=-99, y=12, z=-365}
+[15:30:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-108, y=11, z=-366} class_2338{x=-108, y=11, z=-365}
+[15:31:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-107, y=11, z=-366} class_2338{x=-175, y=12, z=-365}
+[15:32:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-182, y=11, z=-366} class_2338{x=-209, y=15, z=-384}
+[16:05:35] [Server thread/INFO]: goudongxi6066 lost connection: Disconnected
+[16:05:35] [Server thread/INFO]: goudongxi6066 left the game
+[16:06:09] [Server thread/INFO]: goudongxi6066[/127.0.0.1:42737] logged in with entity id 35951 at (-8.5, 96.0, -39.12342620473541)
+[16:06:09] [Server thread/INFO]: goudongxi6066 joined the game
+[16:06:09] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:07:12] [Server thread/INFO]: goudongxi6066 lost connection: Disconnected
+[16:07:12] [Server thread/INFO]: goudongxi6066 left the game
+[16:08:20] [Server thread/INFO]: goudongxi6066[/127.0.0.1:49482] logged in with entity id 36341 at (-6.300001, 96.0, -37.325474)
+[16:08:20] [Server thread/INFO]: goudongxi6066 joined the game
+[16:08:20] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:10:25] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-27_16-10-25
+[16:10:25] [Server thread/INFO]: [Textile Backup] Saving server...
+[16:10:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:10:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:10:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:10:26] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[16:10:34] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-25_07-17-41.zip
+[16:10:34] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[16:12:26] [Server thread/INFO]: aka213[/127.0.0.1:44626] logged in with entity id 37445 at (-520.8513962450271, 68.0, 594.9455239661469)
+[16:12:26] [Server thread/INFO]: aka213 joined the game
+[16:12:26] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:12:30] [Netty Epoll Server IO #4/INFO]: Player aka213 joined with a matching carpet client
+[16:12:59] [Server thread/INFO]: <aka213> 都在干嘛
+[16:14:25] [Server thread/INFO]: goudongxi6066 lost connection: Disconnected
+[16:14:25] [Server thread/INFO]: goudongxi6066 left the game
+[16:14:29] [Server thread/INFO]: <aka213> ...
+[16:15:07] [Server thread/INFO]: goudongxi6066[/127.0.0.1:34897] logged in with entity id 38495 at (156.34558577486038, 70.46634674072266, -291.5)
+[16:15:07] [Server thread/INFO]: goudongxi6066 joined the game
+[16:15:07] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:16:49] [Server thread/INFO]: goudongxi6066 tried to swim in lava
+[16:16:53] [Server thread/INFO]: <aka213> ?
+[16:17:07] [Server thread/INFO]: <aka213> 怎么死了
+[16:17:38] [Server thread/INFO]: wushi_ lost connection: Disconnected
+[16:17:38] [Server thread/INFO]: wushi_ left the game
+[16:17:47] [Server thread/INFO]: aka213 lost connection: Disconnected
+[16:17:47] [Server thread/INFO]: aka213 left the game
+[16:18:23] [Server thread/INFO]: goudongxi6066 lost connection: Disconnected
+[16:18:23] [Server thread/INFO]: goudongxi6066 left the game
+[16:45:52] [Server thread/INFO]: aka213[/127.0.0.1:33081] logged in with entity id 39533 at (-523.3000000119209, 70.99382531935447, 580.3194764154512)
+[16:45:52] [Server thread/INFO]: aka213 joined the game
+[16:45:52] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:45:56] [Netty Epoll Server IO #1/INFO]: Player aka213 joined with a matching carpet client
+[16:46:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/39955, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[16:47:43] [Server thread/INFO]: ChengXi123[/127.0.0.1:47985] logged in with entity id 40061 at (-303.13666931423813, 64.0, 383.73623591737675)
+[16:47:43] [Server thread/INFO]: ChengXi123 joined the game
+[16:47:43] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:47:45] [Netty Epoll Server IO #2/INFO]: Player ChengXi123 joined with a matching carpet client
+[16:48:19] [Server thread/INFO]: <aka213> 小猪灵多少血
+[16:48:42] [Server thread/INFO]: <ChengXi123> 16
+[16:48:44] [Server thread/INFO]: <aka213> 必须秒杀
+[16:48:49] [Server thread/INFO]: <ChengXi123> 嗯
+[16:49:05] [Server thread/INFO]: <ChengXi123> 所以要扔之前先打一下
+[16:49:56] [Server thread/INFO]: aka213 fell from a high place
+[16:49:56] [Server thread/INFO]: <ChengXi123> 可以复制合金锭
+[16:50:02] [Server thread/INFO]: <aka213> 草
+[16:50:23] [Server thread/INFO]: <ChengXi123> 但是要拿潜影盒装着，不然只能复制一个
+[16:50:46] [Server thread/INFO]: <aka213> 我东西没了
+[16:50:51] [Server thread/INFO]: <aka213> c
+[16:50:53] [Server thread/INFO]: <ChengXi123> 什么没了
+[16:50:59] [Server thread/INFO]: <aka213> 掉岩浆了
+[16:51:22] [Server thread/INFO]: <ChengXi123> 合金锭在吗？
+[16:51:45] [Server thread/INFO]: <ChengXi123> 合金锭拿上
+[16:51:51] [Server thread/INFO]: <ChengXi123> 我带潜影盒
+[16:52:50] [Server thread/INFO]: <ChengXi123> 你在哪
+[16:53:02] [Server thread/INFO]: <aka213> 我要杀恶魂
+[16:53:14] [Server thread/INFO]: <ChengXi123> 你拿了合金锭了吗？
+[16:54:06] [Server thread/INFO]: ChengXi123 was slain by Enderman
+[16:55:04] [Server thread/INFO]: <aka213> 呜呜呜
+[16:56:00] [Server thread/INFO]: <aka213> 我哭了啊
+[16:56:11] [Server thread/INFO]: <aka213> 我的合金斧头不见了
+[16:56:46] [Server thread/INFO]: <ChengXi123> 合金锭呢？
+[16:56:53] [Server thread/INFO]: <aka213> 在这
+[16:59:24] [Server thread/INFO]: <ChengXi123> 你在哪我找你
+[16:59:31] [Server thread/INFO]: <aka213> ...
+[17:01:26] [Server thread/INFO]: <aka213> 找到小猪没
+[17:01:58] [Server thread/INFO]: <ChengXi123> 找到了
+[17:02:58] [Server thread/INFO]: <ChengXi123> .这只拿了东西了
+[17:03:51] [Server thread/INFO]: <ChengXi123> 要不我来
+[17:04:02] [Server thread/INFO]: <aka213> 我不知道为什么总被打
+[17:05:17] [Server thread/INFO]: <ChengXi123> 你怎么丢金锭了啊？
+[17:05:27] [Server thread/INFO]: <aka213> ...
+[17:05:32] [Server thread/INFO]: <ChengXi123> 这样就变成复制金锭了
+[17:05:40] [Server thread/INFO]: <aka213> 手滑
+[17:06:18] [Server thread/INFO]: ChengXi123 was slain by Piglin
+[17:06:22] [Server thread/INFO]: <aka213> ./..
+[17:06:34] [Server thread/INFO]: <ChengXi123> 看来要在没人的地方弄
+[17:06:39] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[17:06:39] [Server thread/INFO]: ChengXi123 left the game
+[17:09:07] [Server thread/INFO]: aka213 has completed the challenge [Return to Sender]
+[17:09:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Ghast Tear'/45042, l='ServerLevel[world]', x=-22.11, y=95.18, z=-130.71]
+[17:09:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Gunpowder'/45043, l='ServerLevel[world]', x=-22.11, y=95.18, z=-130.71]
+[17:09:07] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/45044, l='ServerLevel[world]', x=-22.11, y=95.18, z=-130.71]
+[17:09:07] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/45045, l='ServerLevel[world]', x=-22.11, y=95.18, z=-130.71]
+[17:09:07] [Server thread/WARN]: Fetching packet for removed entity class_1303['Experience Orb'/45046, l='ServerLevel[world]', x=-22.11, y=95.18, z=-130.71]
+[17:10:25] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-27_17-10-25
+[17:10:25] [Server thread/INFO]: [Textile Backup] Saving server...
+[17:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:10:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:10:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:10:26] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[17:10:31] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-25_08-17-41.zip
+[17:10:31] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[17:11:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=60, z=-24} class_2338{x=-64, y=60, z=-24}
+[17:11:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=60, z=-24} class_2338{x=-64, y=60, z=-24}
+[17:11:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=60, z=-24} class_2338{x=-64, y=60, z=-24}
+[17:11:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-65, y=60, z=-24} class_2338{x=-64, y=60, z=-24}
+[17:17:48] [Server thread/INFO]: aka213 lost connection: Disconnected
+[17:17:48] [Server thread/INFO]: aka213 left the game
+[18:10:25] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-27_18-10-25
+[18:10:25] [Server thread/INFO]: [Textile Backup] Saving server...
+[18:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:10:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:10:25] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[18:10:29] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-25_09-17-42.zip
+[18:10:29] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[19:13:10] [Server thread/INFO]: wuhao[/127.0.0.1:46243] logged in with entity id 46030 at (-44.0268800574377, 64.0, 264.5747876009873)
+[19:13:10] [Server thread/INFO]: wuhao joined the game
+[19:13:10] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:14:07] [Server thread/INFO]: <wuhao> 我在
+[19:15:16] [Server thread/INFO]: <wuhao> 您没有这个权限
+[19:22:51] [Server thread/INFO]: <wuhao> 摸鱼
+[19:23:23] [Server thread/INFO]: <wuhao> 啥mods
+[19:23:32] [Server thread/INFO]: <wuhao> 等一下
+[19:25:25] [Server thread/INFO]: <wuhao> 行了
+[19:25:26] [Server thread/INFO]: wuhao lost connection: Disconnected
+[19:25:26] [Server thread/INFO]: wuhao left the game
+[19:25:41] [Server thread/INFO]: Stopping the server
+[19:25:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:25:41] [Server thread/INFO]: end<--[HERE]
+[19:25:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:25:41] [Server thread/INFO]: exit<--[HERE]
+[19:25:41] [Server thread/INFO]: Stopping server
+[19:25:41] [Server thread/INFO]: Saving players
+[19:25:41] [Server thread/INFO]: Saving worlds
+[19:25:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:25:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:25:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:25:41] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2020-08-27_19-25-41
+[19:25:41] [Server thread/INFO]: [Textile Backup] Starting backup
+[19:25:46] [Server thread/INFO]: [Textile Backup] Deleting: 2020-08-25_10-17-42.zip
+[19:25:46] [Server thread/INFO]: [Textile Backup] Done!
+[19:25:46] [Server thread/INFO]: Thread RCON Listener stopped

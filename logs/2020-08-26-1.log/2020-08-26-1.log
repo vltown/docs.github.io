@@ -1,0 +1,26 @@
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: _say 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: __stop___<--[HERE]
+[08:23:39] [Server thread/INFO]: Stopping the server
+[08:23:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:23:39] [Server thread/INFO]: end<--[HERE]
+[08:23:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[08:23:39] [Server thread/INFO]: exit<--[HERE]
+[08:23:39] [Server thread/INFO]: Stopping server
+[08:23:39] [Server thread/INFO]: Saving players
+[08:23:39] [Server thread/INFO]: Saving worlds
+[08:23:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:23:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:23:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:23:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:23:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:23:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:23:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:23:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:23:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:23:39] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2020-08-26_08-23-39
+[08:23:39] [Server thread/INFO]: [Textile Backup] Starting backup
+[08:23:43] [Server thread/INFO]: [Textile Backup] Deleting: 2020-08-24_22-17-41.zip
+[08:23:43] [Server thread/INFO]: [Textile Backup] Done!
+[08:23:43] [Server thread/INFO]: Thread RCON Listener stopped

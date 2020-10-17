@@ -1,0 +1,82 @@
+[00:41:24] [Server thread/INFO]: Backup started by: Timer on: 2020-08-08_00-41-24
+[00:41:24] [Server thread/INFO]: Saving server...
+[00:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:24] [pool-3-thread-1/INFO]: Starting backup
+[00:41:24] [pool-3-thread-1/INFO]: Starting compression...
+[00:41:39] [pool-3-thread-1/INFO]: Compression took: 15.165 seconds.
+[00:41:39] [pool-3-thread-1/INFO]: Deleting: 2020-08-07_16-41-27.zip
+[00:41:39] [pool-3-thread-1/INFO]: Done!
+[00:45:47] [Server thread/INFO]: EDGW was blown up by Creeper
+[01:41:24] [Server thread/INFO]: Backup started by: Timer on: 2020-08-08_01-41-24
+[01:41:24] [Server thread/INFO]: Saving server...
+[01:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:41:24] [pool-3-thread-1/INFO]: Starting backup
+[01:41:24] [pool-3-thread-1/INFO]: Starting compression...
+[01:41:38] [pool-3-thread-1/INFO]: Compression took: 14.309 seconds.
+[01:41:38] [pool-3-thread-1/INFO]: Deleting: 2020-08-07_17-41-25.zip
+[01:41:38] [pool-3-thread-1/INFO]: Done!
+[02:41:24] [Server thread/INFO]: Backup started by: Timer on: 2020-08-08_02-41-24
+[02:41:24] [Server thread/INFO]: Saving server...
+[02:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:41:24] [pool-3-thread-1/INFO]: Starting backup
+[02:41:24] [pool-3-thread-1/INFO]: Starting compression...
+[02:41:33] [pool-3-thread-1/INFO]: Compression took: 09.082 seconds.
+[02:41:33] [pool-3-thread-1/INFO]: Deleting: 2020-08-07_18-41-26.zip
+[02:41:33] [pool-3-thread-1/INFO]: Done!
+[03:41:24] [Server thread/INFO]: Backup started by: Timer on: 2020-08-08_03-41-24
+[03:41:24] [Server thread/INFO]: Saving server...
+[03:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:41:24] [pool-3-thread-1/INFO]: Starting backup
+[03:41:24] [pool-3-thread-1/INFO]: Starting compression...
+[03:41:38] [pool-3-thread-1/INFO]: Compression took: 14.236 seconds.
+[03:41:38] [pool-3-thread-1/INFO]: Deleting: 2020-08-07_19-41-26.zip
+[03:41:38] [pool-3-thread-1/INFO]: Done!
+[04:05:01] [Server thread/INFO]: extclp[/127.0.0.1:56323] logged in with entity id 372510 at (-29.896221578583415, 129.0, -42.820966844036974)
+[04:05:01] [Server thread/INFO]: extclp joined the game
+[04:05:01] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[04:05:26] [Server thread/INFO]: extclp lost connection: Disconnected
+[04:05:26] [Server thread/INFO]: extclp left the game
+[04:41:24] [Server thread/INFO]: Backup started by: Timer on: 2020-08-08_04-41-24
+[04:41:24] [Server thread/INFO]: Saving server...
+[04:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:41:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:41:24] [pool-3-thread-1/INFO]: Starting backup
+[04:41:24] [pool-3-thread-1/INFO]: Starting compression...
+[04:41:38] [pool-3-thread-1/INFO]: Compression took: 13.954 seconds.
+[04:41:38] [pool-3-thread-1/INFO]: Deleting: 2020-08-07_20-41-25.zip
+[04:41:38] [pool-3-thread-1/INFO]: Done!
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: alert 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping the server
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: end<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: exit<--[HERE]
+[05:30:01] [Server thread/INFO]: Stopping server
+[05:30:01] [Server thread/INFO]: Saving players
+[05:30:01] [Server thread/INFO]: Saving worlds
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:01] [Server thread/INFO]: Backup started by: Server Shutdown on: 2020-08-08_05-30-01
+[05:30:01] [pool-3-thread-1/INFO]: Starting backup
+[05:30:01] [pool-3-thread-1/INFO]: Starting compression...
+[05:30:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:30:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:30:02] [Server thread/INFO]: Thread RCON Listener stopped
+[05:30:10] [pool-3-thread-1/INFO]: Compression took: 08.915 seconds.
+[05:30:10] [pool-3-thread-1/INFO]: Deleting: 2020-08-07_21-41-25.zip
+[05:30:10] [pool-3-thread-1/INFO]: Done!

@@ -1,0 +1,1546 @@
+[06:14:02] [main/INFO]: Loading for game Minecraft 1.16.2
+[06:14:03] [main/INFO]: [FabricLoader] Loading 52 mods: fabric-renderer-api-v1@0.2.13+eae12eb84e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, fabricloader@0.9.1+build.205, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.5.7+ad64ee684e, fabric-game-rule-api-v1@1.0.1+91555cd14e, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-rendering-fluids-v1@0.1.10+e5d3217f4e, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-renderer-registries-v1@2.1.0+e2862de64e, carpet-extra@1.4.5, fabric-loot-tables-v1@1.0.0+fac8f3664e, fabric@0.17.2+build.396-1.16, carpet@1.4.7, fabric-particles-v1@0.2.1+0a6f2a704e, fabric-networking-v0@0.1.10+e00ecb5f4e, cotton-config@1.0.0-rc.7, fabric-screen-handler-api-v1@1.1.0+872498414e, minecraft@1.16.2, here@0.0.10-mc1.16, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.8+5ce533984e, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.2.1+02fb8fda4e, fabric-renderer-indigo@0.3.4+5d32f5834e, player-roles@1.0.2, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-events-interaction-v0@0.3.3+7066030f4e, fabric-item-api-v1@1.0.0+16acbe5b4e, fabric-rendering-v0@1.1.0+534104904e, fabric-rendering-v1@1.1.2+346247d74e, fabric-key-binding-api-v1@1.0.1+730711c64e, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.9+e5d3217f4e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, fabric-commands-v0@0.2.0+52d308364e, fabric-registry-sync-v0@0.4.3+e5d3217f4e, textile_backup@1.4.0-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-object-builders-v0@0.6.1+ba4afa574e
+[06:14:03] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[06:14:03] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.1 Source=file:/srv/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[06:14:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[06:14:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:14:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:14:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:14:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:14:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:14:16] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), FZ.sDatapack-1.5.0-SNAPSHOT-dev.20200411.0751.zip, Player Roles
+[06:14:18] [Worker-Main-4/INFO]: Loaded 7 recipes
+[06:14:19] [Worker-Main-4/INFO]: Loaded 927 advancements
+[06:14:21] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[06:14:21] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[06:14:21] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[06:14:21] [Server thread/INFO]: Loading properties
+[06:14:21] [Server thread/INFO]: Default game type: SURVIVAL
+[06:14:21] [Server thread/INFO]: Generating keypair
+[06:14:21] [Server thread/INFO]: Starting Minecraft server on *:26555
+[06:14:21] [Server thread/INFO]: Using epoll channel type
+[06:14:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:14:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:14:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:14:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:14:22] [Server thread/INFO]: Preparing level "world"
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[06:14:22] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[06:14:23] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[06:14:23] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[06:14:23] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[06:14:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:26] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:28] [Server thread/INFO]: Preparing spawn area: 0%
+[06:14:30] [Server thread/INFO]: Time elapsed: 7526 ms
+[06:14:30] [Server thread/INFO]: Done (8.312s)! For help, type "help"
+[06:14:30] [Server thread/INFO]: Starting remote control listener
+[06:14:30] [Server thread/INFO]: Thread RCON Listener started
+[06:14:30] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[06:14:32] [Server thread/INFO]: nvwu[local] logged in with entity id 237 at (240.5, 184.0, 214.5)
+[06:14:32] [Server thread/INFO]: nvwu joined the game
+[06:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[06:14:38] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:57711] logged in with entity id 324 at (240.8956156776111, 184.0, 214.30000001192093)
+[06:14:38] [Server thread/INFO]: MAX_XiaoKui joined the game
+[06:14:38] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:14:39] [Netty Epoll Server IO #4/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[06:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[06:15:11] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[06:15:11] [Server thread/INFO]: MAX_XiaoKui left the game
+[06:17:03] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:34984] logged in with entity id 638 at (241.18368588518442, 184.0, 214.30000001192093)
+[06:17:03] [Server thread/INFO]: MAX_XiaoKui joined the game
+[06:17:03] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:17:05] [Netty Epoll Server IO #4/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.0+v200623
+[06:17:09] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[06:17:09] [Server thread/INFO]: MAX_XiaoKui left the game
+[07:14:32] [Server thread/INFO]: Backup started by: Timer on: 2020-08-12_07-14-32
+[07:14:32] [Server thread/INFO]: Saving server...
+[07:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:14:32] [pool-3-thread-1/INFO]: Starting backup
+[07:14:32] [pool-3-thread-1/INFO]: Starting compression...
+[07:14:36] [pool-3-thread-1/INFO]: Compression took: 03.703 seconds.
+[07:14:36] [pool-3-thread-1/INFO]: Deleting: 2020-08-11_17-09-53.zip
+[07:14:36] [pool-3-thread-1/INFO]: Done!
+[08:14:32] [Server thread/INFO]: Backup started by: Timer on: 2020-08-12_08-14-32
+[08:14:32] [Server thread/INFO]: Saving server...
+[08:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:14:32] [pool-3-thread-1/INFO]: Starting backup
+[08:14:32] [pool-3-thread-1/INFO]: Starting compression...
+[08:14:35] [pool-3-thread-1/INFO]: Compression took: 03.506 seconds.
+[08:14:35] [pool-3-thread-1/INFO]: Deleting: 2020-08-11_18-09-50.zip
+[08:14:35] [pool-3-thread-1/INFO]: Done!
+[08:31:27] [Server thread/INFO]: na2hco3CN1277[/127.0.0.1:53296] logged in with entity id 13090 at (-749.3, 70.0, 297.3617)
+[08:31:27] [Server thread/INFO]: na2hco3CN1277 joined the game
+[08:31:27] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:32:46] [Server thread/INFO]: na2hco3CN1277 lost connection: Disconnected
+[08:32:46] [Server thread/INFO]: na2hco3CN1277 left the game
+[08:33:01] [Server thread/INFO]: na2hco3CN1277[/127.0.0.1:39980] logged in with entity id 13545 at (-750.46356, 70.0, 297.8778)
+[08:33:01] [Server thread/INFO]: na2hco3CN1277 joined the game
+[08:33:01] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:33:28] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:46800] logged in with entity id 13832 at (-2056.7883027875646, 68.0, 515.8955559154336)
+[08:33:28] [Server thread/INFO]: xiaolouQAQ joined the game
+[08:33:28] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:33:28] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:33:29] [Netty Epoll Server IO #1/WARN]: Player xiaolouQAQ joined with another carpet version: 1.4.0+v200623
+[08:36:16] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:16] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:16] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:16] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:16] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:16] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:36:16] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:flower",config:{tries:64,yspread:3,xspread:7,need_water:0b,zspread:7,project:1b,blacklist:[L;],block_placer:{type:"minecraft:simple_block_placer"},whitelist:[L;],state_provider:{type:"minecraft:plain_flower_provider"},can_replace:0b}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:simple_state_provider"}}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:26] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:no_op",config:{}}]
+[08:36:40] [Server thread/INFO]: na2hco3CN1277 fell from a high place
+[08:38:30] [Server thread/INFO]: xiaolouQAQ fell from a high place
+[08:41:48] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:10,yspread:3,xspread:7,need_water:0b,zspread:7,project:0b,blacklist:[L;],block_placer:{extra_size:2,min_size:1,type:"minecraft:column_placer"},whitelist:[L;],state_provider:{state:{Properties:{age:"0"},Name:"minecraft:cactus"},type:"minecraft:simple_state_provider"},can_replace:0b}}]
+[08:41:48] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[08:41:48] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:random_patch",config:{tries:10,yspread:3,xspread:7,need_water:0b,zspread:7,project:0b,blacklist:[L;],block_placer:{extra_size:2,min_size:1,type:"minecraft:column_placer"},whitelist:[L;],state_provider:{state:{Properties:{age:"0"},Name:"minecraft:cactus"},type:"minecraft:simple_state_provider"},can_replace:0b}}]
+[08:41:48] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[08:43:32] [Server thread/INFO]: na2hco3CN1277 lost connection: Disconnected
+[08:43:32] [Server thread/INFO]: na2hco3CN1277 left the game
+[08:45:31] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[08:45:31] [Server thread/INFO]: xiaolouQAQ left the game
+[09:04:16] [Server thread/INFO]: xiaojian520[/127.0.0.1:52281] logged in with entity id 28091 at (-42.5, 64.0, 239.5)
+[09:04:16] [Server thread/INFO]: xiaojian520 joined the game
+[09:04:16] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:04:26] [Netty Epoll Server IO #2/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[09:07:37] [Server thread/INFO]: xiaojian520 has made the advancement [We Need to Go Deeper]
+[09:10:18] [Server thread/INFO]: <xiaojian520> 1
+[09:10:26] [Server thread/INFO]: <xiaojian520> 111
+[09:10:38] [Server thread/INFO]: <xiaojian520> 1
+[09:11:25] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[09:11:25] [Server thread/INFO]: xiaojian520 left the game
+[09:11:32] [Server thread/INFO]: xiaojian520[/127.0.0.1:42907] logged in with entity id 31149 at (-4.058062017185949, 128.0, 36.53047277617287)
+[09:11:32] [Server thread/INFO]: xiaojian520 joined the game
+[09:11:32] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:11:33] [Netty Epoll Server IO #2/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[09:12:09] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:60795] logged in with entity id 31552 at (-53.69999998807907, 130.0, 64.48686797057223)
+[09:12:09] [Server thread/INFO]: xiaolouQAQ joined the game
+[09:12:09] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:12:12] [Netty Epoll Server IO #3/WARN]: Player xiaolouQAQ joined with another carpet version: 1.4.0+v200623
+[09:12:56] [Server thread/INFO]: <xiaojian520> 饿
+[09:14:03] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[09:14:03] [Server thread/INFO]: xiaojian520 left the game
+[09:14:03] [Server thread/WARN]: handleDisconnection() called twice
+[09:14:18] [Server thread/INFO]: xiaojian520[/127.0.0.1:32849] logged in with entity id 32476 at (-2056.730735586322, 68.0, 521.6339273451665)
+[09:14:18] [Server thread/INFO]: xiaojian520 joined the game
+[09:14:18] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:14:30] [Netty Epoll Server IO #0/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[09:14:32] [Server thread/INFO]: Backup started by: Timer on: 2020-08-12_09-14-32
+[09:14:32] [Server thread/INFO]: Saving server...
+[09:14:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:14:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:14:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:14:34] [pool-3-thread-1/INFO]: Starting backup
+[09:14:34] [pool-3-thread-1/INFO]: Starting compression...
+[09:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[09:14:37] [Server thread/INFO]: <xiaolouQAQ> 那护甲
+[09:14:39] [pool-3-thread-1/INFO]: Compression took: 04.313 seconds.
+[09:14:39] [pool-3-thread-1/INFO]: Deleting: 2020-08-11_19-09-49.zip
+[09:14:39] [pool-3-thread-1/INFO]: Done!
+[09:14:41] [Server thread/INFO]: <xiaojian520> 延迟好高
+[09:14:47] [Server thread/INFO]: xiaojian520 has made the advancement [Cover Me With Diamonds]
+[09:14:59] [Server thread/INFO]: <xiaojian520> nb
+[09:15:00] [Server thread/INFO]: xiaojian520 has reached the goal [Sky's the Limit]
+[09:15:13] [Server thread/INFO]: <xiaolouQAQ> 会用鞘翅吧
+[09:15:33] [Server thread/INFO]: <xiaolouQAQ> 你咋那么卡
+[09:15:40] [Server thread/INFO]: <xiaojian520> 网络不好
+[09:16:07] [Server thread/INFO]: <xiaolouQAQ> 我去给你拿东西
+[09:16:42] [Server thread/INFO]: <xiaolouQAQ> 拿半组
+[09:16:47] [Server thread/INFO]: <xiaojian520> 啥
+[09:16:54] [Server thread/INFO]: <xiaolouQAQ> 金苹果
+[09:17:43] [Server thread/INFO]: <xiaolouQAQ> 你想干啥
+[09:17:49] [Server thread/INFO]: <xiaolouQAQ> 我要上课了==
+[09:18:01] [Server thread/INFO]: <xiaojian520> 到处转转
+[09:18:25] [Server thread/INFO]: <xiaolouQAQ> 你按R
+[09:18:35] [Server thread/INFO]: <xiaolouQAQ> 看看有没有导航点
+[09:18:46] [Server thread/INFO]: <xiaojian520> en
+[09:18:55] [Server thread/INFO]: <xiaojian520> 我地图键是按m
+[09:19:01] [Server thread/INFO]: <xiaolouQAQ> 那你去地狱交通看看吧
+[09:19:16] [Server thread/INFO]: <xiaolouQAQ> 我先上课了
+[09:19:24] [Server thread/INFO]: <xiaojian520> en
+[09:19:30] [Server thread/INFO]: <xiaolouQAQ> 上完找你
+[09:19:42] [Server thread/INFO]: <xiaolouQAQ> 设置出生点
+[09:19:56] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[09:19:56] [Server thread/INFO]: xiaolouQAQ left the game
+[09:20:24] [Server thread/INFO]: <xiaojian520> 1
+[09:21:03] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[09:21:03] [Server thread/INFO]: xiaojian520 left the game
+[09:24:49] [Server thread/INFO]: xiaojian520[/127.0.0.1:34837] logged in with entity id 34504 at (-1991.586331101626, 69.0, 485.53286394740564)
+[09:24:49] [Server thread/INFO]: xiaojian520 joined the game
+[09:24:49] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:24:52] [Netty Epoll Server IO #2/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[09:26:19] [Server thread/INFO]: xiaojian520 has made the advancement [Monster Hunter]
+[09:28:03] [Server thread/INFO]: xiaojian520 has made the advancement [A Seedy Place]
+[09:30:17] [Server thread/INFO]: xiaojian520 has made the advancement [Sweet Dreams]
+[09:31:50] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[09:31:50] [Server thread/INFO]: xiaojian520 left the game
+[09:32:22] [Server thread/INFO]: xiaojian520[/127.0.0.1:48351] logged in with entity id 37734 at (-415.9816720641, 69.03584062504456, 420.28060799876397)
+[09:32:22] [Server thread/INFO]: xiaojian520 joined the game
+[09:32:22] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:32:23] [Netty Epoll Server IO #4/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[09:34:53] [Server thread/INFO]: xiaojian520 has made the advancement [Stone Age]
+[09:36:53] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[09:36:53] [Server thread/INFO]: xiaojian520 left the game
+[09:37:24] [Server thread/INFO]: xiaojian520[/127.0.0.1:60849] logged in with entity id 42979 at (-378.0925681853799, 69.0, 397.1139841212001)
+[09:37:24] [Server thread/INFO]: xiaojian520 joined the game
+[09:37:24] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:37:24] [Netty Epoll Server IO #7/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[09:38:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/44136, l='ServerLevel[world]', x=-302.80, y=70.01, z=362.39]
+[09:40:02] [Server thread/INFO]: <xiaojian520> 1
+[09:41:31] [Server thread/INFO]: xiaojian520 has made the advancement [Bring Home the Beacon]
+[09:41:54] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[09:41:54] [Server thread/INFO]: xiaojian520 left the game
+[09:42:22] [Server thread/INFO]: xiaojian520[/127.0.0.1:33331] logged in with entity id 47253 at (-2058.5, 68.0, 520.5)
+[09:42:22] [Server thread/INFO]: xiaojian520 joined the game
+[09:42:22] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:42:23] [Netty Epoll Server IO #0/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[09:43:59] [Server thread/INFO]: EDGW[/127.0.0.1:34308] logged in with entity id 47860 at (-324.41146137274876, 42.0, 469.69999998807907)
+[09:43:59] [Server thread/INFO]: EDGW joined the game
+[09:43:59] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:44:05] [Server thread/INFO]: <xiaojian520> hi
+[09:44:15] [Server thread/INFO]: <EDGW> hi
+[09:48:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[09:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[09:49:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[09:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[09:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3218ms or 64 ticks behind
+[09:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4295ms or 85 ticks behind
+[09:50:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3272ms or 65 ticks behind
+[09:50:26] [Server thread/INFO]: <xiaojian520> .
+[09:50:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[09:50:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[09:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
+[09:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09:52:26] [Server thread/INFO]: <xiaojian520> 1
+[09:54:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2049, y=70, z=559} class_2338{x=-2050, y=71, z=559}
+[09:54:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2048, y=70, z=560} class_2338{x=-2047, y=71, z=559}
+[09:59:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[09:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10:00:45] [Server thread/INFO]: <EDGW> 地铁开始铺铁轨
+[10:01:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['White Carpet'/53870, l='ServerLevel[world]', x=-305.94, y=70.02, z=342.73]
+[10:01:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[10:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[10:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2781ms or 55 ticks behind
+[10:02:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[10:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[10:03:18] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:42201] logged in with entity id 62311 at (-2056.929447870082, 68.0, 519.9749516654157)
+[10:03:18] [Server thread/INFO]: xiaolouQAQ joined the game
+[10:03:18] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:03:20] [Netty Epoll Server IO #2/WARN]: Player xiaolouQAQ joined with another carpet version: 1.4.0+v200623
+[10:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[10:03:28] [Server thread/INFO]: <EDGW> ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[10:03:36] [Server thread/INFO]: <xiaojian520> ..
+[10:03:36] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[10:03:36] [Server thread/INFO]: xiaolouQAQ left the game
+[10:03:39] [Server thread/INFO]: <EDGW> eeeeeeeeeeeeeeeeeeeeeeeee
+[10:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[10:03:42] [Server thread/INFO]: xiaolouQAQ[/127.0.0.1:51135] logged in with entity id 62424 at (-2056.929447870082, 68.0, 519.9749516654157)
+[10:03:42] [Server thread/INFO]: xiaolouQAQ joined the game
+[10:03:42] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:03:43] [Netty Epoll Server IO #1/WARN]: Player xiaolouQAQ joined with another carpet version: 1.4.0+v200623
+[10:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3281ms or 65 ticks behind
+[10:04:16] [Server thread/INFO]: <xiaolouQAQ> 想打海底神殿吗、
+[10:04:19] [Server thread/INFO]: <xiaojian520> 嗯
+[10:04:22] [Server thread/INFO]: <xiaojian520> 或者挖区块
+[10:04:24] [Server thread/INFO]: EDGW experienced kinetic energy
+[10:04:27] [Server thread/INFO]: <EDGW> c
+[10:04:39] [Server thread/INFO]: <xiaolouQAQ> 那我造点药水
+[10:04:44] [Server thread/INFO]: <xiaojian520> en
+[10:05:07] [Server thread/INFO]: <xiaojian520> 能给个潜影盒吗
+[10:05:22] [Server thread/INFO]: <xiaolouQAQ> 这里有
+[10:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[10:06:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[10:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2560ms or 51 ticks behind
+[10:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[10:09:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[10:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[10:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10:10:25] [Server thread/INFO]: EDGW lost connection: Disconnected
+[10:10:25] [Server thread/INFO]: EDGW left the game
+[10:10:31] [Server thread/INFO]: EDGW[/127.0.0.1:40817] logged in with entity id 65625 at (-765.1072143232095, 42.0, 367.9287643380264)
+[10:10:31] [Server thread/INFO]: EDGW joined the game
+[10:10:31] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:11:18] [Server thread/INFO]: <xiaojian520> 要弄个信标吗
+[10:11:57] [Server thread/INFO]: EDGW fell from a high place
+[10:12:23] [Server thread/INFO]: <xiaolouQAQ> 你是要做守卫者刷怪塔？
+[10:12:33] [Server thread/INFO]: <xiaojian520> 我现在还不会做
+[10:12:40] [Server thread/INFO]: <xiaojian520> 还得学
+[10:12:41] [Server thread/INFO]: <EDGW> 又是一个肝帝
+[10:12:47] [Server thread/INFO]: <xiaojian520> 先挖空在说
+[10:12:49] [Server thread/INFO]: <xiaojian520> qwq
+[10:13:01] [Server thread/INFO]: <xiaolouQAQ> 那我带你去，等我一下
+[10:13:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10:14:32] [Server thread/INFO]: Backup started by: Timer on: 2020-08-12_10-14-32
+[10:14:32] [Server thread/INFO]: Saving server...
+[10:14:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:14:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:14:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:14:34] [pool-3-thread-1/INFO]: Starting backup
+[10:14:34] [pool-3-thread-1/INFO]: Starting compression...
+[10:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
+[10:14:39] [pool-3-thread-1/INFO]: Compression took: 04.751 seconds.
+[10:14:39] [pool-3-thread-1/INFO]: Deleting: 2020-08-11_20-09-49.zip
+[10:14:39] [pool-3-thread-1/INFO]: Done!
+[10:14:49] [Server thread/INFO]: <xiaolouQAQ> zou
+[10:15:00] [Server thread/INFO]: EDGW lost connection: Disconnected
+[10:15:00] [Server thread/INFO]: EDGW left the game
+[10:16:32] [Server thread/INFO]: xiaojian520 has completed the challenge [Hot Tourist Destinations]
+[10:16:47] [Server thread/INFO]: <xiaojian520> ..
+[10:17:11] [Server thread/INFO]: <xiaolouQAQ> 我找一下导航点
+[10:17:33] [Server thread/INFO]: <xiaolouQAQ> 在下面==
+[10:17:45] [Server thread/INFO]: <xiaolouQAQ> 我回去拿黑曜石，你等我
+[10:17:46] [Server thread/INFO]: <xiaojian520> 破基岩
+[10:17:54] [Server thread/INFO]: <xiaolouQAQ> 懒得破
+[10:17:57] [Server thread/INFO]: <xiaolouQAQ> 也不会==
+[10:18:04] [Server thread/INFO]: <xiaojian520> 我会破
+[10:18:13] [Server thread/INFO]: <xiaojian520> 但我也懒得破
+[10:18:23] [Server thread/INFO]: <xiaolouQAQ> 等我
+[10:18:37] [Server thread/INFO]: <xiaojian520> 怎么弄挖掘榜
+[10:18:52] [Server thread/INFO]: <xiaolouQAQ> 群公告有吧
+[10:20:57] [Server thread/INFO]: <xiaojian520> 不会弄qwq
+[10:21:47] [Server thread/INFO]: <xiaolouQAQ> ./trigger scoreSwitch set 3
+[10:21:51] [Server thread/INFO]: <xiaolouQAQ> 挖掘
+[10:22:07] [Server thread/INFO]: <xiaojian520> 他说这个指令不完整
+[10:22:30] [Server thread/INFO]: <xiaolouQAQ> 那应该不行了==
+[10:24:13] [Server thread/INFO]: <xiaojian520> ?
+[10:24:45] [Server thread/INFO]: <xiaojian520> 这么多
+[10:24:53] [Server thread/INFO]: <xiaolouQAQ> ==
+[10:25:31] [Server thread/INFO]: <xiaolouQAQ> 你在这别动
+[10:25:35] [Server thread/INFO]: <xiaojian520> en
+[10:25:38] [Server thread/INFO]: <xiaolouQAQ> 我去那个看看
+[10:28:35] [Server thread/INFO]: <xiaolouQAQ> 帮我拿着
+[10:28:39] [Server thread/INFO]: <xiaolouQAQ> 我回去看看地狱门
+[10:28:56] [Server thread/INFO]: <xiaolouQAQ> 木头给我
+[10:29:03] [Server thread/INFO]: <xiaojian520> 没
+[10:30:45] [Server thread/INFO]: <xiaolouQAQ> 给
+[10:31:23] [Server thread/INFO]: <xiaolouQAQ> 传送门没问题
+[10:31:34] [Server thread/INFO]: <xiaojian520> ?
+[10:32:20] [Server thread/INFO]: <xiaolouQAQ> 咱需要水肺
+[10:32:26] [Server thread/INFO]: <xiaojian520> 还有隐身
+[10:32:35] [Server thread/INFO]: <xiaolouQAQ> 那先回去准备吧
+[10:32:41] [Server thread/INFO]: <xiaojian520> 。。
+[10:32:54] [Server thread/INFO]: <xiaojian520> 我这稿子是时运的
+[10:32:54] [Server thread/INFO]: <xiaolouQAQ> 喝隐身要脱所有盔甲吧
+[10:32:58] [Server thread/INFO]: <xiaolouQAQ> en
+[10:33:08] [Server thread/INFO]: <xiaolouQAQ> 喝隐身要脱所有盔甲吧
+[10:33:10] [Server thread/INFO]: <xiaojian520> 要精准采集
+[10:33:22] [Server thread/INFO]: <xiaolouQAQ> 精准干啥
+[10:33:28] [Server thread/INFO]: EDGW[/127.0.0.1:44198] logged in with entity id 77952 at (-766.7099484701615, 42.0, 368.5773359624833)
+[10:33:28] [Server thread/INFO]: EDGW joined the game
+[10:33:28] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:33:37] [Server thread/INFO]: <xiaojian520> 挖吖
+[10:33:40] [Server thread/INFO]: <xiaolouQAQ> 给我点火箭
+[10:33:47] [Server thread/INFO]: <xiaolouQAQ> 时运不也能挖吗
+[10:33:54] [Server thread/INFO]: <xiaojian520> 只能挖碎片
+[10:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10:34:49] [Server thread/INFO]: <xiaojian520> 卡
+[10:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3918ms or 78 ticks behind
+[10:35:00] [Server thread/INFO]: <EDGW> 只有2 fps
+[10:35:05] [Server thread/INFO]: <xiaolouQAQ> ==
+[10:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3193ms or 63 ticks behind
+[10:35:24] [Server thread/INFO]: <xiaojian520> 好了
+[10:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5182ms or 103 ticks behind
+[10:35:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2691ms or 53 ticks behind
+[10:36:18] [Server thread/INFO]: <xiaojian520> 1
+[10:36:51] [Server thread/INFO]: <xiaolouQAQ> 得等地狱疣长好
+[10:36:57] [Server thread/INFO]: <xiaojian520> 有铲子吗
+[10:37:14] [Server thread/INFO]: <xiaolouQAQ> 干啥
+[10:37:19] [Server thread/INFO]: <xiaojian520> 我可以帮你把地全铲了
+[10:37:24] [Server thread/INFO]: <xiaolouQAQ> 不用
+[10:37:27] [Server thread/INFO]: <xiaojian520> ..
+[10:37:27] [Server thread/INFO]: <xiaolouQAQ> 就这样
+[10:37:35] [Server thread/INFO]: <xiaolouQAQ> 太平不舒服==
+[10:37:40] [Server thread/INFO]: <xiaojian520> ..
+[10:37:58] [Server thread/INFO]: <xiaojian520> 趁现在可以去挖区块吗
+[10:38:16] [Server thread/INFO]: <xiaojian520> 没事干浑身不舒服
+[10:38:20] [Server thread/INFO]: <xiaojian520> awa
+[10:38:21] [Server thread/INFO]: <xiaolouQAQ> 去哪挖
+[10:38:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10:38:25] [Server thread/INFO]: <xiaojian520> 都可以
+[10:38:37] [Server thread/INFO]: <xiaolouQAQ> 我去问腐竹哪里有活干
+[10:38:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[10:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[10:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[10:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[10:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3992ms or 79 ticks behind
+[10:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3020ms or 60 ticks behind
+[10:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3142ms or 62 ticks behind
+[10:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2663ms or 53 ticks behind
+[10:41:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5473ms or 109 ticks behind
+[10:41:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6837ms or 136 ticks behind
+[10:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4216ms or 84 ticks behind
+[10:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
+[10:42:43] [Server thread/INFO]: <xiaolouQAQ> 走
+[10:42:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3412ms or 68 ticks behind
+[10:42:56] [Server thread/INFO]: <xiaojian520> 有活干了？
+[10:43:02] [Server thread/INFO]: <xiaolouQAQ> 应该是
+[10:43:11] [Server thread/INFO]: <xiaolouQAQ> 那边区块没炸干净
+[10:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[10:43:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[10:44:03] [Server thread/INFO]: <xiaolouQAQ> EDGW
+[10:44:06] [Server thread/INFO]: <EDGW> ?
+[10:44:10] [Server thread/INFO]: <xiaolouQAQ> 你在挖吗
+[10:44:15] [Server thread/INFO]: <EDGW> 我在搞地铁
+[10:44:22] [Server thread/INFO]: <xiaolouQAQ> 要帮忙挖吗
+[10:44:49] [Server thread/INFO]: <xiaolouQAQ> 要的话我们来帮你
+[10:45:02] [Server thread/INFO]: <EDGW> 600m都挖好了 混凝土也好了 正在铺铁轨 下午你们可以帮忙挖2号线不，2号线又1350m
+[10:45:16] [Server thread/INFO]: <xiaolouQAQ> 行吧
+[10:45:44] [Server thread/INFO]: <xiaolouQAQ> xiaojian你想挖区块还是挖下届合金
+[10:45:50] [Server thread/INFO]: <EDGW> 用炸的 为了炸这个一号线 刷挂塔的火药都被我清空了
+[10:46:18] [Server thread/INFO]: <EDGW> 然而发现搞混凝土还是很肝。。。
+[10:46:43] [Server thread/INFO]: <xiaolouQAQ> 黏土山来得快
+[10:46:50] [Server thread/INFO]: <xiaolouQAQ> 陶瓦
+[10:47:07] [Server thread/INFO]: <EDGW> 高这个一号线用了13盒白色 2盒红色
+[10:47:58] [Server thread/INFO]: <xiaolouQAQ> 跟我
+[10:48:55] [Server thread/INFO]: <xiaolouQAQ> 你没精准==
+[10:48:57] [Server thread/INFO]: <xiaojian520> 信标
+[10:48:59] [Server thread/INFO]: <xiaojian520> 对啊
+[10:49:20] [Server thread/INFO]: <EDGW> 一会儿有人帮忙造车站吗
+[10:49:25] [Server thread/INFO]: <xiaolouQAQ> 可以
+[10:49:34] [Server thread/INFO]: <xiaolouQAQ> 绿宝石给我
+[10:51:21] [Server thread/INFO]: <xiaolouQAQ> 还得加一层
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:53:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=123, y=16, z=133} class_2338{x=122, y=16, z=132}
+[10:54:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=133, y=14, z=136} class_2338{x=133, y=14, z=134}
+[10:54:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=133, y=14, z=136} class_2338{x=133, y=14, z=134}
+[10:54:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=134, y=15, z=136} class_2338{x=133, y=14, z=134}
+[10:54:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10:54:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2847ms or 56 ticks behind
+[10:54:51] [Server thread/INFO]: xiaojian520 has made the advancement [Diamonds!]
+[10:55:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[10:55:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[10:55:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3827ms or 76 ticks behind
+[10:55:47] [Server thread/INFO]: na2hco3CN1277[/127.0.0.1:43342] logged in with entity id 96336 at (-732.6549, 70.0, 305.7833)
+[10:55:47] [Server thread/INFO]: na2hco3CN1277 joined the game
+[10:55:47] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:55:58] [Server thread/INFO]: <xiaojian520> 我想弄个挖掘榜
+[10:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4133ms or 82 ticks behind
+[10:56:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3222ms or 64 ticks behind
+[10:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=13, z=136} class_2338{x=120, y=12, z=136}
+[10:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=121, y=14, z=136} class_2338{x=120, y=12, z=136}
+[10:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=14, z=136} class_2338{x=120, y=12, z=136}
+[10:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=14, z=136} class_2338{x=120, y=12, z=136}
+[10:56:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=14, z=135} class_2338{x=120, y=12, z=136}
+[10:56:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=120, y=14, z=132} class_2338{x=122, y=14, z=132}
+[10:56:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=13, z=131} class_2338{x=120, y=13, z=131}
+[10:56:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=114, y=12, z=132} class_2338{x=115, y=11, z=132}
+[10:56:37] [Server thread/INFO]: na2hco3CN1277 was slain by Zombie
+[10:57:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=12, z=130} class_2338{x=109, y=11, z=130}
+[10:57:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=12, z=130} class_2338{x=109, y=11, z=130}
+[10:57:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=9, z=129} class_2338{x=110, y=9, z=129}
+[10:57:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=9, z=129} class_2338{x=110, y=9, z=129}
+[10:57:28] [Server thread/INFO]: <na2hco3CN1277> Edgw
+[10:57:32] [Server thread/INFO]: <EDGW> ?
+[10:57:35] [Server thread/INFO]: <na2hco3CN1277> 你在哪
+[10:57:39] [Server thread/INFO]: <EDGW> 地铁
+[10:57:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
+[10:57:47] [Server thread/INFO]: <na2hco3CN1277> 坐标？
+[10:57:54] [Server thread/INFO]: <na2hco3CN1277> 没找到路
+[10:57:58] [Server thread/INFO]: na2hco3CN1277 was slain by Zombie
+[10:59:15] [Server thread/INFO]: na2hco3CN1277 was slain by Zombie
+[10:59:22] [Server thread/INFO]: <EDGW> 这里
+[10:59:27] [Server thread/INFO]: na2hco3CN1277 has made the advancement [Monster Hunter]
+[10:59:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=103, y=7, z=131} class_2338{x=104, y=6, z=131}
+[10:59:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=103, y=7, z=131} class_2338{x=104, y=6, z=131}
+[10:59:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=103, y=7, z=131} class_2338{x=104, y=6, z=131}
+[10:59:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=103, y=7, z=131} class_2338{x=104, y=6, z=131}
+[10:59:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=103, y=7, z=131} class_2338{x=104, y=6, z=131}
+[10:59:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=103, y=7, z=131} class_2338{x=104, y=6, z=131}
+[10:59:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=103, y=7, z=131} class_2338{x=104, y=6, z=131}
+[10:59:38] [Server thread/INFO]: <EDGW> -767 328
+[10:59:51] [Server thread/INFO]: <EDGW> 这个洞下来
+[10:59:58] [Server thread/INFO]: EDGW fell from a high place
+[11:00:01] [Server thread/INFO]: <EDGW> .
+[11:00:27] [Server thread/INFO]: <EDGW> na2hco3CN1277
+[11:00:35] [Server thread/INFO]: <EDGW> -767 328
+[11:00:37] [Server thread/INFO]: <EDGW> 这个洞下来
+[11:00:41] [Server thread/INFO]: <na2hco3CN1277> 手机真难操作
+[11:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11:00:55] [Server thread/INFO]: <EDGW> 不用电脑干啥
+[11:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11:01:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11:01:50] [Server thread/INFO]: <na2hco3CN1277> 彩六
+[11:01:52] [Server thread/INFO]: <EDGW> .
+[11:01:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11:02:10] [Server thread/INFO]: <xiaolouQAQ> 拆迁拆疯了？
+[11:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[11:02:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2695ms or 53 ticks behind
+[11:02:40] [Server thread/INFO]: na2hco3CN1277 fell from a high place
+[11:02:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[11:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[11:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[11:03:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=84, y=9, z=126} class_2338{x=84, y=10, z=126}
+[11:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[11:03:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
+[11:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[11:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[11:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
+[11:05:04] [Server thread/INFO]: <xiaojian520> xiaolou
+[11:05:07] [Server thread/INFO]: <xiaolouQAQ> ?
+[11:05:09] [Server thread/INFO]: <xiaojian520> 我先吃个饭
+[11:05:13] [Server thread/INFO]: <xiaolouQAQ> ok
+[11:05:32] [Server thread/INFO]: <xiaolouQAQ> 先回去
+[11:05:39] [Server thread/INFO]: <xiaolouQAQ> 不挖了，下午造地铁
+[11:05:46] [Server thread/INFO]: <xiaojian520> 我线挖
+[11:06:10] [Server thread/INFO]: <xiaojian520> 造地铁的时候我再过去
+[11:06:13] [Server thread/INFO]: <xiaojian520> 我吃饭去了
+[11:06:17] [Server thread/INFO]: <xiaolouQAQ> 好
+[11:06:30] [Server thread/INFO]: <EDGW> 一号线铁轨铺好了 你们要来看看吗
+[11:06:35] [Server thread/INFO]: <na2hco3CN1277> 彩六去了
+[11:08:13] [Server thread/INFO]: <xiaolouQAQ> 我去看看
+[11:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[11:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4718ms or 94 ticks behind
+[11:08:48] [Server thread/INFO]: <EDGW> 一会儿还要一堆的萤石 搞照明
+[11:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4727ms or 94 ticks behind
+[11:09:13] [Server thread/INFO]: <xiaolouQAQ> 人呢
+[11:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5356ms or 107 ticks behind
+[11:09:36] [Server thread/INFO]: <EDGW> -766 328这个洞进来
+[11:09:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6423ms or 128 ticks behind
+[11:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7043ms or 140 ticks behind
+[11:10:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[11:10:35] [Server thread/INFO]: <EDGW> 现在只能用火把临时照明
+[11:10:47] [Server thread/INFO]: <EDGW> .
+[11:11:03] [Server thread/INFO]: <EDGW> 你是1.16.1吧
+[11:11:05] [Server thread/INFO]: <xiaolouQAQ> en
+[11:11:13] [Server thread/INFO]: <EDGW> 难怪门开不掉
+[11:11:15] [Server thread/INFO]: <xiaolouQAQ> ==
+[11:11:24] [Server thread/INFO]: <EDGW> 1.16.1关于红石的全坏了
+[11:11:44] [Server thread/INFO]: <xiaolouQAQ> 好看
+[11:12:17] [Server thread/INFO]: <EDGW> 一直到这里
+[11:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11:12:28] [Server thread/INFO]: <xiaolouQAQ> 我觉得你可以把红石火把换成红石块
+[11:12:29] [Server thread/INFO]: <EDGW> 现在在100大熔炉下面
+[11:12:31] [Server thread/INFO]: <xiaojian520> 回来了
+[11:12:34] [Server thread/INFO]: <EDGW> 换成拉杆吧
+[11:12:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2419ms or 48 ticks behind
+[11:12:39] [Server thread/INFO]: <xiaolouQAQ> 放在铁轨下面
+[11:12:48] [Server thread/INFO]: <EDGW> 这主意不错
+[11:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5358ms or 107 ticks behind
+[11:12:58] [Server thread/INFO]: <EDGW> 一直到这里
+[11:13:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=6, z=134} class_2338{x=111, y=7, z=133}
+[11:13:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=7, z=134} class_2338{x=111, y=7, z=133}
+[11:13:01] [Server thread/INFO]: <EDGW> 100大熔炉下面
+[11:13:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=7, z=134} class_2338{x=111, y=7, z=133}
+[11:13:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=111, y=7, z=134} class_2338{x=111, y=7, z=133}
+[11:13:09] [Server thread/INFO]: <xiaolouQAQ> en
+[11:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5687ms or 113 ticks behind
+[11:13:29] [Server thread/INFO]: <EDGW> 现在在100大熔炉下面
+[11:13:33] [Server thread/INFO]: <xiaolouQAQ> xiaojian520 你是1.16.1吗
+[11:13:33] [Server thread/INFO]: <xiaojian520> 钻石都不值钱了
+[11:13:34] [Server thread/INFO]: <EDGW> 你可以挖上去
+[11:13:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5400ms or 108 ticks behind
+[11:13:46] [Server thread/INFO]: <xiaolouQAQ> 钻石值钱啊
+[11:13:52] [Server thread/INFO]: <EDGW> 铁不值钱
+[11:13:56] [Server thread/INFO]: <EDGW> 1.16.1红石全坏了 不能用
+[11:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5440ms or 108 ticks behind
+[11:14:02] [Server thread/INFO]: <xiaojian520> 我半组钻石了
+[11:14:08] [Server thread/INFO]: <xiaolouQAQ> 刷不了的东西都之前
+[11:14:10] [Server thread/INFO]: <xiaolouQAQ> 可以
+[11:14:15] [Server thread/INFO]: <xiaolouQAQ> 我一颗没有
+[11:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5412ms or 108 ticks behind
+[11:14:18] [Server thread/INFO]: <xiaojian520> ..
+[11:14:26] [Server thread/INFO]: <EDGW> 你换1.16.1吧
+[11:14:32] [Server thread/INFO]: Backup started by: Timer on: 2020-08-12_11-14-32
+[11:14:32] [Server thread/INFO]: Saving server...
+[11:14:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:14:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:14:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:14:33] [pool-3-thread-1/INFO]: Starting backup
+[11:14:33] [pool-3-thread-1/INFO]: Starting compression...
+[11:14:33] [Server thread/INFO]: <EDGW> 你换1.16.2吧
+[11:14:34] [Server thread/INFO]: <xiaolouQAQ> EDGW 给我5个火箭吧
+[11:14:38] [Server thread/INFO]: <EDGW> o
+[11:14:38] [pool-3-thread-1/INFO]: Compression took: 05.029 seconds.
+[11:14:38] [pool-3-thread-1/INFO]: Deleting: 2020-08-11_21-09-50.zip
+[11:14:38] [pool-3-thread-1/INFO]: Done!
+[11:14:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9782ms or 195 ticks behind
+[11:14:46] [Server thread/INFO]: <xiaolouQAQ> 谢谢
+[11:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=87, y=9, z=137} class_2338{x=88, y=10, z=137}
+[11:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=87, y=9, z=137} class_2338{x=88, y=10, z=137}
+[11:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=87, y=9, z=137} class_2338{x=88, y=10, z=137}
+[11:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=87, y=9, z=135} class_2338{x=88, y=10, z=137}
+[11:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=88, y=9, z=135} class_2338{x=88, y=10, z=137}
+[11:14:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=88, y=9, z=136} class_2338{x=88, y=10, z=137}
+[11:15:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7882ms or 157 ticks behind
+[11:15:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
+[11:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11:16:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11:16:19] [Server thread/INFO]: EDGWA[/127.0.0.1:45061] logged in with entity id 111968 at (-572.0276192759057, 42.0, 467.5124515466773)
+[11:16:19] [Server thread/INFO]: EDGWA joined the game
+[11:16:19] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[11:16:22] [Server thread/INFO]: <xiaolouQAQ> 你还在挖吗
+[11:16:25] [Server thread/INFO]: <xiaojian520> en
+[11:16:35] [Server thread/INFO]: EDGWA lost connection: Timed out
+[11:16:35] [Server thread/INFO]: EDGWA left the game
+[11:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
+[11:16:48] [Server thread/INFO]: <xiaolouQAQ> 我回去酿药
+[11:16:54] [Server thread/INFO]: <EDGW> 我去拿萤石，刷了一个晚上了
+[11:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
+[11:16:57] [Server thread/INFO]: EDGWA[/127.0.0.1:33816] logged in with entity id 112440 at (-572.0276192759057, 42.0, 467.5124515466773)
+[11:16:57] [Server thread/INFO]: EDGWA joined the game
+[11:16:57] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7529ms or 150 ticks behind
+[11:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5815ms or 116 ticks behind
+[11:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[11:18:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=8, z=138} class_2338{x=120, y=7, z=133}
+[11:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2721ms or 54 ticks behind
+[11:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3124ms or 62 ticks behind
+[11:18:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=85, y=5, z=130} class_2338{x=86, y=5, z=130}
+[11:18:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=85, y=5, z=130} class_2338{x=86, y=5, z=130}
+[11:18:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=85, y=5, z=130} class_2338{x=86, y=5, z=130}
+[11:18:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=85, y=5, z=130} class_2338{x=86, y=5, z=130}
+[11:18:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=85, y=5, z=130} class_2338{x=86, y=5, z=130}
+[11:18:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=85, y=5, z=130} class_2338{x=86, y=5, z=130}
+[11:18:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4444ms or 88 ticks behind
+[11:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5517ms or 110 ticks behind
+[11:19:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5346ms or 106 ticks behind
+[11:19:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-766, y=41, z=374} class_2338{x=-572, y=45, z=467}
+[11:19:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5460ms or 109 ticks behind
+[11:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4296ms or 85 ticks behind
+[11:20:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4812ms or 96 ticks behind
+[11:20:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7987ms or 159 ticks behind
+[11:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7352ms or 147 ticks behind
+[11:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8330ms or 166 ticks behind
+[11:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7873ms or 157 ticks behind
+[11:22:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=133, y=12, z=127} class_2338{x=131, y=14, z=126}
+[11:22:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=133, y=11, z=126} class_2338{x=131, y=14, z=126}
+[11:22:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8819ms or 176 ticks behind
+[11:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9976ms or 199 ticks behind
+[11:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6595ms or 131 ticks behind
+[11:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7749ms or 154 ticks behind
+[11:23:40] [Server thread/INFO]: na2hco3CN1277 lost connection: Disconnected
+[11:23:40] [Server thread/INFO]: na2hco3CN1277 left the game
+[11:24:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7127ms or 142 ticks behind
+[11:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6886ms or 137 ticks behind
+[11:24:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5843ms or 116 ticks behind
+[11:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4306ms or 86 ticks behind
+[11:25:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5324ms or 106 ticks behind
+[11:25:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=93, y=4, z=132} class_2338{x=96, y=4, z=131}
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:acacia_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:2},max_water_depth:0,trunk_placer:{height_rand_b:2,base_height:5,height_rand_a:2,type:"minecraft:forking_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:acacia_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:acacia_foliage_placer",radius_random:0}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Name:"minecraft:melon"},type:"minecraft:simple_state_provider"}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Name:"minecraft:melon"},type:"minecraft:simple_state_provider"}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:acacia_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:2},max_water_depth:0,trunk_placer:{height_rand_b:2,base_height:5,height_rand_a:2,type:"minecraft:forking_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:acacia_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:acacia_foliage_placer",radius_random:0}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:block_pile",config:{state_provider:{state:{Properties:{axis:"y"},Name:"minecraft:hay_block"},type:"minecraft:rotated_block_provider"}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:acacia_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:2},max_water_depth:0,trunk_placer:{height_rand_b:2,base_height:5,height_rand_a:2,type:"minecraft:forking_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:acacia_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:acacia_foliage_placer",radius_random:0}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:acacia_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:2},max_water_depth:0,trunk_placer:{height_rand_b:2,base_height:5,height_rand_a:2,type:"minecraft:forking_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:acacia_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:acacia_foliage_placer",radius_random:0}}}]
+[11:25:33] [Server thread/ERROR]: Input does not contain a key [type]: MapLike[{name:"minecraft:tree",config:{heightmap:"OCEAN_FLOOR",decorators:[L;],trunk_provider:{state:{Properties:{axis:"y"},Name:"minecraft:acacia_log"},type:"minecraft:simple_state_provider"},minimum_size:{limit:1,type:"minecraft:two_layers_feature_size",lower_size:0,upper_size:2},max_water_depth:0,trunk_placer:{height_rand_b:2,base_height:5,height_rand_a:2,type:"minecraft:forking_trunk_placer"},leaves_provider:{state:{Properties:{distance:"7",persistent:"false"},Name:"minecraft:acacia_leaves"},type:"minecraft:simple_state_provider"},ignore_vines:1b,foliage_placer:{offset_random:0,offset:0,radius:2,type:"minecraft:acacia_foliage_placer",radius_random:0}}}]
+[11:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5133ms or 102 ticks behind
+[11:26:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[11:26:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6319ms or 126 ticks behind
+[11:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6900ms or 138 ticks behind
+[11:27:05] [Server thread/INFO]: <xiaojian520> xiaolou
+[11:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6785ms or 135 ticks behind
+[11:27:10] [Server thread/INFO]: <xiaolouQAQ> ?
+[11:27:12] [Server thread/INFO]: <xiaojian520> 能带个铁站过来吗
+[11:27:25] [Server thread/INFO]: <xiaolouQAQ> 等下
+[11:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6813ms or 136 ticks behind
+[11:27:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=4, z=129} class_2338{x=109, y=4, z=128}
+[11:27:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=4, z=129} class_2338{x=109, y=4, z=128}
+[11:27:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=4, z=129} class_2338{x=109, y=4, z=128}
+[11:27:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=4, z=129} class_2338{x=109, y=4, z=128}
+[11:27:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=110, y=4, z=129} class_2338{x=109, y=4, z=128}
+[11:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6524ms or 130 ticks behind
+[11:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8504ms or 170 ticks behind
+[11:28:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6938ms or 138 ticks behind
+[11:28:38] [Server thread/INFO]: <xiaolouQAQ> 这海龟好慢==
+[11:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7170ms or 143 ticks behind
+[11:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7430ms or 148 ticks behind
+[11:29:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8637ms or 172 ticks behind
+[11:30:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7744ms or 154 ticks behind
+[11:30:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=127, y=5, z=140} class_2338{x=127, y=4, z=139}
+[11:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6746ms or 134 ticks behind
+[11:30:37] [Server thread/INFO]: <EDGW> xiaojian520
+[11:30:41] [Server thread/INFO]: <xiaojian520> ?
+[11:30:50] [Server thread/INFO]: <EDGW> 海底神殿今天能好吗
+[11:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7033ms or 140 ticks behind
+[11:30:58] [Server thread/INFO]: <xiaojian520> ..
+[11:31:03] [Server thread/INFO]: <xiaojian520> 应该不能
+[11:31:06] [Server thread/INFO]: <xiaolouQAQ> 都没挖呢
+[11:31:06] [Server thread/INFO]: <EDGW> o
+[11:31:10] [Server thread/INFO]: <xiaolouQAQ> 还没打
+[11:31:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6864ms or 137 ticks behind
+[11:31:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=126, y=14, z=141} class_2338{x=125, y=15, z=141}
+[11:31:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6554ms or 131 ticks behind
+[11:31:35] [Server thread/INFO]: <EDGW> 希望明天下午能有海晶灯(只是希望)
+[11:31:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5294ms or 105 ticks behind
+[11:32:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=125, y=3, z=136} class_2338{x=125, y=3, z=135}
+[11:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5093ms or 101 ticks behind
+[11:32:26] [Server thread/INFO]: <xiaojian520> 我需要铁站。。。
+[11:32:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4788ms or 95 ticks behind
+[11:32:48] [Server thread/INFO]: <xiaolouQAQ> 我给你带
+[11:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4015ms or 80 ticks behind
+[11:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[11:33:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=116, y=8, z=131} class_2338{x=116, y=7, z=130}
+[11:33:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=116, y=8, z=131} class_2338{x=116, y=7, z=130}
+[11:33:20] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=116, y=8, z=131} class_2338{x=116, y=7, z=130}
+[11:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11:33:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[11:33:57] [Server thread/INFO]: <xiaolouQAQ> 我来了
+[11:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3617ms or 72 ticks behind
+[11:34:13] [Server thread/INFO]: <EDGW> 第二个地铁站开挖
+[11:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11:34:36] [Server thread/INFO]: <xiaojian520> 砂砾有bug吗
+[11:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[11:34:46] [Server thread/INFO]: <xiaolouQAQ> xiaojian520 咱去挖地铁站吧
+[11:34:51] [Server thread/INFO]: <xiaojian520> 好
+[11:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4124ms or 82 ticks behind
+[11:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[11:35:26] [Server thread/INFO]: <EDGW> 第二个地铁站开挖
+[11:35:46] [Server thread/INFO]: <xiaojian520> 你在哪
+[11:35:53] [Server thread/INFO]: <xiaolouQAQ> 你咋飞走了
+[11:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11:35:58] [Server thread/INFO]: Qing_sha[/127.0.0.1:33775] logged in with entity id 124982 at (-30.69999998807907, 129.0, -6.261639307908925)
+[11:35:58] [Server thread/INFO]: Qing_sha joined the game
+[11:35:58] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[11:36:20] [Server thread/INFO]: <EDGWA> ???
+[11:36:25] [Server thread/INFO]: <EDGW> 第二个地铁站啊
+[11:36:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4226ms or 84 ticks behind
+[11:36:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4528ms or 90 ticks behind
+[11:36:53] [Server thread/INFO]: <xiaojian520> 额
+[11:36:55] [Server thread/INFO]: <xiaojian520> 经验不够
+[11:37:00] [Server thread/INFO]: <xiaojian520> 稿子快坏掉了
+[11:37:01] [Server thread/INFO]: <xiaolouQAQ> 多少级
+[11:37:07] [Server thread/INFO]: <xiaojian520> 有经验塔吗
+[11:37:09] [Server thread/INFO]: <xiaojian520> 21
+[11:37:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4908ms or 98 ticks behind
+[11:37:13] [Server thread/INFO]: <EDGW> 有小黑塔
+[11:37:14] [Server thread/INFO]: <xiaolouQAQ> 来
+[11:37:14] [Server thread/INFO]: <xiaojian520> 我需要三十多
+[11:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8579ms or 171 ticks behind
+[11:38:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10088ms or 201 ticks behind
+[11:38:20] [Server thread/INFO]: <xiaojian520> ?
+[11:38:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[11:38:33] [Server thread/INFO]: <EDGWA> 我怎么看皮肤一样
+[11:38:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5596ms or 111 ticks behind
+[11:38:46] [Server thread/INFO]: <xiaojian520> 我看不出我的皮肤
+[11:38:54] [Server thread/INFO]: <xiaolouQAQ> 对
+[11:38:55] [Server thread/INFO]: <EDGW> xiaolouQAQ 帮忙挖吗x
+[11:39:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8818ms or 176 ticks behind
+[11:39:17] [Server thread/INFO]: <xiaolouQAQ> 我带xiaojian去小黑塔
+[11:39:20] [Server thread/INFO]: <xiaolouQAQ> 马上来
+[11:39:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9572ms or 191 ticks behind
+[11:39:34] [Server thread/INFO]: <xiaojian520> 卡
+[11:39:39] [Server thread/INFO]: <xiaolouQAQ> ==
+[11:39:51] [Server thread/INFO]: <xiaolouQAQ> 没加载出来？
+[11:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11433ms or 228 ticks behind
+[11:40:07] [Server thread/INFO]: <xiaojian520> 2fps
+[11:40:12] [Server thread/INFO]: <xiaolouQAQ> ==
+[11:40:14] [Server thread/INFO]: <xiaolouQAQ> 咋回事
+[11:40:16] [Server thread/INFO]: <EDGWA> 卡
+[11:40:25] [Server thread/INFO]: <xiaojian520> 好了
+[11:40:25] [Server thread/INFO]: <EDGW> TPS这么低 啥玩意儿开着
+[11:40:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10877ms or 217 ticks behind
+[11:40:28] [Server thread/INFO]: <xiaolouQAQ> 你把视距调第一点
+[11:40:32] [Server thread/INFO]: <xiaojian520> 瞬间50fps
+[11:40:44] [Server thread/INFO]: <EDGWA> 卡
+[11:40:46] [Server thread/INFO]: <EDGW> fps62
+[11:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10117ms or 202 ticks behind
+[11:40:59] [Server thread/INFO]: xiaojian520 has made the advancement [Eye Spy]
+[11:41:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5920ms or 118 ticks behind
+[11:41:20] [Server thread/INFO]: xiaojian520 has made the advancement [The End?]
+[11:41:22] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[11:41:22] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[11:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7808ms or 156 ticks behind
+[11:42:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14304ms or 286 ticks behind
+[11:42:04] [Server thread/INFO]: <xiaojian520> 快没烟花了
+[11:42:06] [Server thread/INFO]: <xiaolouQAQ> 镐子拿副手
+[11:42:17] [Server thread/INFO]: <xiaolouQAQ> 烟花给你
+[11:42:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Ender Pearl'/130636, l='ServerLevel[world]', x=194.54, y=2.30, z=0.90]
+[11:42:29] [Server thread/INFO]: <xiaolouQAQ> 镐子放左手上
+[11:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10902ms or 218 ticks behind
+[11:42:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6031ms or 120 ticks behind
+[11:43:00] [Server thread/INFO]: <EDGW> 我寒假作业是开学前一天晚上10点开始写到第二天早上4点写完的 暑假我打算也这么干hhhhh
+[11:43:08] [Server thread/INFO]: <EDGWA> ...
+[11:43:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[11:43:14] [Server thread/INFO]: <xiaolouQAQ> nb
+[11:43:18] [Server thread/INFO]: <EDGWA> 报纸好了吗
+[11:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[11:43:31] [Server thread/INFO]: <EDGW> 有几个组很慢 材料一直不给
+[11:43:36] [Server thread/INFO]: <EDGW> 排版不了
+[11:43:38] [Server thread/INFO]: <xiaolouQAQ> 剑给我
+[11:43:41] [Server thread/INFO]: <xiaolouQAQ> 我也修
+[11:43:59] [Server thread/INFO]: <EDGW> NMD
+[11:44:01] [Server thread/INFO]: <EDGW> 我要死了
+[11:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11:44:11] [Server thread/INFO]: <EDGWA> ...
+[11:44:18] [Server thread/INFO]: <xiaolouQAQ> 我有==
+[11:44:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11:45:05] [Server thread/INFO]: <xiaolouQAQ> 这有工具
+[11:45:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11:45:22] [Server thread/INFO]: <EDGW> 我先去排版了 xiaolouQAQ 这个车站两边是站台 你把两边挖掉四格然后地板比铁路部分高一格填上混凝土就行了
+[11:45:27] [Server thread/INFO]: <EDGW> -533 470
+[11:45:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11:45:37] [Server thread/INFO]: <xiaojian520> 有交易所吗
+[11:45:41] [Server thread/INFO]: <xiaojian520> 村民交易所
+[11:45:42] [Server thread/INFO]: <xiaolouQAQ> 剑给我
+[11:45:48] [Server thread/INFO]: <xiaolouQAQ> you
+[11:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[11:46:06] [Server thread/INFO]: EDGW lost connection: Disconnected
+[11:46:06] [Server thread/INFO]: EDGW left the game
+[11:46:14] [Server thread/INFO]: <EDGWA> 有人吗
+[11:46:28] [Server thread/INFO]: <EDGWA> 有人来对射吗
+[11:46:43] [Server thread/INFO]: <xiaojian520> 能带我去吗，等会
+[11:46:47] [Server thread/INFO]: <xiaojian520> 村民交易所
+[11:46:48] [Server thread/INFO]: <EDGWA> 嘿嘿
+[11:46:53] [Server thread/INFO]: <xiaolouQAQ> ok
+[11:47:06] [Server thread/INFO]: <EDGWA> 有人来对射吗
+[11:47:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[11:47:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8102ms or 162 ticks behind
+[11:48:15] [Server thread/INFO]: <xiaojian520> 50钻石了
+[11:48:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4129ms or 82 ticks behind
+[11:48:22] [Server thread/INFO]: <xiaolouQAQ> 你想换什么
+[11:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4482ms or 89 ticks behind
+[11:48:43] [Server thread/INFO]: <xiaojian520> 效率5 精准采集 经验修补 耐久三
+[11:48:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4856ms or 97 ticks behind
+[11:49:13] [Server thread/INFO]: <xiaolouQAQ> 没精准
+[11:49:18] [Server thread/INFO]: <xiaojian520> ..
+[11:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6134ms or 122 ticks behind
+[11:49:20] [Server thread/INFO]: <xiaolouQAQ> 我带你去另一个等下
+[11:49:39] [Server thread/INFO]: <EDGWA> 那个人那么缺德
+[11:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6808ms or 136 ticks behind
+[11:49:48] [Server thread/INFO]: <EDGWA> 哪
+[11:49:53] [Server thread/INFO]: <xiaojian520> ?
+[11:49:57] [Server thread/INFO]: <xiaolouQAQ> zou
+[11:50:00] [Server thread/INFO]: <xiaojian520> en
+[11:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6192ms or 123 ticks behind
+[11:50:19] [Server thread/INFO]: <EDGWA> 把别人的东西都n拿光了
+[11:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5703ms or 114 ticks behind
+[11:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5658ms or 113 ticks behind
+[11:50:53] [Server thread/INFO]: <xiaolouQAQ> kan
+[11:51:00] [Server thread/INFO]: <xiaolouQAQ> 奇观
+[11:51:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6134ms or 122 ticks behind
+[11:51:08] [Server thread/INFO]: <xiaolouQAQ> 这小白笑死
+[11:51:08] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[11:51:08] [Server thread/INFO]: xiaojian520 left the game
+[11:51:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[11:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[11:51:42] [Server thread/INFO]: xiaojian520[/127.0.0.1:54648] logged in with entity id 138516 at (-439.3658897988905, 69.5, 419.05850510468105)
+[11:51:42] [Server thread/INFO]: xiaojian520 joined the game
+[11:51:42] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:51:57] [Netty Epoll Server IO #4/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[11:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4554ms or 91 ticks behind
+[11:52:05] [Server thread/INFO]: <xiaojian520> 1
+[11:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
+[11:52:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6665ms or 133 ticks behind
+[11:52:54] [Server thread/INFO]: EDGWA fell from a high place
+[11:53:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
+[11:53:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
+[11:53:28] [Server thread/INFO]: <xiaojian520> 这有
+[11:53:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6078ms or 121 ticks behind
+[11:53:46] [Server thread/INFO]: <xiaojian520> 换了精准采集了吗
+[11:54:00] [Server thread/INFO]: <xiaolouQAQ> 额
+[11:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7775ms or 155 ticks behind
+[11:54:07] [Server thread/INFO]: <xiaolouQAQ> 忘带货币了
+[11:54:11] [Server thread/INFO]: <xiaojian520> ..
+[11:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6448ms or 128 ticks behind
+[11:54:28] [Server thread/INFO]: <xiaolouQAQ> 你在这等我
+[11:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9251ms or 185 ticks behind
+[11:55:01] [Server thread/INFO]: Qing_sha has reached the goal [The Next Generation]
+[11:55:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12165ms or 243 ticks behind
+[11:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13260ms or 265 ticks behind
+[11:56:05] [Server thread/INFO]: <xiaojian520> 这个像火箭的是谁建的呀
+[11:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8771ms or 175 ticks behind
+[11:56:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13513ms or 270 ticks behind
+[11:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12013ms or 240 ticks behind
+[11:57:18] [Server thread/INFO]: <xiaojian520> ..
+[11:57:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11255ms or 225 ticks behind
+[11:57:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8039ms or 160 ticks behind
+[11:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8384ms or 167 ticks behind
+[11:58:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9998ms or 199 ticks behind
+[11:58:58] [Server thread/INFO]: <EDGWA> 你们在哪
+[11:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10283ms or 205 ticks behind
+[11:59:18] [Server thread/INFO]: EDGWA lost connection: Timed out
+[11:59:18] [Server thread/INFO]: EDGWA left the game
+[11:59:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7040ms or 140 ticks behind
+[11:59:36] [Server thread/INFO]: <xiaolouQAQ> zou ba
+[11:59:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4708ms or 94 ticks behind
+[12:00:06] [Server thread/INFO]: EDGWA[/127.0.0.1:43337] logged in with entity id 145268 at (-316.35996155821226, 68.0, 369.36820704626086)
+[12:00:06] [Server thread/INFO]: EDGWA joined the game
+[12:00:06] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/145243, l='ServerLevel[world]', x=-302.46, y=70.01, z=362.46]
+[12:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[12:00:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/145373, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[12:00:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/145373, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[12:00:13] [Server thread/INFO]: <Qing_sha> 什么东西飞过去了
+[12:00:23] [Server thread/INFO]: <EDGWA> 你们在哪
+[12:00:23] [Server thread/INFO]: <xiaolouQAQ> 俩帅哥
+[12:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4949ms or 98 ticks behind
+[12:00:36] [Server thread/INFO]: EDGWA lost connection: Timed out
+[12:00:36] [Server thread/INFO]: EDGWA left the game
+[12:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5347ms or 106 ticks behind
+[12:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[12:01:09] [Server thread/INFO]: <xiaojian520> 地铁再按
+[12:01:11] [Server thread/INFO]: <xiaojian520> 在哪
+[12:01:18] [Server thread/INFO]: <xiaolouQAQ> 工业区那
+[12:01:22] [Server thread/INFO]: EDGWA[/127.0.0.1:55744] logged in with entity id 146854 at (-316.6218455425817, 68.0, 369.6394955558996)
+[12:01:22] [Server thread/INFO]: EDGWA joined the game
+[12:01:22] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:01:23] [Server thread/INFO]: <xiaojian520> ao
+[12:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5797ms or 115 ticks behind
+[12:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7610ms or 152 ticks behind
+[12:02:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5406ms or 108 ticks behind
+[12:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
+[12:02:57] [Server thread/INFO]: <xiaolouQAQ> 鞋子给我
+[12:03:01] [Server thread/INFO]: EDGWA lost connection: Disconnected
+[12:03:01] [Server thread/INFO]: EDGWA left the game
+[12:03:11] [Server thread/INFO]: <xiaojian520> 还有那个效率有吗
+[12:03:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6513ms or 130 ticks behind
+[12:03:17] [Server thread/INFO]: <xiaolouQAQ> you
+[12:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4276ms or 85 ticks behind
+[12:03:33] [Server thread/INFO]: <xiaojian520> 效率耐久
+[12:03:34] [Server thread/INFO]: <xiaolouQAQ> 两本效率四是吧
+[12:03:42] [Server thread/INFO]: <xiaojian520> 嗯的吧
+[12:03:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3247ms or 64 ticks behind
+[12:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3125ms or 62 ticks behind
+[12:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
+[12:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[12:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[12:05:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[12:05:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3607ms or 72 ticks behind
+[12:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
+[12:05:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/149998, l='ServerLevel[world]', x=-302.88, y=70.00, z=361.81]
+[12:06:14] [Server thread/INFO]: <Qing_sha> 过来看我
+[12:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
+[12:06:18] [Server thread/INFO]: <Qing_sha> 你们在哪
+[12:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4261ms or 85 ticks behind
+[12:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[12:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:07:53] [Server thread/INFO]: <xiaolouQAQ> 我去吃饭了
+[12:07:57] [Server thread/INFO]: <xiaojian520> ok
+[12:08:01] [Server thread/INFO]: <xiaolouQAQ> 你可以去帮他们修铁路
+[12:08:08] [Server thread/INFO]: <xiaojian520> 耐久
+[12:08:10] [Server thread/INFO]: <xiaojian520> 好像没有
+[12:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12:08:13] [Server thread/INFO]: <xiaolouQAQ> 没
+[12:08:19] [Server thread/INFO]: <xiaojian520> o
+[12:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[12:08:33] [Server thread/INFO]: <xiaolouQAQ> 你经验修补咋上去了吗
+[12:08:43] [Server thread/INFO]: <xiaojian520> en
+[12:08:52] [Server thread/INFO]: <xiaolouQAQ> 我把我的镐子借你
+[12:09:03] [Server thread/INFO]: xiaojian520 has made the advancement [What a Deal!]
+[12:09:23] [Server thread/INFO]: <xiaojian520> 效率搞给你吧
+[12:09:31] [Server thread/INFO]: <xiaolouQAQ> 你不要？
+[12:09:33] [Server thread/INFO]: <xiaojian520> 呸
+[12:09:35] [Server thread/INFO]: <xiaojian520> 时运
+[12:09:39] [Server thread/INFO]: <xiaojian520> 时运高给你
+[12:09:42] [Server thread/INFO]: <xiaolouQAQ> 拿着
+[12:09:50] [Server thread/INFO]: <xiaojian520> ?
+[12:09:53] [Server thread/INFO]: <xiaolouQAQ> 一个精准，一个时运
+[12:09:55] [Server thread/INFO]: <xiaojian520> oo
+[12:10:00] [Server thread/INFO]: <xiaojian520> 那你没稿子了？
+[12:10:05] [Server thread/INFO]: <xiaolouQAQ> 我还有
+[12:10:12] [Server thread/INFO]: <xiaojian520> o
+[12:10:14] [Server thread/INFO]: <xiaojian520> 谢谢
+[12:10:22] [Server thread/INFO]: <xiaolouQAQ> 没事
+[12:10:39] [Server thread/INFO]: Qing_sha lost connection: Disconnected
+[12:10:39] [Server thread/INFO]: Qing_sha left the game
+[12:10:50] [Server thread/INFO]: <xiaolouQAQ> 吃饭了
+[12:10:59] [Server thread/INFO]: <xiaojian520> en
+[12:11:03] [Server thread/INFO]: xiaolouQAQ lost connection: Disconnected
+[12:11:03] [Server thread/INFO]: xiaolouQAQ left the game
+[12:14:32] [Server thread/INFO]: Backup started by: Timer on: 2020-08-12_12-14-32
+[12:14:32] [Server thread/INFO]: Saving server...
+[12:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:14:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:14:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:14:33] [pool-3-thread-1/INFO]: Starting backup
+[12:14:33] [pool-3-thread-1/INFO]: Starting compression...
+[12:14:38] [pool-3-thread-1/INFO]: Compression took: 05.286 seconds.
+[12:14:38] [pool-3-thread-1/INFO]: Deleting: 2020-08-11_22-09-51.zip
+[12:14:38] [pool-3-thread-1/INFO]: Done!
+[12:21:02] [Server thread/INFO]: Nan_Yang[/127.0.0.1:33263] logged in with entity id 159997 at (-369.18849296363373, 69.0, 424.967166428867)
+[12:21:02] [Server thread/INFO]: Nan_Yang joined the game
+[12:21:02] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:21:05] [Server thread/INFO]: <xiaojian520> hi
+[12:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[12:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2918ms or 58 ticks behind
+[12:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3762ms or 75 ticks behind
+[12:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[12:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:23:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:23:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3638ms or 72 ticks behind
+[12:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[12:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3721ms or 74 ticks behind
+[12:24:29] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[12:24:29] [Server thread/INFO]: Nan_Yang left the game
+[12:24:33] [Server thread/INFO]: Nan_Yang[/127.0.0.1:56363] logged in with entity id 164411 at (-371.04279737338953, 68.9375, 457.0899177282303)
+[12:24:33] [Server thread/INFO]: Nan_Yang joined the game
+[12:24:33] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:25:10] [Server thread/INFO]: xiaojian520 has made the advancement [Acquire Hardware]
+[12:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3097ms or 61 ticks behind
+[12:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3554ms or 71 ticks behind
+[12:25:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3272ms or 65 ticks behind
+[12:26:05] [Server thread/INFO]: <xiaojian520> c
+[12:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3335ms or 66 ticks behind
+[12:26:17] [Server thread/INFO]: <xiaojian520> 不小心把龙蛋点了一下
+[12:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3859ms or 77 ticks behind
+[12:26:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[12:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3583ms or 71 ticks behind
+[12:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3788ms or 75 ticks behind
+[12:27:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[12:27:56] [Server thread/INFO]: <xiaojian520> 蛋不见了
+[12:28:01] [Server thread/INFO]: <Nan_Yang> 没事
+[12:28:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2929ms or 58 ticks behind
+[12:28:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3492ms or 69 ticks behind
+[12:28:24] [Server thread/INFO]: <xiaojian520> xiaolou家的蛋
+[12:28:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3465ms or 69 ticks behind
+[12:28:51] [Server thread/INFO]: <Nan_Yang> 应该没事
+[12:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3267ms or 65 ticks behind
+[12:29:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[12:30:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[12:30:17] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[12:30:17] [Server thread/INFO]: xiaojian520 left the game
+[12:30:58] [Server thread/INFO]: xiaojian520[/127.0.0.1:45175] logged in with entity id 171194 at (-441.91188082933, 69.5, 419.5437104502787)
+[12:30:58] [Server thread/INFO]: xiaojian520 joined the game
+[12:30:58] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:31:08] [Netty Epoll Server IO #7/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[12:31:13] [Server thread/INFO]: <Nan_Yang> .
+[12:31:29] [Server thread/INFO]: <xiaojian520> 好听
+[12:31:35] [Server thread/INFO]: <xiaojian520> 再放
+[12:31:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/171918, l='ServerLevel[world]', x=-401.70, y=70.26, z=440.50]
+[12:31:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/171918, l='ServerLevel[world]', x=-401.70, y=70.26, z=440.50]
+[12:31:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/171970, l='ServerLevel[world]', x=-401.70, y=70.26, z=438.50]
+[12:31:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/171970, l='ServerLevel[world]', x=-401.70, y=70.26, z=438.50]
+[12:32:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/173112, l='ServerLevel[world]', x=-367.56, y=70.26, z=458.61]
+[12:32:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/173112, l='ServerLevel[world]', x=-367.56, y=70.26, z=458.61]
+[12:33:02] [Server thread/INFO]: <xiaojian520> 下一首
+[12:33:05] [Server thread/INFO]: <xiaojian520> 别烦这个
+[12:33:31] [Server thread/INFO]: <xiaojian520> 关啊
+[12:33:38] [Server thread/INFO]: <Nan_Yang> 不能关awa
+[12:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[12:35:03] [Server thread/INFO]: <xiaojian520> 地铁哪里要请
+[12:35:07] [Server thread/INFO]: <xiaojian520> 清
+[12:35:15] [Server thread/INFO]: <Nan_Yang> 你去问edgw
+[12:35:24] [Server thread/INFO]: <Nan_Yang> 我不知道
+[12:36:15] [Server thread/INFO]: <xiaojian520> 村民交易呢
+[12:36:29] [Server thread/INFO]: <Nan_Yang> 吃了
+[12:37:00] [Server thread/INFO]: EDGW[/127.0.0.1:35388] logged in with entity id 177134 at (-532.6206119507682, 43.0, 470.74566613697647)
+[12:37:00] [Server thread/INFO]: EDGW joined the game
+[12:37:00] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:37:06] [Server thread/INFO]: <Nan_Yang> EDGW
+[12:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[12:37:15] [Server thread/INFO]: <Nan_Yang> 假人不能用了???
+[12:37:16] [Server thread/INFO]: EDGW lost connection: Timed out
+[12:37:16] [Server thread/INFO]: EDGW left the game
+[12:37:52] [Server thread/INFO]: EDGW[/127.0.0.1:44069] logged in with entity id 178016 at (-532.6206119507682, 43.0, 470.74566613697647)
+[12:37:52] [Server thread/INFO]: EDGW joined the game
+[12:37:52] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6672ms or 133 ticks behind
+[12:38:27] [Server thread/INFO]: <EDGW> 这里
+[12:38:31] [Server thread/INFO]: <Nan_Yang> EDGW
+[12:38:32] [Server thread/INFO]: <Nan_Yang> 假人不能用了???
+[12:38:37] [Server thread/INFO]: <EDGW> en
+[12:38:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8189ms or 163 ticks behind
+[12:38:45] [Server thread/INFO]: <EDGW> carpet坏了
+[12:38:55] [Server thread/INFO]: <xiaojian520> 你们谁手上现在有绿宝石
+[12:39:00] [Server thread/INFO]: <xiaojian520> 我忘带了
+[12:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8567ms or 171 ticks behind
+[12:39:12] [Server thread/INFO]: <EDGW> -537 473 xiaojian520
+[12:39:23] [Server thread/INFO]: <xiaojian520> 地铁？？
+[12:39:25] [Server thread/INFO]: <EDGW> en
+[12:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9386ms or 187 ticks behind
+[12:39:29] [Server thread/INFO]: <EDGW> 入口在
+[12:39:47] [Server thread/INFO]: <EDGW> -766 328
+[12:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8892ms or 177 ticks behind
+[12:40:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10015ms or 200 ticks behind
+[12:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8633ms or 172 ticks behind
+[12:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10667ms or 213 ticks behind
+[12:41:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10088ms or 201 ticks behind
+[12:41:49] [Server thread/INFO]: <EDGW> 白色的土又没了
+[12:41:53] [Server thread/INFO]: <Nan_Yang> ...
+[12:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9246ms or 184 ticks behind
+[12:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7779ms or 155 ticks behind
+[12:42:28] [Server thread/INFO]: <EDGW> 100大熔炉这里有个地铁站
+[12:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8185ms or 163 ticks behind
+[12:42:50] [Server thread/INFO]: <Nan_Yang> EDGW
+[12:42:53] [Server thread/INFO]: <EDGW> ?
+[12:42:55] [Server thread/INFO]: <Nan_Yang> 有黄色混凝土不
+[12:43:00] [Server thread/INFO]: <EDGW> meiyou
+[12:43:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8543ms or 170 ticks behind
+[12:43:20] [Server thread/INFO]: EDGW fell from a high place
+[12:43:28] [Server thread/INFO]: <Nan_Yang> EDGW给你放个好歌
+[12:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8100ms or 162 ticks behind
+[12:43:35] [Server thread/INFO]: <EDGW> .
+[12:43:41] [Server thread/INFO]: <EDGW> .
+[12:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8970ms or 179 ticks behind
+[12:43:57] [Server thread/INFO]: EDGW fell from a high place
+[12:44:03] [Server thread/INFO]: <EDGW> AHHHH
+[12:44:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9806ms or 196 ticks behind
+[12:44:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10485ms or 209 ticks behind
+[12:45:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10856ms or 217 ticks behind
+[12:45:30] [Server thread/INFO]: <EDGW> 混凝土机箱子里有黄色
+[12:45:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8391ms or 167 ticks behind
+[12:45:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8174ms or 163 ticks behind
+[12:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6053ms or 121 ticks behind
+[12:46:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
+[12:47:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7994ms or 159 ticks behind
+[12:47:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Potato'/185093, l='ServerLevel[world]', x=-401.70, y=78.13, z=431.19]
+[12:47:17] [Server thread/INFO]: <Nan_Yang> ???
+[12:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8579ms or 171 ticks behind
+[12:47:24] [Server thread/INFO]: <Nan_Yang> 又没声了
+[12:47:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7418ms or 148 ticks behind
+[12:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3516ms or 70 ticks behind
+[12:48:07] [Server thread/INFO]: <EDGW> 白色混凝土真没了....
+[12:48:11] [Server thread/INFO]: <Nan_Yang> EDGW
+[12:48:13] [Server thread/INFO]: <EDGW> ?
+[12:48:14] [Server thread/INFO]: <Nan_Yang> 切割
+[12:48:18] [Server thread/INFO]: <Nan_Yang> 切歌
+[12:48:20] [Server thread/INFO]: <EDGW> .
+[12:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5050ms or 101 ticks behind
+[12:48:33] [Server thread/INFO]: <Nan_Yang> ???
+[12:48:40] [Server thread/INFO]: <Nan_Yang> 不是两个就行了嘛
+[12:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
+[12:49:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
+[12:49:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[12:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4142ms or 82 ticks behind
+[12:49:44] [Server thread/INFO]: <xiaojian520> -537 473
+[12:49:45] [Server thread/INFO]: <EDGW> 哪里有白色混凝土
+[12:49:49] [Server thread/INFO]: <EDGW> 嗯
+[12:49:56] [Server thread/INFO]: <Nan_Yang> 都没了
+[12:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3908ms or 78 ticks behind
+[12:50:10] [Server thread/INFO]: <EDGW> xiaojian520 来我这
+[12:50:17] [Server thread/INFO]: <EDGW> -764 329
+[12:50:19] [Server thread/INFO]: <Nan_Yang> 我修路都是用的粉末放水
+[12:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3715ms or 74 ticks behind
+[12:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4482ms or 89 ticks behind
+[12:50:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4659ms or 93 ticks behind
+[12:51:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[12:51:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5721ms or 114 ticks behind
+[12:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4894ms or 97 ticks behind
+[12:52:09] [Server thread/INFO]: <EDGW> [ALLMusic]正在播放：See Nan_Yang Again | See Nan_Yang Again | See Nan_Yang Again
+[12:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
+[12:52:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5049ms or 100 ticks behind
+[12:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3699ms or 73 ticks behind
+[12:53:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[12:53:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[12:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3877ms or 77 ticks behind
+[12:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[12:54:18] [Server thread/INFO]: <xiaojian520> 473是负吗
+[12:54:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[12:54:48] [Server thread/INFO]: <xiaojian520> ??
+[12:54:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3962ms or 79 ticks behind
+[12:55:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5227ms or 104 ticks behind
+[12:55:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4293ms or 85 ticks behind
+[12:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4169ms or 83 ticks behind
+[12:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3622ms or 72 ticks behind
+[12:56:17] [Server thread/INFO]: <EDGW> en
+[12:56:21] [Server thread/INFO]: <EDGW> -764 329
+[12:56:25] [Server thread/INFO]: <xiaojian520> 你在哪
+[12:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[12:56:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3529ms or 70 ticks behind
+[12:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[12:57:18] [Server thread/INFO]: <xiaojian520> 这就是地铁吗
+[12:57:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[12:57:23] [Server thread/INFO]: <xiaojian520> 哪要清
+[12:57:36] [Server thread/INFO]: <xiaojian520> 1
+[12:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2130ms or 42 ticks behind
+[12:57:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[12:58:11] [Server thread/INFO]: <xiaojian520> 这铁门咋开不了
+[12:58:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12:58:14] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[12:58:14] [Server thread/INFO]: xiaojian520 left the game
+[12:58:17] [Server thread/INFO]: xiaojian520[/127.0.0.1:54112] logged in with entity id 196041 at (-766.5585510561672, 42.0, 368.0996043787528)
+[12:58:17] [Server thread/INFO]: xiaojian520 joined the game
+[12:58:17] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:58:29] [Netty Epoll Server IO #5/WARN]: Player xiaojian520 joined with another carpet version: 1.4.0+v200623
+[12:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12:58:45] [Server thread/INFO]: <xiaojian520> 这铁门有bug
+[12:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[12:59:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[12:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[12:59:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-377, y=70, z=413} class_2338{x=-377, y=69, z=412}
+[12:59:39] [Server thread/INFO]: <xiaojian520> 1
+[12:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:59:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2843ms or 56 ticks behind
+[13:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3562ms or 71 ticks behind
+[13:00:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
+[13:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
+[13:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3782ms or 75 ticks behind
+[13:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4502ms or 90 ticks behind
+[13:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4324ms or 86 ticks behind
+[13:02:00] [Server thread/INFO]: <EDGW> 1.16.2铁门本来打不开
+[13:02:08] [Server thread/INFO]: <EDGW> 你在哪
+[13:02:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[13:02:22] [Server thread/INFO]: <EDGW> 你要用1.16.2玩
+[13:02:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13:02:31] [Server thread/INFO]: <xiaojian520> 哦哦
+[13:02:32] [Server thread/INFO]: <EDGW> 地铁怎样
+[13:02:36] [Server thread/INFO]: <Nan_Yang> 我还用的1.16.1
+[13:02:46] [Server thread/INFO]: <EDGW> 那你会发现铁门打不开
+[13:02:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13:02:55] [Server thread/INFO]: <EDGW> 按钮按不了
+[13:03:00] [Server thread/INFO]: <xiaojian520> 我也在用1.16.1
+[13:03:03] [Server thread/INFO]: <EDGW> 站在压力班上不会触发
+[13:03:06] [Server thread/INFO]: <Nan_Yang> 升级mod得全换
+[13:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13:03:15] [Server thread/INFO]: <xiaojian520> 对啊
+[13:03:17] [Server thread/INFO]: <xiaojian520> 我没mod
+[13:03:24] [Server thread/INFO]: <EDGW> 群里有
+[13:03:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
+[13:03:31] [Server thread/INFO]: <EDGW> 昨晚1点更新的
+[13:03:35] [Server thread/INFO]: <Nan_Yang> 压力板是好的压
+[13:03:44] [Server thread/INFO]: <EDGW> 那就是按钮坏了
+[13:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[13:03:59] [Server thread/INFO]: <xiaojian520> 只有一点mod
+[13:04:00] [Server thread/INFO]: EDGW fell from a high place
+[13:04:01] [Server thread/INFO]: <xiaojian520> 1.16.2
+[13:04:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13:04:35] [Server thread/INFO]: <EDGW> 地铁怎样
+[13:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[13:04:45] [Server thread/INFO]: <xiaojian520> hmcl咋没有1.16.2
+[13:04:55] [Server thread/INFO]: <EDGW> 把下载源改成官方
+[13:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[13:05:08] [Server thread/INFO]: <EDGW> MCBBS和BMCLAPI被攻击了
+[13:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[13:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3917ms or 78 ticks behind
+[13:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3801ms or 76 ticks behind
+[13:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3957ms or 79 ticks behind
+[13:06:21] [Server thread/INFO]: <xiaojian520> 哪里要清
+[13:06:25] [Server thread/INFO]: <EDGW> zheli
+[13:06:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4105ms or 82 ticks behind
+[13:06:32] [Server thread/INFO]: <EDGW> -539 470
+[13:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5062ms or 101 ticks behind
+[13:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4006ms or 80 ticks behind
+[13:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[13:07:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[13:08:35] [Server thread/INFO]: <xiaojian520> 我在你上面
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:08:50] [Server thread/ERROR]: Can't find any space for item in the inventory
+[13:09:30] [Server thread/INFO]: <xiaojian520> 入口在哪来着
+[13:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[13:10:19] [Server thread/INFO]: <xiaojian520> hi
+[13:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:10:22] [Server thread/INFO]: <xiaojian520> 哪要挖
+[13:10:44] [Server thread/INFO]: <Nan_Yang> ???
+[13:10:55] [Server thread/INFO]: <Nan_Yang> 铁路出bug了???
+[13:10:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:11:19] [Server thread/INFO]: <Nan_Yang> 算了，我去升级1.16.2把
+[13:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13:11:43] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[13:11:43] [Server thread/INFO]: Nan_Yang left the game
+[13:11:46] [Server thread/INFO]: Nan_Yang[/127.0.0.1:41417] logged in with entity id 207485 at (-377.88876573907515, 69.0, 409.341030719421)
+[13:11:46] [Server thread/INFO]: Nan_Yang joined the game
+[13:11:46] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:12:08] [Server thread/INFO]: <Nan_Yang> EDGW
+[13:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[13:12:15] [Server thread/INFO]: <Nan_Yang> 你用的是1.16.2吗
+[13:12:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[13:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
+[13:13:09] [Server thread/INFO]: <EDGW> 嗯
+[13:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4508ms or 90 ticks behind
+[13:13:28] [Server thread/INFO]: <Nan_Yang> EDGW
+[13:13:31] [Server thread/INFO]: <EDGW> ?
+[13:13:31] [Server thread/INFO]: <Nan_Yang> 你用的是1.16.2吗
+[13:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
+[13:13:33] [Server thread/INFO]: <EDGW> 嗯
+[13:13:43] [Server thread/INFO]: <Nan_Yang> 过来
+[13:13:46] [Server thread/INFO]: <EDGW> o
+[13:13:49] [Server thread/INFO]: <EDGW> where
+[13:13:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8794ms or 175 ticks behind
+[13:13:59] [Server thread/INFO]: <Nan_Yang> -378 412
+[13:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7622ms or 152 ticks behind
+[13:14:32] [Server thread/INFO]: Backup started by: Timer on: 2020-08-12_13-14-32
+[13:14:32] [Server thread/INFO]: Saving server...
+[13:14:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:14:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:14:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:14:36] [pool-3-thread-1/INFO]: Starting backup
+[13:14:36] [pool-3-thread-1/INFO]: Starting compression...
+[13:14:40] [Server thread/INFO]: There are 4 of a max of 16 players online: nvwu, xiaojian520, EDGW, Nan_Yang
+[13:14:42] [pool-3-thread-1/INFO]: Compression took: 05.584 seconds.
+[13:14:42] [pool-3-thread-1/INFO]: Deleting: 2020-08-11_23-09-49.zip
+[13:14:42] [pool-3-thread-1/INFO]: Done!
+[13:14:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16183ms or 323 ticks behind
+[13:15:11] [Server thread/INFO]: <EDGW> ?
+[13:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7624ms or 152 ticks behind
+[13:15:26] [Server thread/INFO]: <EDGW> 激活了啊
+[13:15:29] [Server thread/INFO]: <Nan_Yang> ???
+[13:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[13:15:36] [Server thread/INFO]: <Nan_Yang> 我这边只是单个
+[13:15:43] [Server thread/INFO]: <EDGW> 我这里看是都激活的
+[13:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2479ms or 49 ticks behind
+[13:16:00] [Server thread/INFO]: <Nan_Yang> 这样呢
+[13:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[13:16:07] [Server thread/INFO]: <EDGW> 都激活的
+[13:16:11] [Server thread/INFO]: <Nan_Yang> ....
+[13:16:25] [Server thread/INFO]: <Nan_Yang> 我这边开不出来
+[13:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
+[13:16:29] [Server thread/INFO]: <EDGW> emmm
+[13:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7209ms or 144 ticks behind
+[13:16:55] [Server thread/INFO]: <Nan_Yang> 主要是mod不全，暂时不想升级
+[13:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7203ms or 144 ticks behind
+[13:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6175ms or 123 ticks behind
+[13:17:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6393ms or 127 ticks behind
+[13:18:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9394ms or 187 ticks behind
+[13:18:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7749ms or 154 ticks behind
+[13:18:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-371, y=70, z=409} class_2338{x=-549, y=72, z=211}
+[13:18:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-549, y=71, z=211} class_2338{x=-549, y=72, z=211}
+[13:18:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-549, y=71, z=211} class_2338{x=-550, y=73, z=211}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-553, y=75, z=211} class_2338{x=-551, y=75, z=212}
+[13:18:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-551, y=74, z=208} class_2338{x=-551, y=73, z=208}
+[13:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2641ms or 52 ticks behind
+[13:19:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13:20:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[13:20:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
+[13:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[13:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[13:21:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
+[13:22:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3131ms or 62 ticks behind
+[13:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
+[13:22:36] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[13:22:36] [Server thread/INFO]: Nan_Yang left the game
+[13:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2711ms or 54 ticks behind
+[13:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[13:24:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3131ms or 62 ticks behind
+[13:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7058ms or 141 ticks behind
+[13:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[13:25:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[13:25:58] [Server thread/INFO]: [Server] 你们现在/here用得了吗
+[13:26:05] [Server thread/INFO]: There are 3 of a max of 16 players online: nvwu, xiaojian520, EDGW
+[13:26:11] [Server thread/INFO]: <EDGW> 不能
+[13:26:45] [Server thread/INFO]: [Server] 我更新下carpet mod
+[13:26:53] [Server thread/INFO]: xiaojian520 has reached the goal [Beaconator]
+[13:27:54] [Server thread/INFO]: [Server] 服务器马上重启
+[13:27:57] [Server thread/INFO]: <xiaojian520> ??
+[13:28:11] [Server thread/INFO]: Stopping the server
+[13:28:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:28:11] [Server thread/INFO]: end<--[HERE]
+[13:28:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[13:28:11] [Server thread/INFO]: exit<--[HERE]
+[13:28:11] [Server thread/INFO]: Stopping server
+[13:28:11] [Server thread/INFO]: Saving players
+[13:28:11] [Server thread/INFO]: Saving worlds
+[13:28:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:28:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:28:15] [Server thread/INFO]: Backup started by: Server Shutdown on: 2020-08-12_13-28-15
+[13:28:15] [pool-3-thread-1/INFO]: Starting backup
+[13:28:15] [pool-3-thread-1/INFO]: Starting compression...
+[13:28:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:28:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:28:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:28:18] [Server thread/INFO]: Thread RCON Listener stopped
+[13:28:19] [pool-3-thread-1/INFO]: Compression took: 03.898 seconds.
+[13:28:19] [pool-3-thread-1/INFO]: Deleting: 2020-08-12_00-09-49.zip
+[13:28:19] [pool-3-thread-1/INFO]: Done!

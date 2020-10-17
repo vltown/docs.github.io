@@ -1,0 +1,527 @@
+[00:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_00-09-14
+[00:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[00:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[00:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_08-09-14.zip
+[00:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[00:14:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6122208, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[00:33:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6124288, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[01:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_01-09-14
+[01:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_09-09-14.zip
+[01:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[01:11:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Carrot'/6128266, l='ServerLevel[world]', x=-375.20, y=73.27, z=460.23]
+[01:13:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128607, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128610, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128613, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128619, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128623, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128629, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128635, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:27] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128638, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128642, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128649, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128652, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128655, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128658, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128661, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128671, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:13:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6128674, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.49]
+[01:33:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6130815, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[01:34:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6130871, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[01:53:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6132836, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[01:55:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6132925, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[02:05:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6133590, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[02:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_02-09-14
+[02:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[02:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[02:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_10-09-14.zip
+[02:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[02:53:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6138490, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[02:53:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6138496, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[02:53:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6138502, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[02:53:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6138509, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[03:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_03-09-14
+[03:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[03:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[03:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_11-09-15.zip
+[03:09:21] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[03:15:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6140387, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[03:34:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6142182, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[04:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_04-09-14
+[04:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[04:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[04:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_12-09-14.zip
+[04:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[04:53:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6149251, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[05:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_05-09-14
+[05:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[05:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[05:09:19] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_13-09-14.zip
+[05:09:19] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: _say 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: __stop___<--[HERE]
+[05:34:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6152696, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[05:34:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6152700, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[05:53:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6154422, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[05:53:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6154434, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[05:54:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6154461, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[06:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_06-09-14
+[06:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[06:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[06:09:19] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_14-09-14.zip
+[06:09:19] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[06:13:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6156152, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[06:33:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6157862, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[07:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_07-09-14
+[07:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[07:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[07:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_15-09-14.zip
+[07:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[07:15:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6161102, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[07:33:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6162658, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[07:51:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Carrot'/6163960, l='ServerLevel[world]', x=-374.69, y=68.94, z=460.29]
+[07:53:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6164190, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[08:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_08-09-14
+[08:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[08:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[08:09:19] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_16-09-15.zip
+[08:09:19] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[08:13:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6165639, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[08:14:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6165666, l='ServerLevel[world]', x=-367.30, y=74.26, z=438.50]
+[08:47:11] [Server thread/INFO]: Looooocro[/127.0.0.1:54632] logged in with entity id 6167675 at (-126.49450855262064, 68.0, 429.5221155344252)
+[08:47:11] [Server thread/INFO]: Looooocro joined the game
+[08:47:11] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:47:56] [Server thread/INFO]: Looooocro lost connection: Timed out
+[08:47:56] [Server thread/INFO]: Looooocro left the game
+[08:48:02] [Server thread/INFO]: Looooocro[/127.0.0.1:56444] logged in with entity id 6167995 at (-126.49450855262064, 68.0, 429.5221155344252)
+[08:48:02] [Server thread/INFO]: Looooocro joined the game
+[08:48:02] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:49:54] [Server thread/INFO]: <Looooocro> 对啊
+[08:50:30] [Server thread/INFO]: <Looooocro> 你那个挖矿的的方法不方便说吗？
+[08:50:35] [Server thread/INFO]: <Looooocro> 你开学了我怎么办
+[08:50:39] [Server thread/INFO]: <Looooocro> 哈哈哈哈哈
+[08:51:45] [Server thread/INFO]: <Looooocro> 对
+[08:53:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6169362, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[08:53:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6169522, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[08:53:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6169627, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[08:55:55] [Server thread/INFO]: Looooocro has made the advancement [Bring Home the Beacon]
+[09:00:45] [Server thread/INFO]: Looooocro fell out of the world
+[09:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_09-09-14
+[09:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[09:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[09:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_17-09-15.zip
+[09:09:20] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[09:10:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Potato'/6178796, l='ServerLevel[world]', x=-394.02, y=73.04, z=460.36]
+[09:34:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6187365, l='ServerLevel[world]', x=-367.30, y=74.26, z=478.50]
+[09:49:33] [Server thread/INFO]: Looooocro has made the advancement [Who is Cutting Onions?]
+[09:54:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6197905, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[09:57:33] [Server thread/INFO]: Looooocro was slain by Iron Golem
+[10:07:16] [Server thread/INFO]: <Looooocro> 混凝土粉末是怎么变成混凝土的？
+[10:07:48] [Server thread/INFO]: <Looooocro> 那粉末怎么得来的？
+[10:07:53] [Server thread/INFO]: <Looooocro> 碎石机？
+[10:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_10-09-14
+[10:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[10:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[10:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_18-09-14.zip
+[10:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[10:13:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6204324, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[10:21:08] [Server thread/INFO]: <Looooocro> ok
+[10:21:15] [Server thread/INFO]: <Looooocro> 谢谢了
+[10:25:33] [Server thread/INFO]: <Looooocro> 这个刷啥机怎么打开？
+[10:27:41] [Server thread/INFO]: <Looooocro> 混凝土
+[10:28:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:28:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-54, y=71, z=383} class_2338{x=-53, y=69, z=384}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-58, y=71, z=377} class_2338{x=-59, y=71, z=377}
+[10:34:45] [Server thread/INFO]: <Looooocro> 插个嘴
+[10:35:24] [Server thread/INFO]: <Looooocro> 烈焰人有刷怪塔吗
+[10:35:50] [Server thread/INFO]: <Looooocro> 怎么走？
+[10:35:56] [Server thread/INFO]: <Looooocro> 我不管怎么进入地狱门
+[10:36:03] [Server thread/INFO]: <Looooocro> 都是在基岩上面。。。
+[10:36:06] [Server thread/INFO]: <Looooocro> 没..
+[10:36:42] [Server thread/INFO]: <Looooocro> ok
+[10:39:31] [Server thread/INFO]: <Looooocro> oooo
+[10:39:35] [Server thread/INFO]: <Looooocro> 找到了
+[10:39:39] [Server thread/INFO]: <Looooocro> 这也太隐蔽了
+[10:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10:41:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10:41:27] [Server thread/INFO]: <Looooocro> 地狱堡垒大概在？
+[10:42:15] [Server thread/INFO]: Looooocro has completed the challenge [Hot Tourist Destinations]
+[10:43:20] [Server thread/INFO]: <Looooocro> 大概第几层、？
+[10:43:25] [Server thread/INFO]: <Looooocro> 我说那个远古益海
+[10:43:35] [Server thread/INFO]: <Looooocro> 远古残骸
+[10:44:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10:44:19] [Server thread/INFO]: <Looooocro> 矿透是啥？
+[10:44:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10:45:39] [Server thread/INFO]: <Looooocro> ...
+[10:45:40] [Server thread/INFO]: <Looooocro> 妈的
+[10:45:46] [Server thread/INFO]: <Looooocro> 你们果然开东西了
+[10:46:35] [Server thread/INFO]: <Looooocro> 16shiba?
+[10:46:39] [Server thread/INFO]: <Looooocro> 16是吧？
+[10:46:42] [Server thread/INFO]: <Looooocro> 远古益海
+[10:47:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10:47:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-55, y=16, z=32} class_2338{x=-55, y=15, z=33}
+[10:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10:48:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[10:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10:49:30] [Server thread/INFO]: Looooocro lost connection: Timed out
+[10:49:30] [Server thread/INFO]: Looooocro left the game
+[11:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_11-09-14
+[11:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[11:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[11:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_19-09-15.zip
+[11:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[11:14:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6226777, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[11:29:05] [Server thread/INFO]: aka213[/127.0.0.1:42148] logged in with entity id 6228274 at (-312.3688510170147, 66.5625, 368.30000001192093)
+[11:29:05] [Server thread/INFO]: aka213 joined the game
+[11:29:05] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:29:08] [Netty Epoll Server IO #1/INFO]: Player aka213 joined with a matching carpet client
+[11:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11:31:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11:32:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[11:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11:35:35] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-70, y=14, z=66} class_2338{x=-71, y=13, z=66}
+[11:35:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[11:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[11:36:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=10, z=82} class_2338{x=-34, y=9, z=83}
+[11:36:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=10, z=82} class_2338{x=-33, y=9, z=81}
+[11:36:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=10, z=82} class_2338{x=-33, y=9, z=81}
+[11:36:51] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=10, z=82} class_2338{x=-33, y=9, z=81}
+[11:36:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=10, z=82} class_2338{x=-33, y=9, z=81}
+[11:36:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-33, y=10, z=82} class_2338{x=-33, y=9, z=81}
+[11:36:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[11:37:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[11:37:14] [Server thread/INFO]: aka213 lost connection: Disconnected
+[11:37:14] [Server thread/INFO]: aka213 left the game
+[11:39:15] [Server thread/INFO]: aka213[/127.0.0.1:45053] logged in with entity id 6237235 at (-24.30000001192093, 8.0, 99.69999998807909)
+[11:39:15] [Server thread/INFO]: aka213 joined the game
+[11:39:15] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:39:18] [Netty Epoll Server IO #6/INFO]: Player aka213 joined with a matching carpet client
+[11:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[11:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
+[11:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
+[11:40:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[11:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
+[11:41:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
+[11:41:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[11:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3886ms or 77 ticks behind
+[11:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3830ms or 76 ticks behind
+[11:42:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3415ms or 68 ticks behind
+[11:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
+[11:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[11:43:14] [Server thread/INFO]: aka213 lost connection: Disconnected
+[11:43:14] [Server thread/INFO]: aka213 left the game
+[11:55:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6251112, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[12:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_12-09-14
+[12:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[12:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[12:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_20-09-14.zip
+[12:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[12:14:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6266598, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[12:15:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6266846, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[12:15:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6267433, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[12:34:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6282404, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[12:54:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6298455, l='ServerLevel[world]', x=-367.30, y=74.26, z=440.50]
+[12:54:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6298513, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[12:54:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6298538, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[13:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_13-09-14
+[13:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[13:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[13:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_21-09-14.zip
+[13:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[13:15:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6315213, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[13:16:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6315517, l='ServerLevel[world]', x=-367.30, y=74.26, z=438.50]
+[14:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_14-09-14
+[14:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[14:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[14:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_22-09-14.zip
+[14:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[14:14:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6362118, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[14:34:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6377903, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[14:35:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6378565, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[14:54:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6393798, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[14:55:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6394486, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[15:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_15-09-14
+[15:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[15:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[15:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-22_23-09-14.zip
+[15:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[15:14:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6409406, l='ServerLevel[world]', x=-367.30, y=74.26, z=440.50]
+[15:15:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6409968, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[15:34:56] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6425078, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[15:54:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6440375, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[15:54:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6440406, l='ServerLevel[world]', x=-367.30, y=74.26, z=438.50]
+[15:55:52] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6441248, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[15:56:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6441508, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[16:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_16-09-14
+[16:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[16:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[16:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_00-09-14.zip
+[16:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[16:13:03] [Server thread/INFO]: xiaojian520[/127.0.0.1:53275] logged in with entity id 6454538 at (1363.1435387342847, 27.0, 1414.3684793694408)
+[16:13:03] [Server thread/INFO]: xiaojian520 joined the game
+[16:13:03] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:13:05] [Netty Epoll Server IO #6/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[16:13:28] [Server thread/INFO]: <xiaojian520> ..
+[16:14:17] [Server thread/INFO]: <xiaojian520> 那个，凋零玫瑰农场和凋零骷髅塔做了吗
+[16:14:22] [Server thread/INFO]: <xiaojian520> 没做我今天做吧
+[16:14:49] [Server thread/INFO]: <xiaojian520> 那我做吧
+[16:14:52] [Server thread/INFO]: <xiaojian520> 没事
+[16:15:10] [Server thread/INFO]: <xiaojian520> 腐竹去哪了
+[16:15:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6457293, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[16:15:43] [Server thread/INFO]: <xiaojian520> ..
+[16:20:29] [Server thread/INFO]: <xiaojian520> 末影满咋弄的
+[16:20:43] [Server thread/INFO]: Plants352039[/127.0.0.1:58892] logged in with entity id 6461524 at (-494.5857691812707, 73.0, 531.5617319407164)
+[16:20:43] [Server thread/INFO]: Plants352039 joined the game
+[16:20:43] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5652ms or 113 ticks behind
+[16:29:37] [Server thread/INFO]: Plants352039 fell from a high place
+[16:34:54] [Server thread/INFO]: <xiaojian520> 你要上线来看吗
+[16:40:00] [Server thread/INFO]: <xiaojian520> 就是上面的小黑掉下来，然后凋零发射东西，然后就可以掉凋零玫瑰
+[16:40:12] [Server thread/INFO]: <xiaojian520> 前面的铁傀儡是仇恨
+[16:41:19] [Server thread/INFO]: <xiaojian520> 你看可以不
+[16:43:41] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[16:43:41] [Server thread/INFO]: Plants352039 left the game
+[16:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6486455, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[16:44:55] [Server thread/INFO]: <xiaojian520> 不会
+[16:45:12] [Server thread/INFO]: <xiaojian520> 但是好像很容易坏掉
+[16:45:39] [Server thread/INFO]: <xiaojian520> 嗯
+[16:45:43] [Server thread/INFO]: <xiaojian520> 我去再试试
+[16:45:46] [Server thread/INFO]: <xiaojian520> 怕不行
+[16:45:50] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[16:45:50] [Server thread/INFO]: xiaojian520 left the game
+[16:53:20] [Server thread/INFO]: xiaojian520[/127.0.0.1:53956] logged in with entity id 6493445 at (-159.30161598755757, 52.0, -45.01666819470899)
+[16:53:20] [Server thread/INFO]: xiaojian520 joined the game
+[16:53:20] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:53:21] [Netty Epoll Server IO #3/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[16:57:08] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[16:57:08] [Server thread/INFO]: xiaojian520 left the game
+[16:58:51] [Server thread/INFO]: xiaojian520[/127.0.0.1:39714] logged in with entity id 6498045 at (-158.5167856978823, 53.0, -48.721223653140314)
+[16:58:51] [Server thread/INFO]: xiaojian520 joined the game
+[16:58:51] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:58:52] [Netty Epoll Server IO #3/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[17:05:24] [Server thread/INFO]: <xiaojian520> 来吧
+[17:08:09] [Server thread/INFO]: aka213[/127.0.0.1:46144] logged in with entity id 6506316 at (-442.03757091013733, 69.5, 420.6886202558428)
+[17:08:09] [Server thread/INFO]: aka213 joined the game
+[17:08:09] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:08:12] [Netty Epoll Server IO #6/INFO]: Player aka213 joined with a matching carpet client
+[17:08:15] [Server thread/INFO]: <xiaojian520> 。。
+[17:08:20] [Server thread/INFO]: <xiaojian520> 帮我铺东西吧
+[17:08:25] [Server thread/INFO]: <xiaojian520> 好像也不行
+[17:08:29] [Server thread/INFO]: <xiaojian520> ..
+[17:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_17-09-14
+[17:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:09:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:09:15] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[17:09:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6507388, l='ServerLevel[world]', x=-367.30, y=74.26, z=478.50]
+[17:09:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6507389, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[17:09:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6507409, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[17:09:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6507487, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[17:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_01-09-14.zip
+[17:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[17:10:06] [Server thread/INFO]: <xiaojian520> 过来给点烟花给我吧
+[17:10:35] [Server thread/INFO]: <xiaojian520> 拿点烟花给我吧
+[17:10:53] [Server thread/INFO]: <xiaojian520> 哎呀，就给几个嘛
+[17:13:52] [Server thread/INFO]: <aka213> 我吃个饭
+[17:13:53] [Server thread/INFO]: aka213 lost connection: Disconnected
+[17:13:53] [Server thread/INFO]: aka213 left the game
+[17:17:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6516238, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[17:17:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6516238, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[17:18:42] [Server thread/INFO]: <xiaojian520> 刷怪塔在哪啊
+[17:22:21] [Server thread/INFO]: aka213[/127.0.0.1:35144] logged in with entity id 6520190 at (-396.38723738263724, 69.0, 551.1750075072583)
+[17:22:21] [Server thread/INFO]: aka213 joined the game
+[17:22:21] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:22:23] [Netty Epoll Server IO #7/INFO]: Player aka213 joined with a matching carpet client
+[17:23:44] [Server thread/INFO]: <aka213> 你要去哪
+[17:23:47] [Server thread/INFO]: <aka213> 我带你
+[17:29:57] [Server thread/INFO]: aka213 lost connection: Disconnected
+[17:29:57] [Server thread/INFO]: aka213 left the game
+[17:32:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6529447, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[17:32:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6529447, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[17:32:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6529817, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[17:32:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6529842, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[17:32:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6529842, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[17:33:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6530194, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[17:33:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6530194, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[17:34:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6531256, l='ServerLevel[world]', x=-367.30, y=74.26, z=478.50]
+[17:36:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:36:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[17:36:30] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[17:36:30] [Server thread/INFO]: xiaojian520 left the game
+[17:36:34] [Server thread/INFO]: xiaojian520[/127.0.0.1:51104] logged in with entity id 6533277 at (-50.554127781379286, 130.0, 114.65342748111335)
+[17:36:34] [Server thread/INFO]: xiaojian520 joined the game
+[17:36:34] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:36:35] [Netty Epoll Server IO #1/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[17:36:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17:37:41] [Server thread/INFO]: <xiaojian520> 1
+[17:43:45] [Server thread/INFO]: <xiaojian520> aka
+[17:44:20] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[17:44:20] [Server thread/INFO]: xiaojian520 left the game
+[17:44:42] [Server thread/INFO]: xiaojian520[/127.0.0.1:53753] logged in with entity id 6540889 at (-558.5, 64.456957532306, 1186.552450005294)
+[17:44:42] [Server thread/INFO]: xiaojian520 joined the game
+[17:44:42] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:44:51] [Netty Epoll Server IO #3/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[17:45:55] [Server thread/INFO]: <xiaojian520> 会用投影吗
+[17:47:19] [Server thread/INFO]: <xiaojian520> ..
+[17:47:44] [Server thread/INFO]: <xiaojian520> .
+[17:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
+[17:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:48:45] [Server thread/INFO]: xiaojian520 lost connection: Disconnected
+[17:48:45] [Server thread/INFO]: xiaojian520 left the game
+[17:48:54] [Server thread/INFO]: xiaojian520[/127.0.0.1:60294] logged in with entity id 6547809 at (-61.34923365492086, 129.0, 65.39424704243602)
+[17:48:54] [Server thread/INFO]: xiaojian520 joined the game
+[17:48:54] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:48:55] [Netty Epoll Server IO #3/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[17:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:49:24] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[17:49:24] [Server thread/INFO]: xiaojian520 left the game
+[17:50:22] [Server thread/INFO]: xiaojian520[/127.0.0.1:52866] logged in with entity id 6549370 at (-51.40151796177395, 129.0, 61.458245474887285)
+[17:50:22] [Server thread/INFO]: xiaojian520 joined the game
+[17:50:22] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:50:22] [Netty Epoll Server IO #7/WARN]: Player xiaojian520 joined with another carpet version: 1.4.8+v200811
+[17:50:43] [Server thread/INFO]: <xiaojian520> 1
+[17:50:45] [Server thread/INFO]: <xiaojian520> 2
+[17:50:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:50:52] [Server thread/INFO]: xiaojian520 lost connection: Timed out
+[17:50:52] [Server thread/INFO]: xiaojian520 left the game
+[18:05:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6560844, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[18:05:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6560880, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[18:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_18-09-14
+[18:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[18:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[18:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_02-09-14.zip
+[18:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[18:13:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6567662, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.59]
+[18:14:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6568596, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[18:32:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6583257, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[18:54:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6600264, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[19:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_19-09-14
+[19:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[19:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[19:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_03-09-14.zip
+[19:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[19:13:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6615001, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[19:33:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6630271, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.51]
+[19:52:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6645478, l='ServerLevel[world]', x=-367.46, y=70.26, z=460.40]
+[19:53:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6646082, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[20:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_20-09-14
+[20:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[20:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[20:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_04-09-14.zip
+[20:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[20:13:00] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6661088, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]
+[20:33:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6676576, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[21:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_21-09-14
+[21:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[21:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[21:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_05-09-14.zip
+[21:09:24] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[21:32:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6722444, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[21:53:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6738255, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[22:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_22-09-14
+[22:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[22:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[22:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_06-09-14.zip
+[22:09:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[22:13:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6753822, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[22:14:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6754783, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[22:34:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6769957, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[23:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-23_23-09-14
+[23:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[23:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[23:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-23_07-09-14.zip
+[23:09:26] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[23:13:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/6799945, l='ServerLevel[world]', x=-401.70, y=70.26, z=458.50]

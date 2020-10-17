@@ -1,0 +1,130 @@
+[00:07:02] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-21_00-07-02
+[00:07:02] [Server thread/INFO]: [Textile Backup] Saving server...
+[00:07:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:07:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:07:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:07:02] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[00:07:05] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-20_06-22-43.zip
+[00:07:05] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[00:44:32] [Server thread/INFO]: Mk_Bolo[/127.0.0.1:47798] logged in with entity id 3340 at (-40.403921871177914, 73.0, 240.9092647675257)
+[00:44:32] [Server thread/INFO]: Mk_Bolo joined the game
+[00:44:32] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:47:44] [Server thread/INFO]: Mk_Bolo lost connection: Disconnected
+[00:47:44] [Server thread/INFO]: Mk_Bolo left the game
+[01:15:41] [Server thread/INFO]: beiwei_lkiru[/127.0.0.1:47506] logged in with entity id 4362 at (-42.5, 64.0, 239.5)
+[01:15:41] [Server thread/INFO]: beiwei_lkiru joined the game
+[01:15:41] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[01:19:01] [Server thread/INFO]: beiwei_lkiru lost connection: Disconnected
+[01:19:01] [Server thread/INFO]: beiwei_lkiru left the game
+[01:44:32] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-21_01-44-32
+[01:44:32] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:44:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:44:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:44:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:44:32] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:44:34] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-20_07-22-43.zip
+[01:44:34] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[05:06:21] [Server thread/INFO]: Mk_Bolo[/127.0.0.1:57527] logged in with entity id 5130 at (-384.27701434753186, 69.0, 526.3256341868828)
+[05:06:21] [Server thread/INFO]: Mk_Bolo joined the game
+[05:06:21] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[05:09:48] [Server thread/INFO]: Mk_Bolo has made the advancement [Sweet Dreams]
+[05:09:59] [Server thread/INFO]: Mk_Bolo lost connection: Disconnected
+[05:09:59] [Server thread/INFO]: Mk_Bolo left the game
+[05:25:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:25:01] [Server thread/INFO]: _say 服务器将在5分钟后关闭备份存档，6:01继续开启<--[HERE]
+[05:30:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:30:01] [Server thread/INFO]: __stop___<--[HERE]
+[06:06:21] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-21_06-06-21
+[06:06:21] [Server thread/INFO]: [Textile Backup] Saving server...
+[06:06:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:06:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:06:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:06:21] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[06:06:23] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-20_08-22-44.zip
+[06:06:23] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[06:15:17] [Server thread/INFO]: aka213[/127.0.0.1:33279] logged in with entity id 6958 at (-2075.82804768938, 71.59084452699204, 527.1541277489993)
+[06:15:17] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:15:17] [Server thread/INFO]: aka213 joined the game
+[06:15:19] [Netty Epoll Server IO #6/INFO]: Player aka213 joined with a matching carpet client
+[06:22:25] [Server thread/INFO]: [aka213: Player soy_25 is banned]
+[06:53:53] [Server thread/INFO]: aka213 has made the advancement [A Throwaway Joke]
+[06:55:05] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[06:55:05] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[07:08:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/37729, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[07:15:17] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-21_07-15-17
+[07:15:17] [Server thread/INFO]: [Textile Backup] Saving server...
+[07:15:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:15:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:15:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:15:18] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[07:15:22] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-20_09-22-43.zip
+[07:15:22] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[07:17:14] [Server thread/INFO]: aka213 lost connection: Disconnected
+[07:17:14] [Server thread/INFO]: aka213 left the game
+[07:54:11] [Server thread/INFO]: ChengXi123[/127.0.0.1:34683] logged in with entity id 40178 at (-2062.62143659844, 67.51679409440437, 500.30454979889055)
+[07:54:11] [Server thread/INFO]: ChengXi123 joined the game
+[07:54:11] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:54:13] [Netty Epoll Server IO #4/INFO]: Player ChengXi123 joined with a matching carpet client
+[07:55:42] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[07:55:42] [Server thread/INFO]: ChengXi123 left the game
+[07:55:42] [Server thread/WARN]: handleDisconnection() called twice
+[08:15:17] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-21_08-15-17
+[08:15:17] [Server thread/INFO]: [Textile Backup] Saving server...
+[08:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:15:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:15:17] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[08:15:20] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-20_10-22-43.zip
+[08:15:20] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[08:22:59] [Server thread/INFO]: ChengXi123[/127.0.0.1:42296] logged in with entity id 40557 at (-2058.204547056622, 68.875, 541.0813313571362)
+[08:22:59] [Server thread/INFO]: ChengXi123 joined the game
+[08:22:59] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:22:59] [Netty Epoll Server IO #4/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:25:44] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[08:25:44] [Server thread/INFO]: ChengXi123 left the game
+[08:25:53] [Server thread/INFO]: ChengXi123[/127.0.0.1:59820] logged in with entity id 42770 at (-52.038890078202584, 129.0, 82.39238178072894)
+[08:25:53] [Server thread/INFO]: ChengXi123 joined the game
+[08:25:53] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:25:54] [Netty Epoll Server IO #3/INFO]: Player ChengXi123 joined with a matching carpet client
+[08:28:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Oak Trapdoor'/45499, l='ServerLevel[world]', x=254.57, y=52.00, z=221.28]
+[08:28:05] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/45611, l='ServerLevel[world]', x=254.83, y=53.08, z=222.16]
+[08:28:29] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[08:28:29] [Server thread/INFO]: ChengXi123 left the game
+[09:22:59] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-21_09-22-59
+[09:22:59] [Server thread/INFO]: [Textile Backup] Saving server...
+[09:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:22:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:22:59] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[09:23:02] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-20_11-22-43.zip
+[09:23:02] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[10:30:41] [Server thread/INFO]: EDGW[/127.0.0.1:56072] logged in with entity id 45917 at (-1772.4056198994936, 67.0, 480.95597220836584)
+[10:30:41] [Server thread/INFO]: EDGW joined the game
+[10:30:41] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:34:46] [Server thread/INFO]: <EDGW> 末地的地狱门转送到地表了 再挖下去
+[10:36:38] [Server thread/INFO]: <EDGW> 下面的门没找到
+[10:36:44] [Server thread/INFO]: <EDGW> 传歪了
+[10:37:01] [Server thread/INFO]: EDGW lost connection: Disconnected
+[10:37:01] [Server thread/INFO]: EDGW left the game
+[10:37:13] [Server thread/INFO]: Stopping the server
+[10:37:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:37:13] [Server thread/INFO]: end<--[HERE]
+[10:37:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:37:13] [Server thread/INFO]: exit<--[HERE]
+[10:37:13] [Server thread/INFO]: Stopping server
+[10:37:13] [Server thread/INFO]: Saving players
+[10:37:13] [Server thread/INFO]: Saving worlds
+[10:37:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:37:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:37:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:37:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:37:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:37:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:37:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:37:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:37:14] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2020-08-21_10-37-14
+[10:37:14] [Server thread/INFO]: [Textile Backup] Starting backup
+[10:37:17] [Server thread/INFO]: [Textile Backup] Deleting: 2020-08-20_12-22-44.zip
+[10:37:17] [Server thread/INFO]: [Textile Backup] Done!
+[10:37:17] [Server thread/INFO]: Thread RCON Listener stopped

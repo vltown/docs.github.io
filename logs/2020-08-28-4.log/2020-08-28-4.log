@@ -1,0 +1,254 @@
+[15:04:32] [main/INFO]: Loading for game Minecraft 1.16.2
+[15:04:32] [main/INFO]: [FabricLoader] Loading 54 mods: fabric-renderer-api-v1@0.2.13+eae12eb84e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, fabricloader@0.9.1+build.205, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.5.2, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.6.0+e81ec80b4e, fabric-game-rule-api-v1@1.0.1+91555cd14e, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-rendering-fluids-v1@0.1.10+e5d3217f4e, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-renderer-registries-v1@2.1.0+e2862de64e, carpet-extra@1.4.8, fabric-loot-tables-v1@1.0.0+fac8f3664e, fabric@0.18.0+build.397-1.16, carpet@1.4.9, fabric-particles-v1@0.2.1+0a6f2a704e, fabric-networking-v0@0.1.10+e00ecb5f4e, cotton-config@1.0.0-rc.7, here@0.0.10-mc1.16, minecraft@1.16.2, fabric-screen-handler-api-v1@1.1.0+872498414e, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.8+5ce533984e, phosphor@0.6.0+build.7, bluemap@1.0.0-rc2, fabric-tool-attribute-api-v1@1.2.1+02fb8fda4e, fabric-renderer-indigo@0.3.4+5d32f5834e, player-roles@1.1.0, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-events-interaction-v0@0.3.3+7066030f4e, fabric-item-api-v1@1.0.0+16acbe5b4e, fabric-rendering-v0@1.1.0+534104904e, fabric-rendering-v1@1.2.0+fc24ff244e, fabric-key-binding-api-v1@1.0.1+730711c64e, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.9+e5d3217f4e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, fabric-commands-v0@0.2.0+52d308364e, fabric-registry-sync-v0@0.4.3+e5d3217f4e, textile_backup@2.0.0-1.16.2, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-object-builders-v0@0.6.1+ba4afa574e
+[15:04:32] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[15:04:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.1 Source=file:/srv/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[15:04:36] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[15:04:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[15:04:46] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[15:04:47] [main/WARN]: Ambiguity between arguments [bluemap, marker, create, id, map, x] and [bluemap, marker, create, id, map, label] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15:04:47] [main/WARN]: Ambiguity between arguments [bluemap, render, cancel] and [bluemap, render, world|map] with inputs: [cancel]
+[15:04:47] [main/WARN]: Ambiguity between arguments [bluemap, render, prioritize] and [bluemap, render, world|map] with inputs: [prioritize]
+[15:04:47] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, world|map] with inputs: [0, -123, 123]
+[15:04:47] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, x] with inputs: [0, -123, 123]
+[15:04:47] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, radius] with inputs: [0, -1]
+[15:04:47] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, world|map] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:04:47] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:04:48] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), Player Roles, FZ.sDatapack-1.5.0-SNAPSHOT
+[15:04:50] [Worker-Main-4/INFO]: Loaded 7 recipes
+[15:04:51] [Worker-Main-4/INFO]: Loaded 927 advancements
+[15:04:53] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[15:04:53] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[15:04:53] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[15:04:53] [Server thread/INFO]: Loading properties
+[15:04:53] [Server thread/INFO]: Default game type: SURVIVAL
+[15:04:53] [Server thread/INFO]: Generating keypair
+[15:04:53] [Server thread/INFO]: Starting Minecraft server on *:26555
+[15:04:53] [Server thread/INFO]: Using epoll channel type
+[15:04:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:04:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:04:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:04:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:04:54] [Server thread/INFO]: Preparing level "world"
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[15:04:54] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[15:04:55] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[15:04:55] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[15:04:55] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[15:04:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:00] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:05:01] [Server thread/INFO]: Preparing spawn area: 83%
+[15:05:03] [Server thread/INFO]: Time elapsed: 7834 ms
+[15:05:03] [Server thread/INFO]: Done (9.032s)! For help, type "help"
+[15:05:03] [Server thread/INFO]: Starting remote control listener
+[15:05:03] [Server thread/INFO]: Thread RCON Listener started
+[15:05:03] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[15:05:03] [Thread-62/INFO]: Loading BlueMap...
+[15:05:04] [Thread-62/INFO]: Loading resources...
+[15:05:13] [Thread-68/INFO]: WebServer started.
+[15:05:13] [Thread-62/INFO]: BlueMap loaded!
+[16:45:46] [Server thread/INFO]: Looooocro[/127.0.0.1:47954] logged in with entity id 76 at (-126.11424301559606, 68.0, 428.08089827899863)
+[16:45:46] [Server thread/INFO]: Looooocro joined the game
+[16:45:46] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:52:09] [Server thread/INFO]: Villager class_1646['Cartographer'/2038, l='ServerLevel[world]', x=-2075.30, y=68.00, z=533.70] died, message: 'Cartographer was slain by Zombie'
+[16:54:28] [Server thread/INFO]: <Looooocro> 复制？
+[16:56:20] [Server thread/INFO]: aka213[/127.0.0.1:49791] logged in with entity id 3975 at (-538.0040533657017, 76.0, 602.9222025072961)
+[16:56:20] [Server thread/INFO]: aka213 joined the game
+[16:56:20] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:56:24] [Netty Epoll Server IO #3/INFO]: Player aka213 joined with a matching carpet client
+[16:56:38] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:56:38] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[16:58:37] [Server thread/INFO]: <aka213> 你在干嘛
+[16:58:46] [Server thread/INFO]: <Looooocro> 我？
+[16:58:48] [Server thread/INFO]: <aka213> en
+[16:58:57] [Server thread/INFO]: <Looooocro> 找火药
+[16:59:00] [Server thread/INFO]: <aka213> ..
+[16:59:40] [Server thread/INFO]: <Looooocro> 我知道
+[17:11:31] [Server thread/INFO]: Looooocro fell from a high place
+[17:12:47] [Server thread/INFO]: <Looooocro> 咱们这儿有没有刷羊毛垫子的
+[17:12:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:12:51] [Server thread/INFO]: ...map marker<--[HERE]
+[17:13:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[17:13:00] [Server thread/INFO]: ...ker create<--[HERE]
+[17:13:04] [Server thread/INFO]: <Looooocro> aka
+[17:13:07] [Server thread/INFO]: <aka213> ?
+[17:13:08] [Server thread/INFO]: <Looooocro> 有没有？
+[17:13:12] [Server thread/INFO]: <Looooocro> 羊毛垫子
+[17:13:25] [Server thread/INFO]: <aka213> 好像在喷泉旁边那个羊
+[17:13:30] [Server thread/INFO]: <Looooocro> 1
+[17:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[17:16:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=75, z=10} class_2338{x=-28, y=75, z=11}
+[17:16:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-27, y=75, z=10} class_2338{x=-28, y=75, z=11}
+[17:19:32] [Server thread/INFO]: EDGW[/127.0.0.1:38593] logged in with entity id 14538 at (-854.8572703370924, 69.0, 476.4211229743763)
+[17:19:32] [Server thread/INFO]: EDGW joined the game
+[17:19:32] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:20:16] [Server thread/INFO]: <EDGW> I Went Back!
+[17:20:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:21:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=63, z=-54} class_2338{x=35, y=63, z=-53}
+[17:21:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=63, z=-54} class_2338{x=35, y=63, z=-53}
+[17:21:44] [Server thread/INFO]: <Looooocro> 刷沙子怎么弄啊
+[17:22:21] [Server thread/INFO]: <Looooocro> 不能用？
+[17:22:32] [Server thread/INFO]: <Looooocro> 我刚刚拉拉杆了
+[17:24:06] [Server thread/INFO]: <aka213> 有人来找小猪灵吗
+[17:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[17:29:11] [Server thread/INFO]: <EDGW> 继续造铁路
+[17:29:35] [Server thread/INFO]: <Looooocro> 我手里这个怎么才能得到？
+[17:29:44] [Server thread/INFO]: <EDGW> 精准采集
+[17:30:05] [Server thread/INFO]: <Looooocro> 没
+[17:30:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:31:53] [Server thread/INFO]: <Looooocro> 你一个人整得？
+[17:31:55] [Server thread/INFO]: <EDGW> e
+[17:31:58] [Server thread/INFO]: <EDGW> en
+[17:32:03] [Server thread/INFO]: <Looooocro> nb
+[17:33:02] [Server thread/INFO]: <EDGW> 咱车站该怎么造
+[17:34:11] [Server thread/INFO]: <EDGW> 仿TIS车站吗
+[17:35:00] [Server thread/INFO]: <EDGW> 我妈都不来这个房间
+[17:35:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[17:35:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12063ms or 241 ticks behind
+[17:36:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12251ms or 245 ticks behind
+[17:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9562ms or 191 ticks behind
+[17:37:33] [Server thread/INFO]: <EDGW> e
+[17:39:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/33166, l='ServerLevel[world]', x=-401.70, y=70.26, z=460.50]
+[17:39:57] [Server thread/INFO]: Looooocro lost connection: Disconnected
+[17:39:57] [Server thread/INFO]: Looooocro left the game
+[17:42:13] [Server thread/INFO]: aka213 lost connection: Disconnected
+[17:42:13] [Server thread/INFO]: aka213 left the game
+[17:45:46] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-28_17-45-46
+[17:45:46] [Server thread/INFO]: [Textile Backup] Saving server...
+[17:45:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:45:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:45:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:45:46] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[17:45:54] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-27_13-03-16.zip
+[17:45:55] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[17:46:31] [Server thread/INFO]: <EDGW> ,
+[17:48:30] [Server thread/INFO]: <EDGW> .
+[17:48:40] [Server thread/INFO]: <EDGW> 你怎么天天G4400的
+[17:51:20] [Server thread/INFO]: <EDGW> 不知道 淘宝搜的
+[17:53:31] [Server thread/INFO]: <EDGW> CPU
+[17:54:15] [Server thread/INFO]: <EDGW> 吃吃鸡还是可以的
+[17:57:32] [Server thread/INFO]: <EDGW> 能啊 我吃过
+[18:00:27] [Server thread/INFO]: <EDGW> 反正玩起来是可以的
+[18:00:47] [Server thread/INFO]: <EDGW> 没注意
+[18:00:56] [Server thread/INFO]: <EDGW> 估算一下大概是50-70
+[18:01:23] [Server thread/INFO]: <EDGW> meiqian
+[18:02:23] [Server thread/INFO]: <EDGW> 拼多多吧。。。
+[18:02:39] [Server thread/INFO]: <EDGW> 拼的多 假货多
+[18:02:51] [Server thread/INFO]: <EDGW> 二手的。。。
+[18:05:10] [Server thread/INFO]: EDGW experienced kinetic energy
+[18:06:44] [Server thread/INFO]: EDGW experienced kinetic energy
+[18:17:09] [Server thread/INFO]: EDGW lost connection: Disconnected
+[18:17:09] [Server thread/INFO]: EDGW left the game
+[18:24:35] [Server thread/INFO]: aka213[/127.0.0.1:43353] logged in with entity id 44386 at (-522.6870023415164, 68.0, 588.0073678392417)
+[18:24:35] [Server thread/INFO]: aka213 joined the game
+[18:24:35] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:24:39] [Netty Epoll Server IO #0/INFO]: Player aka213 joined with a matching carpet client
+[18:33:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46121, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[18:38:46] [Server thread/INFO]: aka213 was blown up by Creeper
+[18:40:39] [Server thread/INFO]: EDGW[/127.0.0.1:53345] logged in with entity id 47241 at (-1937.9506280826508, 73.0, 538.0998281649497)
+[18:40:39] [Server thread/INFO]: EDGW joined the game
+[18:40:39] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:42:55] [Server thread/INFO]: <EDGW> .
+[18:42:58] [Server thread/INFO]: <aka213> ???
+[18:43:38] [Server thread/INFO]: <aka213> ?
+[18:43:40] [Server thread/INFO]: <EDGW> eeee
+[18:43:47] [Server thread/INFO]: <aka213> 那能给我吗
+[18:43:58] [Server thread/INFO]: <EDGW> “老是”找不到
+[18:44:13] [Server thread/INFO]: <aka213> 七夕节受打击了？
+[18:44:18] [Server thread/INFO]: <EDGW> emmm
+[18:44:35] [Server thread/INFO]: <EDGW> 我朋友最近刚分手，七夕分的
+[18:45:46] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-28_18-45-46
+[18:45:46] [Server thread/INFO]: [Textile Backup] Saving server...
+[18:45:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:45:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:45:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:45:50] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[18:45:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4442ms or 88 ticks behind
+[18:46:03] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-27_14-10-25.zip
+[18:46:03] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[18:46:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[18:49:41] [Server thread/INFO]: <EDGW> 老混凝土机
+[18:49:47] [Server thread/INFO]: <EDGW> CREEPER
+[18:50:32] [Server thread/INFO]: <EDGW> 一个月前就炸了
+[18:50:34] [Server thread/INFO]: <EDGW> .
+[18:51:31] [Server thread/INFO]: <EDGW> 嗯
+[18:52:08] [Server thread/INFO]: <EDGW> 可能会有一两个MOD把文件放在ASSETS了
+[18:52:18] [Server thread/INFO]: <EDGW> 可能会有一两个MOD把文件放在ASSETS里
+[18:52:35] [Server thread/INFO]: <EDGW> 那就没有了
+[18:53:45] [Server thread/INFO]: <EDGW> 先不玩了 按我这速度CMCL今年都写不完了
+[18:53:50] [Server thread/INFO]: EDGW lost connection: Disconnected
+[18:53:50] [Server thread/INFO]: EDGW left the game
+[18:55:54] [Server thread/INFO]: aka213 lost connection: Disconnected
+[18:55:54] [Server thread/INFO]: aka213 left the game
+[19:45:46] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-28_19-45-46
+[19:45:46] [Server thread/INFO]: [Textile Backup] Saving server...
+[19:45:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:45:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:45:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:45:46] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[19:45:53] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-27_15-10-25.zip
+[19:45:53] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[20:36:55] [Server thread/INFO]: wushi6969[/127.0.0.1:34302] logged in with entity id 61433 at (-34.69999, 81.0, -369.7392)
+[20:36:55] [Server thread/INFO]: wushi6969 joined the game
+[20:36:55] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:36:57] [Server thread/INFO]: wushi6969 lost connection: Disconnected
+[20:36:57] [Server thread/INFO]: wushi6969 left the game
+[20:37:12] [Server thread/INFO]: wushi6969[/127.0.0.1:40125] logged in with entity id 61604 at (-34.69999, 81.0, -369.7392)
+[20:37:12] [Server thread/INFO]: wushi6969 joined the game
+[20:37:12] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:37:46] [Server thread/INFO]: wushi6969 lost connection: Disconnected
+[20:37:46] [Server thread/INFO]: wushi6969 left the game
+[20:38:06] [Server thread/INFO]: wushi6969[/127.0.0.1:34487] logged in with entity id 61789 at (-34.69999, 81.0, -369.7392)
+[20:38:06] [Server thread/INFO]: wushi6969 joined the game
+[20:38:06] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:40:44] [Server thread/INFO]: wushi6969 lost connection: Disconnected
+[20:40:44] [Server thread/INFO]: wushi6969 left the game
+[21:29:37] [Server thread/INFO]: Stopping the server
+[21:29:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:29:37] [Server thread/INFO]: end<--[HERE]
+[21:29:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:29:37] [Server thread/INFO]: exit<--[HERE]
+[21:29:37] [Thread-68/INFO]: WebServer closed.
+[21:29:38] [Server thread/INFO]: BlueMap unloaded!
+[21:29:38] [Server thread/INFO]: Stopping server
+[21:29:38] [Server thread/INFO]: Saving players
+[21:29:38] [Server thread/INFO]: Saving worlds
+[21:29:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:29:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:29:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:29:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:29:38] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2020-08-28_21-29-38
+[21:29:38] [Server thread/INFO]: [Textile Backup] Starting backup
+[21:29:45] [Server thread/INFO]: [Textile Backup] Deleting: 2020-08-27_16-10-26.zip
+[21:29:45] [Server thread/INFO]: [Textile Backup] Done!
+[21:29:45] [Server thread/INFO]: Thread RCON Listener stopped

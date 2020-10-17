@@ -1,0 +1,132 @@
+[05:50:06] [main/INFO]: Loading for game Minecraft 1.16.2
+[05:50:07] [main/INFO]: [FabricLoader] Loading 53 mods: fabric-renderer-api-v1@0.2.13+eae12eb84e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, fabricloader@0.9.1+build.205, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.5.1-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.5.7+ad64ee684e, fabric-game-rule-api-v1@1.0.1+91555cd14e, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-rendering-fluids-v1@0.1.10+e5d3217f4e, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-renderer-registries-v1@2.1.0+e2862de64e, carpet-extra@1.4.5, fabric-loot-tables-v1@1.0.0+fac8f3664e, fabric@0.17.2+build.396-1.16, carpet@1.4.8, fabric-particles-v1@0.2.1+0a6f2a704e, fabric-networking-v0@0.1.10+e00ecb5f4e, cotton-config@1.0.0-rc.7, here@0.0.10-mc1.16, minecraft@1.16.2, fabric-screen-handler-api-v1@1.1.0+872498414e, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.8+5ce533984e, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.2.1+02fb8fda4e, fabric-renderer-indigo@0.3.4+5d32f5834e, player-roles@1.0.2, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-events-interaction-v0@0.3.3+7066030f4e, fabric-item-api-v1@1.0.0+16acbe5b4e, fabric-rendering-v0@1.1.0+534104904e, fabric-rendering-v1@1.1.2+346247d74e, fabric-key-binding-api-v1@1.0.1+730711c64e, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.9+e5d3217f4e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, fabric-commands-v0@0.2.0+52d308364e, fabric-registry-sync-v0@0.4.3+e5d3217f4e, textile_backup@1.4.0-1.16.1, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-object-builders-v0@0.6.1+ba4afa574e
+[05:50:07] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[05:50:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.1 Source=file:/srv/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[05:50:10] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[05:50:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[05:50:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:50:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:50:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:50:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:50:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:50:21] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), Player Roles, FZ.sDatapack-1.5.0-SNAPSHOT
+[05:50:23] [Worker-Main-4/INFO]: Loaded 7 recipes
+[05:50:24] [Worker-Main-4/INFO]: Loaded 927 advancements
+[05:50:25] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[05:50:25] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[05:50:25] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[05:50:25] [Server thread/INFO]: Loading properties
+[05:50:25] [Server thread/INFO]: Default game type: SURVIVAL
+[05:50:25] [Server thread/INFO]: Generating keypair
+[05:50:25] [Server thread/INFO]: Starting Minecraft server on *:26555
+[05:50:25] [Server thread/INFO]: Using epoll channel type
+[05:50:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:50:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:50:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:50:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:50:26] [Server thread/INFO]: Preparing level "world"
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting commandTick as ops from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[05:50:26] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[05:50:27] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[05:50:27] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[05:50:27] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[05:50:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 0%
+[05:50:30] [Server thread/INFO]: Preparing spawn area: 42%
+[05:50:33] [Server thread/INFO]: Time elapsed: 5777 ms
+[05:50:33] [Server thread/INFO]: Done (6.594s)! For help, type "help"
+[05:50:33] [Server thread/INFO]: Starting remote control listener
+[05:50:33] [Server thread/INFO]: Thread RCON Listener started
+[05:50:33] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[05:50:52] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:42719] logged in with entity id 169 at (-294.14906070108793, 94.0, 634.7119303371658)
+[05:50:52] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[05:50:52] [Server thread/INFO]: MAX_XiaoKui joined the game
+[05:50:52] [Netty Epoll Server IO #7/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[05:50:57] [Server thread/INFO]: EDGW[/127.0.0.1:34765] logged in with entity id 204 at (-375.8049289248204, 90.91148920461276, 550.7340719994611)
+[05:50:57] [Server thread/INFO]: EDGW joined the game
+[05:50:57] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[05:51:00] [Server thread/INFO]: Can only manipulate existing players
+[05:51:16] [Server thread/INFO]: <MAX_XiaoKui> OK了】
+[05:51:39] [Server thread/INFO]: <MAX_XiaoKui> [x:-326, y:84, z:616]
+[05:51:58] [Server thread/INFO]: <EDGW> 终于还原了
+[05:52:00] [Server thread/INFO]: Can only manipulate existing players
+[05:52:53] [Server thread/INFO]: <EDGW> .
+[05:53:00] [Server thread/INFO]: Can only manipulate existing players
+[05:53:00] [Server thread/INFO]: <EDGW> .
+[05:53:16] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[05:53:16] [Server thread/INFO]: MAX_XiaoKui left the game
+[05:54:00] [Server thread/INFO]: Can only manipulate existing players
+[05:54:26] [Server thread/INFO]: MAX_XiaoKui[/127.0.0.1:43330] logged in with entity id 2017 at (-435.7350789702659, 93.56793593869384, 490.28837135884237)
+[05:54:26] [Server thread/INFO]: MAX_XiaoKui joined the game
+[05:54:26] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[05:54:27] [Netty Epoll Server IO #7/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[05:55:00] [Server thread/INFO]: Can only manipulate existing players
+[05:55:00] [Server thread/INFO]: <EDGW> .w
+[05:55:14] [Server thread/INFO]: <MAX_XiaoKui> 好了70fps了
+[05:55:23] [Server thread/INFO]: <MAX_XiaoKui> 之前垂直同步开了
+[05:56:00] [Server thread/INFO]: Can only manipulate existing players
+[05:56:16] [Server thread/INFO]: <MAX_XiaoKui> 打雷了，睡觉
+[05:57:00] [Server thread/INFO]: Can only manipulate existing players
+[05:57:50] [Server thread/INFO]: <MAX_XiaoKui> 地铁其他站点是还在造吗
+[05:57:57] [Server thread/INFO]: <EDGW> 是的
+[05:58:00] [Server thread/INFO]: Can only manipulate existing players
+[05:58:10] [Server thread/INFO]: <EDGW> 地铁有2个区块没有回档
+[05:58:25] [Server thread/INFO]: <MAX_XiaoKui> 在哪
+[05:58:42] [Server thread/INFO]: <EDGW> -340 468
+[05:58:49] [Server thread/INFO]: <EDGW> 不止2个区块
+[05:59:00] [Server thread/INFO]: Can only manipulate existing players
+[05:59:02] [Server thread/INFO]: <EDGW> 这里再大熔炉下面 可能没有圈出来
+[05:59:30] [Server thread/INFO]: <EDGW> -340 468
+[05:59:52] [Server thread/INFO]: <MAX_XiaoKui> 啊是的
+[06:00:00] [Server thread/INFO]: Can only manipulate existing players
+[06:00:13] [Server thread/INFO]: <MAX_XiaoKui> 3个半区块左右
+[06:00:16] [Server thread/INFO]: <EDGW> en
+[06:00:28] [Server thread/INFO]: <MAX_XiaoKui> 要回吗
+[06:00:42] [Server thread/INFO]: <EDGW> 最好还是回一下吧
+[06:00:44] [Server thread/INFO]: EDGW lost connection: Disconnected
+[06:00:44] [Server thread/INFO]: EDGW left the game
+[06:01:00] [Server thread/INFO]: Can only manipulate existing players
+[06:01:28] [Server thread/INFO]: <MAX_XiaoKui> 坐标-335，,467，向东4个区块
+[06:01:30] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[06:01:30] [Server thread/INFO]: MAX_XiaoKui left the game
+[06:01:56] [Server thread/INFO]: Stopping the server
+[06:01:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:01:56] [Server thread/INFO]: end<--[HERE]
+[06:01:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:01:56] [Server thread/INFO]: exit<--[HERE]
+[06:01:56] [Server thread/INFO]: Stopping server
+[06:01:56] [Server thread/INFO]: Saving players
+[06:01:56] [Server thread/INFO]: Saving worlds
+[06:01:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:01:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:01:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:01:58] [Server thread/INFO]: Backup started by: Server Shutdown on: 2020-08-15_06-01-58
+[06:01:58] [pool-3-thread-1/INFO]: Starting backup
+[06:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:01:58] [pool-3-thread-1/INFO]: Starting compression...
+[06:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:01:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:01:58] [Server thread/INFO]: Thread RCON Listener stopped
+[06:02:04] [pool-3-thread-1/INFO]: Compression took: 06.016 seconds.
+[06:02:04] [pool-3-thread-1/INFO]: Deleting: 2020-08-14_23-37-33.zip
+[06:02:04] [pool-3-thread-1/INFO]: Done!

@@ -1,0 +1,793 @@
+[14:13:22] [main/INFO]: Loading for game Minecraft 1.16.2
+[14:13:22] [main/INFO]: [FabricLoader] Loading 54 mods: fabric-renderer-api-v1@0.2.13+eae12eb84e, fabric-keybindings-v0@0.2.0+3fa9f7c54e, fabricloader@0.9.1+build.205, bbor@2.3-1.16.1, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.5.2, fabric-containers-v0@0.1.8+045df74f4e, fabric-object-builder-api-v1@1.6.0+e81ec80b4e, fabric-game-rule-api-v1@1.0.1+91555cd14e, fabric-api-base@0.1.3+12a8474c4e, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d4e, fabric-textures-v0@1.0.4+eae12eb84e, fabric-rendering-fluids-v1@0.1.10+e5d3217f4e, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea894e, fabric-lifecycle-events-v1@1.2.0+74cc3b204e, fabric-renderer-registries-v1@2.1.0+e2862de64e, carpet-extra@1.4.8, fabric-loot-tables-v1@1.0.0+fac8f3664e, fabric@0.18.0+build.397-1.16, carpet@1.4.9, fabric-particles-v1@0.2.1+0a6f2a704e, fabric-networking-v0@0.1.10+e00ecb5f4e, cotton-config@1.0.0-rc.7, fabric-screen-handler-api-v1@1.1.0+872498414e, minecraft@1.16.2, here@0.0.10-mc1.16, fabric-networking-blockentity-v0@0.2.5+b50ffc7b4e, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.8+5ce533984e, phosphor@0.6.0+build.7, bluemap@1.0.0-rc2, fabric-tool-attribute-api-v1@1.2.1+02fb8fda4e, fabric-renderer-indigo@0.3.4+5d32f5834e, player-roles@1.1.0, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d4e, fabric-events-interaction-v0@0.3.3+7066030f4e, fabric-item-api-v1@1.0.0+16acbe5b4e, fabric-rendering-v0@1.1.0+534104904e, fabric-rendering-v1@1.2.0+fc24ff244e, fabric-key-binding-api-v1@1.0.1+730711c64e, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.2.9+e5d3217f4e, fabric-content-registries-v0@0.1.9+059ea8664e, fabric-tag-extensions-v0@1.0.3+ac8e8c594e, fabric-commands-v0@0.2.0+52d308364e, fabric-registry-sync-v0@0.4.3+e5d3217f4e, textile_backup@2.0.0-1.16.2, fabric-mining-levels-v0@0.1.2+b764ce994e, fabric-events-lifecycle-v0@0.2.0+16acbe5b4e, fabric-item-groups-v0@0.2.0+438f96364e, fabric-models-v0@0.1.0+dfdb52d64e, fabric-object-builders-v0@0.6.1+ba4afa574e
+[14:13:22] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[14:13:22] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.1 Source=file:/srv/skimit_survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[14:13:26] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[14:13:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[14:13:38] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[14:13:39] [main/WARN]: Ambiguity between arguments [bluemap, marker, create, id, map, x] and [bluemap, marker, create, id, map, label] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[14:13:39] [main/WARN]: Ambiguity between arguments [bluemap, render, cancel] and [bluemap, render, world|map] with inputs: [cancel]
+[14:13:39] [main/WARN]: Ambiguity between arguments [bluemap, render, prioritize] and [bluemap, render, world|map] with inputs: [prioritize]
+[14:13:39] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, world|map] with inputs: [0, -123, 123]
+[14:13:39] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, x] with inputs: [0, -123, 123]
+[14:13:39] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, radius] with inputs: [0, -1]
+[14:13:39] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, world|map] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[14:13:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:13:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:13:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:13:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:13:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:13:40] [main/INFO]: Reloading ResourceManager: Default, bukkit, Fabric Tool Attribute API (v1), Player Roles, FZ.sDatapack-1.5.0-SNAPSHOT
+[14:13:42] [Worker-Main-5/INFO]: Loaded 7 recipes
+[14:13:43] [Worker-Main-5/INFO]: Loaded 927 advancements
+[14:13:45] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[14:13:45] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[14:13:45] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[14:13:45] [Server thread/INFO]: Loading properties
+[14:13:45] [Server thread/INFO]: Default game type: SURVIVAL
+[14:13:45] [Server thread/INFO]: Generating keypair
+[14:13:45] [Server thread/INFO]: Starting Minecraft server on *:26555
+[14:13:46] [Server thread/INFO]: Using epoll channel type
+[14:13:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:13:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:13:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:13:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:13:46] [Server thread/INFO]: Preparing level "world"
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting unloadedEntityFix as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[14:13:46] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[14:13:47] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[14:13:47] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[14:13:47] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[14:13:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:53] [Server thread/INFO]: Preparing spawn area: 51%
+[14:13:56] [Server thread/INFO]: Time elapsed: 8587 ms
+[14:13:56] [Server thread/INFO]: Done (9.736s)! For help, type "help"
+[14:13:56] [Server thread/INFO]: Starting remote control listener
+[14:13:56] [Server thread/INFO]: Thread RCON Listener started
+[14:13:56] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[14:13:56] [Thread-62/INFO]: Loading BlueMap...
+[14:13:57] [Thread-62/INFO]: Loading resources...
+[14:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[14:14:00] [Server thread/INFO]: Can only manipulate existing players
+[14:14:00] [Server thread/INFO]: Can only manipulate existing players
+[14:14:07] [Thread-68/INFO]: WebServer started.
+[14:14:07] [Thread-62/INFO]: BlueMap loaded!
+[14:14:14] [Server thread/INFO]: EDGW[/127.0.0.1:42245] logged in with entity id 106 at (3949.300000011921, 64.0, 1775.300000011921)
+[14:14:14] [Server thread/INFO]: EDGW joined the game
+[14:14:14] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:14:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[14:14:19] [Netty Epoll Server IO #6/INFO]: Player EDGW joined with a matching carpet client
+[14:14:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[14:15:00] [Server thread/INFO]: Can only manipulate existing players
+[14:15:00] [Server thread/INFO]: Can only manipulate existing players
+[14:15:19] [Server thread/INFO]: <EDGW> 可以进来了
+[14:16:00] [Server thread/INFO]: Can only manipulate existing players
+[14:16:00] [Server thread/INFO]: Can only manipulate existing players
+[14:17:00] [Server thread/INFO]: Can only manipulate existing players
+[14:17:00] [Server thread/INFO]: Can only manipulate existing players
+[14:17:11] [Server thread/INFO]: aka213[/127.0.0.1:55702] logged in with entity id 551 at (3951.6169597027847, 57.0, 1775.6245168302642)
+[14:17:11] [Server thread/INFO]: aka213 joined the game
+[14:17:11] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:17:14] [Netty Epoll Server IO #6/INFO]: Player aka213 joined with a matching carpet client
+[14:18:00] [Server thread/INFO]: Can only manipulate existing players
+[14:18:00] [Server thread/INFO]: Can only manipulate existing players
+[14:18:47] [Server thread/INFO]: aka213 lost connection: Disconnected
+[14:18:47] [Server thread/INFO]: aka213 left the game
+[14:19:00] [Server thread/INFO]: Can only manipulate existing players
+[14:19:00] [Server thread/INFO]: Can only manipulate existing players
+[14:20:00] [Server thread/INFO]: Can only manipulate existing players
+[14:20:00] [Server thread/INFO]: Can only manipulate existing players
+[14:20:00] [Server thread/INFO]: shuijiao[local] logged in with entity id 683 at (-41.5, 62.0, 240.5)
+[14:20:00] [Server thread/INFO]: shuijiao joined the game
+[14:20:00] [Thread-81/INFO]: [STDERR]: java.lang.NullPointerException
+[14:20:00] [Thread-81/INFO]: [STDERR]: 	at de.bluecolored.bluemap.common.plugin.skins.PlayerSkin.readTextureUrl(PlayerSkin.java:146)
+[14:20:00] [Thread-81/INFO]: [STDERR]: 	at de.bluecolored.bluemap.common.plugin.skins.PlayerSkin.lambda$loadSkin$1(PlayerSkin.java:108)
+[14:20:00] [Thread-81/INFO]: [STDERR]: 	at java.lang.Thread.run(Thread.java:748)
+[14:20:25] [Server thread/INFO]: wushi6969[/127.0.0.1:47914] logged in with entity id 797 at (-5.7769113, 89.0, -383.915)
+[14:20:25] [Server thread/INFO]: wushi6969 joined the game
+[14:20:25] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:20:53] [Server thread/INFO]: wushi_[/127.0.0.1:42620] logged in with entity id 1145 at (0.20320753948603304, 65.0, -540.226907028164)
+[14:20:53] [Server thread/INFO]: wushi_ joined the game
+[14:20:53] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:20:53] [Netty Epoll Server IO #0/WARN]: Player wushi_ joined with another carpet version: 1.4.0+v200623
+[14:20:53] [Netty Epoll Server IO #0/WARN]: Player wushi_ joined with another carpet version: 1.4.0+v200623
+[14:22:06] [Server thread/INFO]: wushi6969 was burnt to a crisp whilst fighting wushi_
+[14:23:35] [Server thread/INFO]: wushi6969 lost connection: Disconnected
+[14:23:35] [Server thread/INFO]: wushi6969 left the game
+[14:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[14:26:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=9, y=67, z=-486} class_2338{x=10, y=67, z=-485}
+[14:26:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=5, y=63, z=-483} class_2338{x=4, y=65, z=-481}
+[14:27:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1, y=64, z=-483} class_2338{x=4, y=62, z=-485}
+[14:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:33:56] [Server thread/INFO]: goudongxi6066[/127.0.0.1:45924] logged in with entity id 5025 at (-26.700003, 82.0, -391.7516)
+[14:33:56] [Server thread/INFO]: goudongxi6066 joined the game
+[14:33:56] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:34:26] [Server thread/INFO]: <EDGW> goudongxi6066 wushi_ 帮忙吗
+[14:34:35] [Server thread/INFO]: <wushi_> ??????
+[14:34:38] [Server thread/INFO]: <wushi_> 什么意思
+[14:34:56] [Server thread/INFO]: <wushi_> 帮什么
+[14:35:35] [Server thread/INFO]: <EDGW> 打海底神殿 走地狱过来 带好黑曜石和打火石 多带点牛奶 夜视药水 （如果有）水肺药水 （如果有）水下速掘药水
+[14:36:09] [Server thread/INFO]: <EDGW> 自己换成地狱坐标传送过来，有时间吗
+[14:36:30] [Server thread/INFO]: <wushi_> 我们有点忙
+[14:36:33] [Server thread/INFO]: <wushi_> 他是基岩版
+[14:36:41] [Server thread/INFO]: <wushi_> 进地狱看不见东西
+[14:37:27] [Server thread/INFO]: <EDGW> o 我这里吃掉4组金苹果了 就是想你们带点东西过来 鞘翅没耐久了 飞不回去 主世界飞一次就得废掉一个鞘翅
+[14:37:47] [Server thread/INFO]: <wushi_> 这
+[14:37:54] [Server thread/INFO]: wushi6969[/127.0.0.1:35370] logged in with entity id 6231 at (5.9113092, 105.0, -404.82898)
+[14:37:54] [Server thread/INFO]: wushi6969 joined the game
+[14:37:54] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:38:04] [Server thread/INFO]: <wushi_> 等一下
+[14:38:17] [Server thread/INFO]: <wushi_> 这地狱里是吧
+[14:38:23] [Server thread/INFO]: <wushi_> 带什么东西
+[14:38:36] [Server thread/INFO]: <EDGW> 地狱坐标我算给你带牛奶和3钟药水
+[14:38:54] [Server thread/INFO]: <wushi_> 在哪拿
+[14:39:22] [Server thread/INFO]: aka213[/127.0.0.1:48442] logged in with entity id 7083 at (3945.300000011921, 63.0, 1770.4281290268666)
+[14:39:22] [Server thread/INFO]: aka213 joined the game
+[14:39:22] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:39:24] [Server thread/INFO]: <EDGW> 药水的话老固化机前面的箱子里有 牛奶找牛接
+[14:39:25] [Netty Epoll Server IO #3/INFO]: Player aka213 joined with a matching carpet client
+[14:39:51] [Server thread/INFO]: <EDGW> 地狱 494 222 记得吃金苹果再传送过来 不然一过来就被打死
+[14:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:40:09] [Server thread/INFO]: <EDGW> aka213 有TNT吗
+[14:40:13] [Server thread/INFO]: <aka213> no
+[14:40:21] [Server thread/INFO]: <wushi_> 固化ji在哪》
+[14:40:28] [Server thread/INFO]: <EDGW> 喷泉旁边
+[14:40:37] [Server thread/INFO]: <EDGW> 挖肯定是不现实的
+[14:40:41] [Server thread/INFO]: <EDGW> 只能用炸
+[14:40:44] [Server thread/INFO]: <aka213> 我走了
+[14:40:47] [Server thread/INFO]: <EDGW> o
+[14:40:55] [Server thread/INFO]: <aka213> 家的坐标发一下
+[14:41:01] [Server thread/INFO]: <wushi_> 固化ji在哪？
+[14:41:06] [Server thread/INFO]: <EDGW> 喷泉旁边
+[14:41:12] [Server thread/INFO]: <wushi_> ok
+[14:41:29] [Server thread/INFO]: <EDGW> -300 300 家
+[14:44:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[14:44:37] [Server thread/INFO]: <wushi_> 药水在哪
+[14:44:44] [Server thread/INFO]: <wushi_> aka213
+[14:44:48] [Server thread/INFO]: <EDGW> 前面的箱子里 一个一个找
+[14:44:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19964ms or 399 ticks behind
+[14:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23262ms or 465 ticks behind
+[14:45:33] [Server thread/INFO]: <wushi_> 3瓶抗火？
+[14:45:39] [Server thread/INFO]: <aka213> ...
+[14:45:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12337ms or 246 ticks behind
+[14:45:55] [Server thread/INFO]: <EDGW> 夜视药水 （如果有）水肺药水 （如果有）水下速掘药水
+[14:46:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
+[14:46:24] [Server thread/INFO]: <wushi_> 你不是在地狱吗
+[14:46:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3925ms or 78 ticks behind
+[14:46:46] [Server thread/INFO]: <EDGW> 怎么可能在地狱
+[14:46:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[14:46:50] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:46:50] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[14:46:56] [Server thread/INFO]: <wushi_> 哦
+[14:46:57] [Server thread/INFO]: <EDGW> 我如果有黑曜石自己早就回去了
+[14:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[14:47:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[14:47:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=105, z=-407} class_2338{x=154, y=74, z=-278}
+[14:47:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=105, z=-407} class_2338{x=154, y=73, z=-278}
+[14:47:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=105, z=-407} class_2338{x=154, y=72, z=-278}
+[14:47:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
+[14:47:45] [Server thread/INFO]: <wushi_> 只有一瓶夜视
+[14:47:51] [Server thread/INFO]: <EDGW> 都带来
+[14:48:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=105, z=-407} class_2338{x=138, y=70, z=-260}
+[14:48:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[14:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[14:48:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[14:48:47] [Server thread/INFO]: <aka213> 我记得我有要睡
+[14:48:51] [Server thread/INFO]: <aka213> 药水
+[14:48:55] [Server thread/INFO]: <wushi_> 给我
+[14:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[14:49:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=105, z=-407} class_2338{x=4, y=85, z=-414}
+[14:49:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[14:49:26] [Server thread/INFO]: <wushi_> 就只有一瓶夜视
+[14:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[14:49:51] [Server thread/INFO]: <aka213> 你等我啊
+[14:49:55] [Server thread/INFO]: <aka213> ...
+[14:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[14:50:01] [Server thread/INFO]: <EDGW> 上来了
+[14:50:06] [Server thread/INFO]: <EDGW> 差点死海底
+[14:50:34] [Server thread/INFO]: <wushi_> 没了？
+[14:50:44] [Server thread/INFO]: <aka213> 药水不是可以自己炼吗
+[14:50:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[14:51:08] [Server thread/INFO]: <wushi_> 不会
+[14:51:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3958ms or 79 ticks behind
+[14:51:12] [Server thread/INFO]: <aka213> ./...
+[14:52:04] [Server thread/INFO]: <EDGW> 气死我了 要不是时间不够 我早就把海底神殿埋了
+[14:52:18] [Server thread/INFO]: aka213 lost connection: Disconnected
+[14:52:18] [Server thread/INFO]: aka213 left the game
+[14:53:16] [Server thread/INFO]: <EDGW> 块 急需水肺和水下速掘
+[14:53:21] [Server thread/INFO]: <EDGW> 快
+[14:54:35] [Server thread/INFO]: <EDGW> 你有海晶石吗
+[14:54:40] [Server thread/INFO]: <EDGW> wushi_
+[14:54:42] [Server thread/INFO]: <EDGW> wushi6969
+[14:55:12] [Server thread/INFO]: <wushi_> 一瓶水费都没有
+[14:55:15] [Server thread/INFO]: <EDGW> e
+[14:55:24] [Server thread/INFO]: <EDGW> 水下呼吸的头盔有吗
+[14:55:37] [Server thread/INFO]: <wushi_> 多带点木头给你造们吧
+[14:55:40] [Server thread/INFO]: <wushi_> 门
+[14:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[14:56:06] [Server thread/INFO]: <EDGW> 海洋更新后门没有用了
+[14:56:10] [Server thread/INFO]: <EDGW> 水下呼吸的头盔有吗
+[14:56:20] [Server thread/INFO]: <wushi_> 我有附魔书
+[14:56:49] [Server thread/INFO]: <EDGW> 附一个 或者用地狱疣和河豚造水肺药水
+[14:57:22] [Server thread/INFO]: <wushi_> 等一下
+[14:58:27] [Server thread/INFO]: wushi6969 hit the ground too hard
+[14:58:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3, y=103, z=-406} class_2338{x=1, y=70, z=-307}
+[14:59:11] [Server thread/INFO]: <wushi_> 在练了
+[14:59:14] [Server thread/INFO]: <EDGW> o
+[15:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:02:14] [Server thread/INFO]: <EDGW> wushi_ 好没
+[15:02:50] [Server thread/INFO]: wushi6969 fell from a high place
+[15:03:35] [Server thread/INFO]: <wushi_> 完了材料齐了
+[15:03:39] [Server thread/INFO]: <wushi_> 没有烈焰粉
+[15:04:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18516, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.80]
+[15:04:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18516, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.80]
+[15:04:12] [Server thread/INFO]: EDGW lost connection: Disconnected
+[15:04:12] [Server thread/INFO]: EDGW left the game
+[15:04:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18974, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[15:04:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18974, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[15:04:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=7, y=90, z=-404}
+[15:09:20] [Server thread/INFO]: wushi6969 has made the advancement [Local Brewery]
+[15:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:10:19] [Server thread/INFO]: EDGW[/127.0.0.1:59609] logged in with entity id 21013 at (3948.6943773399166, 65.0, 1775.300000011921)
+[15:10:19] [Server thread/INFO]: EDGW joined the game
+[15:10:19] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:10:24] [Netty Epoll Server IO #6/INFO]: Player EDGW joined with a matching carpet client
+[15:10:45] [Server thread/INFO]: <wushi_> 缺材料没水肺
+[15:11:03] [Server thread/INFO]: wushi6969 lost connection: Disconnected
+[15:11:03] [Server thread/INFO]: wushi6969 left the game
+[15:11:24] [Server thread/INFO]: <EDGW> 水肺只要地狱疣和河豚a，还有烈焰粉，xiaolou或者腐竹家肯定有
+[15:11:45] [Server thread/INFO]: <wushi_> 烈焰粉
+[15:11:56] [Server thread/INFO]: <EDGW> xiaolou或者腐竹家找
+[15:12:02] [Server thread/INFO]: <wushi_> 我去腐竹家拿
+[15:12:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/20325, l='ServerLevel[world]', x=-302.47, y=70.69, z=361.65]
+[15:13:06] [Server thread/INFO]: <EDGW> 再带一个鞘翅过来
+[15:14:15] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-30_15-14-15
+[15:14:15] [Server thread/INFO]: [Textile Backup] Saving server...
+[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:14:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:14:20] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[15:14:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5594ms or 111 ticks behind
+[15:14:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5191ms or 103 ticks behind
+[15:14:50] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-30_00-09-09.zip
+[15:14:50] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[15:15:05] [Server thread/INFO]: <EDGW> 只要再挖一个方块潮涌核心就有作用了 但是你得先把药水
+[15:15:12] [Server thread/INFO]: <EDGW> wushi_
+[15:15:22] [Server thread/INFO]: <wushi_> ?
+[15:15:27] [Server thread/INFO]: <EDGW> 好了吗
+[15:16:40] [Server thread/INFO]: goudongxi6066 has made the advancement [A Seedy Place]
+[15:17:03] [Server thread/INFO]: <wushi_> xiaolou家没有烈焰粉
+[15:17:10] [Server thread/INFO]: <EDGW> 腐竹家呢
+[15:17:33] [Server thread/INFO]: <EDGW> 也没有的话就去aka家找
+[15:17:45] [Server thread/INFO]: <wushi_> 有了
+[15:17:48] [Server thread/INFO]: <wushi_> 不知道谁家
+[15:17:52] [Server thread/INFO]: <EDGW> 管他呢
+[15:17:57] [Server thread/INFO]: <EDGW> 有了就好
+[15:17:58] [Server thread/INFO]: <wushi_> 11个烈焰粉
+[15:18:03] [Server thread/INFO]: <EDGW> 够了
+[15:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:20:40] [Server thread/INFO]: <EDGW> wushi_ 你都有什么了
+[15:20:58] [Server thread/INFO]: <wushi_> 一个夜视
+[15:21:04] [Server thread/INFO]: <wushi_> 还有水肺
+[15:21:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[15:21:16] [Server thread/INFO]: <EDGW> o 还要牛奶 水下速掘 和鞘翅
+[15:21:23] [Server thread/INFO]: <wushi_> 速度跳跃xN
+[15:21:28] [Server thread/INFO]: <EDGW> o
+[15:21:33] [Server thread/INFO]: <EDGW> 还要牛奶 水下速掘 和鞘翅
+[15:22:15] [Server thread/INFO]: wushi_ has made the advancement [Local Brewery]
+[15:22:57] [Server thread/INFO]: <wushi_> 有牛奶
+[15:23:00] [Server thread/INFO]: <wushi_> 11瓶
+[15:23:04] [Server thread/INFO]: <EDGW> o
+[15:23:26] [Server thread/INFO]: <wushi_> 水下速决我头上就是
+[15:23:27] [Server thread/INFO]: <EDGW> 管他有没有 反正其他人家肯定有
+[15:23:29] [Server thread/INFO]: <EDGW> o
+[15:23:40] [Server thread/INFO]: <EDGW> 再拿一个鞘翅过来就行了
+[15:23:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27208, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.20]
+[15:23:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/27208, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.20]
+[15:24:13] [Server thread/INFO]: <wushi_> 等一下
+[15:24:20] [Server thread/INFO]: <wushi_> 我在升级一下
+[15:24:26] [Server thread/INFO]: <EDGW> o
+[15:26:33] [Server thread/INFO]: <wushi_> 等一下
+[15:26:41] [Server thread/INFO]: <EDGW> o
+[15:27:40] [Server thread/INFO]: <wushi_> 我来了
+[15:27:47] [Server thread/INFO]: <wushi_> 坐标
+[15:27:49] [Server thread/INFO]: <wushi_> 发一下
+[15:28:16] [Server thread/INFO]: <EDGW> 地狱坐标还是主世界坐标 如果是地狱请自备传送门
+[15:28:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28112, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[15:28:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/28112, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[15:28:32] [Server thread/INFO]: <EDGW> 主世界坐标：
+[15:28:32] [Server thread/INFO]: <wushi_> 主世界
+[15:28:57] [Server thread/INFO]: <EDGW> 自备鞘翅 一般耐久3鞘翅飞过来就废了
+[15:29:13] [Server thread/INFO]: <wushi_> 我还是去地狱吧
+[15:29:50] [Server thread/INFO]: <EDGW> 地狱是
+[15:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:30:05] [Server thread/INFO]: <EDGW> 493 222
+[15:30:12] [Server thread/INFO]: <EDGW> 自备传送门
+[15:30:27] [Server thread/INFO]: <wushi_> 下届坐标
+[15:30:32] [Server thread/INFO]: <EDGW> 493 222
+[15:30:47] [Server thread/INFO]: <EDGW> 传送过来前先吃金苹果 你很有可能掉到海里
+[15:31:39] [Server thread/INFO]: <EDGW> 到了吗
+[15:32:10] [Server thread/INFO]: <EDGW> OK
+[15:32:52] [Server thread/INFO]: <EDGW> 水下速掘
+[15:33:13] [Server thread/INFO]: <wushi_> 记得还给我
+[15:33:17] [Server thread/INFO]: <EDGW> OK
+[15:34:28] [Server thread/INFO]: <wushi_> 我回去咯
+[15:34:38] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/31281, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.20]
+[15:34:39] [Server thread/INFO]: <EDGW> o
+[15:36:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[15:36:21] [Server thread/INFO]: <EDGW> 好吧
+[15:36:42] [Server thread/INFO]: <EDGW> 还有1个没打掉
+[15:37:00] [Server thread/INFO]: <EDGW> 能
+[15:39:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/33870, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.20]
+[15:39:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/33870, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.20]
+[15:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[15:42:14] [Server thread/INFO]: Plants352039[/127.0.0.1:47434] logged in with entity id 34807 at (-492.5149966627959, 71.0, 457.24147544815787)
+[15:42:14] [Server thread/INFO]: Plants352039 joined the game
+[15:42:14] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:42:43] [Server thread/INFO]: EDGW lost connection: Disconnected
+[15:42:43] [Server thread/INFO]: EDGW left the game
+[15:43:14] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[15:43:14] [Server thread/INFO]: Plants352039 left the game
+[15:43:26] [Server thread/INFO]: Plants352039[/127.0.0.1:55050] logged in with entity id 35793 at (-492.5149966627959, 71.0, 457.24147544815787)
+[15:43:26] [Server thread/INFO]: Plants352039 joined the game
+[15:43:26] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:43:37] [Server thread/INFO]: <wushi_> 我帽子被
+[15:43:46] [Server thread/INFO]: <wushi_> 我帽子呢
+[15:44:27] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[15:44:27] [Server thread/INFO]: Plants352039 left the game
+[15:45:14] [Server thread/INFO]: Plants352039[/127.0.0.1:49215] logged in with entity id 36768 at (-492.5149966627959, 71.0, 457.24147544815787)
+[15:45:14] [Server thread/INFO]: Plants352039 joined the game
+[15:45:14] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:47:13] [Server thread/INFO]: EDGW[local] logged in with entity id 37714 at (3951.5, 90.0, 1785.5)
+[15:47:13] [Server thread/INFO]: EDGW joined the game
+[15:47:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/37962, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.20]
+[15:47:27] [Server thread/INFO]: EDGW lost connection: Killed
+[15:47:27] [Server thread/INFO]: EDGW left the game
+[15:48:17] [Server thread/INFO]: EDGW[/127.0.0.1:47525] logged in with entity id 38287 at (3951.474956593126, 52.0, 1785.5)
+[15:48:17] [Server thread/INFO]: EDGW joined the game
+[15:48:17] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:48:17] [Netty Epoll Server IO #0/INFO]: Player EDGW joined with a matching carpet client
+[15:48:32] [Server thread/INFO]: <EDGW> OK
+[15:48:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/38643, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.80]
+[15:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[15:52:11] [Server thread/INFO]: <EDGW> 没有挖掘疲劳了
+[15:52:20] [Server thread/INFO]: <EDGW> 后者 你找到的那个
+[15:52:29] [Server thread/INFO]: <EDGW> 在镜像服测试过了 效率极高
+[15:53:43] [Server thread/INFO]: <EDGW> MSPT大约45-60
+[15:54:03] [Server thread/INFO]: <EDGW> 我先把剩下的2只远古守卫者干了
+[15:54:30] [Server thread/INFO]: <EDGW> 是的
+[15:55:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/42365, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[15:56:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:56:26] [Server thread/INFO]: info<--[HERE]
+[15:56:32] [Server thread/INFO]: <EDGW> 干死了一只
+[15:58:09] [Server thread/INFO]: 
+[15:58:09] [Server thread/INFO]: Use /data get entity command
+[15:58:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/43819, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[15:58:25] [Server thread/INFO]: wushi_ has the following entity data: {Brain: {memories: {}}, HurtByTimestamp: 8362, SleepTimer: 0s, SpawnForced: 0b, roles: [], Attributes: [{Base: 0.0d, Name: "minecraft:generic.knockback_resistance"}, {Base: 4.0d, Name: "minecraft:generic.attack_speed"}, {Base: 0.0d, Name: "minecraft:generic.armor"}, {Base: 1.0d, Name: "minecraft:generic.attack_damage"}, {Base: 0.0d, Name: "minecraft:generic.armor_toughness"}, {Base: 0.10000000149011612d, Name: "minecraft:generic.movement_speed"}], Invulnerable: 0b, FallFlying: 0b, PortalCooldown: 0, AbsorptionAmount: 0.0f, abilities: {invulnerable: 0b, mayfly: 0b, instabuild: 0b, walkSpeed: 0.1f, mayBuild: 1b, flying: 0b, flySpeed: 0.05f}, FallDistance: 0.0f, recipeBook: {recipes: ["minecraft:blackstone_stairs_from_blackstone_stonecutting", "minecraft:piston", "minecraft:brown_bed", "minecraft:yellow_dye_from_dandelion", "minecraft:charcoal", "minecraft:dark_oak_button", "minecraft:diorite_wall_from_diorite_stonecutting", "minecraft:white_banner", "minecraft:polished_blackstone_brick_slab", "minecraft:gold_ingot", "minecraft:red_wool", "minecraft:stripped_dark_oak_wood", "minecraft:stone_pickaxe", "minecraft:stonecutter", "minecraft:shulker_box", "minecraft:soul_torch", "minecraft:wooden_axe", "minecraft:dispenser", "minecraft:daylight_detector", "minecraft:bone_block", "minecraft:diorite_wall", "minecraft:quartz_from_blasting", "minecraft:coal_from_blasting", "minecraft:iron_nugget", "minecraft:melon", "minecraft:white_carpet", "minecraft:spruce_planks", "minecraft:red_stained_glass", "minecraft:birch_fence", "minecraft:gold_nugget_from_blasting", "minecraft:cracked_stone_bricks", "minecraft:jack_o_lantern", "minecraft:tripwire_hook", "minecraft:cooked_salmon_from_campfire_cooking", "minecraft:chiseled_polished_blackstone_from_blackstone_stonecutting", "minecraft:diorite_stairs_from_diorite_stonecutting", "minecraft:hopper", "minecraft:nether_wart_block", "minecraft:stone_stairs_from_stone_stonecutting", "minecraft:polished_blackstone_brick_slab_from_blackstone_stonecutting", "minecraft:lantern", "minecraft:red_bed_from_white_bed", "minecraft:cobblestone_wall", "minecraft:magenta_wool", "minecraft:lapis_from_smelting", "minecraft:magenta_stained_glass", "minecraft:polished_andesite_stairs_from_andesite_stonecutting", "minecraft:gold_nugget", "minecraft:iron_bars", "minecraft:coal_block", "minecraft:iron_trapdoor", "minecraft:sugar_from_honey_bottle", "minecraft:cyan_bed_from_white_bed", "minecraft:black_wool", "minecraft:slime_ball", "minecraft:cooked_cod", "minecraft:spruce_fence_gate", "minecraft:iron_helmet", "minecraft:diamond_axe", "minecraft:leather_chestplate", "minecraft:blackstone_slab_from_blackstone_stonecutting", "minecraft:lime_bed_from_white_bed", "minecraft:cartography_table", "minecraft:iron_block", "minecraft:spruce_sign", "minecraft:polished_diorite", "minecraft:stone_slab", "minecraft:dark_oak_door", "minecraft:cooked_porkchop", "minecraft:cooked_salmon_from_smoking", "minecraft:writable_book", "minecraft:birch_wood", "minecraft:dark_oak_pressure_plate", "minecraft:cooked_porkchop_from_smoking", "minecraft:leather_helmet", "minecraft:oak_wood", "minecraft:scaffolding", "minecraft:emerald_block", "minecraft:golden_apple", "minecraft:diamond_pickaxe", "minecraft:light_gray_dye_from_oxeye_daisy", "minecraft:polished_granite_from_granite_stonecutting", "minecraft:lime_carpet_from_white_carpet", "minecraft:lime_wool", "minecraft:purple_bed_from_white_bed", "minecraft:light_gray_wool", "minecraft:purple_wool", "minecraft:chiseled_stone_bricks_from_stone_bricks_stonecutting", "minecraft:polished_blackstone_bricks_from_blackstone_stonecutting", "minecraft:spruce_wood", "minecraft:iron_sword", "minecraft:spruce_fence", "minecraft:green_stained_glass", "minecraft:andesite_slab", "minecraft:honey_block", "minecraft:baked_potato", "minecraft:fletching_table", "minecraft:cooked_salmon", "minecraft:orange_stained_glass", "minecraft:heavy_weighted_pressure_plate", "minecraft:stone_shovel", "minecraft:cobblestone_stairs", "minecraft:pink_stained_glass", "minecraft:golden_leggings", "minecraft:cut_sandstone_slab", "minecraft:stone_brick_stairs_from_stone_bricks_stonecutting", "minecraft:birch_trapdoor", "minecraft:netherite_pickaxe_smithing", "minecraft:stone_pressure_plate", "minecraft:dropper", "minecraft:diamond_from_blasting", "minecraft:yellow_bed_from_white_bed", "minecraft:redstone_lamp", "minecraft:golden_boots", "minecraft:black_carpet", "minecraft:diorite_slab_from_diorite_stonecutting", "minecraft:netherite_shovel_smithing", "minecraft:andesite_wall_from_andesite_stonecutting", "minecraft:polished_basalt", "minecraft:cyan_concrete_powder", "minecraft:mojang_banner_pattern", "minecraft:golden_helmet", "minecraft:polished_granite_slab", "minecraft:sticky_piston", "minecraft:golden_hoe", "minecraft:fire_charge", "minecraft:white_dye", "minecraft:redstone", "minecraft:bread", "minecraft:bone_meal_from_bone_block", "minecraft:wooden_pickaxe", "minecraft:powered_rail", "minecraft:torch", "minecraft:polished_granite_stairs", "minecraft:acacia_boat", "minecraft:green_concrete_powder", "minecraft:lever", "minecraft:oak_stairs", "minecraft:stone_button", "minecraft:polished_blackstone_brick_stairs", "minecraft:brown_stained_glass", "minecraft:lapis_from_blasting", "minecraft:detector_rail", "minecraft:stick_from_bamboo_item", "minecraft:shield", "minecraft:sandstone", "minecraft:yellow_concrete_powder", "minecraft:blackstone_slab", "minecraft:cooked_porkchop_from_campfire_cooking", "minecraft:dark_oak_trapdoor", "minecraft:comparator", "minecraft:lodestone", "minecraft:repeater", "minecraft:red_concrete_powder", "minecraft:black_banner", "minecraft:painting", "minecraft:green_carpet_from_white_carpet", "minecraft:iron_shovel", "minecraft:netherite_boots_smithing", "minecraft:stone_brick_slab", "minecraft:glass", "minecraft:crafting_table", "minecraft:stone_stairs", "minecraft:fishing_rod", "minecraft:cooked_beef_from_smoking", "minecraft:iron_leggings", "minecraft:dark_oak_wood", "minecraft:quartz", "minecraft:stone_slab_from_stone_stonecutting", "minecraft:magenta_carpet_from_white_carpet", "minecraft:light_blue_wool", "minecraft:orange_wool", "minecraft:polished_basalt_from_basalt_stonecutting", "minecraft:black_bed_from_white_bed", "minecraft:redstone_from_smelting", "minecraft:gray_concrete_powder", "minecraft:stone_brick_slab_from_stone_stonecutting", "minecraft:iron_nugget_from_smelting", "minecraft:light_blue_concrete_powder", "minecraft:birch_door", "minecraft:granite_wall_from_granite_stonecutting", "minecraft:gold_ingot_from_blasting", "minecraft:anvil", "minecraft:gray_bed_from_white_bed", "minecraft:gold_ingot_from_nuggets", "minecraft:granite_stairs", "minecraft:polished_granite_slab_from_polished_granite_stonecutting", "minecraft:cooked_chicken", "minecraft:oak_trapdoor", "minecraft:mushroom_stew", "minecraft:oak_door", "minecraft:netherite_leggings_smithing", "minecraft:tnt", "minecraft:andesite_slab_from_andesite_stonecutting", "minecraft:birch_button", "minecraft:nether_brick", "minecraft:wooden_sword", "minecraft:flint_and_steel", "minecraft:birch_fence_gate", "minecraft:bone_meal", "minecraft:stone_brick_stairs_from_stone_stonecutting", "minecraft:pink_bed_from_white_bed", "minecraft:iron_ingot", "minecraft:polished_diorite_stairs_from_diorite_stonecutting", "minecraft:brown_carpet", "minecraft:black_dye", "minecraft:spruce_door", "minecraft:carrot_on_a_stick", "minecraft:iron_chestplate", "minecraft:brown_wool", "minecraft:stone_bricks", "minecraft:birch_stairs", "minecraft:polished_diorite_from_diorite_stonecutting", "minecraft:yellow_carpet_from_white_carpet", "minecraft:white_wool_from_string", "minecraft:light_gray_stained_glass", "minecraft:cobblestone_wall_from_cobblestone_stonecutting", "minecraft:polished_andesite_from_andesite_stonecutting", "minecraft:emerald_from_blasting", "minecraft:leather_horse_armor", "minecraft:golden_axe", "minecraft:dark_oak_planks", "minecraft:oak_button", "minecraft:granite_wall", "minecraft:brown_concrete_powder", "minecraft:orange_concrete_powder", "minecraft:redstone_block", "minecraft:cooked_chicken_from_smoking", "minecraft:shears", "minecraft:cyan_stained_glass", "minecraft:oak_pressure_plate", "minecraft:stone_sword", "minecraft:yellow_dye_from_sunflower", "minecraft:stone_brick_stairs", "minecraft:iron_ingot_from_blasting", "minecraft:diorite", "minecraft:quartz_block", "minecraft:brick", "minecraft:oak_slab", "minecraft:orange_bed_from_white_bed", "minecraft:polished_blackstone_wall_from_blackstone_stonecutting", "minecraft:glistering_melon_slice", "minecraft:diamond_helmet", "minecraft:iron_hoe", "minecraft:light_blue_bed_from_white_bed", "minecraft:iron_ingot_from_iron_block", "minecraft:bow", "minecraft:andesite_stairs_from_andesite_stonecutting", "minecraft:netherite_axe_smithing", "minecraft:stone_brick_slab_from_stone_bricks_stonecutting", "minecraft:snow", "minecraft:dark_oak_fence_gate", "minecraft:coal", "minecraft:clock", "minecraft:compass", "minecraft:andesite_stairs", "minecraft:yellow_wool", "minecraft:blackstone_wall_from_blackstone_stonecutting", "minecraft:item_frame", "minecraft:grindstone", "minecraft:light_blue_carpet_from_white_carpet", "minecraft:loom", "minecraft:light_gray_carpet_from_white_carpet", "minecraft:blue_ice", "minecraft:polished_granite_stairs_from_polished_granite_stonecutting", "minecraft:smoker", "minecraft:red_nether_bricks", "minecraft:granite_slab_from_granite_stonecutting", "minecraft:glass_pane", "minecraft:diamond_leggings", "minecraft:granite_stairs_from_granite_stonecutting", "minecraft:dark_oak_boat", "minecraft:lectern", "minecraft:arrow", "minecraft:golden_sword", "minecraft:oak_fence_gate", "minecraft:purple_stained_glass", "minecraft:iron_ingot_from_nuggets", "minecraft:golden_pickaxe", "minecraft:clay", "minecraft:melon_seeds", "minecraft:granite", "minecraft:polished_blackstone_stairs_from_blackstone_stonecutting", "minecraft:ladder", "minecraft:redstone_torch", "minecraft:polished_andesite_slab_from_andesite_stonecutting", "minecraft:furnace_minecart", "minecraft:target", "minecraft:polished_diorite_slab_from_diorite_stonecutting", "minecraft:gray_wool", "minecraft:white_concrete_powder", "minecraft:green_wool", "minecraft:andesite", "minecraft:diamond_boots", "minecraft:cake", "minecraft:polished_blackstone", "minecraft:dark_oak_sign", "minecraft:granite_slab", "minecraft:stick", "minecraft:leather_boots", "minecraft:dark_oak_stairs", "minecraft:black_carpet_from_white_carpet", "minecraft:diamond_from_smelting", "minecraft:polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting", "minecraft:armor_stand", "minecraft:lime_concrete_powder", "minecraft:leather_leggings", "minecraft:polished_blackstone_brick_wall", "minecraft:stone_axe", "minecraft:brown_banner", "minecraft:packed_ice", "minecraft:barrel", "minecraft:emerald_from_smelting", "minecraft:stone", "minecraft:polished_blackstone_slab_from_blackstone_stonecutting", "minecraft:golden_carrot", "minecraft:blackstone_stairs", "minecraft:netherite_scrap_from_blasting", "minecraft:diamond_block", "minecraft:diorite_slab", "minecraft:baked_potato_from_smoking", "minecraft:spruce_trapdoor", "minecraft:yellow_stained_glass", "minecraft:brown_carpet_from_white_carpet", "minecraft:light_blue_stained_glass", "minecraft:chiseled_stone_bricks_stone_from_stonecutting", "minecraft:book", "minecraft:chiseled_stone_bricks", "minecraft:glowstone", "minecraft:respawn_anchor", "minecraft:pumpkin_seeds", "minecraft:polished_blackstone_brick_wall_from_blackstone_stonecutting", "minecraft:netherite_sword_smithing", "minecraft:wooden_shovel", "minecraft:smithing_table", "minecraft:polished_blackstone_brick_stairs_from_blackstone_stonecutting", "minecraft:magma_cream", "minecraft:magma_block", "minecraft:polished_granite_stairs_from_granite_stonecutting", "minecraft:spruce_pressure_plate", "minecraft:smooth_stone", "minecraft:blackstone_wall", "minecraft:cooked_mutton", "minecraft:cauldron", "minecraft:pink_concrete_powder", "minecraft:bookshelf", "minecraft:lapis_block", "minecraft:magenta_concrete_powder", "minecraft:red_dye_from_poppy", "minecraft:diamond_shovel", "minecraft:andesite_wall", "minecraft:brown_bed_from_white_bed", "minecraft:polished_granite_slab_from_granite_stonecutting", "minecraft:snow_block", "minecraft:hay_block", "minecraft:iron_axe", "minecraft:cyan_wool", "minecraft:cobblestone_slab", "minecraft:sandstone_stairs", "minecraft:composter", "minecraft:ender_eye", "minecraft:cracked_polished_blackstone_bricks", "minecraft:jukebox", "minecraft:white_bed", "minecraft:birch_slab", "minecraft:cooked_cod_from_smoking", "minecraft:spruce_slab", "minecraft:minecart", "minecraft:coarse_dirt", "minecraft:red_carpet_from_white_carpet", "minecraft:chest_minecart", "minecraft:cobblestone_slab_from_cobblestone_stonecutting", "minecraft:oak_boat", "minecraft:stone_bricks_from_stone_stonecutting", "minecraft:chest", "minecraft:gray_stained_glass", "minecraft:rail", "minecraft:fermented_spider_eye", "minecraft:baked_potato_from_campfire_cooking", "minecraft:stone_hoe", "minecraft:diamond_sword", "minecraft:jungle_boat", "minecraft:diamond_hoe", "minecraft:pumpkin_pie", "minecraft:creeper_banner_pattern", "minecraft:gold_ingot_from_gold_block", "minecraft:dark_oak_fence", "minecraft:light_weighted_pressure_plate", "minecraft:golden_shovel", "minecraft:cooked_mutton_from_campfire_cooking", "minecraft:glass_bottle", "minecraft:iron_door", "minecraft:polished_granite", "minecraft:cooked_beef", "minecraft:hopper_minecart", "minecraft:cooked_mutton_from_smoking", "minecraft:blue_bed_from_white_bed", "minecraft:soul_campfire", "minecraft:cobblestone_stairs_from_cobblestone_stonecutting", "minecraft:polished_diorite_slab", "minecraft:chain", "minecraft:orange_carpet_from_white_carpet", "minecraft:pink_wool", "minecraft:polished_blackstone_from_blackstone_stonecutting", "minecraft:blue_concrete_powder", "minecraft:blue_stained_glass", "minecraft:gold_nugget_from_smelting", "minecraft:oak_fence", "minecraft:iron_boots", "minecraft:netherite_hoe_smithing", "minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting", "minecraft:diamond_chestplate", "minecraft:golden_chestplate", "minecraft:netherite_chestplate_smithing", "minecraft:stone_brick_wall_from_stone_bricks_stonecutting", "minecraft:oak_sign", "minecraft:light_gray_concrete_powder", "minecraft:netherite_ingot", "minecraft:furnace", "minecraft:birch_sign", "minecraft:magenta_bed_from_white_bed", "minecraft:diorite_stairs", "minecraft:birch_pressure_plate", "minecraft:coal_from_smelting", "minecraft:flower_banner_pattern", "minecraft:netherite_block", "minecraft:cyan_carpet_from_white_carpet", "minecraft:activator_rail", "minecraft:spruce_stairs", "minecraft:purple_carpet_from_white_carpet", "minecraft:polished_diorite_stairs_from_polished_diorite_stonecutting", "minecraft:redstone_from_blasting", "minecraft:polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting", "minecraft:oak_planks", "minecraft:black_bed", "minecraft:iron_nugget_from_blasting", "minecraft:crossbow", "minecraft:light_gray_dye_from_azure_bluet", "minecraft:cooked_chicken_from_campfire_cooking", "minecraft:netherite_scrap", "minecraft:stone_brick_wall", "minecraft:iron_pickaxe", "minecraft:bowl", "minecraft:spruce_button", "minecraft:diamond", "minecraft:green_bed_from_white_bed", "minecraft:black_concrete_powder", "minecraft:purple_concrete_powder", "minecraft:sugar_from_sugar_cane", "minecraft:birch_planks", "minecraft:spectral_arrow", "minecraft:tnt_minecart", "minecraft:enchanting_table", "minecraft:white_stained_glass", "minecraft:blue_carpet_from_white_carpet", "minecraft:lead", "minecraft:spruce_boat", "minecraft:birch_boat", "minecraft:slime_block", "minecraft:gold_block", "minecraft:wooden_hoe", "minecraft:cooked_beef_from_campfire_cooking", "minecraft:polished_diorite_stairs", "minecraft:observer", "minecraft:campfire", "minecraft:paper", "minecraft:dark_oak_slab", "minecraft:gray_carpet_from_white_carpet", "minecraft:cooked_cod_from_campfire_cooking", "minecraft:light_gray_bed_from_white_bed", "minecraft:pink_carpet_from_white_carpet", "minecraft:lime_stained_glass", "minecraft:stripped_spruce_wood", "minecraft:blue_wool", "minecraft:netherite_helmet_smithing", "minecraft:note_block", "minecraft:stone_brick_walls_from_stone_stonecutting", "minecraft:bucket", "minecraft:blue_dye", "minecraft:polished_diorite_slab_from_polished_diorite_stonecutting", "minecraft:polished_andesite", "minecraft:black_stained_glass"], isBlastingFurnaceFilteringCraftable: 0b, isSmokerGuiOpen: 0b, isFilteringCraftable: 0b, toBeDisplayed: ["minecraft:blackstone_stairs_from_blackstone_stonecutting", "minecraft:blackstone_wall_from_blackstone_stonecutting", "minecraft:charcoal", "minecraft:baked_potato_from_campfire_cooking", "minecraft:diorite_wall_from_diorite_stonecutting", "minecraft:grindstone", "minecraft:polished_granite_stairs_from_polished_granite_stonecutting", "minecraft:gold_ingot", "minecraft:granite_slab_from_granite_stonecutting", "minecraft:granite_stairs_from_granite_stonecutting", "minecraft:cooked_mutton_from_campfire_cooking", "minecraft:lapis_from_blasting", "minecraft:quartz_from_blasting", "minecraft:coal_from_blasting", "minecraft:cooked_beef", "minecraft:cooked_mutton_from_smoking", "minecraft:cooked_porkchop_from_campfire_cooking", "minecraft:gold_nugget_from_blasting", "minecraft:cobblestone_stairs_from_cobblestone_stonecutting", "minecraft:polished_blackstone_stairs_from_blackstone_stonecutting", "minecraft:cracked_stone_bricks", "minecraft:netherite_boots_smithing", "minecraft:cooked_salmon_from_campfire_cooking", "minecraft:chiseled_polished_blackstone_from_blackstone_stonecutting", "minecraft:diorite_stairs_from_diorite_stonecutting", "minecraft:nether_wart_block", "minecraft:glass", "minecraft:stone_stairs_from_stone_stonecutting", "minecraft:polished_blackstone_brick_slab_from_blackstone_stonecutting", "minecraft:polished_andesite_slab_from_andesite_stonecutting", "minecraft:cooked_beef_from_smoking", "minecraft:polished_blackstone_from_blackstone_stonecutting", "minecraft:gold_nugget_from_smelting", "minecraft:lapis_from_smelting", "minecraft:polished_diorite_slab_from_diorite_stonecutting", "minecraft:quartz", "minecraft:stone_slab_from_stone_stonecutting", "minecraft:polished_andesite_stairs_from_andesite_stonecutting", "minecraft:netherite_hoe_smithing", "minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting", "minecraft:polished_basalt_from_basalt_stonecutting", "minecraft:redstone_from_smelting", "minecraft:netherite_chestplate_smithing", "minecraft:cooked_cod", "minecraft:stone_brick_wall_from_stone_bricks_stonecutting", "minecraft:stone_brick_slab_from_stone_stonecutting", "minecraft:iron_nugget_from_smelting", "minecraft:granite_wall_from_granite_stonecutting", "minecraft:blackstone_slab_from_blackstone_stonecutting", "minecraft:gold_ingot_from_blasting", "minecraft:diamond_from_smelting", "minecraft:polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting", "minecraft:cooked_porkchop", "minecraft:polished_granite_slab_from_polished_granite_stonecutting", "minecraft:cooked_chicken", "minecraft:cooked_salmon_from_smoking", "minecraft:coal_from_smelting", "minecraft:cooked_porkchop_from_smoking", "minecraft:netherite_leggings_smithing", "minecraft:andesite_slab_from_andesite_stonecutting", "minecraft:emerald_from_smelting", "minecraft:stone", "minecraft:nether_brick", "minecraft:polished_blackstone_slab_from_blackstone_stonecutting", "minecraft:polished_diorite_stairs_from_polished_diorite_stonecutting", "minecraft:polished_granite_from_granite_stonecutting", "minecraft:redstone_from_blasting", "minecraft:polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting", "minecraft:netherite_scrap_from_blasting", "minecraft:stone_brick_stairs_from_stone_stonecutting", "minecraft:iron_nugget_from_blasting", "minecraft:iron_ingot", "minecraft:chiseled_stone_bricks_from_stone_bricks_stonecutting", "minecraft:polished_blackstone_bricks_from_blackstone_stonecutting", "minecraft:polished_diorite_stairs_from_diorite_stonecutting", "minecraft:baked_potato_from_smoking", "minecraft:cooked_chicken_from_campfire_cooking", "minecraft:chiseled_stone_bricks_stone_from_stonecutting", "minecraft:netherite_scrap", "minecraft:polished_blackstone_brick_wall_from_blackstone_stonecutting", "minecraft:netherite_sword_smithing", "minecraft:baked_potato", "minecraft:polished_blackstone_brick_stairs_from_blackstone_stonecutting", "minecraft:polished_diorite_from_diorite_stonecutting", "minecraft:cooked_salmon", "minecraft:magma_cream", "minecraft:polished_granite_stairs_from_granite_stonecutting", "minecraft:smooth_stone", "minecraft:cooked_mutton", "minecraft:cobblestone_wall_from_cobblestone_stonecutting", "minecraft:polished_andesite_from_andesite_stonecutting", "minecraft:emerald_from_blasting", "minecraft:stone_brick_stairs_from_stone_bricks_stonecutting", "minecraft:spectral_arrow", "minecraft:cooked_beef_from_campfire_cooking", "minecraft:cooked_chicken_from_smoking", "minecraft:netherite_pickaxe_smithing", "minecraft:polished_granite_slab_from_granite_stonecutting", "minecraft:iron_ingot_from_blasting", "minecraft:diamond_from_blasting", "minecraft:cooked_cod_from_campfire_cooking", "minecraft:redstone_lamp", "minecraft:brick", "minecraft:diorite_slab_from_diorite_stonecutting", "minecraft:netherite_shovel_smithing", "minecraft:andesite_wall_from_andesite_stonecutting", "minecraft:cracked_polished_blackstone_bricks", "minecraft:polished_blackstone_wall_from_blackstone_stonecutting", "minecraft:netherite_helmet_smithing", "minecraft:cooked_cod_from_smoking", "minecraft:andesite_stairs_from_andesite_stonecutting", "minecraft:netherite_axe_smithing", "minecraft:stone_brick_slab_from_stone_bricks_stonecutting", "minecraft:stone_brick_walls_from_stone_stonecutting", "minecraft:cobblestone_slab_from_cobblestone_stonecutting", "minecraft:stone_bricks_from_stone_stonecutting", "minecraft:polished_diorite_slab_from_polished_diorite_stonecutting", "minecraft:fire_charge"], isFurnaceGuiOpen: 0b, isGuiOpen: 1b, isFurnaceFilteringCraftable: 0b, isBlastingFurnaceGuiOpen: 0b, isSmokerFilteringCraftable: 0b}, DeathTime: 0s, XpSeed: -1728953966, XpTotal: 1561, UUID: [I; -209068636, -287951062, -1460338318, 1131037375], playerGameType: 0, SpawnDimension: "minecraft:overworld", SelectedItem: {id: "minecraft:netherite_pickaxe", Count: 1b, tag: {RepairCost: 15, Damage: 597, Enchantments: [{lvl: 5s, id: "minecraft:efficiency"}, {lvl: 1s, id: "minecraft:silk_touch"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 1s, id: "minecraft:mending"}]}}, seenCredits: 1b, Motion: [0.0d, -0.0784000015258789d, 0.0d], SpawnY: 102, Health: 20.0f, SpawnZ: -403, foodSaturationLevel: 2.6000001f, SpawnX: 5, Air: 300s, OnGround: 1b, Dimension: "minecraft:overworld", SpawnAngle: 358.21466f, Rotation: [-183.01141f, 36.32753f], XpLevel: 27, Score: 1561, Pos: [1.3000000119209267d, 63.0d, -499.32559301260466d], previousPlayerGameType: -1, Fire: -20s, XpP: 0.85365885f, EnderItems: [], DataVersion: 2578, foodLevel: 20, foodExhaustionLevel: 3.3296978f, HurtTime: 0s, SelectedItemSlot: 1, ActiveEffects: [{Ambient: 1b, ShowIcon: 1b, ShowParticles: 1b, Duration: 279, Id: 8b, Amplifier: 1b}], Inventory: [{Slot: 0b, id: "minecraft:netherite_sword", Count: 1b, tag: {RepairCost: 63, Damage: 0, Enchantments: [{lvl: 5s, id: "minecraft:sharpness"}, {lvl: 2s, id: "minecraft:fire_aspect"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 2s, id: "minecraft:knockback"}, {lvl: 3s, id: "minecraft:sweeping"}, {lvl: 1s, id: "minecraft:mending"}]}}, {Slot: 1b, id: "minecraft:netherite_pickaxe", Count: 1b, tag: {RepairCost: 15, Damage: 597, Enchantments: [{lvl: 5s, id: "minecraft:efficiency"}, {lvl: 1s, id: "minecraft:silk_touch"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 1s, id: "minecraft:mending"}]}}, {Slot: 2b, id: "minecraft:firework_rocket", Count: 30b, tag: {Fireworks: {Flight: 3b}}}, {Slot: 3b, id: "minecraft:cooked_chicken", Count: 16b}, {Slot: 4b, id: "minecraft:carrot", Count: 11b}, {Slot: 5b, id: "minecraft:netherite_shovel", Count: 1b, tag: {RepairCost: 7, Damage: 49, Enchantments: [{lvl: 4s, id: "minecraft:efficiency"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 1s, id: "minecraft:mending"}]}}, {Slot: 6b, id: "minecraft:bow", Count: 1b, tag: {RepairCost: 31, Damage: 117, Enchantments: [{lvl: 1s, id: "minecraft:infinity"}, {lvl: 5s, id: "minecraft:power"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 1s, id: "minecraft:flame"}, {lvl: 2s, id: "minecraft:punch"}]}}, {Slot: 7b, id: "minecraft:torch", Count: 47b}, {Slot: 8b, id: "minecraft:stone", Count: 64b}, {Slot: 9b, id: "minecraft:cobblestone", Count: 9b}, {Slot: 10b, id: "minecraft:andesite", Count: 47b}, {Slot: 11b, id: "minecraft:diamond_chestplate", Count: 1b, tag: {RepairCost: 1, Damage: 3, Enchantments: [{lvl: 4s, id: "minecraft:protection"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 2s, id: "minecraft:thorns"}, {lvl: 1s, id: "minecraft:mending"}]}}, {Slot: 12b, id: "minecraft:granite", Count: 11b}, {Slot: 13b, id: "minecraft:diorite", Count: 52b}, {Slot: 14b, id: "minecraft:stone", Count: 64b}, {Slot: 15b, id: "minecraft:stone", Count: 64b}, {Slot: 16b, id: "minecraft:water_bucket", Count: 1b}, {Slot: 17b, id: "minecraft:stone", Count: 64b}, {Slot: 18b, id: "minecraft:crafting_table", Count: 2b}, {Slot: 19b, id: "minecraft:stone", Count: 64b}, {Slot: 20b, id: "minecraft:stick", Count: 8b}, {Slot: 21b, id: "minecraft:stone", Count: 16b}, {Slot: 22b, id: "minecraft:enchanted_golden_apple", Count: 32b, tag: {RepairCost: 0, display: {Name: '{"text":"由Cora_cold发现"}'}}}, {Slot: 27b, id: "minecraft:arrow", Count: 5b}, {Slot: 100b, id: "minecraft:netherite_boots", Count: 1b, tag: {RepairCost: 7, Damage: 3, Enchantments: [{lvl: 4s, id: "minecraft:fire_protection"}, {lvl: 3s, id: "minecraft:depth_strider"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 4s, id: "minecraft:feather_falling"}, {lvl: 1s, id: "minecraft:mending"}]}}, {Slot: 101b, id: "minecraft:diamond_leggings", Count: 1b, tag: {RepairCost: 15, Damage: 3, Enchantments: [{lvl: 4s, id: "minecraft:protection"}, {lvl: 3s, id: "minecraft:unbreaking"}, {lvl: 1s, id: "minecraft:mending"}]}}, {Slot: 102b, id: "minecraft:elytra", Count: 1b, tag: {RepairCost: 7, Damage: 2, Enchantments: [{lvl: 1s, id: "minecraft:mending"}, {lvl: 3s, id: "minecraft:unbreaking"}]}}, {Slot: -106b, id: "minecraft:totem_of_undying", Count: 1b}], foodTickTimer: 0}
+[15:58:51] [Server thread/INFO]: EDGW was killed by Guardian using magic
+[15:59:01] [Server thread/INFO]: <wushi_> ?????
+[15:59:21] [Server thread/INFO]: <EDGW> 还在
+[15:59:25] [Server thread/INFO]: <EDGW> 吃个苹果下去
+[15:59:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=30, y=61, z=-505} class_2338{x=29, y=61, z=-505}
+[15:59:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=30, y=61, z=-505} class_2338{x=29, y=61, z=-505}
+[15:59:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=30, y=61, z=-505} class_2338{x=29, y=61, z=-505}
+[16:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:00:20] [Server thread/INFO]: <wushi_> ?
+[16:00:27] [Server thread/INFO]: <wushi_> 我在我家
+[16:00:36] [Server thread/INFO]: <wushi_> 是69还是_
+[16:00:56] [Server thread/INFO]: <wushi_> 9 -492
+[16:01:00] [Server thread/INFO]: EDGW was slain by Elder Guardian
+[16:02:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=15, y=59, z=-510} class_2338{x=13, y=61, z=-511}
+[16:02:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=17, y=60, z=-509} class_2338{x=17, y=59, z=-508}
+[16:02:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=60, z=-509} class_2338{x=13, y=59, z=-510}
+[16:02:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=60, z=-506} class_2338{x=14, y=61, z=-505}
+[16:02:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=16, y=61, z=-507} class_2338{x=17, y=60, z=-507}
+[16:03:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/46593, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.20]
+[16:04:05] [Server thread/INFO]: <EDGW> dimension
+[16:06:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[16:06:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3166ms or 63 ticks behind
+[16:07:10] [Server thread/INFO]: EDGW was slain by Guardian
+[16:07:37] [Server thread/INFO]: <EDGW> 死在出口了
+[16:08:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/51125, l='ServerLevel[world]', x=-367.30, y=70.26, z=458.50]
+[16:08:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/51264, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[16:08:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/51665, l='ServerLevel[world]', x=-367.46, y=74.26, z=440.40]
+[16:08:57] [Server thread/INFO]: <EDGW> 最后一只远古守卫者了
+[16:09:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/51942, l='ServerLevel[world]', x=-367.30, y=74.26, z=460.50]
+[16:09:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/51957, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[16:09:17] [Server thread/INFO]: <EDGW> 斧头攻击力比叉子高多了
+[16:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:11:06] [Server thread/INFO]: <Plants352039> 我烧的石头又被人家烧成平滑石了。
+[16:11:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2548ms or 50 ticks behind
+[16:11:18] [Server thread/INFO]: <EDGW> 远古守卫者打掉了
+[16:11:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3129ms or 62 ticks behind
+[16:12:21] [Server thread/INFO]: <EDGW> 终于没有挖掘疲劳了
+[16:12:43] [Server thread/INFO]: <EDGW> 吃掉了3组金苹果
+[16:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:13:31] [Server thread/INFO]: <EDGW> 正在搞
+[16:13:59] [Server thread/INFO]: <EDGW> 普通守卫者只能砍掉3滴血
+[16:14:15] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-30_16-14-15
+[16:14:15] [Server thread/INFO]: [Textile Backup] Saving server...
+[16:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:14:17] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[16:14:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[16:14:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=57, z=1776} class_2338{x=3950, y=55, z=1775}
+[16:14:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=57, z=1776} class_2338{x=3950, y=55, z=1775}
+[16:14:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=56, z=1776} class_2338{x=3950, y=55, z=1775}
+[16:14:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3948, y=57, z=1776} class_2338{x=3950, y=55, z=1775}
+[16:14:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=57, z=1776} class_2338{x=3950, y=55, z=1775}
+[16:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6678ms or 133 ticks behind
+[16:14:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=56, z=1776} class_2338{x=3949, y=55, z=1776}
+[16:14:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3948, y=56, z=1776} class_2338{x=3949, y=55, z=1776}
+[16:14:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=55, z=1775} class_2338{x=3949, y=55, z=1774}
+[16:14:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=56, z=1776} class_2338{x=3949, y=55, z=1774}
+[16:14:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=54, z=1775} class_2338{x=3949, y=55, z=1774}
+[16:14:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=55, z=1775} class_2338{x=3949, y=55, z=1774}
+[16:14:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3949, y=56, z=1776} class_2338{x=3949, y=55, z=1774}
+[16:14:47] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-30_01-09-09.zip
+[16:14:47] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[16:14:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3, y=62, z=-548} class_2338{x=-5, y=63, z=-548}
+[16:14:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-7, y=63, z=-542} class_2338{x=-5, y=63, z=-540}
+[16:15:10] [Server thread/INFO]: <EDGW> 谁来帮忙把海底神殿拆了
+[16:15:22] [Server thread/INFO]: <EDGW> 只留底下的那个平台
+[16:16:13] [Server thread/INFO]: <EDGW> 看看
+[16:16:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-36, y=59, z=-563} class_2338{x=-35, y=59, z=-564}
+[16:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[16:16:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3347ms or 66 ticks behind
+[16:17:24] [Server thread/INFO]: <EDGW> 几十个守卫者追着我 看都看不了
+[16:17:24] [Server thread/INFO]: wushi6969[/127.0.0.1:42532] logged in with entity id 63013 at (-6.127041, 106.0, -395.1102)
+[16:17:24] [Server thread/INFO]: wushi6969 joined the game
+[16:17:24] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[16:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3865ms or 77 ticks behind
+[16:18:06] [Server thread/INFO]: <EDGW> 挖到y=10
+[16:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[16:18:17] [Server thread/INFO]: wushi6969 fell from a high place
+[16:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4976ms or 99 ticks behind
+[16:18:32] [Server thread/INFO]: <EDGW> 但是考虑到水 就到y=30吧
+[16:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4895ms or 97 ticks behind
+[16:19:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4362ms or 87 ticks behind
+[16:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2299ms or 45 ticks behind
+[16:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:21:03] [Server thread/INFO]: EDGW was killed by Guardian using magic
+[16:21:49] [Server thread/INFO]: <EDGW> e
+[16:22:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7124ms or 142 ticks behind
+[16:22:28] [Server thread/INFO]: EDGW was killed by Guardian using magic
+[16:22:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/69468, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[16:23:01] [Server thread/INFO]: <EDGW> 我这个智障居然在海底神殿挂机
+[16:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:24:19] [Server thread/INFO]: <EDGW> 昨天是
+[16:24:27] [Server thread/INFO]: <EDGW> 忘记关了
+[16:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:25:29] [Server thread/INFO]: EDGW lost connection: Disconnected
+[16:25:29] [Server thread/INFO]: EDGW left the game
+[16:26:54] [Server thread/INFO]: EDGW[/127.0.0.1:56370] logged in with entity id 75253 at (3945.4249636263644, 59.58321467120197, 1776.5345591779912)
+[16:26:54] [Server thread/INFO]: EDGW joined the game
+[16:26:54] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:26:54] [Netty Epoll Server IO #0/INFO]: Player EDGW joined with a matching carpet client
+[16:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[16:28:41] [Server thread/INFO]: <EDGW> 咱服务器应该不怎么需要海绵吧
+[16:28:48] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3950, y=63, z=1774} class_2338{x=3952, y=63, z=1775}
+[16:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3950, y=63, z=1774} class_2338{x=3952, y=63, z=1776}
+[16:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3950, y=63, z=1774} class_2338{x=3952, y=63, z=1777}
+[16:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3950, y=63, z=1774} class_2338{x=3952, y=62, z=1777}
+[16:28:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3950, y=63, z=1774} class_2338{x=3952, y=62, z=1776}
+[16:29:46] [Server thread/INFO]: <EDGW> 那我把海绵留着
+[16:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:31:51] [Server thread/INFO]: wushi6969 was poked to death by a sweet berry bush
+[16:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[16:32:39] [Server thread/INFO]: wushi6969 was poked to death by a sweet berry bush
+[16:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5312ms or 106 ticks behind
+[16:32:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-1, y=90, z=-413}
+[16:32:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1, y=89, z=-413} class_2338{x=-2, y=91, z=-413}
+[16:32:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-3, y=90, z=-414} class_2338{x=-2, y=90, z=-414}
+[16:32:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2, y=88, z=-416} class_2338{x=0, y=90, z=-413}
+[16:32:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1, y=89, z=-412} class_2338{x=1, y=89, z=-413}
+[16:33:21] [Server thread/INFO]: EDGW lost connection: Disconnected
+[16:33:21] [Server thread/INFO]: EDGW left the game
+[16:33:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78996, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.80]
+[16:33:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78996, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.80]
+[16:33:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/78996, l='ServerLevel[world]', x=-13.80, y=88.50, z=-392.80]
+[16:34:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=89, z=-413} class_2338{x=-28, y=81, z=-381}
+[16:34:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=89, z=-413} class_2338{x=-26, y=81, z=-382}
+[16:34:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=89, z=-413} class_2338{x=-26, y=81, z=-383}
+[16:34:29] [Server thread/INFO]: wushi6969 has made the advancement [A Seedy Place]
+[16:35:27] [Server thread/INFO]: EDGW[/127.0.0.1:58101] logged in with entity id 79513 at (3923.1675910815325, 66.0, 1749.8482335491415)
+[16:35:27] [Server thread/INFO]: EDGW joined the game
+[16:35:27] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:35:27] [Netty Epoll Server IO #7/INFO]: Player EDGW joined with a matching carpet client
+[16:36:23] [Server thread/INFO]: <EDGW> 那是最低配光影
+[16:36:59] [Server thread/INFO]: <EDGW> 就是那个后面带(Lite)的光影
+[16:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[16:37:44] [Server thread/INFO]: <EDGW> 我见过一个小学生把帧率当作延迟的 还大骂： MD延迟100多
+[16:37:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=5, y=105, z=-408} class_2338{x=-3, y=105, z=-406}
+[16:37:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-4, y=104, z=-410} class_2338{x=-1, y=105, z=-407}
+[16:38:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1, y=104, z=-407} class_2338{x=-2, y=105, z=-406}
+[16:38:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1, y=104, z=-407} class_2338{x=-2, y=105, z=-407}
+[16:38:00] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=5, y=105, z=-408} class_2338{x=-1, y=105, z=-408}
+[16:38:31] [Server thread/INFO]: <EDGW> 能来个人帮忙把这个围起来吗
+[16:39:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=5, y=105, z=-408} class_2338{x=10, y=85, z=-413}
+[16:39:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=12, y=83, z=-414} class_2338{x=11, y=85, z=-413}
+[16:39:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=12, y=83, z=-414} class_2338{x=12, y=85, z=-413}
+[16:39:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=14, y=84, z=-415} class_2338{x=7, y=87, z=-413}
+[16:39:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=7, y=87, z=-412} class_2338{x=6, y=87, z=-413}
+[16:39:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=7, y=86, z=-413} class_2338{x=8, y=86, z=-413}
+[16:39:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=7, y=86, z=-413} class_2338{x=9, y=86, z=-413}
+[16:39:53] [Server thread/INFO]: <EDGW> 但是这个围起来高度要40
+[16:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:41:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=67, y=80, z=-388} class_2338{x=11, y=85, z=-383}
+[16:41:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=12, y=85, z=-382} class_2338{x=11, y=86, z=-385}
+[16:41:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=10, y=85, z=-386} class_2338{x=10, y=86, z=-384}
+[16:41:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=9, y=85, z=-385} class_2338{x=9, y=86, z=-384}
+[16:41:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=11, y=85, z=-387} class_2338{x=12, y=86, z=-385}
+[16:41:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=13, y=85, z=-386} class_2338{x=13, y=86, z=-386}
+[16:41:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=12, y=85, z=-386} class_2338{x=12, y=86, z=-386}
+[16:41:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=11, y=85, z=-385} class_2338{x=11, y=85, z=-384}
+[16:41:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1, y=103, z=-406} class_2338{x=0, y=97, z=-381}
+[16:42:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:42:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[16:42:40] [Server thread/INFO]: EDGW lost connection: Disconnected
+[16:42:40] [Server thread/INFO]: EDGW left the game
+[16:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4194ms or 83 ticks behind
+[16:42:43] [Server thread/INFO]: EDGW[/127.0.0.1:49403] logged in with entity id 84116 at (3921.711102825194, 67.0, 1752.6895579291447)
+[16:42:43] [Server thread/INFO]: EDGW joined the game
+[16:42:43] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:42:43] [Netty Epoll Server IO #0/INFO]: Player EDGW joined with a matching carpet client
+[16:43:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1, y=103, z=-406} class_2338{x=1, y=91, z=-405}
+[16:43:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=2, y=90, z=-405} class_2338{x=2, y=91, z=-405}
+[16:43:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3, y=90, z=-405} class_2338{x=3, y=91, z=-405}
+[16:43:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4, y=90, z=-405} class_2338{x=0, y=91, z=-406}
+[16:44:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:45:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:45:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[16:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[16:46:12] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[16:46:12] [Server thread/INFO]: Plants352039 left the game
+[16:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[16:50:12] [Server thread/INFO]: <EDGW> wushi_ 有空吗
+[16:50:21] [Server thread/INFO]: <wushi_> 干嘛
+[16:50:36] [Server thread/INFO]: <EDGW> 把海底神殿围起来
+[16:50:40] [Server thread/INFO]: <wushi_> ?
+[16:50:57] [Server thread/INFO]: <wushi_> 要沙子？
+[16:51:01] [Server thread/INFO]: <EDGW> 这里有
+[16:51:13] [Server thread/INFO]: <wushi_> 待会我过来吧
+[16:51:17] [Server thread/INFO]: <EDGW> ok
+[16:51:35] [Server thread/INFO]: <wushi_> 我有个水下速决的附魔书
+[16:51:37] [Server thread/INFO]: <wushi_> 你要不
+[16:51:43] [Server thread/INFO]: <EDGW> 不用 我这里够了
+[16:52:06] [Server thread/INFO]: <EDGW> 就是下水干活时会被几十只守卫者围殴
+[16:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:52:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=62, z=-533} class_2338{x=-14, y=92, z=-409}
+[16:52:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=91, z=-409} class_2338{x=-14, y=92, z=-411}
+[16:52:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-14, y=91, z=-409} class_2338{x=-14, y=92, z=-410}
+[16:55:19] [Server thread/INFO]: EDGW lost connection: Disconnected
+[16:55:19] [Server thread/INFO]: EDGW left the game
+[16:55:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/96446, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[16:56:20] [Server thread/INFO]: wushi6969 fell from a high place
+[16:57:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=63, y=81, z=-388} class_2338{x=13, y=87, z=-400}
+[16:58:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/98738, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[17:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:00:39] [Server thread/INFO]: wushi6969 fell from a high place
+[17:01:39] [Server thread/INFO]: wushi6969 lost connection: Disconnected
+[17:01:39] [Server thread/INFO]: wushi6969 left the game
+[17:06:16] [Server thread/INFO]: EDGW[/127.0.0.1:53404] logged in with entity id 101210 at (3922.300000011921, 66.0, 1767.527657266196)
+[17:06:16] [Server thread/INFO]: EDGW joined the game
+[17:06:16] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:06:21] [Server thread/INFO]: EDGW lost connection: Disconnected
+[17:06:21] [Server thread/INFO]: EDGW left the game
+[17:06:24] [Server thread/INFO]: EDGW[/127.0.0.1:38652] logged in with entity id 101479 at (3922.300000011921, 66.0, 1767.527657266196)
+[17:06:24] [Server thread/INFO]: EDGW joined the game
+[17:06:24] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:06:28] [Netty Epoll Server IO #5/INFO]: Player EDGW joined with a matching carpet client
+[17:07:43] [Server thread/INFO]: <EDGW> .
+[17:07:44] [Server thread/INFO]: <EDGW> cache
+[17:08:43] [Server thread/INFO]: Sand[local] logged in with entity id 102735 at (3922.508733566313, 64.0, 1767.76023840674)
+[17:08:43] [Server thread/INFO]: Sand joined the game
+[17:09:11] [Server thread/INFO]: Sand was slain by Guardian
+[17:09:11] [Server thread/INFO]: Sand lost connection: Killed
+[17:09:11] [Server thread/INFO]: Sand left the game
+[17:09:17] [Server thread/INFO]: [EDGW: Can only manipulate existing players]
+[17:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:10:01] [Server thread/INFO]: Sand[local] logged in with entity id 103104 at (3922.300000011921, 64.0, 1767.300000011921)
+[17:10:01] [Server thread/INFO]: Sand joined the game
+[17:10:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3922, y=65, z=1768} class_2338{x=3922, y=63, z=1768}
+[17:11:04] [Server thread/INFO]: <EDGW> e
+[17:11:07] [Server thread/INFO]: <EDGW> 那叫缓存
+[17:12:19] [Server thread/INFO]: Sand lost connection: Killed
+[17:12:19] [Server thread/INFO]: Sand left the game
+[17:12:41] [Server thread/INFO]: <wushi_> EDGW
+[17:12:43] [Server thread/INFO]: <EDGW> ?
+[17:12:44] [Server thread/INFO]: <wushi_> 要帮忙吗
+[17:12:47] [Server thread/INFO]: <EDGW> 要
+[17:12:51] [Server thread/INFO]: <wushi_> 等等
+[17:13:00] [Server thread/INFO]: <wushi_> 正在过来
+[17:14:00] [Server thread/INFO]: <EDGW> 有没有MOD可以圈一块地然后用材料一键
+[17:14:15] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-30_17-14-15
+[17:14:15] [Server thread/INFO]: [Textile Backup] Saving server...
+[17:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:14:16] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[17:14:16] [Server thread/INFO]: <EDGW> 有没有MOD可以圈一块地然后用材料一键放置
+[17:14:43] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-30_02-09-09.zip
+[17:14:43] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[17:14:50] [Server thread/INFO]: <EDGW> 是一键放置几百个方块 类似fill 投影行吗
+[17:15:10] [Server thread/INFO]: <wushi_> 来了
+[17:15:23] [Server thread/INFO]: <wushi_> 要带头盔吗
+[17:15:27] [Server thread/INFO]: <EDGW> 我把圈围起来
+[17:15:30] [Server thread/INFO]: <EDGW> 要
+[17:16:36] [Server thread/INFO]: <EDGW> 生存服，消耗材料的那种
+[17:17:16] [Server thread/INFO]: <EDGW> 但是你的材料确实是没了
+[17:17:27] [Server thread/INFO]: <EDGW> 咋算作弊
+[17:18:03] [Server thread/INFO]: <EDGW> 好吧。。。
+[17:18:14] [Server thread/INFO]: <wushi_> 东西
+[17:18:22] [Server thread/INFO]: <EDGW> 那边的潜影盒
+[17:18:41] [Server thread/INFO]: EDGW lost connection: Disconnected
+[17:18:41] [Server thread/INFO]: EDGW left the game
+[17:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:20:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3922, y=41, z=1775} class_2338{x=3922, y=40, z=1775}
+[17:20:57] [Server thread/INFO]: EDGW[/127.0.0.1:46850] logged in with entity id 107860 at (3921.476016432564, 67.0, 1780.2989900044004)
+[17:20:57] [Server thread/INFO]: EDGW joined the game
+[17:20:57] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:21:12] [Server thread/INFO]: EDGW lost connection: Timed out
+[17:21:12] [Server thread/INFO]: EDGW left the game
+[17:21:12] [Server thread/WARN]: handleDisconnection() called twice
+[17:21:45] [Server thread/INFO]: EDGW[/127.0.0.1:56694] logged in with entity id 108041 at (3921.476016432564, 67.0, 1780.2989900044004)
+[17:21:45] [Server thread/INFO]: EDGW joined the game
+[17:21:45] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:21:51] [Netty Epoll Server IO #7/INFO]: Player EDGW joined with a matching carpet client
+[17:22:28] [Server thread/INFO]: <EDGW> .
+[17:27:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[17:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:31:18] [Server thread/INFO]: <EDGW> 服务器不需要显卡吧
+[17:31:26] [Server thread/INFO]: <EDGW> .
+[17:32:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17:34:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3921, y=47, z=1799} class_2338{x=3921, y=48, z=1799}
+[17:34:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3921, y=47, z=1799} class_2338{x=3921, y=48, z=1799}
+[17:34:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3921, y=47, z=1799} class_2338{x=3921, y=48, z=1799}
+[17:34:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3921, y=45, z=1799} class_2338{x=3921, y=48, z=1799}
+[17:34:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3922, y=38, z=1800} class_2338{x=3922, y=39, z=1800}
+[17:34:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3922, y=38, z=1800} class_2338{x=3922, y=39, z=1800}
+[17:35:06] [Server thread/INFO]: EDGW was slain by Guardian
+[17:36:59] [Server thread/INFO]: <EDGW> .
+[17:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:40:17] [Server thread/INFO]: EDGW lost connection: Disconnected
+[17:40:17] [Server thread/INFO]: EDGW left the game
+[17:40:39] [Server thread/INFO]: <wushi_> 没shuazi了
+[17:40:45] [Server thread/INFO]: <wushi_> 沙子
+[17:47:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Saddle'/118073, l='ServerLevel[world]', x=-6.90, y=96.00, z=-34.81]
+[17:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[17:53:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=21, y=86, z=-432} class_2338{x=21, y=87, z=-431}
+[17:54:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=20, y=86, z=-431} class_2338{x=5, y=85, z=-380}
+[17:54:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=5, y=85, z=-380} class_2338{x=6, y=85, z=-380}
+[17:59:22] [Server thread/INFO]: EDGW[/127.0.0.1:50452] logged in with entity id 122180 at (3922.1598754998367, 67.0, 1753.023095093883)
+[17:59:22] [Server thread/INFO]: EDGW joined the game
+[17:59:22] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[17:59:23] [Netty Epoll Server IO #0/INFO]: Player EDGW joined with a matching carpet client
+[17:59:56] [Server thread/INFO]: <EDGW> 饭吃好了
+[18:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:00:02] [Server thread/INFO]: <EDGW> wushi_
+[18:00:05] [Server thread/INFO]: <EDGW> 帮M吗
+[18:00:53] [Server thread/INFO]: <EDGW> wushi_
+[18:01:30] [Server thread/INFO]: <EDGW> 看得到吗
+[18:03:39] [Server thread/INFO]: <EDGW> 看得到吗
+[18:04:35] [Server thread/INFO]: EDGW was killed by Guardian using magic
+[18:06:18] [Server thread/INFO]: EDGW was slain by Guardian
+[18:07:14] [Server thread/INFO]: <EDGW> 还早着呢
+[18:07:41] [Server thread/INFO]: <EDGW> 墙都没围好
+[18:08:13] [Server thread/INFO]: 'admin' assigned to 1 players
+[18:08:24] [Server thread/INFO]: No player was found
+[18:08:24] [Server thread/INFO]: wushi_ lost connection: Disconnected
+[18:08:24] [Server thread/INFO]: wushi_ left the game
+[18:09:37] [Server thread/INFO]: 
+[18:09:37] [Server thread/INFO]: Tile-Updates:
+[18:09:37] [Server thread/INFO]:  Render-Threads are running!
+[18:09:37] [Server thread/INFO]:  Scheduled tile-updates: 0 + 6
+[18:09:39] [Server thread/INFO]: goudongxi6066 lost connection: Disconnected
+[18:09:39] [Server thread/INFO]: goudongxi6066 left the game
+[18:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:10:53] [Server thread/INFO]: Reloading BlueMap...
+[18:10:53] [Thread-68/INFO]: WebServer closed.
+[18:10:53] [Thread-458/INFO]: Loading resources...
+[18:10:56] [Thread-458/INFO]: BlueMap reloaded!
+[18:10:56] [Thread-463/INFO]: WebServer started.
+[18:11:20] [Server thread/INFO]: <EDGW> 不在
+[18:14:15] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-30_18-14-15
+[18:14:15] [Server thread/INFO]: [Textile Backup] Saving server...
+[18:14:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:14:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:14:17] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[18:14:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[18:14:45] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-30_03-09-09.zip
+[18:14:45] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[18:18:21] [Server thread/INFO]: EDGW was slain by Enderman
+[18:19:28] [Server thread/INFO]: EDGW lost connection: Disconnected
+[18:19:28] [Server thread/INFO]: EDGW left the game
+[18:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[18:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:14:15] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-08-30_19-14-15
+[19:14:15] [Server thread/INFO]: [Textile Backup] Saving server...
+[19:14:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:14:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:14:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:14:15] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[19:14:37] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-08-30_04-09-09.zip
+[19:14:37] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[19:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:20:05] [Server thread/INFO]: wushi_[/127.0.0.1:35262] logged in with entity id 136549 at (-323.69999998807907, 66.0, 418.0669160230855)
+[19:20:05] [Server thread/INFO]: wushi_ joined the game
+[19:20:05] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:20:06] [Netty Epoll Server IO #3/WARN]: Player wushi_ joined with another carpet version: 1.4.0+v200623
+[19:21:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Egg'/138788, l='ServerLevel[world]', x=-31.20, y=83.00, z=-391.20]
+[19:27:56] [Thread-460/WARN]: Got palette value 14 but palette has size of 13! (Future occasions of this error will not be logged)
+[19:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:53:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=61, z=-582} class_2338{x=23, y=62, z=-582}
+[19:53:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=23, y=61, z=-582} class_2338{x=23, y=62, z=-582}
+[19:53:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=24, y=62, z=-582} class_2338{x=23, y=62, z=-582}
+[19:56:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/151957, l='ServerLevel[world]', x=-13.20, y=88.50, z=-392.80]
+[20:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:12:19] [Server thread/INFO]: Stopping the server
+[20:12:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:12:19] [Server thread/INFO]: end<--[HERE]
+[20:12:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:12:19] [Server thread/INFO]: exit<--[HERE]
+[20:12:19] [Thread-463/INFO]: WebServer closed.
+[20:12:19] [Server thread/INFO]: BlueMap unloaded!
+[20:12:19] [Server thread/INFO]: Stopping server
+[20:12:19] [Server thread/INFO]: Saving players
+[20:12:19] [Server thread/INFO]: wushi_ lost connection: Internal Exception: java.lang.StackOverflowError
+[20:12:19] [Server thread/INFO]: wushi_ left the game
+[20:12:19] [Server thread/INFO]: Saving worlds
+[20:12:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:12:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:12:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:12:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:12:21] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2020-08-30_20-12-21
+[20:12:21] [Server thread/INFO]: [Textile Backup] Starting backup
+[20:12:42] [Server thread/INFO]: [Textile Backup] Deleting: 2020-08-30_05-09-09.zip
+[20:12:42] [Server thread/INFO]: [Textile Backup] Done!
+[20:12:42] [Server thread/INFO]: Thread RCON Listener stopped
