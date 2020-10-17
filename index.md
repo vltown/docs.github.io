@@ -4,10 +4,7 @@
 [![状态贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)](https://mc.iroselle.com/server/207/data)  
 
 ![在线玩家趋势图](https://tietu.iroselle.com/share/tietu/data/2602/player.png)  
-<audio controls>
-  <source src="audio/C418 - Haggstrom.mp3" >
-  您的浏览器不支持audio元素
-</audio>建议调低音量后播放
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010198&auto=0&height=66"></iframe>
 
 
 ## 链接
