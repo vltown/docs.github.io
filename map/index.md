@@ -2,8 +2,9 @@
 [返回服务器网站主页](../)
 ## 卫星地图
 
-[Overviewer地图](http://overview.map.skimit.world/)（[备用地址](http://overview.map.skimit.cn/)）（2020年8月19日更新）  
+Overviewer地图 （已关闭）
 [Bluemap地图](http://bluemap.skimit.cn:6902)（实时更新，可看玩家位置）
+[地铁参考图](./%E5%9C%B0%E9%93%81%E5%8F%82%E8%80%83%E5%9B%BE.png)（可能加载较慢）
 
 ## 联系
 
