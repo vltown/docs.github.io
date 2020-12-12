@@ -1,7 +1,7 @@
 # skimit服务器
 一个Minecraft1.16.4原版生存公益服务器
 
-[![状态贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)](https://mc.iroselle.com/server/207/data)  
+[![状态贴图](https://tietu.mclists.cn/banner/play.skimit.cn_25565.jpg)](https://mc.iroselle.com/server/207/data)  
 
 ![在线玩家趋势图](https://tietu.iroselle.com/share/tietu/data/2602/player.png)  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010198&auto=0&height=66"></iframe>
