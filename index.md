@@ -1,5 +1,5 @@
 # skimit服务器
-一个Minecraft1.16.4原版生存公益服务器
+一个Minecraft1.16.5原版生存公益服务器
 
 [![状态贴图](https://tietu.mclists.cn/banner/play.skimit.cn_25565.jpg)](https://mc.iroselle.com/server/207/data)  
 
