@@ -19,6 +19,7 @@ features:
   - title: 急需人才
     details: 欢迎加入！
 footer: CC-BY-SA-4.0 | © 2021 skimit
+toggleBtn: 0
 ---
 
 [![状态贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)](https://mc.iroselle.com/server/207/data)  

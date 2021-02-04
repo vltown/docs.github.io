@@ -9,14 +9,19 @@ module.exports = {
         rel: 'icon',
         href: '/title.ico',
       },
-      "script",
+      /*"script",
       {
-        src: "https://s4.cnzz.com/z_stat.php?id=1279667282&web_id=1279667282",
-      }
+        text: 'text/javascript',
+        src: 'https://s4.cnzz.com/z_stat.php?id=1279667282&web_id=1279667282',
+      }*/
     ],
   ],
   plugins: {
     '@vuepress/back-to-top': {},
+    'graysite': {
+      startDate: '2021-12-13 00:00:00',
+      endDate: '2021-12-13 23:59:59'
+    },
   },
   locales: {
     /*'/en/': {

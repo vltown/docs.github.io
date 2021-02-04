@@ -1728,13 +1728,6 @@ babel-runtime@6.x, babel-runtime@^6.23.0, babel-runtime@^6.26.0:
     core-js "^2.4.0"
     regenerator-runtime "^0.11.0"
 
-back-to-top@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/back-to-top/-/back-to-top-0.0.1.tgz#e3d7c3fb106a108e5623d9d7fdae408a1ce1b59d"
-  integrity sha1-49fD+xBqEI5WI9nX/a5AihzhtZ0=
-  dependencies:
-    jquery "^2.2.4"
-
 balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
@@ -4676,11 +4669,6 @@ javascript-stringify@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/javascript-stringify/-/javascript-stringify-2.0.1.tgz#6ef358035310e35d667c675ed63d3eb7c1aa19e5"
   integrity sha512-yV+gqbd5vaOYjqlbk16EG89xB5udgjqQF3C5FAORDg4f/IS1Yc5ERCv5e/57yBcfJYw05V5JyIXabhwb75Xxow==
-
-jquery@^2.2.4:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-2.2.4.tgz#2c89d6889b5eac522a7eea32c14521559c6cbf02"
-  integrity sha1-LInWiJterFIqfuoywUUhVZxsvwI=
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
@@ -7903,6 +7891,11 @@ vuepress-plugin-container@^2.0.2, vuepress-plugin-container@^2.1.5:
   dependencies:
     "@vuepress/shared-utils" "^1.2.0"
     markdown-it-container "^2.0.0"
+
+vuepress-plugin-graysite@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-graysite/-/vuepress-plugin-graysite-0.1.0.tgz#5d05df4f7ac13825a54a8b29b62630a1674330f3"
+  integrity sha512-tvO3OXNRtSce5MYQVgNo+CwIky55DTG4yhZc7l+clGmFqwUTRryzolEg1/QZb9zSWAjOsbvy2l4hW3muaqVJlA==
 
 vuepress-plugin-smooth-scroll@^0.0.10:
   version "0.0.10"
