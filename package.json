@@ -8,15 +8,13 @@
   "license": "CC-BY-SA-4.0",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.8.0",
+    "vue-cnzz-analytics": "^2.0.3",
     "vuepress": "^1.8.0"
   },
   "dependencies": {
-    
     "core-js": "2.6.11",
     "scripts": "^0.1.0",
-    "vuepress-theme-antdocs": "^1.2.2",
-    "jquery": "^2.2.4",
-    "back-to-top": "^0.0.1"
+    "vuepress-theme-antdocs": "^1.2.2"
   },
   "scripts": {
     "docs:dev": "vuepress dev .",

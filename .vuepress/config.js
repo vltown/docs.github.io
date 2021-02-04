@@ -35,6 +35,14 @@ module.exports = {
     logo: '/title.ico',
     displayAllHeaders: true,
     smoothScroll: true,
+    /*ads:{
+      style: 3, 
+      title: '赞助商', 
+      btnText: '成为赞助商',
+      msgTitle: '成为赞助商',
+      msgText: '如果您有品牌推广、活动推广、招聘推广、社区合作等需求，欢迎联系我们，成为赞助商。您的广告将出现在 AndDocs 文档侧边栏等页面。',
+      msgOkText: '确定',
+    },*/
     /*sidebar: {
       //'/getting-started/': ['', 'step1', 'step2', 'step3', 'step4', 'step5'],
       '/manual/': ['', 'general', 'route'],
