@@ -1,6 +1,6 @@
 {
   "name": "skimit.cn",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "skimit服务器官网",
   "main": "index.js",
   "repository": "https://github.com/skimitmc/skimit.cn",
@@ -11,10 +11,12 @@
     "vuepress": "^1.8.0"
   },
   "dependencies": {
-    "back-to-top": "^0.0.1",
+    
     "core-js": "2.6.11",
     "scripts": "^0.1.0",
-    "vuepress-theme-antdocs": "^1.2.2"
+    "vuepress-theme-antdocs": "^1.2.2",
+    "jquery": "^2.2.4",
+    "back-to-top": "^0.0.1"
   },
   "scripts": {
     "docs:dev": "vuepress dev .",
