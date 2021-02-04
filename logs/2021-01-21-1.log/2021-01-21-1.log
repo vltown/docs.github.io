@@ -1,0 +1,89 @@
+[00:00:18] [Server thread/INFO]: Runz has made the advancement [Ice Bucket Challenge]
+[00:01:03] [Server thread/INFO]: <Runz> 地狱门做好了
+[00:01:24] [Server thread/INFO]: <Runz> 把四个角给敲了然后补上
+[00:02:59] [Server thread/INFO]: <Runz> 好家伙
+[00:03:08] [Server thread/INFO]: <Runz> 怪刷这么多
+[00:08:09] [Server thread/INFO]: <Runz> 我草
+[00:08:20] [Server thread/INFO]: <Runz> 差点让岩浆弄死
+[00:12:27] [Server thread/INFO]: <Runz> 好家伙
+[00:12:33] [Server thread/INFO]: <Runz> 地狱咋这么多铁块
+[00:12:37] [Server thread/INFO]: <Runz> 腐竹放的吗
+[00:30:21] [Server thread/INFO]: Runz lost connection: Disconnected
+[00:30:21] [Server thread/INFO]: Runz left the game
+[00:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[01:52:01] [Server thread/INFO]: Player shuijiao is already logged on
+[02:52:01] [Server thread/INFO]: Player shuijiao is already logged on
+[03:51:58] [Server thread/INFO]: Player shuijiao is already logged on
+[04:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[05:52:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:52:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:48:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/161010, l='ServerLevel[world]', x=-90.08, y=7.00, z=279.94]
+[07:51:57] [Server thread/INFO]: Player shuijiao is already logged on
+[08:36:57] [Server thread/INFO]: wuhao[/101.132.153.204:38649] logged in with entity id 162418 at (-1117.6247947259637, 63.992916614330404, 1337.239526005489)
+[08:36:57] [Server thread/INFO]: wuhao joined the game
+[08:36:57] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:36:59] [Netty Epoll Server IO #0/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[08:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2906ms or 58 ticks behind
+[08:51:57] [Server thread/INFO]: Player shuijiao is already logged on
+[09:03:00] [Server thread/INFO]: wuhao lost connection: Timed out
+[09:03:00] [Server thread/INFO]: wuhao left the game
+[09:03:00] [Server thread/WARN]: handleDisconnection() called twice
+[09:03:55] [Server thread/INFO]: wuhao[/101.132.153.204:37129] logged in with entity id 166621 at (-139.47938974460504, 77.0, 472.47215792484053)
+[09:03:55] [Server thread/INFO]: wuhao joined the game
+[09:03:55] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:03:56] [Netty Epoll Server IO #4/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[09:06:56] [Server thread/INFO]: wuhao lost connection: Timed out
+[09:06:56] [Server thread/INFO]: wuhao left the game
+[09:10:45] [Server thread/INFO]: wuhao[/101.132.153.204:54299] logged in with entity id 167250 at (-138.98750001192093, 78.0, 444.66815982320355)
+[09:10:45] [Server thread/INFO]: wuhao joined the game
+[09:10:45] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:10:46] [Netty Epoll Server IO #4/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[09:11:44] [Server thread/INFO]: wuhao has made the advancement [What a Deal!]
+[09:18:01] [Server thread/INFO]: wuhao lost connection: Timed out
+[09:18:01] [Server thread/INFO]: wuhao left the game
+[09:47:07] [Server thread/INFO]: Runz[/101.132.153.204:36393] logged in with entity id 169325 at (382.5097676458801, 92.0, -1280.699999988079)
+[09:47:07] [Server thread/INFO]: Runz joined the game
+[09:47:07] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:49:04] [Server thread/INFO]: Runz was slain by Enderman
+[09:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[09:53:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[10:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[10:51:58] [Server thread/INFO]: Player shuijiao is already logged on
+[10:57:04] [Server thread/INFO]: Runz has made the advancement [What a Deal!]
+[10:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[11:51:58] [Server thread/INFO]: Player shuijiao is already logged on
+[12:20:18] [Server thread/INFO]: Runz has made the advancement [Who is Cutting Onions?]
+[12:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
+[12:33:42] [Server thread/INFO]: Runz lost connection: Disconnected
+[12:33:42] [Server thread/INFO]: Runz left the game
+[12:51:58] [Server thread/INFO]: Player shuijiao is already logged on
+[13:51:58] [Server thread/INFO]: Player shuijiao is already logged on
+[14:51:58] [Server thread/INFO]: Player shuijiao is already logged on
+[15:41:47] [Server thread/INFO]: Runz[/101.132.153.204:37293] logged in with entity id 219896 at (524.6999999880791, 90.0, -2196.300000011921)
+[15:41:47] [Server thread/INFO]: Runz joined the game
+[15:41:47] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[16:42:48] [Server thread/INFO]: Runz lost connection: Disconnected
+[16:42:48] [Server thread/INFO]: Runz left the game
+[16:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[17:51:56] [Server thread/INFO]: Player shuijiao is already logged on
+[18:51:56] [Server thread/INFO]: Player shuijiao is already logged on
+[19:51:57] [Server thread/INFO]: Player shuijiao is already logged on
+[20:23:53] [Server thread/INFO]: BlackDreamL[/101.132.153.204:50243] logged in with entity id 235508 at (-43.113707062874255, 64.0, 259.47270909383076)
+[20:23:53] [Server thread/INFO]: BlackDreamL joined the game
+[20:23:53] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:23:54] [Netty Epoll Server IO #0/WARN]: Player BlackDreamL joined with another carpet version: 1.4.11+v200910
+[20:25:31] [Server thread/INFO]: Alex[local] logged in with entity id 235629 at (-47.61737298026952, 64.0, 254.68500706726513)
+[20:25:31] [Server thread/INFO]: Alex joined the game
+[20:25:45] [Server thread/INFO]: Alex lost connection: Killed
+[20:25:45] [Server thread/INFO]: Alex left the game
+[20:27:07] [Server thread/INFO]: BlackDreamL has made the advancement [We Need to Go Deeper]
+[20:29:19] [Server thread/INFO]: BlackDreamL fell from a high place
+[20:38:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[20:40:30] [Server thread/INFO]: BlackDreamL lost connection: Disconnected
+[20:40:30] [Server thread/INFO]: BlackDreamL left the game
+[20:51:57] [Server thread/INFO]: Player shuijiao is already logged on
+[21:51:57] [Server thread/INFO]: Player shuijiao is already logged on
+[22:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[22:51:57] [Server thread/INFO]: Player shuijiao is already logged on
+[23:51:57] [Server thread/INFO]: Player shuijiao is already logged on

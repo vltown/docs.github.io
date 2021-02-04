@@ -1,0 +1,192 @@
+[19:37:09] [main/INFO]: Loading for game Minecraft 1.16.4
+[19:37:10] [ForkJoinPool-1-worker-3/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[19:37:10] [ForkJoinPool-1-worker-3/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[19:37:10] [main/WARN]: Warnings were found! 
+ - Mod 'BetterF3' (betterf3) recommends version 1.14.6 or later of mod modmenu, which is missing!
+	 - You must install version 1.14.6 or later of modmenu.
+[19:37:11] [main/INFO]: [FabricLoader] Loading 59 mods: fabric-renderer-api-v1@0.3.3+a4467d2a3a, fabric-keybindings-v0@0.2.0+3fa9f7c53a, fabricloader@0.10.6+build.214, fabric-structure-api-v1@1.1.0+f8ac1db23a, bbor@2.4-1.16.3, com_github_shevek_parallelgzip@master-SNAPSHOT, fabric-containers-v0@0.1.8+045df74f3a, lithium@0.6.0, fabric-object-builder-api-v1@1.9.2+a89534ab3a, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+9f0fb4b83a, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db23a, fabric-textures-v0@1.0.5+a4467d2a3a, fabric-rendering-fluids-v1@0.1.12+f8ac1db23a, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+c6a8ea893a, fabric-lifecycle-events-v1@1.2.0+74cc3b203a, fabric-renderer-registries-v1@2.2.0+f8ac1db23a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+432ea1883a, fabric@0.25.7+1.16, carpet@1.4.17, fabric-particles-v1@0.2.2+fb0d9b0e3a, fabric-networking-v0@0.1.10+e00ecb5f3a, cotton-config@1.0.0-rc.7, fabric-networking-blockentity-v0@0.2.5+b50ffc7b3a, minecraft@1.16.4, fabric-screen-handler-api-v1@1.1.0+872498413a, fabric-command-api-v1@1.0.9+a4467d2a3a, jankson@3.0.0+j1.2.0, cloth-basic-math@0.5.1, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.2.5+c93221003a, bluemap@1.3.0-snap, fabric-renderer-indigo@0.4.3+a4467d2a3a, player-roles@1.1.2, org_apache_commons_commons-compress@1.19, fabric-item-api-v1@1.2.0+f8ac1db23a, fabric-events-interaction-v0@0.4.1+f8ac1db23a, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-rendering-v0@1.1.1+f8ac1db23a, fabric-key-binding-api-v1@1.0.1+730711c63a, fabric-rendering-v1@1.3.1+f8ac1db23a, cloth-config2@4.7.0-unstable, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.3.2+1944f3e03a, fabric-content-registries-v0@0.1.9+059ea8663a, fabric-tag-extensions-v0@1.0.3+ac8e8c593a, fabric-biome-api-v1@3.0.0+ec7e203b3a, fabric-commands-v0@0.2.0+52d308363a, fabric-registry-sync-v0@0.6.1+a4467d2a3a, textile_backup@2.0.1-1.16.3, fabric-mining-levels-v0@0.1.2+b764ce993a, betterf3@1.1.1, fabric-events-lifecycle-v0@0.2.0+16acbe5b3a, fabric-models-v0@0.1.1+f8ac1db23a, fabric-item-groups-v0@0.2.1+a4467d2a3a, fabric-object-builders-v0@0.7.1+a4467d2a3a, lithium-api@0.6.0
+[19:37:11] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[19:37:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/srv/survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[19:37:15] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[19:37:38] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[19:37:42] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:37:44] [main/WARN]: Ambiguity between arguments [bluemap, marker, create, id, map, x] and [bluemap, marker, create, id, map, label] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[19:37:44] [main/WARN]: Ambiguity between arguments [bluemap, render, cancel] and [bluemap, render, world|map] with inputs: [cancel]
+[19:37:44] [main/WARN]: Ambiguity between arguments [bluemap, render, prioritize] and [bluemap, render, world|map] with inputs: [prioritize]
+[19:37:44] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, world|map] with inputs: [0, -123, 123]
+[19:37:44] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, x] with inputs: [0, -123, 123]
+[19:37:44] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, radius] with inputs: [0, -1]
+[19:37:44] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, world|map] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[19:37:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:37:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:37:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:37:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:37:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:37:45] [main/INFO]: Reloading ResourceManager: Default, bukkit, skimit-DataPack, Fabric Tool Attribute API (v1), Player Roles
+[19:37:49] [Worker-Main-2/INFO]: Loaded 7 recipes
+[19:37:50] [Worker-Main-2/INFO]: Loaded 927 advancements
+[19:37:53] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.002 ms
+[19:37:53] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[19:37:53] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[19:37:54] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[19:37:54] [Server thread/INFO]: Loading properties
+[19:37:54] [Server thread/INFO]: Default game type: SURVIVAL
+[19:37:54] [Server thread/INFO]: Generating keypair
+[19:37:54] [Server thread/INFO]: Starting Minecraft server on *:34268
+[19:37:54] [Server thread/INFO]: Using epoll channel type
+[19:37:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:37:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:37:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:37:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:37:55] [Server thread/INFO]: Preparing level "world"
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting fastRedstoneDust as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[19:37:55] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[19:37:56] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[19:37:56] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[19:37:56] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[19:37:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:05] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:38:06] [Server thread/INFO]: Preparing spawn area: 0%
+[19:38:06] [Server thread/INFO]: Preparing spawn area: 73%
+[19:38:08] [Server thread/INFO]: Time elapsed: 11202 ms
+[19:38:08] [Server thread/INFO]: Done (12.343s)! For help, type "help"
+[19:38:08] [Server thread/INFO]: Starting remote control listener
+[19:38:08] [Server thread/INFO]: Thread RCON Listener started
+[19:38:08] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[19:38:08] [Thread-67/INFO]: Loading BlueMap...
+[19:38:08] [Thread-67/INFO]: Loading resources...
+[19:38:08] [Thread-68/INFO]: WebServer started.
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: An unexpected error occurred trying to execute that command
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:09] [Server thread/INFO]: Can only manipulate existing players
+[19:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
+[19:38:14] [Thread-67/INFO]: Loading bluemap assets (1/3)...
+[19:38:15] [Thread-67/INFO]: Loading realms assets (2/3)...
+[19:38:15] [Thread-67/INFO]: Loading minecraft assets (3/3)...
+[19:38:19] [Thread-67/INFO]: BlueMap loaded!
+[19:40:00] [Server thread/INFO]: Can only manipulate existing players
+[19:40:00] [Server thread/INFO]: Can only manipulate existing players
+[19:40:00] [Server thread/INFO]: shuijiao[local] logged in with entity id 153 at (-42.5, 61.0, 240.5)
+[19:40:00] [Server thread/INFO]: shuijiao joined the game
+[19:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[19:59:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/2330, l='ServerLevel[world]', x=-87.02, y=7.00, z=281.95]
+[20:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:17:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/4701, l='ServerLevel[world]', x=-89.95, y=7.00, z=279.01]
+[20:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:27:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/5900, l='ServerLevel[world]', x=-87.42, y=7.12, z=282.43]
+[20:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:38:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/7114, l='ServerLevel[world]', x=-86.05, y=7.00, z=279.85]
+[20:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[20:46:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8032, l='ServerLevel[world]', x=-86.05, y=7.00, z=280.39]
+[20:48:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/8337, l='ServerLevel[world]', x=-87.61, y=7.00, z=281.95]
+[20:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:01:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/9748, l='ServerLevel[world]', x=-88.99, y=7.00, z=281.95]
+[21:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:36:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/13929, l='ServerLevel[world]', x=-87.63, y=7.00, z=278.05]
+[21:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[21:55:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16087, l='ServerLevel[world]', x=-88.05, y=7.00, z=281.95]
+[22:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:01:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/16804, l='ServerLevel[world]', x=-87.01, y=7.00, z=278.05]
+[22:08:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17727, l='ServerLevel[world]', x=-87.78, y=7.00, z=281.95]
+[22:08:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/17731, l='ServerLevel[world]', x=-89.95, y=7.00, z=280.31]
+[22:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:13:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/18411, l='ServerLevel[world]', x=-87.96, y=7.00, z=281.95]
+[22:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:23:08] [Server thread/INFO]: wuhao[/127.0.0.1:37161] logged in with entity id 19516 at (-1125.6889228504713, 68.0, 1346.1093456646192)
+[22:23:09] [Server thread/INFO]: wuhao joined the game
+[22:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2776ms or 55 ticks behind
+[22:23:09] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:23:10] [Netty Epoll Server IO #1/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[22:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:31:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/24247, l='ServerLevel[world]', x=-84.58, y=7.00, z=281.58]
+[22:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 57109ms or 1142 ticks behind
+[22:34:25] [Server thread/INFO]: wuhao lost connection: Disconnected
+[22:34:25] [Server thread/INFO]: wuhao left the game
+[22:34:26] [Server thread/INFO]: wuhao[/127.0.0.1:34457] logged in with entity id 25012 at (-1116.3960474804655, 63.0, 1343.4944461297555)
+[22:34:26] [Server thread/INFO]: wuhao joined the game
+[22:34:27] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:34:33] [Netty Epoll Server IO #0/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[22:34:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7099ms or 141 ticks behind
+[22:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[22:40:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2990ms or 59 ticks behind
+[22:40:44] [Server thread/INFO]: wuhao lost connection: Disconnected
+[22:40:44] [Server thread/INFO]: wuhao left the game
+[22:41:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 67551ms or 1351 ticks behind
+[22:42:11] [Server Watchdog/FATAL]: A single server tick took 60.22 seconds (should be max 0.05)
+[22:42:32] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 154860ms or 3097 ticks behind
+[22:44:31] [Server Watchdog/ERROR]: This crash report has been saved to: /srv/survival/./crash-reports/crash-2020-11-21_22.44.30-server.txt
+[22:44:31] [Thread-68/INFO]: WebServer closed.
+[22:44:33] [Server thread/INFO]: BlueMap unloaded!
+[22:44:33] [Server thread/INFO]: Stopping server
+[22:44:33] [Server thread/INFO]: Saving players
+[22:44:33] [Server thread/INFO]: Saving worlds
+[22:44:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:44:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:44:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:44:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:44:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:44:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:44:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:44:35] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2020-11-21_22-44-35
+[22:44:35] [Server thread/INFO]: Starting backup
+[22:44:35] [Server thread/INFO]: [Textile Backup] Starting backup
+[22:44:35] [Server thread/INFO]: Starting compression...

@@ -1,0 +1,537 @@
+[18:02:51] [main/INFO]: Loading for game Minecraft 1.16.4
+[18:02:52] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[18:02:52] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[18:02:52] [main/WARN]: Warnings were found! 
+ - Mod 'BetterF3' (betterf3) recommends version 1.14.6 or later of mod modmenu, which is missing!
+	 - You must install version 1.14.6 or later of modmenu.
+[18:02:52] [main/INFO]: [FabricLoader] Loading 60 mods: fabric-renderer-api-v1@0.3.3+6a2618f53a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, fabric-structure-api-v1@1.1.1+f1d8af063a, bbor@2.4-1.16.3, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.6.0, fabric-containers-v0@0.1.8+6a2618f53a, fabric-dimensions-v1@2.0.1+9a6c75813a, fabric-object-builder-api-v1@1.9.2+6a2618f53a, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.27.1+1.16, carpet@1.4.20, fabric-particles-v1@0.2.2+6a2618f53a, fabric-networking-v0@0.1.10+6a2618f53a, cotton-config@1.0.0-rc.7, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, cloth-basic-math@0.5.1, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.9+6a2618f53a, phosphor@0.6.0+build.7, bluemap@1.3.0-snap, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, player-roles@1.2.0, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-item-api-v1@1.2.0+6a2618f53a, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-rendering-v1@1.4.0+6a2618f53a, fabric-key-binding-api-v1@1.0.1+730711c63a, cloth-config2@4.7.0-unstable, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.3.2+1944f3e03a, fabric-content-registries-v0@0.2.0+e77439c73a, fabric-tag-extensions-v0@1.1.0+e77439c73a, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.7.1+285766753a, textile_backup@2.1.0-prev-1.16.4, betterf3@1.1.1, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-models-v0@0.1.1+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
+[18:02:52] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[18:02:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/container/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[18:02:55] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[18:03:04] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[18:03:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:03:06] [main/WARN]: Ambiguity between arguments [bluemap, marker, create, id, map, x] and [bluemap, marker, create, id, map, label] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[18:03:06] [main/WARN]: Ambiguity between arguments [bluemap, render, cancel] and [bluemap, render, world|map] with inputs: [cancel]
+[18:03:06] [main/WARN]: Ambiguity between arguments [bluemap, render, prioritize] and [bluemap, render, world|map] with inputs: [prioritize]
+[18:03:06] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, world|map] with inputs: [0, -123, 123]
+[18:03:06] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, x] with inputs: [0, -123, 123]
+[18:03:06] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, radius] with inputs: [0, -1]
+[18:03:06] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, world|map] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[18:03:06] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:03:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:03:06] [main/INFO]: Reloading ResourceManager: Default, bukkit, skimit-DataPack, Fabric Tool Attribute API (v1), Player Roles
+[18:03:08] [Worker-Main-4/INFO]: Loaded 7 recipes
+[18:03:08] [Worker-Main-4/INFO]: Loaded 938 advancements
+[18:03:10] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.481 ms
+[18:03:10] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[18:03:10] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[18:03:10] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[18:03:10] [Server thread/INFO]: Loading properties
+[18:03:10] [Server thread/INFO]: Default game type: SURVIVAL
+[18:03:10] [Server thread/INFO]: Generating keypair
+[18:03:10] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:10799
+[18:03:10] [Server thread/INFO]: Using epoll channel type
+[18:03:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:03:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:03:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:03:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:03:11] [Server thread/INFO]: Preparing level "world"
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting repeaterPriorityFix as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting commandScriptACE as ops from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting commandScript as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting scriptsAutoload as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[18:03:11] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[18:03:11] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[18:03:11] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[18:03:11] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[18:03:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:03:14] [Server thread/INFO]: Preparing spawn area: 0%
+[18:03:14] [Server thread/INFO]: Preparing spawn area: 0%
+[18:03:14] [Server thread/INFO]: Preparing spawn area: 0%
+[18:03:14] [Server thread/INFO]: Preparing spawn area: 0%
+[18:03:14] [Server thread/INFO]: Preparing spawn area: 0%
+[18:03:14] [Server thread/INFO]: Preparing spawn area: 0%
+[18:03:14] [Server thread/INFO]: Preparing spawn area: 5%
+[18:03:15] [Server thread/INFO]: Preparing spawn area: 41%
+[18:03:15] [Server thread/INFO]: Time elapsed: 3872 ms
+[18:03:15] [Server thread/INFO]: world scarpet apps
+[18:03:15] [Server thread/INFO]: tagplayer app loaded with /tagplayer command
+[18:03:15] [Server thread/INFO]: App tagplayer loaded in 225 ms
+[18:03:15] [Server thread/INFO]: Done (4.651s)! For help, type "help"
+[18:03:15] [Server thread/INFO]: Starting GS4 status listener
+[18:03:15] [Server thread/INFO]: Thread Query Listener started
+[18:03:15] [Query Listener #1/INFO]: Query running on 0.0.0.0:10799
+[18:03:15] [Thread-68/INFO]: Loading BlueMap...
+[18:03:15] [Server thread/INFO]: App tagplayer loaded in 76 ms
+[18:03:16] [Thread-68/INFO]: Loading resources...
+[18:03:16] [Thread-69/INFO]: WebServer started.
+[18:03:17] [Thread-68/INFO]: Loading bluemap assets (1/3)...
+[18:03:18] [Thread-68/INFO]: Loading realms assets (2/3)...
+[18:03:18] [Thread-68/INFO]: Loading minecraft assets (3/3)...
+[18:03:20] [Thread-68/INFO]: BlueMap loaded!
+[18:03:24] [Server thread/INFO]: EDGW[/101.132.153.204:54815] logged in with entity id 112 at (-45.211308727824864, 205.0, 247.42626552080586)
+[18:03:24] [Server thread/INFO]: EDGW joined the game
+[18:03:24] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:03:27] [Netty Epoll Server IO #2/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[18:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[18:04:14] [Server thread/INFO]: Can only manipulate existing players
+[18:04:14] [Server thread/INFO]: Can only manipulate existing players
+[18:04:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[18:04:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[18:04:43] [Server thread/INFO]: sand[local] logged in with entity id 185 at (0.5, 75.0, 0.5)
+[18:04:43] [Server thread/INFO]: 假的 sand joined the game
+[18:04:44] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[18:04:44] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[18:14:14] [Server thread/INFO]: Can only manipulate existing players
+[18:14:14] [Server thread/INFO]: Can only manipulate existing players
+[18:14:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[18:14:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[18:21:28] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:35691] logged in with entity id 11361 at (-37.99844992740434, 204.0, 237.0271763852665)
+[18:21:28] [Server thread/INFO]: na2hco3_CN joined the game
+[18:21:28] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:21:29] [Netty Epoll Server IO #5/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[18:24:15] [Server thread/INFO]: Can only manipulate existing players
+[18:24:15] [Server thread/INFO]: Can only manipulate existing players
+[18:24:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[18:24:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[18:27:00] [Server thread/INFO]: <na2hco3_CN> 咱现在保存一下存档吧
+[18:27:54] [Server thread/INFO]: <na2hco3_CN> 包满了
+[18:34:15] [Server thread/INFO]: Can only manipulate existing players
+[18:34:15] [Server thread/INFO]: Can only manipulate existing players
+[18:34:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[18:34:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[18:44:16] [Server thread/INFO]: Can only manipulate existing players
+[18:44:16] [Server thread/INFO]: Can only manipulate existing players
+[18:44:16] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[18:44:16] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[18:50:23] [Server thread/INFO]: <na2hco3_CN> 在？人呢
+[18:50:36] [Server thread/INFO]: <na2hco3_CN> @EDGW
+[18:50:50] [Server thread/INFO]: China_mxb[/101.132.153.204:60367] logged in with entity id 32662 at (-42.5, 64.0, 239.5)
+[18:50:50] [Server thread/INFO]: China_mxb joined the game
+[18:50:50] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:50:59] [Server thread/INFO]: China_mxb lost connection: Disconnected
+[18:50:59] [Server thread/INFO]: China_mxb left the game
+[18:53:25] [Server thread/INFO]: shuijiao[local] logged in with entity id 34412 at (-42.5, 61.0, 241.5)
+[18:53:25] [Server thread/INFO]: 假的 shuijiao joined the game
+[18:53:34] [Server thread/INFO]: <na2hco3_CN> 。。。
+[18:54:17] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[18:54:17] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[19:02:35] [Server thread/INFO]: China_mxb[/101.132.153.204:38961] logged in with entity id 42849 at (-42.5, 64.0, 239.5)
+[19:02:35] [Server thread/INFO]: China_mxb joined the game
+[19:02:35] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:02:41] [Server thread/INFO]: China_mxb lost connection: Disconnected
+[19:02:41] [Server thread/INFO]: China_mxb left the game
+[19:02:43] [Server thread/INFO]: China_mxb[/101.132.153.204:44973] logged in with entity id 42922 at (-42.5, 64.0, 239.5)
+[19:02:43] [Server thread/INFO]: China_mxb joined the game
+[19:02:43] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[19:03:10] [Server thread/INFO]: <China_mxb> e
+[19:03:20] [Server thread/INFO]: <na2hco3_CN> 终于？
+[19:03:34] [Server thread/INFO]: China_mxb lost connection: Disconnected
+[19:03:34] [Server thread/INFO]: China_mxb left the game
+[19:04:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[19:04:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[19:04:40] [Server thread/INFO]: <na2hco3_CN> 本来给的多大
+[19:05:07] [Server thread/INFO]: <na2hco3_CN> 进个游戏不应该这么累啊
+[19:05:19] [Server thread/INFO]: <na2hco3_CN> 你用的啥进的
+[19:07:22] [Server thread/INFO]: [na2hco3_CN: Player sand is already logged on]
+[19:07:30] [Server thread/INFO]: [na2hco3_CN: Player sand is already logged on]
+[19:08:57] [Server thread/INFO]: [na2hco3_CN: Player sand is already logged on]
+[19:13:17] [Server thread/INFO]: EDGW lost connection: Disconnected
+[19:13:17] [Server thread/INFO]: EDGW left the game
+[19:14:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[19:14:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[19:19:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89136, l='ServerLevel[world]', x=467.70, y=244.06, z=-265.70]
+[19:19:21] [Server thread/INFO]: <na2hco3_CN> 我刷了半天
+[19:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89369, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89370, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89372, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89375, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/89376, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:19:29] [Server thread/INFO]: <na2hco3_CN> 经修一点没张
+[19:19:34] [Server thread/INFO]: <na2hco3_CN> 我以为卡了
+[19:19:42] [Server thread/INFO]: <na2hco3_CN> w一按
+[19:19:51] [Server thread/INFO]: <na2hco3_CN> 东西修完了
+[19:19:54] [Server thread/INFO]: <na2hco3_CN> 等级54
+[19:20:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/93606, l='ServerLevel[world]', x=-38.39, y=77.01, z=247.31]
+[19:24:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[19:24:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[19:28:07] [Server thread/INFO]: <na2hco3_CN> 不收拾一下？
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116284, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116284, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116285, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116285, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116287, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116287, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116290, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116290, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116291, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:28:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/116291, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:34:16] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[19:34:16] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[19:34:17] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[19:34:21] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[19:36:43] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[19:36:44] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[19:36:45] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[19:36:51] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[19:36:54] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[19:39:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-152, y=61, z=523} class_2338{x=-153, y=61, z=523}
+[19:41:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/152719, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:41:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/152720, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:41:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/152722, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:41:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/152725, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:41:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/152726, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[19:41:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=63, z=513} class_2338{x=-173, y=62, z=515}
+[19:41:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-174, y=63, z=513} class_2338{x=-173, y=62, z=515}
+[19:44:16] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[19:44:16] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[19:44:33] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[19:44:34] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[19:44:35] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[19:47:10] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[19:47:12] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[19:53:23] [Server thread/INFO]: Player shuijiao is already logged on
+[19:54:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[19:54:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[20:04:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[20:04:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[20:04:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/222547, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:04:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/222548, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:04:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/222550, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:04:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/222553, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:04:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/222554, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:14:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[20:14:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[20:15:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-169, y=72, z=546} class_2338{x=-170, y=73, z=546}
+[20:15:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-169, y=72, z=546} class_2338{x=-170, y=73, z=546}
+[20:15:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-168, y=73, z=546} class_2338{x=-170, y=73, z=546}
+[20:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265607, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265608, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265610, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265613, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:19:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265614, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:21:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/270495, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:21:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/270496, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:21:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/270498, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:21:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/270501, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:21:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/270502, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:24:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[20:24:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[20:30:22] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[20:30:23] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[20:30:28] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[20:34:16] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[20:34:16] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[20:44:13] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[20:44:13] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[20:50:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358480, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:50:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358481, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:50:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358483, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:50:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358486, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:50:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/358487, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[20:53:23] [Server thread/INFO]: Player shuijiao is already logged on
+[20:54:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[20:54:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[20:56:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=62, z=530} class_2338{x=-167, y=62, z=533}
+[20:56:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-178, y=62, z=530} class_2338{x=-167, y=62, z=533}
+[21:04:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-162, y=100, z=604} class_2338{x=-162, y=100, z=600}
+[21:04:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[21:04:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[21:04:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/401048, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:04:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/401049, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:04:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/401051, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:04:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/401054, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:04:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/401055, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:08:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/409935, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:08:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/409936, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:08:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/409938, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:08:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/409941, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:08:02] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/409942, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:11:38] [Server thread/INFO]: China_mxb[/101.132.153.204:55217] logged in with entity id 420594 at (-42.482641150724334, 64.0, 286.7763245925926)
+[21:11:38] [Server thread/INFO]: China_mxb joined the game
+[21:11:38] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:11:42] [Netty Epoll Server IO #4/WARN]: Player China_mxb joined with another carpet version: 1.4.11+v200910
+[21:12:50] [Server thread/INFO]: <China_mxb> 1
+[21:12:55] [Server thread/INFO]: <na2hco3_CN> ?
+[21:14:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[21:14:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437730, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437730, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437731, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437731, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437733, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437733, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437736, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437736, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437737, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:17:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/437737, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:19:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=62, z=512} class_2338{x=-133, y=62, z=514}
+[21:19:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=62, z=512} class_2338{x=-133, y=62, z=514}
+[21:19:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=62, z=512} class_2338{x=-133, y=62, z=514}
+[21:19:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=62, z=512} class_2338{x=-133, y=62, z=514}
+[21:19:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=62, z=512} class_2338{x=-133, y=62, z=514}
+[21:19:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-134, y=62, z=512} class_2338{x=-133, y=62, z=514}
+[21:21:04] [Server thread/INFO]: <na2hco3_CN> 你在干啥
+[21:22:42] [Server thread/INFO]: China_mxb fell from a high place
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454103, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454103, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454104, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454104, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454106, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454106, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454109, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454109, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454110, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454110, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454224, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454224, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454225, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454225, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454227, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454227, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454230, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454230, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454231, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:23:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/454231, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[21:24:02] [Server thread/INFO]: <na2hco3_CN> ...
+[21:24:07] [Server thread/INFO]: <na2hco3_CN> 没用
+[21:24:16] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[21:24:16] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[21:24:18] [Server thread/INFO]: <China_mxb> 至少群主买了我机子
+[21:24:19] [Server thread/INFO]: <na2hco3_CN> 没有
+[21:24:25] [Server thread/INFO]: <na2hco3_CN> 草
+[21:24:29] [Server thread/INFO]: <na2hco3_CN> 格格不入
+[21:25:22] [Server thread/INFO]: China_mxb has made the advancement [Diamonds!]
+[21:25:30] [Server thread/INFO]: <China_mxb> 有点卡
+[21:26:18] [Server thread/INFO]: <China_mxb> 投影MOD用不了？
+[21:26:32] [Server thread/INFO]: <China_mxb> 按M键出来的是小地图
+[21:26:36] [Server thread/INFO]: <na2hco3_CN> 啊这
+[21:26:43] [Server thread/INFO]: <na2hco3_CN> 吧小地图的概率额
+[21:26:45] [Server thread/INFO]: <China_mxb> 键位控制里没有
+[21:26:58] [Server thread/INFO]: <na2hco3_CN> 小地图里
+[21:27:28] [Server thread/INFO]: <China_mxb> ok出来了
+[21:27:34] [Server thread/INFO]: <China_mxb> 我把键位改了
+[21:28:20] [Server thread/INFO]: <China_mxb> 有树场吗
+[21:28:23] [Server thread/INFO]: <na2hco3_CN> y
+[21:28:28] [Server thread/INFO]: <China_mxb> where
+[21:28:34] [Server thread/INFO]: <na2hco3_CN> 市中心
+[21:29:03] [Server thread/INFO]: China_mxb has made the advancement [We Need to Go Deeper]
+[21:29:11] [Server thread/INFO]: <China_mxb> e
+[21:29:25] [Server thread/INFO]: <China_mxb> boat有吗
+[21:29:36] [Server thread/INFO]: <na2hco3_CN> 讲中文
+[21:29:40] [Server thread/INFO]: <China_mxb> 船
+[21:29:59] [Server thread/INFO]: <na2hco3_CN> 建议合成
+[21:31:14] [Server thread/INFO]: <na2hco3_CN> 这牌子写的啥
+[21:31:20] [Server thread/INFO]: <China_mxb> e
+[21:31:21] [Server thread/INFO]: <na2hco3_CN> 英语不行
+[21:31:29] [Server thread/INFO]: <China_mxb> 使用啥啥啥
+[21:31:36] [Server thread/INFO]: <na2hco3_CN> ...
+[21:31:43] [Server thread/INFO]: <China_mxb> 不过这树场咋用
+[21:31:50] [Server thread/INFO]: <China_mxb> 活塞推不动
+[21:31:55] [Server thread/INFO]: <na2hco3_CN> ???
+[21:31:59] [Server thread/INFO]: <na2hco3_CN> 卧槽
+[21:32:09] [Server thread/INFO]: <na2hco3_CN> 这书场坏了？？？
+[21:32:47] [Server thread/INFO]: <China_mxb> 实在不行我来做个树场
+[21:33:01] [Server thread/INFO]: <China_mxb> 坏了
+[21:33:15] [Server thread/INFO]: <na2hco3_CN> 草
+[21:33:25] [Server thread/INFO]: <na2hco3_CN> 又坏了个东西
+[21:33:38] [Server thread/INFO]: <China_mxb> 我试试重新造个
+[21:33:43] [Server thread/INFO]: <China_mxb> 等我下
+[21:33:44] [Server thread/INFO]: <na2hco3_CN> 啊这
+[21:33:47] [Server thread/INFO]: <na2hco3_CN> 大佬
+[21:33:49] [Server thread/INFO]: <China_mxb> 我去找下原理图
+[21:33:50] [Server thread/INFO]: China_mxb lost connection: Disconnected
+[21:33:50] [Server thread/INFO]: China_mxb left the game
+[21:34:16] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[21:34:16] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[21:36:13] [Server thread/INFO]: <na2hco3_CN> 不应该嘛
+[21:36:14] [Server thread/INFO]: <na2hco3_CN> 啊
+[21:38:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/499122, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.49]
+[21:40:11] [Server thread/INFO]: <na2hco3_CN> 好饿了
+[21:40:11] [Server thread/INFO]: <na2hco3_CN> 了
+[21:40:13] [Server thread/INFO]: <na2hco3_CN> 好了
+[21:42:11] [Server thread/INFO]: <na2hco3_CN> 那个啥腐竹
+[21:42:20] [Server thread/INFO]: <na2hco3_CN> 书场好了
+[21:43:10] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[21:43:10] [Server thread/INFO]: na2hco3_CN left the game
+[21:44:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[21:44:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[21:53:23] [Server thread/INFO]: Player shuijiao is already logged on
+[21:54:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[21:54:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[21:57:38] [Server thread/INFO]: China_mxb[/101.132.153.204:42913] logged in with entity id 552848 at (-304.67380813973176, 64.0, 405.55600204779716)
+[21:57:38] [Server thread/INFO]: China_mxb joined the game
+[21:57:38] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:57:38] [Netty Epoll Server IO #3/WARN]: Player China_mxb joined with another carpet version: 1.4.11+v200910
+[21:59:42] [Server thread/INFO]: China_mxb lost connection: Disconnected
+[21:59:42] [Server thread/INFO]: China_mxb left the game
+[22:04:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[22:04:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[22:14:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[22:14:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[22:15:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/601065, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:15:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/601066, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:15:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/601068, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:15:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/601071, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:15:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/601072, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:24:13] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[22:24:13] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[22:25:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/629297, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:25:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/629298, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:25:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/629300, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:25:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/629303, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:25:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/629304, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:27:15] [Server thread/INFO]: EDGW[/101.132.153.204:43397] logged in with entity id 634095 at (-43.691722109613295, 64.0, 240.07455921602175)
+[22:27:16] [Server thread/INFO]: EDGW joined the game
+[22:27:16] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:27:16] [Netty Epoll Server IO #2/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[22:34:13] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[22:34:13] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[22:44:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[22:44:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[22:45:38] [Server thread/INFO]: <EDGW> 放到盒子里
+[22:49:16] [Server thread/INFO]: <EDGW> 还有水 冰
+[22:49:22] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:56967] logged in with entity id 695808 at (-288.0513925566387, 64.0, 424.7564882591152)
+[22:49:22] [Server thread/INFO]: na2hco3_CN joined the game
+[22:49:22] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:49:34] [Server thread/INFO]: <EDGW> 还有水 浮冰
+[22:49:37] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[22:49:37] [Server thread/INFO]: na2hco3_CN left the game
+[22:49:37] [Server thread/WARN]: handleDisconnection() called twice
+[22:49:58] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:47471] logged in with entity id 697600 at (-288.0513925566387, 64.0, 424.7564882591152)
+[22:49:58] [Server thread/INFO]: na2hco3_CN joined the game
+[22:49:58] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:50:01] [Netty Epoll Server IO #2/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[22:50:29] [Server thread/INFO]: <EDGW> 还有水 浮冰
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701685, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701685, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701686, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701686, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701688, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701688, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701691, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701691, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701692, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:51:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/701692, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[22:52:57] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:52:57] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:52:57] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:52:57] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:52:57] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:23] [Server thread/INFO]: Player shuijiao is already logged on
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:53:28] [Server thread/ERROR]: Can't find any space for item in the inventory
+[22:54:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[22:54:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[22:54:42] [Server thread/INFO]: <na2hco3_CN> hmoe
+[22:54:54] [Server thread/INFO]: <EDGW> ,
+[22:54:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Orange Concrete'/712501, l='ServerLevel[world]', x=-35.86, y=77.06, z=247.31]
+[22:55:54] [Server thread/INFO]: EDGW lost connection: Disconnected
+[22:55:54] [Server thread/INFO]: EDGW left the game
+[22:56:14] [Server thread/INFO]: na2hco3_CN lost connection: Timed out
+[22:56:14] [Server thread/INFO]: na2hco3_CN left the game
+[22:56:25] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:40923] logged in with entity id 716920 at (-41.517200135539895, 64.0, 261.1501333796817)
+[22:56:25] [Server thread/INFO]: na2hco3_CN joined the game
+[22:56:25] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:56:26] [Netty Epoll Server IO #3/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[22:57:07] [Server thread/INFO]: <na2hco3_CN> 你人
+[22:57:08] [Server thread/INFO]: <na2hco3_CN> 呢
+[23:00:22] [Server thread/INFO]: <na2hco3_CN> 干啥
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731537, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731537, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731538, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731538, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731540, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731540, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731543, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731543, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731544, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/731544, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:01:58] [Server thread/INFO]: EDGW[/101.132.153.204:34281] logged in with entity id 732270 at (-43.43699263284176, 64.0, 255.57429896971004)
+[23:01:58] [Server thread/INFO]: EDGW joined the game
+[23:01:58] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:02:30] [Server thread/INFO]: <EDGW> 进来了
+[23:02:35] [Server thread/INFO]: <EDGW> 现在是手机
+[23:03:19] [Server thread/INFO]: EDGW lost connection: Disconnected
+[23:03:19] [Server thread/INFO]: EDGW left the game
+[23:03:42] [Server thread/INFO]: EDGW[/101.132.153.204:56185] logged in with entity id 737081 at (-44.02967, 64.0, 259.27502)
+[23:03:42] [Server thread/INFO]: EDGW joined the game
+[23:03:42] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:04:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[23:04:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[23:05:01] [Server thread/INFO]: <EDGW> 来点浮冰 漏斗，铁轨
+[23:05:19] [Server thread/INFO]: <na2hco3_CN> 下面箱子里
+[23:05:40] [Server thread/INFO]: <EDGW> 浮冰
+[23:05:51] [Server thread/INFO]: <na2hco3_CN> 你看看背包
+[23:06:01] [Server thread/INFO]: <na2hco3_CN> 我带的蓝冰没了
+[23:06:18] [Server thread/INFO]: <EDGW> 只有蓝冰和冰
+[23:06:26] [Server thread/INFO]: <EDGW> 有浮冰吗
+[23:06:28] [Server thread/INFO]: <na2hco3_CN> 蓝冰不行么
+[23:06:38] [Server thread/INFO]: <na2hco3_CN> 蓝冰比浮冰快啊
+[23:07:05] [Server thread/INFO]: EDGW lost connection: Disconnected
+[23:07:05] [Server thread/INFO]: EDGW left the game
+[23:07:24] [Server thread/INFO]: EDGW[/101.132.153.204:36863] logged in with entity id 747430 at (-41.279015, 64.0, 256.9261)
+[23:07:24] [Server thread/INFO]: EDGW joined the game
+[23:07:24] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:07:39] [Server thread/INFO]: <na2hco3_CN> 干啥呢
+[23:08:06] [Server thread/INFO]: <EDGW> 有浮冰没
+[23:08:14] [Server thread/INFO]: <na2hco3_CN> 蓝冰啊
+[23:08:26] [Server thread/INFO]: <EDGW> 不行
+[23:08:32] [Server thread/INFO]: <na2hco3_CN> ??
+[23:08:40] [Server thread/INFO]: <na2hco3_CN> 为啥
+[23:09:01] [Server thread/INFO]: <na2hco3_CN> 强迫症？
+[23:09:41] [Server thread/INFO]: <EDGW> 不是
+[23:09:48] [Server thread/INFO]: <EDGW> 我需要水
+[23:10:16] [Server thread/INFO]: <na2hco3_CN> 有冰啊
+[23:10:23] [Server thread/INFO]: <na2hco3_CN> 冰挖了就是水
+[23:10:34] [Server thread/INFO]: <EDGW> o
+[23:10:40] [Server thread/INFO]: <na2hco3_CN> ....
+[23:10:49] [Server thread/INFO]: <EDGW> 10分钟后开工
+[23:11:49] [Server thread/INFO]: EDGW lost connection: Disconnected
+[23:11:49] [Server thread/INFO]: EDGW left the game
+[23:11:52] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[23:11:52] [Server thread/INFO]: na2hco3_CN left the game
+[23:14:15] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[23:14:15] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[23:16:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/771313, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:16:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/771314, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:16:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/771316, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:16:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/771319, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:16:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/771320, l='ServerLevel[world]', x=-37.49, y=202.00, z=245.51]
+[23:24:16] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[23:24:16] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[23:34:13] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[23:34:13] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[23:34:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/821718, l='ServerLevel[world]', x=-90.91, y=7.00, z=277.18]
+[23:44:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[23:44:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true
+[23:53:23] [Server thread/INFO]: Player shuijiao is already logged on
+[23:54:14] [Server thread/INFO]: commandPlayer: true, [永久更改?]
+[23:54:14] [Server thread/INFO]: 规则“玩家控制 (commandPlayer)”将会被默认设置为true

@@ -1,0 +1,120 @@
+[01:41:08] [main/INFO]: Loading for game Minecraft 1.16.4
+[01:41:09] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[01:41:09] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[01:41:09] [main/WARN]: Warnings were found! 
+ - Mod 'BetterF3' (betterf3) recommends version 1.14.6 or later of mod modmenu, which is missing!
+	 - You must install version 1.14.6 or later of modmenu.
+[01:41:09] [main/INFO]: [FabricLoader] Loading 64 mods: fabric-renderer-api-v1@0.4.0+cbe9176f3a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, fabric-structure-api-v1@1.1.3+cbe9176f3a, bbor@2.4-1.16.3, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.6.0, fabric-containers-v0@0.1.9+a03e98793a, fabric-dimensions-v1@2.0.1+9a6c75813a, fabric-object-builder-api-v1@1.9.2+6a2618f53a, fabric-game-rule-api-v1@1.0.5+cbe9176f3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+ffb68a873a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.29.0+1.16, carpet@1.4.21, fabric-particles-v1@0.2.3+cbe9176f3a, fabric-networking-v0@0.3.1+2a4333d33a, cotton-config@1.0.0-rc.7, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, minecraft@1.16.4, here@0.1.0+1.16, fabric-networking-blockentity-v0@0.2.7+a03e98793a, cloth-basic-math@0.5.1, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.9+6a2618f53a, phosphor@0.6.0+build.7, bluemap@1.3.0-snap, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, player-roles@1.2.0, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-item-api-v1@1.2.0+6a2618f53a, fabric-entity-events-v1@1.0.0+79b23bee3a, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-rendering-v1@1.5.0+c26373133a, fabric-key-binding-api-v1@1.0.1+730711c63a, cloth-config2@4.7.0-unstable, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.4.0+552549d53a, carpet-tis-addition@1.11.2, fabric-content-registries-v0@0.2.0+e77439c73a, fabric-tag-extensions-v0@1.1.0+e77439c73a, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.1+cbe9176f3a, fabric-registry-sync-v0@0.7.3+be155ae23a, textile_backup@2.1.0-prev-1.16.4, betterf3@1.1.1, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-networking-api-v1@1.0.0+4358fbc63a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-models-v0@0.2.0+cbe9176f3a, fabric-item-groups-v0@0.2.2+cbe9176f3a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
+[01:41:09] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[01:41:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/container/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[01:41:12] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[01:41:21] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[01:41:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:41:23] [main/WARN]: Missing data pack fabric/fabric-tool-attribute-api-v1
+[01:41:23] [main/WARN]: Missing data pack fabric/player-roles
+[01:41:23] [main/INFO]: Found new data pack Fabric Mods, loading it automatically
+[01:41:24] [main/WARN]: Ambiguity between arguments [bluemap, marker, create, id, map, x] and [bluemap, marker, create, id, map, label] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[01:41:24] [main/WARN]: Ambiguity between arguments [bluemap, render, cancel] and [bluemap, render, world|map] with inputs: [cancel]
+[01:41:24] [main/WARN]: Ambiguity between arguments [bluemap, render, prioritize] and [bluemap, render, world|map] with inputs: [prioritize]
+[01:41:24] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, world|map] with inputs: [0, -123, 123]
+[01:41:24] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, x] with inputs: [0, -123, 123]
+[01:41:24] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, radius] with inputs: [0, -1]
+[01:41:24] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, world|map] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[01:41:24] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:41:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:41:24] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:41:24] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:41:24] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:41:24] [main/INFO]: Reloading ResourceManager: Default, bukkit, skimit-DataPack, Fabric Mods (Fabric Tool Attribute API (v1), Player Roles)
+[01:41:25] [Worker-Main-6/INFO]: Loaded 7 recipes
+[01:41:26] [Worker-Main-6/INFO]: Loaded 938 advancements
+[01:41:27] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.779 ms
+[01:41:27] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[01:41:27] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[01:41:27] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[01:41:27] [Server thread/INFO]: Loading properties
+[01:41:27] [Server thread/INFO]: Default game type: SURVIVAL
+[01:41:27] [Server thread/INFO]: Generating keypair
+[01:41:27] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:10799
+[01:41:27] [Server thread/INFO]: Using epoll channel type
+[01:41:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:41:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:41:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:41:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:41:28] [Server thread/INFO]: Preparing level "world"
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting repeaterPriorityFix as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting commandScriptACE as ops from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting optimizedFastEntityMovement as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting opPlayerNoCheat as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting commandPlayer as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting commandScript as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting scriptsAutoload as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[01:41:28] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[01:41:28] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[01:41:28] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[01:41:28] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[01:41:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:41:31] [Server thread/INFO]: Preparing spawn area: 0%
+[01:41:31] [Server thread/INFO]: Preparing spawn area: 10%
+[01:41:32] [Server thread/INFO]: Preparing spawn area: 64%
+[01:41:32] [Server thread/INFO]: Time elapsed: 3840 ms
+[01:41:32] [Server thread/INFO]: tagplayer app loaded with /tagplayer command
+[01:41:32] [Server thread/INFO]: App tagplayer loaded in 166 ms
+[01:41:32] [Server thread/INFO]: Done (4.718s)! For help, type "help"
+[01:41:32] [Server thread/INFO]: Starting GS4 status listener
+[01:41:32] [Server thread/INFO]: Thread Query Listener started
+[01:41:32] [Query Listener #1/INFO]: Query running on 0.0.0.0:10799
+[01:41:32] [Thread-72/INFO]: Loading BlueMap...
+[01:41:33] [Server thread/INFO]: App tagplayer loaded in 75 ms
+[01:41:33] [Thread-72/INFO]: Loading resources...
+[01:41:33] [Thread-73/INFO]: WebServer started.
+[01:41:35] [Thread-72/INFO]: Loading bluemap assets (1/3)...
+[01:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[01:41:35] [Thread-72/INFO]: Loading realms assets (2/3)...
+[01:41:35] [Thread-72/INFO]: Loading minecraft assets (3/3)...
+[01:41:38] [Thread-72/INFO]: BlueMap loaded!
+[01:52:07] [Server thread/INFO]: shuijiao[local] logged in with entity id 257 at (-42.5, 61.0, 241.5)
+[01:52:07] [Server thread/INFO]: 假的 shuijiao joined the game
+[02:31:53] [Server thread/INFO]: Stopping the server
+[02:31:53] [Thread-73/INFO]: WebServer closed.
+[02:31:53] [Server thread/INFO]: BlueMap unloaded!
+[02:31:53] [Server thread/INFO]: Stopping server
+[02:31:53] [Server thread/INFO]: Saving players
+[02:31:53] [Server thread/INFO]: Saving worlds
+[02:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:31:53] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[02:31:53] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2021-01-01_02-31-53
+[02:31:53] [Server thread/INFO]: [Textile Backup] Starting backup
+[02:32:03] [Server thread/INFO]: [Textile Backup] Compression took: 09.825 seconds.
+[02:32:03] [Server thread/INFO]: [Textile Backup] Done!
+[02:32:03] [Server thread/INFO]: Thread Query Listener stopped

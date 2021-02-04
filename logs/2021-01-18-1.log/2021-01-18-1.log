@@ -1,0 +1,76 @@
+[00:52:12] [Server thread/INFO]: Player shuijiao is already logged on
+[01:52:12] [Server thread/INFO]: Player shuijiao is already logged on
+[01:55:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
+[02:52:13] [Server thread/INFO]: Player shuijiao is already logged on
+[03:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[03:52:14] [Server thread/INFO]: Player shuijiao is already logged on
+[04:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[04:37:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[04:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2242ms or 44 ticks behind
+[04:52:14] [Server thread/INFO]: Player shuijiao is already logged on
+[05:36:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143409, l='ServerLevel[world]', x=-91.52, y=7.00, z=281.41]
+[05:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[05:52:12] [Server thread/INFO]: Player shuijiao is already logged on
+[06:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[06:52:11] [Server thread/INFO]: Player shuijiao is already logged on
+[07:52:11] [Server thread/INFO]: Player shuijiao is already logged on
+[08:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[09:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[10:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[11:03:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
+[11:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2498ms or 49 ticks behind
+[11:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[11:56:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@770c8497[id=a5c9df5e-2eb3-3a79-9499-05e2e7062389,name=MoussTike,properties={},legacy=false] (/101.132.153.204:60375): You are not white-listed on this server!
+[11:56:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@770c8497[id=a5c9df5e-2eb3-3a79-9499-05e2e7062389,name=MoussTike,properties={},legacy=false] (/101.132.153.204:60375) lost connection: You are not white-listed on this server!
+[11:56:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3febfb51[id=a5c9df5e-2eb3-3a79-9499-05e2e7062389,name=MoussTike,properties={},legacy=false] (/101.132.153.204:54559): You are not white-listed on this server!
+[11:56:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@3febfb51[id=a5c9df5e-2eb3-3a79-9499-05e2e7062389,name=MoussTike,properties={},legacy=false] (/101.132.153.204:54559) lost connection: You are not white-listed on this server!
+[12:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[13:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[14:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[14:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[15:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[16:52:11] [Server thread/INFO]: Player shuijiao is already logged on
+[17:52:11] [Server thread/INFO]: Player shuijiao is already logged on
+[18:52:11] [Server thread/INFO]: Player shuijiao is already logged on
+[19:52:11] [Server thread/INFO]: Player shuijiao is already logged on
+[20:27:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[20:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20:47:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
+[20:52:11] [Server thread/INFO]: Player shuijiao is already logged on
+[20:55:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@44975e4b[id=04df47f0-f006-38f0-bf5f-bc0410aec67d,name=Kzzxy,properties={},legacy=false] (/101.132.153.204:40943): You are not white-listed on this server!
+[20:55:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@44975e4b[id=04df47f0-f006-38f0-bf5f-bc0410aec67d,name=Kzzxy,properties={},legacy=false] (/101.132.153.204:40943) lost connection: You are not white-listed on this server!
+[21:02:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[21:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[21:27:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[21:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[21:37:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[21:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[21:52:08] [Server thread/INFO]: Player shuijiao is already logged on
+[21:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[21:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[22:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[22:08:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[22:13:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[22:18:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[22:23:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2451ms or 49 ticks behind
+[22:28:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4164ms or 83 ticks behind
+[22:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[22:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[22:43:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[22:48:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[22:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[22:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[22:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[23:03:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[23:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[23:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[23:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[23:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[23:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[23:38:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[23:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[23:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[23:52:10] [Server thread/INFO]: Player shuijiao is already logged on
+[23:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[23:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind

@@ -1,0 +1,86 @@
+[00:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[00:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:30:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/50494, l='ServerLevel[world]', x=-87.66, y=7.00, z=277.75]
+[02:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[02:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:30:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-11-16_03-30-00
+[03:30:00] [Server thread/INFO]: Saving server...
+[03:30:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[03:30:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:30:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:30:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:30:00] [pool-3-thread-1/INFO]: Starting backup
+[03:30:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[03:30:00] [pool-3-thread-1/INFO]: Starting compression...
+[03:31:02] [pool-3-thread-1/INFO]: Compression took: 01:02.322 seconds.
+[03:31:02] [pool-3-thread-1/INFO]: Deleting: 2020-11-13_06-30-00.zip
+[03:31:02] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-11-13_06-30-00.zip
+[03:31:02] [pool-3-thread-1/INFO]: Done!
+[03:31:02] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[03:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[03:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[04:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[05:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[06:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:30:00] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-11-16_07-30-00
+[07:30:00] [Server thread/INFO]: Saving server...
+[07:30:00] [Server thread/INFO]: [Textile Backup] Saving server...
+[07:30:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:30:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:30:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:30:00] [pool-3-thread-1/INFO]: Starting backup
+[07:30:00] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[07:30:00] [pool-3-thread-1/INFO]: Starting compression...
+[07:31:01] [pool-3-thread-1/INFO]: Compression took: 01:01.257 seconds.
+[07:31:01] [pool-3-thread-1/INFO]: Deleting: 2020-11-13_10-30-00.zip
+[07:31:01] [pool-3-thread-1/INFO]: [Textile Backup] Deleting: 2020-11-13_10-30-00.zip
+[07:31:01] [pool-3-thread-1/INFO]: Done!
+[07:31:01] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[07:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 46400ms or 928 ticks behind
+[07:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[07:59:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/75833, l='ServerLevel[world]', x=-90.59, y=7.00, z=279.69]
+[08:00:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:10:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:20:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:30:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:40:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:50:00] [Server thread/INFO]: Player shuijiao is already logged on
+[08:53:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4974ms or 99 ticks behind

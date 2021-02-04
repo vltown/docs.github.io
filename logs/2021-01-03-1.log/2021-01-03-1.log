@@ -1,0 +1,81 @@
+[00:53:17] [Server thread/INFO]: Player shuijiao is already logged on
+[01:53:18] [Server thread/INFO]: Player shuijiao is already logged on
+[02:53:15] [Server thread/INFO]: Player shuijiao is already logged on
+[03:53:16] [Server thread/INFO]: Player shuijiao is already logged on
+[04:53:17] [Server thread/INFO]: Player shuijiao is already logged on
+[05:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[05:54:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/56568, l='ServerLevel[world]', x=-87.71, y=7.00, z=282.57]
+[06:53:15] [Server thread/INFO]: Player shuijiao is already logged on
+[07:38:40] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:35049] logged in with entity id 60965 at (-75.06999941727324, 114.0, 526.1156038371829)
+[07:38:40] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:38:40] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:38:45] [Netty Epoll Server IO #5/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:39:11] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:39:11] [Server thread/INFO]: MAX_ShouWang left the game
+[07:42:07] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:42079] logged in with entity id 61248 at (-75.06999941727324, 114.0, 526.1156038371829)
+[07:42:07] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:42:07] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:42:08] [Netty Epoll Server IO #2/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:42:38] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:42:38] [Server thread/INFO]: MAX_ShouWang left the game
+[07:42:42] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:58711] logged in with entity id 61440 at (-75.06999941727324, 114.0, 526.1156038371829)
+[07:42:42] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:42:42] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:42:43] [Netty Epoll Server IO #3/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:43:13] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:43:13] [Server thread/INFO]: MAX_ShouWang left the game
+[07:43:18] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:47607] logged in with entity id 61627 at (-75.06999941727324, 114.0, 526.1156038371829)
+[07:43:18] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:43:18] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:43:19] [Netty Epoll Server IO #5/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:43:49] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:43:49] [Server thread/INFO]: MAX_ShouWang left the game
+[07:45:59] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:39769] logged in with entity id 61951 at (-75.06999941727324, 114.0, 526.1156038371829)
+[07:45:59] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:45:59] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:45:59] [Netty Epoll Server IO #1/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:46:29] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:46:29] [Server thread/INFO]: MAX_ShouWang left the game
+[07:49:15] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:46865] logged in with entity id 62319 at (-75.06999941727324, 114.0, 526.1156038371829)
+[07:49:15] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:49:15] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:49:16] [Netty Epoll Server IO #5/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:49:45] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:49:45] [Server thread/INFO]: MAX_ShouWang left the game
+[07:50:17] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:38899] logged in with entity id 62525 at (-75.06999941727324, 114.0, 526.1156038371829)
+[07:50:17] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:50:17] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:50:17] [Netty Epoll Server IO #7/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:50:37] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:50:37] [Server thread/INFO]: MAX_ShouWang left the game
+[07:53:15] [Server thread/INFO]: Player shuijiao is already logged on
+[08:53:16] [Server thread/INFO]: Player shuijiao is already logged on
+[09:53:13] [Server thread/INFO]: Player shuijiao is already logged on
+[10:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[11:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[12:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[13:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[13:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[14:09:11] [Server thread/INFO]: Villager class_1646['Villager'/90, l='ServerLevel[world]', x=-142.06, y=82.14, z=199.20] died, message: 'Villager hit the ground too hard'
+[14:43:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
+[14:53:15] [Server thread/INFO]: Player shuijiao is already logged on
+[15:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[15:59:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[16:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[17:53:11] [Server thread/INFO]: Player shuijiao is already logged on
+[18:53:12] [Server thread/INFO]: Player shuijiao is already logged on
+[19:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[20:39:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[20:53:11] [Server thread/INFO]: Player shuijiao is already logged on
+[21:44:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
+[21:53:11] [Server thread/INFO]: Player shuijiao is already logged on
+[22:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4254ms or 85 ticks behind
+[22:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4133ms or 82 ticks behind
+[22:53:12] [Server thread/INFO]: Player shuijiao is already logged on
+[23:28:22] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:35611] logged in with entity id 104901 at (-106.86250001192093, 118.0, 520.5890345921358)
+[23:28:22] [Server thread/INFO]: na2hco3_CN joined the game
+[23:28:22] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:28:23] [Netty Epoll Server IO #2/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[23:34:23] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[23:34:23] [Server thread/INFO]: na2hco3_CN left the game
+[23:53:12] [Server thread/INFO]: Player shuijiao is already logged on

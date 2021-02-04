@@ -1,0 +1,375 @@
+[00:51:27] [Server thread/INFO]: Player shuijiao is already logged on
+[01:51:25] [Server thread/INFO]: Player shuijiao is already logged on
+[02:51:26] [Server thread/INFO]: Player shuijiao is already logged on
+[03:51:27] [Server thread/INFO]: Player shuijiao is already logged on
+[04:51:27] [Server thread/INFO]: Player shuijiao is already logged on
+[05:51:25] [Server thread/INFO]: Player shuijiao is already logged on
+[06:51:26] [Server thread/INFO]: Player shuijiao is already logged on
+[07:51:26] [Server thread/INFO]: Player shuijiao is already logged on
+[08:51:26] [Server thread/INFO]: Player shuijiao is already logged on
+[09:51:27] [Server thread/INFO]: Player shuijiao is already logged on
+[10:14:05] [Server thread/INFO]: ChengXi123[/101.132.153.204:52523] logged in with entity id 135293 at (-419.27077568885863, 71.0, 533.3579372136305)
+[10:14:05] [Server thread/INFO]: ChengXi123 joined the game
+[10:14:05] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:14:05] [Server thread/INFO]: ChengXi123 left the game
+[10:14:15] [Server thread/INFO]: ChengXi123[/101.132.153.204:48115] logged in with entity id 135298 at (-419.27077568885863, 71.0, 533.3579372136305)
+[10:14:15] [Server thread/INFO]: ChengXi123 joined the game
+[10:14:15] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:17:25] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:17:25] [Server thread/INFO]: ChengXi123 left the game
+[10:50:32] [Server thread/INFO]: ChengXi123[/101.132.153.204:59699] logged in with entity id 136836 at (-411.79590692139544, 69.0, 464.13365528493534)
+[10:50:32] [Server thread/INFO]: ChengXi123 joined the game
+[10:50:32] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:50:32] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:50:32] [Server thread/INFO]: ChengXi123 left the game
+[10:50:49] [Server thread/INFO]: ChengXi123[/101.132.153.204:42059] logged in with entity id 136846 at (-411.79590692139544, 69.0, 464.13365528493534)
+[10:50:49] [Server thread/INFO]: ChengXi123 joined the game
+[10:50:49] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:51:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137594, l='ServerLevel[world]', x=-401.70, y=70.26, z=438.50]
+[10:51:23] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[10:51:23] [Server thread/INFO]: ChengXi123 left the game
+[10:51:24] [Server thread/INFO]: Player shuijiao is already logged on
+[11:22:11] [Server thread/INFO]: aka213[/101.132.153.204:54569] logged in with entity id 137866 at (-478.9126290248542, 64.0, 1262.9535328677605)
+[11:22:11] [Server thread/INFO]: aka213 joined the game
+[11:22:11] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:22:36] [Server thread/INFO]: ChengXi123[/101.132.153.204:43779] logged in with entity id 138100 at (-312.81546394433605, 64.0, 422.57897691606036)
+[11:22:36] [Server thread/INFO]: ChengXi123 joined the game
+[11:22:36] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:22:40] [Server thread/INFO]: <aka213> 233
+[11:22:50] [Server thread/INFO]: <aka213> 我出去一下
+[11:22:52] [Server thread/INFO]: aka213 lost connection: Disconnected
+[11:22:52] [Server thread/INFO]: aka213 left the game
+[11:23:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138819, l='ServerLevel[world]', x=-367.30, y=74.26, z=440.50]
+[11:23:13] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[11:23:13] [Server thread/INFO]: ChengXi123 left the game
+[11:36:31] [Server thread/INFO]: aka213[/101.132.153.204:47297] logged in with entity id 138927 at (-471.4631420129075, 64.0, 1265.51301186698)
+[11:36:31] [Server thread/INFO]: aka213 joined the game
+[11:36:31] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:36:36] [Netty Epoll Server IO #5/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[11:40:17] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019370)]
+[11:40:20] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019370)]
+[11:40:20] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:21] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:21] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:22] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:22] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:22] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:22] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:23] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:23] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:23] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:23] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:23] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019379)]
+[11:40:24] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019370)]
+[11:40:24] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019371)]
+[11:40:24] [Server thread/INFO]: aka213 lost connection: Kicked for spamming
+[11:40:24] [Server thread/INFO]: aka213 left the game
+[11:40:25] [Server thread/WARN]: handleDisconnection() called twice
+[11:40:28] [Server thread/INFO]: aka213[/101.132.153.204:34165] logged in with entity id 139654 at (-480.08530014327636, 64.0, 1264.379356214973)
+[11:40:28] [Server thread/INFO]: aka213 joined the game
+[11:40:28] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:40:30] [Netty Epoll Server IO #3/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[11:40:48] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1478966216)]
+[11:40:49] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1478966217)]
+[11:40:50] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019370)]
+[11:40:51] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019370)]
+[11:40:52] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019376)]
+[11:40:54] [Server thread/INFO]: [aka213: Triggered [config] (set value to 1838019371)]
+[11:51:24] [Server thread/INFO]: Player shuijiao is already logged on
+[11:53:11] [Server thread/INFO]: aka213 lost connection: Disconnected
+[11:53:11] [Server thread/INFO]: aka213 left the game
+[12:41:41] [Server thread/INFO]: ChengXi123[/101.132.153.204:54223] logged in with entity id 149423 at (-312.81546394433605, 64.0, 422.57897691606036)
+[12:41:41] [Server thread/INFO]: ChengXi123 joined the game
+[12:41:41] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:41:41] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[12:41:41] [Server thread/INFO]: ChengXi123 left the game
+[12:41:52] [Server thread/INFO]: ChengXi123[/101.132.153.204:43983] logged in with entity id 149424 at (-312.81546394433605, 64.0, 422.57897691606036)
+[12:41:52] [Server thread/INFO]: ChengXi123 joined the game
+[12:41:52] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:42:12] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[12:42:12] [Server thread/INFO]: ChengXi123 left the game
+[12:51:25] [Server thread/INFO]: Player shuijiao is already logged on
+[13:51:25] [Server thread/INFO]: Player shuijiao is already logged on
+[14:51:25] [Server thread/INFO]: Player shuijiao is already logged on
+[15:07:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@508d4120[id=fcaa7462-0070-3f9d-824f-1f8da3d21898,name=Zachary,properties={},legacy=false] (/101.132.153.204:58031): You are not white-listed on this server!
+[15:07:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@508d4120[id=fcaa7462-0070-3f9d-824f-1f8da3d21898,name=Zachary,properties={},legacy=false] (/101.132.153.204:58031) lost connection: You are not white-listed on this server!
+[15:26:58] [Server thread/INFO]: wuhao[/101.132.153.204:51693] logged in with entity id 151433 at (-7093.334506002474, 5.0, -6910.27496741616)
+[15:26:58] [Server thread/INFO]: wuhao joined the game
+[15:26:58] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:27:02] [Netty Epoll Server IO #5/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[15:28:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/151730, l='ServerLevel[world]', x=-7087.53, y=4.61, z=-6910.73]
+[15:28:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Cobblestone'/151731, l='ServerLevel[world]', x=-7087.55, y=3.49, z=-6910.58]
+[15:28:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Lever'/151804, l='ServerLevel[world]', x=-7087.39, y=4.41, z=-6910.74]
+[15:42:15] [Server thread/INFO]: wuhao lost connection: Timed out
+[15:42:15] [Server thread/INFO]: wuhao left the game
+[15:42:15] [Server thread/WARN]: handleDisconnection() called twice
+[15:43:37] [Server thread/INFO]: wuhao[/101.132.153.204:35085] logged in with entity id 158007 at (-69.70151677572186, 114.0, 528.4825921716683)
+[15:43:37] [Server thread/INFO]: wuhao joined the game
+[15:43:37] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:43:37] [Netty Epoll Server IO #0/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[15:44:41] [Server thread/INFO]: wuhao fell from a high place
+[15:45:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/158596, l='ServerLevel[world]', x=-7090.50, y=63.00, z=-6911.50]
+[15:51:25] [Server thread/INFO]: Player shuijiao is already logged on
+[15:56:11] [Server thread/INFO]: <wuhao> 信标有剩吗？
+[16:00:53] [Server thread/INFO]: wuhao lost connection: Timed out
+[16:00:53] [Server thread/INFO]: wuhao left the game
+[16:01:18] [Server thread/INFO]: wuhao[/101.132.153.204:42151] logged in with entity id 166485 at (-728.8641399581753, 132.55096606805702, -700.4599900948529)
+[16:01:18] [Server thread/INFO]: wuhao joined the game
+[16:01:18] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:01:19] [Netty Epoll Server IO #4/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[16:01:37] [Server thread/INFO]: [wuhao: Triggered [config] (set value to 1838019372)]
+[16:05:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/170439, l='ServerLevel[world]', x=-305.94, y=70.01, z=362.48]
+[16:05:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/170679, l='ServerLevel[world]', x=-302.88, y=72.67, z=361.98]
+[16:17:17] [Server thread/INFO]: wuhao has made the advancement [Isn't It Iron Pick]
+[16:18:31] [Server thread/INFO]: wuhao has reached the goal [Beaconator]
+[16:21:45] [Server thread/INFO]: ChengXi123[/101.132.153.204:51501] logged in with entity id 177902 at (-319.99239274509256, 67.5, 426.3941086928599)
+[16:21:45] [Server thread/INFO]: ChengXi123 joined the game
+[16:21:45] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:22:01] [Server thread/INFO]: <ChengXi123> 你在哪
+[16:23:46] [Server thread/INFO]: ChengXi123 lost connection: Timed out
+[16:23:46] [Server thread/INFO]: ChengXi123 left the game
+[16:24:07] [Server thread/INFO]: ChengXi123[/101.132.153.204:47773] logged in with entity id 179506 at (-177.078117601754, 63.0, 501.83914354603735)
+[16:24:07] [Server thread/INFO]: ChengXi123 joined the game
+[16:24:07] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[16:24:07] [Server thread/INFO]: ChengXi123 lost connection: Disconnected
+[16:24:07] [Server thread/INFO]: ChengXi123 left the game
+[16:51:23] [Server thread/INFO]: Player shuijiao is already logged on
+[16:54:58] [Server thread/INFO]: wuhao drowned
+[16:55:02] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:2734) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$bcf000$modifiedRunLoop(MinecraftServer.java:6319) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[16:55:02] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:2734) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2830.method_11054(class_2828.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$bcf000$modifiedRunLoop(MinecraftServer.java:6319) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[16:55:02] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:2734) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:127) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:722) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$bcf000$modifiedRunLoop(MinecraftServer.java:6319) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[17:02:37] [Server thread/INFO]: wuhao lost connection: Disconnected
+[17:02:37] [Server thread/INFO]: wuhao left the game
+[17:15:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@644ebf1b[id=8891417c-ca9c-3537-996d-911c4c3f17cc,name=weiai,properties={},legacy=false] (/101.132.153.204:59281): You are not white-listed on this server!
+[17:15:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@644ebf1b[id=8891417c-ca9c-3537-996d-911c4c3f17cc,name=weiai,properties={},legacy=false] (/101.132.153.204:59281) lost connection: You are not white-listed on this server!
+[17:15:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7d158e30[id=8891417c-ca9c-3537-996d-911c4c3f17cc,name=weiai,properties={},legacy=false] (/101.132.153.204:41053): You are not white-listed on this server!
+[17:15:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@7d158e30[id=8891417c-ca9c-3537-996d-911c4c3f17cc,name=weiai,properties={},legacy=false] (/101.132.153.204:41053) lost connection: You are not white-listed on this server!
+[17:15:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@c923007[id=8891417c-ca9c-3537-996d-911c4c3f17cc,name=weiai,properties={},legacy=false] (/101.132.153.204:44727): You are not white-listed on this server!
+[17:15:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@c923007[id=8891417c-ca9c-3537-996d-911c4c3f17cc,name=weiai,properties={},legacy=false] (/101.132.153.204:44727) lost connection: You are not white-listed on this server!
+[17:51:23] [Server thread/INFO]: Player shuijiao is already logged on
+[18:51:25] [Server thread/INFO]: Player shuijiao is already logged on
+[19:51:24] [Server thread/INFO]: Player shuijiao is already logged on
+[20:50:50] [Server thread/INFO]: skyking_F[/101.132.153.204:45079] logged in with entity id 187921 at (-90.42464701560921, 8.354698293381848, 271.05860067498475)
+[20:50:50] [Server thread/INFO]: skyking_F joined the game
+[20:50:50] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:50:51] [Netty Epoll Server IO #6/WARN]: Player skyking_F joined with another carpet version: 1.4.8+v200811
+[20:51:05] [Server thread/INFO]: skyking_F has reached the goal [Postmortal]
+[20:51:21] [Server thread/INFO]: skyking_F lost connection: Disconnected
+[20:51:21] [Server thread/INFO]: skyking_F left the game
+[20:51:24] [Server thread/INFO]: skyking_F[/101.132.153.204:47325] logged in with entity id 188110 at (-79.33195584127228, 7.012972723496982, 267.16422016432097)
+[20:51:24] [Server thread/INFO]: skyking_F joined the game
+[20:51:24] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:51:24] [Server thread/INFO]: Player shuijiao is already logged on
+[20:51:24] [Netty Epoll Server IO #7/WARN]: Player skyking_F joined with another carpet version: 1.4.8+v200811
+[20:51:43] [Server thread/INFO]: skyking_F lost connection: Disconnected
+[20:51:43] [Server thread/INFO]: skyking_F left the game
+[20:51:44] [Server thread/INFO]: skyking_F[/101.132.153.204:38877] logged in with entity id 188180 at (-79.33195584127228, 5.0, 267.16422016432097)
+[20:51:44] [Server thread/INFO]: skyking_F joined the game
+[20:51:44] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:51:45] [Netty Epoll Server IO #1/WARN]: Player skyking_F joined with another carpet version: 1.4.8+v200811
+[20:52:53] [Server thread/INFO]: skyking_F lost connection: Disconnected
+[20:52:53] [Server thread/INFO]: skyking_F left the game
+[21:09:10] [Server thread/INFO]: skyking_F[/101.132.153.204:45725] logged in with entity id 188591 at (-117.16775537898387, 69.0, 369.9966529527725)
+[21:09:10] [Server thread/INFO]: skyking_F joined the game
+[21:09:10] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:09:11] [Netty Epoll Server IO #5/WARN]: Player skyking_F joined with another carpet version: 1.4.8+v200811
+[21:09:33] [Server thread/INFO]: skyking_F lost connection: Disconnected
+[21:09:33] [Server thread/INFO]: skyking_F left the game
+[21:15:58] [Server thread/INFO]: OuOu319[/101.132.153.204:50939] logged in with entity id 188747 at (-377.9201, 69.0, 548.02966)
+[21:15:58] [Server thread/INFO]: OuOu319 joined the game
+[21:15:58] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:16:29] [Server thread/INFO]: OuOu319 lost connection: Disconnected
+[21:16:29] [Server thread/INFO]: OuOu319 left the game
+[21:16:46] [Server thread/INFO]: OuOu319[/101.132.153.204:39213] logged in with entity id 188969 at (-377.9201, 69.0, 548.02966)
+[21:16:46] [Server thread/INFO]: OuOu319 joined the game
+[21:16:46] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:17:17] [Server thread/INFO]: OuOu319 lost connection: Disconnected
+[21:17:17] [Server thread/INFO]: OuOu319 left the game
+[21:20:34] [Server thread/INFO]: OuOu319[/101.132.153.204:48939] logged in with entity id 189229 at (-377.9201, 69.0, 548.02966)
+[21:20:34] [Server thread/INFO]: OuOu319 joined the game
+[21:20:34] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:22:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/190144, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[21:23:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/190181, l='ServerLevel[world]', x=-401.70, y=70.26, z=438.50]
+[21:23:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/190251, l='ServerLevel[world]', x=-401.70, y=70.26, z=480.50]
+[21:32:55] [Server thread/INFO]: OuOu319 lost connection: Disconnected
+[21:32:55] [Server thread/INFO]: OuOu319 left the game
+[21:33:00] [Server thread/INFO]: OuOu319[/101.132.153.204:33837] logged in with entity id 192102 at (-449.69999998807907, 69.0, 546.6930103870642)
+[21:33:00] [Server thread/INFO]: OuOu319 joined the game
+[21:33:00] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:33:12] [Server thread/INFO]: OuOu319 lost connection: Disconnected
+[21:33:12] [Server thread/INFO]: OuOu319 left the game
+[21:34:24] [Server thread/INFO]: OuOu319[/101.132.153.204:42415] logged in with entity id 192446 at (-449.81851980453877, 70.0, 546.4829460623555)
+[21:34:24] [Server thread/INFO]: OuOu319 joined the game
+[21:34:24] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:42:11] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@354af118[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:52629): You are not white-listed on this server!
+[21:42:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@354af118[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:52629) lost connection: You are not white-listed on this server!
+[21:42:23] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5b70e87[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:58735): You are not white-listed on this server!
+[21:42:23] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b70e87[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:58735) lost connection: You are not white-listed on this server!
+[21:44:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:44:18] [Server thread/INFO]: whitelist<--[HERE]
+[21:44:21] [Server thread/INFO]: Incorrect argument for command
+[21:44:21] [Server thread/INFO]: whitelist ?<--[HERE]
+[21:44:23] [Server thread/INFO]: Incorrect argument for command
+[21:44:23] [Server thread/INFO]: whitelist help<--[HERE]
+[21:44:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:44:27] [Server thread/INFO]: ...telist add<--[HERE]
+[21:44:31] [Server thread/INFO]: Added DaiBaiZhu to the whitelist
+[21:45:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@b07efaa[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:50225): You are not white-listed on this server!
+[21:45:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@b07efaa[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:50225) lost connection: You are not white-listed on this server!
+[21:45:05] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6303b8ec[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:40973): You are not white-listed on this server!
+[21:45:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@6303b8ec[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:40973) lost connection: You are not white-listed on this server!
+[21:45:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6f796abb[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:34277): You are not white-listed on this server!
+[21:45:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f796abb[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:34277) lost connection: You are not white-listed on this server!
+[21:45:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@cb81b02[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:45863): You are not white-listed on this server!
+[21:45:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@cb81b02[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:45863) lost connection: You are not white-listed on this server!
+[21:46:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@17e730ad[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:48169): You are not white-listed on this server!
+[21:46:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@17e730ad[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:48169) lost connection: You are not white-listed on this server!
+[21:47:08] [Server thread/INFO]: Player is already whitelisted
+[21:47:12] [Server thread/INFO]: Reloaded the whitelist
+[21:47:30] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6ef39526[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:34093): You are not white-listed on this server!
+[21:47:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ef39526[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:34093) lost connection: You are not white-listed on this server!
+[21:47:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@87b0007[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:60647): You are not white-listed on this server!
+[21:47:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@87b0007[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:60647) lost connection: You are not white-listed on this server!
+[21:47:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@304d0c37[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:38077): You are not white-listed on this server!
+[21:47:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@304d0c37[id=212b86b5-8bfa-3ec4-acc8-d272829785dd,name=DaiBaiZhu,properties={},legacy=false] (/101.132.153.204:38077) lost connection: You are not white-listed on this server!
+[21:47:57] [Server thread/INFO]: Reloaded the whitelist
+[21:50:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/195456, l='ServerLevel[world]', x=-401.70, y=74.26, z=460.50]
+[21:50:45] [Server thread/INFO]: DaiBaiZhu[/101.132.153.204:53415] logged in with entity id 195510 at (-42.5, 64.0, 239.5)
+[21:50:45] [Server thread/INFO]: DaiBaiZhu joined the game
+[21:50:45] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:51:24] [Server thread/INFO]: Player shuijiao is already logged on
+[21:52:09] [Server thread/INFO]: DaiBaiZhu fell from a high place
+[21:53:17] [Server thread/INFO]: xiaoxiaorui[/101.132.153.204:33167] logged in with entity id 195859 at (-113.99025688575531, 85.0, 219.96971153786347)
+[21:53:17] [Server thread/INFO]: xiaoxiaorui joined the game
+[21:53:17] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:53:18] [Netty Epoll Server IO #3/WARN]: Player xiaoxiaorui joined with another carpet version: 1.4.17+v201111
+[21:54:59] [Server thread/INFO]: xiaoxiaorui has made the advancement [A Seedy Place]
+[21:55:01] [Server thread/INFO]: <DaiBaiZhu> az
+[21:55:05] [Server thread/INFO]: DaiBaiZhu has made the advancement [A Seedy Place]
+[21:55:06] [Server thread/INFO]: <xiaoxiaorui> 我饿了awa
+[21:55:11] [Server thread/INFO]: <xiaoxiaorui> ..
+[21:56:02] [Server thread/INFO]: OuOu319 has made the advancement [Sweet Dreams]
+[21:57:01] [Server thread/INFO]: <DaiBaiZhu> n你也刚玩?
+[21:57:05] [Server thread/INFO]: <xiaoxiaorui> 嗯
+[21:57:08] [Server thread/INFO]: <DaiBaiZhu> ==
+[21:57:13] [Server thread/INFO]: <OuOu319> wuhu
+[21:57:45] [Server thread/INFO]: <DaiBaiZhu> 我以为你推荐我玩这个 你已经是大佬了
+[21:57:50] [Server thread/INFO]: <xiaoxiaorui> hh
+[21:58:34] [Server thread/INFO]: <DaiBaiZhu> 过年有压岁钱买个国际版玩
+[21:58:37] [Server thread/INFO]: <DaiBaiZhu> haha
+[21:59:02] [Server thread/INFO]: xiaoxiaorui lost connection: Timed out
+[21:59:02] [Server thread/INFO]: xiaoxiaorui left the game
+[21:59:09] [Server thread/INFO]: xiaoxiaorui[/101.132.153.204:48671] logged in with entity id 197953 at (-167.99389618541124, 71.41999998688698, 411.74420958079395)
+[21:59:09] [Server thread/INFO]: xiaoxiaorui joined the game
+[21:59:09] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:59:11] [Netty Epoll Server IO #2/WARN]: Player xiaoxiaorui joined with another carpet version: 1.4.17+v201111
+[21:59:22] [Server thread/INFO]: <DaiBaiZhu> ==
+[21:59:44] [Server thread/INFO]: <DaiBaiZhu> 我开穿透只能国际版进
+[21:59:51] [Server thread/INFO]: wuhao[/101.132.153.204:40397] logged in with entity id 198612 at (-7090.300000011921, 2.0, -6908.3140910031225)
+[21:59:51] [Server thread/INFO]: wuhao joined the game
+[21:59:51] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:59:52] [Netty Epoll Server IO #4/WARN]: Player wuhao joined with another carpet version: 1.4.11+v200910
+[21:59:52] [Server thread/INFO]: <DaiBaiZhu> 害
+[22:00:04] [Server thread/INFO]: <xiaoxiaorui> 俺过年买
+[22:00:22] [Server thread/INFO]: <DaiBaiZhu> hhaa
+[22:00:49] [Server thread/INFO]: <DaiBaiZhu> 到时候我看看能不能开服 165对于你们还是太贵了
+[22:01:40] [Server thread/INFO]: xiaoxiaorui has made the advancement [What a Deal!]
+[22:02:16] [Server thread/INFO]: wuhao lost connection: Disconnected
+[22:02:16] [Server thread/INFO]: wuhao left the game
+[22:03:07] [Server thread/INFO]: <xiaoxiaorui> ...
+[22:03:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/200744, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[22:04:58] [Server thread/INFO]: xiaoxiaorui fell from a high place
+[22:06:10] [Server thread/INFO]: <DaiBaiZhu> 这服开多久了 主城成这样了==
+[22:06:51] [Server thread/INFO]: <xiaoxiaorui> 再铺层墙就好看了
+[22:06:58] [Server thread/INFO]: <DaiBaiZhu> 我看其他服 主城和资源区和家是分开的
+[22:07:16] [Server thread/INFO]: <xiaoxiaorui> enenawa
+[22:08:10] [Server thread/INFO]: <DaiBaiZhu> 应该是几个世界开的
+[22:08:17] [Server thread/INFO]: <xiaoxiaorui> 分开我觉得不好玩ａｗａ
+[22:09:06] [Server thread/INFO]: <DaiBaiZhu> 或者主城多少格内圈起来
+[22:09:39] [Server thread/INFO]: <xiaoxiaorui> awa
+[22:10:02] [Server thread/INFO]: xiaoxiaorui lost connection: Disconnected
+[22:10:02] [Server thread/INFO]: xiaoxiaorui left the game
+[22:10:07] [Server thread/INFO]: DaiBaiZhu lost connection: Disconnected
+[22:10:07] [Server thread/INFO]: DaiBaiZhu left the game
+[22:12:04] [Server thread/INFO]: OuOu319 lost connection: Disconnected
+[22:12:04] [Server thread/INFO]: OuOu319 left the game
+[22:20:56] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:49729] logged in with entity id 202672 at (-61.30133428382653, 114.0, 523.3276162130933)
+[22:20:56] [Server thread/INFO]: MAX_XiaoKui joined the game
+[22:20:56] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:20:57] [Netty Epoll Server IO #2/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[22:26:57] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[22:26:57] [Server thread/INFO]: MAX_XiaoKui left the game
+[22:51:22] [Server thread/INFO]: Player shuijiao is already logged on
+[23:44:51] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:37241] logged in with entity id 204373 at (-98.90135653018176, 114.0, 523.1024197148499)
+[23:44:51] [Server thread/INFO]: MAX_XiaoKui joined the game
+[23:44:51] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:44:52] [Netty Epoll Server IO #0/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[23:47:11] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[23:47:11] [Server thread/INFO]: MAX_XiaoKui left the game
+[23:51:23] [Server thread/INFO]: Player shuijiao is already logged on

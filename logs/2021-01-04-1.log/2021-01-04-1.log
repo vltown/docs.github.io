@@ -1,0 +1,127 @@
+[00:39:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[00:53:12] [Server thread/INFO]: Player shuijiao is already logged on
+[01:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5071ms or 101 ticks behind
+[01:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6372ms or 127 ticks behind
+[01:53:10] [Server thread/INFO]: Player shuijiao is already logged on
+[02:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7429ms or 148 ticks behind
+[02:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
+[02:53:14] [Server thread/INFO]: Player shuijiao is already logged on
+[03:53:11] [Server thread/INFO]: Player shuijiao is already logged on
+[04:53:12] [Server thread/INFO]: Player shuijiao is already logged on
+[05:04:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3301ms or 66 ticks behind
+[05:53:10] [Server thread/INFO]: Player shuijiao is already logged on
+[06:53:10] [Server thread/INFO]: Player shuijiao is already logged on
+[07:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[07:53:11] [Server thread/INFO]: Player shuijiao is already logged on
+[08:53:11] [Server thread/INFO]: Player shuijiao is already logged on
+[09:53:11] [Server thread/INFO]: Player shuijiao is already logged on
+[10:53:08] [Server thread/INFO]: Player shuijiao is already logged on
+[10:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2962ms or 59 ticks behind
+[11:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3613ms or 72 ticks behind
+[11:34:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2497ms or 49 ticks behind
+[11:53:09] [Server thread/INFO]: Player shuijiao is already logged on
+[12:53:08] [Server thread/INFO]: Player shuijiao is already logged on
+[13:35:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6108ms or 122 ticks behind
+[13:53:08] [Server thread/INFO]: Player shuijiao is already logged on
+[13:56:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4216ms or 84 ticks behind
+[14:15:10] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:36271] logged in with entity id 145798 at (-83.29972408369758, 114.0, 523.4262131744428)
+[14:15:10] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:15:10] [Server thread/INFO]: na2hco3_CN joined the game
+[14:15:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4341ms or 86 ticks behind
+[14:15:11] [Netty Epoll Server IO #1/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[14:20:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[14:35:07] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[14:35:08] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[14:35:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7853ms or 157 ticks behind
+[14:38:21] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[14:38:21] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[14:38:49] [Server thread/INFO]: <na2hco3_CN> nice
+[14:40:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10495ms or 209 ticks behind
+[14:45:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12091ms or 241 ticks behind
+[14:46:34] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[14:46:35] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[14:48:01] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[14:48:02] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[14:51:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12693ms or 253 ticks behind
+[14:53:09] [Server thread/INFO]: Player shuijiao is already logged on
+[14:54:27] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[14:54:32] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966211)]
+[14:54:33] [Server thread/INFO]: [na2hco3_CN: Triggered [config] (set value to 1478966210)]
+[14:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12529ms or 250 ticks behind
+[14:55:42] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[14:55:42] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[14:55:50] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/162583, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[14:55:53] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/162775, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[14:56:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/163487, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[14:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/163679, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[14:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/163680, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[14:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/163681, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[14:57:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/165849, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[14:57:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/166071, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[14:57:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/166089, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[14:57:52] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[14:57:52] [Server thread/INFO]: na2hco3_CN left the game
+[15:11:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11516ms or 230 ticks behind
+[15:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11170ms or 223 ticks behind
+[15:31:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12681ms or 253 ticks behind
+[15:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15170ms or 303 ticks behind
+[15:50:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@57571a84[id=3cdea077-ba8e-3b26-bca6-e2e4c8284128,name=JoklisT_,properties={},legacy=false] (/101.132.153.204:45919): You are not white-listed on this server!
+[15:50:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@57571a84[id=3cdea077-ba8e-3b26-bca6-e2e4c8284128,name=JoklisT_,properties={},legacy=false] (/101.132.153.204:45919) lost connection: You are not white-listed on this server!
+[15:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3495ms or 69 ticks behind
+[15:53:09] [Server thread/INFO]: Player shuijiao is already logged on
+[16:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8875ms or 177 ticks behind
+[16:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6646ms or 132 ticks behind
+[16:17:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5826ms or 116 ticks behind
+[16:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6167ms or 123 ticks behind
+[16:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5127ms or 102 ticks behind
+[16:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4388ms or 87 ticks behind
+[16:42:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4301ms or 86 ticks behind
+[16:52:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2670ms or 53 ticks behind
+[16:53:09] [Server thread/INFO]: Player shuijiao is already logged on
+[17:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2708ms or 54 ticks behind
+[17:12:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[17:53:09] [Server thread/INFO]: Player shuijiao is already logged on
+[18:12:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4824ms or 96 ticks behind
+[18:43:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[18:53:10] [Server thread/INFO]: Player shuijiao is already logged on
+[19:08:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[19:53:08] [Server thread/INFO]: Player shuijiao is already logged on
+[20:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3334ms or 66 ticks behind
+[20:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[20:38:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[20:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[20:53:08] [Server thread/INFO]: Player shuijiao is already logged on
+[20:53:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
+[21:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
+[21:48:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3452ms or 69 ticks behind
+[21:53:07] [Server thread/INFO]: Player shuijiao is already logged on
+[22:16:04] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:51429] logged in with entity id 185296 at (-44.07676527050734, 70.0, 529.3686052701238)
+[22:16:04] [Server thread/INFO]: na2hco3_CN joined the game
+[22:16:04] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:16:05] [Netty Epoll Server IO #4/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[22:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[22:17:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[22:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3816ms or 76 ticks behind
+[22:19:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[22:20:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[22:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2159ms or 43 ticks behind
+[22:23:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[22:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3419ms or 68 ticks behind
+[22:26:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[22:27:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[22:28:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[22:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[22:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
+[22:34:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[22:43:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[22:53:07] [Server thread/INFO]: Player shuijiao is already logged on
+[22:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[22:54:39] [Server thread/WARN]: Trying to add entity with duplicated UUID ffd00a15-38af-4afd-a313-c8d3a4f22432. Existing minecraft:armor_stand#193871, new: minecraft:armor_stand#193871
+[23:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[23:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[23:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3149ms or 62 ticks behind
+[23:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[23:53:08] [Server thread/INFO]: Player shuijiao is already logged on
+[23:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[23:57:40] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[23:57:40] [Server thread/INFO]: na2hco3_CN left the game

@@ -1,0 +1,39 @@
+[00:02:37] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:54049] logged in with entity id 205812 at (-217.30000001192093, 105.0, 399.55027071996886)
+[00:02:37] [Server thread/INFO]: MAX_XiaoKui joined the game
+[00:02:37] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[00:02:38] [Netty Epoll Server IO #4/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[00:13:08] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[00:13:08] [Server thread/INFO]: MAX_XiaoKui left the game
+[00:14:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6ac6bce1[id=8ef1b65a-65e7-35b3-8d5c-4419df9d510c,name=waynehelley,properties={},legacy=false] (/101.132.153.204:34439): You are not white-listed on this server!
+[00:14:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ac6bce1[id=8ef1b65a-65e7-35b3-8d5c-4419df9d510c,name=waynehelley,properties={},legacy=false] (/101.132.153.204:34439) lost connection: You are not white-listed on this server!
+[00:15:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@748225fb[id=8ef1b65a-65e7-35b3-8d5c-4419df9d510c,name=waynehelley,properties={},legacy=false] (/101.132.153.204:57349): You are not white-listed on this server!
+[00:15:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@748225fb[id=8ef1b65a-65e7-35b3-8d5c-4419df9d510c,name=waynehelley,properties={},legacy=false] (/101.132.153.204:57349) lost connection: You are not white-listed on this server!
+[00:51:24] [Server thread/INFO]: Player shuijiao is already logged on
+[01:51:21] [Server thread/INFO]: Player shuijiao is already logged on
+[02:51:22] [Server thread/INFO]: Player shuijiao is already logged on
+[03:51:22] [Server thread/INFO]: Player shuijiao is already logged on
+[04:51:20] [Server thread/INFO]: Player shuijiao is already logged on
+[05:51:21] [Server thread/INFO]: Player shuijiao is already logged on
+[06:51:22] [Server thread/INFO]: Player shuijiao is already logged on
+[07:51:22] [Server thread/INFO]: Player shuijiao is already logged on
+[08:51:19] [Server thread/INFO]: Player shuijiao is already logged on
+[09:51:20] [Server thread/INFO]: Player shuijiao is already logged on
+[10:51:20] [Server thread/INFO]: Player shuijiao is already logged on
+[11:51:21] [Server thread/INFO]: Player shuijiao is already logged on
+[12:51:21] [Server thread/INFO]: Player shuijiao is already logged on
+[13:51:19] [Server thread/INFO]: Player shuijiao is already logged on
+[14:51:20] [Server thread/INFO]: Player shuijiao is already logged on
+[15:51:20] [Server thread/INFO]: Player shuijiao is already logged on
+[16:51:21] [Server thread/INFO]: Player shuijiao is already logged on
+[17:51:19] [Server thread/INFO]: Player shuijiao is already logged on
+[18:51:20] [Server thread/INFO]: Player shuijiao is already logged on
+[19:51:20] [Server thread/INFO]: Player shuijiao is already logged on
+[20:51:18] [Server thread/INFO]: Player shuijiao is already logged on
+[21:51:19] [Server thread/INFO]: Player shuijiao is already logged on
+[22:11:54] [Server thread/INFO]: DIOHIGH[/101.132.153.204:47017] logged in with entity id 231932 at (-145.69999998807907, 9.0, 590.5224343520201)
+[22:11:54] [Server thread/INFO]: DIOHIGH joined the game
+[22:11:54] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:16:19] [Server thread/INFO]: DIOHIGH lost connection: Disconnected
+[22:16:19] [Server thread/INFO]: DIOHIGH left the game
+[22:51:19] [Server thread/INFO]: Player shuijiao is already logged on
+[23:51:19] [Server thread/INFO]: Player shuijiao is already logged on

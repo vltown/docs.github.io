@@ -1,0 +1,398 @@
+[05:21:24] [main/INFO]: Loading for game Minecraft 1.16.4
+[05:21:24] [ForkJoinPool-1-worker-3/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[05:21:24] [ForkJoinPool-1-worker-1/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[05:21:24] [main/WARN]: Warnings were found! 
+ - Mod 'BetterF3' (betterf3) recommends version 1.14.6 or later of mod modmenu, which is missing!
+	 - You must install version 1.14.6 or later of modmenu.
+[05:21:25] [main/INFO]: [FabricLoader] Loading 62 mods: fabric-renderer-api-v1@0.3.3+6a2618f53a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, fabric-structure-api-v1@1.1.1+f1d8af063a, bbor@2.4-1.16.3, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.6.0, fabric-containers-v0@0.1.8+6a2618f53a, fabric-dimensions-v1@2.0.1+9a6c75813a, fabric-object-builder-api-v1@1.9.2+6a2618f53a, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.27.1+1.16, carpet@1.4.21, fabric-particles-v1@0.2.2+6a2618f53a, fabric-networking-v0@0.1.10+6a2618f53a, cotton-config@1.0.0-rc.7, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, minecraft@1.16.4, here@0.1.0+1.16, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, jankson@3.0.0+j1.2.0, cloth-basic-math@0.5.1, fabric-command-api-v1@1.0.9+6a2618f53a, phosphor@0.6.0+build.7, bluemap@1.3.0-snap, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, player-roles@1.2.0, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-item-api-v1@1.2.0+6a2618f53a, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-rendering-v1@1.4.0+6a2618f53a, fabric-key-binding-api-v1@1.0.1+730711c63a, cloth-config2@4.7.0-unstable, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.3.2+1944f3e03a, carpet-tis-addition@1.11.2, fabric-content-registries-v0@0.2.0+e77439c73a, fabric-tag-extensions-v0@1.1.0+e77439c73a, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.7.1+285766753a, textile_backup@2.1.0-prev-1.16.4, betterf3@1.1.1, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, fabric-models-v0@0.1.1+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
+[05:21:25] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[05:21:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/container/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[05:21:28] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[05:21:37] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[05:21:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:21:39] [main/WARN]: Ambiguity between arguments [bluemap, marker, create, id, map, x] and [bluemap, marker, create, id, map, label] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[05:21:39] [main/WARN]: Ambiguity between arguments [bluemap, render, cancel] and [bluemap, render, world|map] with inputs: [cancel]
+[05:21:39] [main/WARN]: Ambiguity between arguments [bluemap, render, prioritize] and [bluemap, render, world|map] with inputs: [prioritize]
+[05:21:39] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, world|map] with inputs: [0, -123, 123]
+[05:21:39] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, x] with inputs: [0, -123, 123]
+[05:21:39] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, radius] with inputs: [0, -1]
+[05:21:39] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, world|map] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[05:21:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:21:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:21:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:21:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:21:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:21:39] [main/INFO]: Reloading ResourceManager: Default, bukkit, skimit-DataPack, Fabric Tool Attribute API (v1), Player Roles
+[05:21:41] [Worker-Main-4/INFO]: Loaded 7 recipes
+[05:21:41] [Worker-Main-4/INFO]: Loaded 938 advancements
+[05:21:42] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.539 ms
+[05:21:42] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[05:21:42] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[05:21:42] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[05:21:42] [Server thread/INFO]: Loading properties
+[05:21:42] [Server thread/INFO]: Default game type: SURVIVAL
+[05:21:42] [Server thread/INFO]: Generating keypair
+[05:21:43] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:10799
+[05:21:43] [Server thread/INFO]: Using epoll channel type
+[05:21:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:21:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:21:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:21:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:21:43] [Server thread/INFO]: Preparing level "world"
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting repeaterPriorityFix as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting commandScriptACE as ops from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting optimizedFastEntityMovement as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting opPlayerNoCheat as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting commandPlayer as ops from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting commandScript as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting scriptsAutoload as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[05:21:43] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[05:21:44] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[05:21:44] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[05:21:44] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[05:21:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:21:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:21:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:21:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:21:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:21:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:21:47] [Server thread/INFO]: Preparing spawn area: 0%
+[05:21:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[05:21:48] [Server thread/INFO]: Preparing spawn area: 22%
+[05:21:48] [Server thread/INFO]: Time elapsed: 4196 ms
+[05:21:48] [Server thread/INFO]: tagplayer app loaded with /tagplayer command
+[05:21:48] [Server thread/INFO]: App tagplayer loaded in 144 ms
+[05:21:48] [Server thread/INFO]: Done (5.062s)! For help, type "help"
+[05:21:48] [Server thread/INFO]: Starting GS4 status listener
+[05:21:48] [Server thread/INFO]: Thread Query Listener started
+[05:21:48] [Query Listener #1/INFO]: Query running on 0.0.0.0:10799
+[05:21:48] [Thread-69/INFO]: Loading BlueMap...
+[05:21:49] [Server thread/INFO]: App tagplayer loaded in 59 ms
+[05:21:49] [Thread-69/INFO]: Loading resources...
+[05:21:49] [Thread-70/INFO]: WebServer started.
+[05:21:50] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:44671] logged in with entity id 86 at (-303.6077547845123, 64.0, 400.5186958362271)
+[05:21:50] [Server thread/INFO]: MAX_ShouWang joined the game
+[05:21:51] [Server thread/INFO]: Can only manipulate existing players
+[05:21:51] [Server thread/INFO]: Can only manipulate existing players
+[05:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[05:21:51] [Thread-69/INFO]: Loading bluemap assets (1/3)...
+[05:21:51] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[05:21:51] [Server thread/INFO]: MAX_ShouWang left the game
+[05:21:51] [Thread-69/INFO]: Loading realms assets (2/3)...
+[05:21:51] [Thread-69/INFO]: Loading minecraft assets (3/3)...
+[05:21:52] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:55983] logged in with entity id 92 at (-303.6077547845123, 64.0, 400.5186958362271)
+[05:21:52] [Server thread/INFO]: MAX_ShouWang joined the game
+[05:21:52] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[05:21:52] [Netty Epoll Server IO #2/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[05:21:53] [Thread-69/INFO]: BlueMap loaded!
+[05:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6876ms or 137 ticks behind
+[05:22:47] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:43135] logged in with entity id 1146 at (-465.1550384696924, 70.0, 457.3947134494672)
+[05:22:47] [Server thread/INFO]: MAX_XiaoKui joined the game
+[05:22:47] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[05:22:49] [Netty Epoll Server IO #4/INFO]: Player MAX_XiaoKui joined with a matching carpet client
+[05:22:55] [Server thread/INFO]: Can only manipulate existing players
+[05:22:55] [Server thread/INFO]: Can only manipulate existing players
+[05:23:43] [Server thread/INFO]: <MAX_ShouWang> 这难道是失传已久的下线遁？
+[05:24:23] [Server thread/INFO]: <MAX_ShouWang> az
+[05:25:32] [Server thread/INFO]: <MAX_ShouWang> 鞘翅可以染色？
+[05:25:39] [Server thread/INFO]: <MAX_XiaoKui> bu
+[05:26:01] [Server thread/INFO]: <MAX_ShouWang> 那你这怎么回事
+[05:26:10] [Server thread/INFO]: <MAX_XiaoKui> 你装了optifine？
+[05:26:28] [Server thread/INFO]: <MAX_ShouWang> 大概吧
+[05:29:47] [Server thread/INFO]: <MAX_ShouWang> 我记得现在可以转移附魔了对吧
+[05:29:54] [Server thread/INFO]: <MAX_XiaoKui> ?
+[05:30:20] [Server thread/INFO]: <MAX_ShouWang> 就是把附魔退到书上
+[05:30:34] [Server thread/INFO]: <MAX_XiaoKui> 好像不行
+[05:31:30] [Server thread/INFO]: <MAX_ShouWang> 那我要这经验修补的钓竿有何用
+[05:32:55] [Server thread/INFO]: Can only manipulate existing players
+[05:32:55] [Server thread/INFO]: Can only manipulate existing players
+[05:33:07] [Server thread/INFO]: shuijiao[local] logged in with entity id 5073 at (-42.5, 61.0, 241.5)
+[05:33:07] [Server thread/INFO]: 假的 shuijiao joined the game
+[05:36:32] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[05:36:32] [Server thread/INFO]: MAX_ShouWang left the game
+[05:40:52] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:43665] logged in with entity id 11959 at (-116.56195019804628, 116.0, 520.9647490915772)
+[05:40:52] [Server thread/INFO]: MAX_ShouWang joined the game
+[05:40:52] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[05:40:56] [Netty Epoll Server IO #7/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[05:43:24] [Server thread/INFO]: <MAX_XiaoKui> o
+[05:43:35] [Server thread/INFO]: <MAX_XiaoKui> 打开菜单可以了？
+[05:43:57] [Server thread/INFO]: <MAX_XiaoKui> 可以
+[05:44:16] [Server thread/INFO]: <MAX_XiaoKui> 那些奇怪的语言有去掉吗
+[05:45:06] [Server thread/INFO]: <MAX_XiaoKui> 你放GitHub上吗
+[05:45:15] [Server thread/INFO]: <MAX_XiaoKui> 哪个模组
+[05:46:11] [Server thread/INFO]: <MAX_XiaoKui> 行，白天给我？
+[05:46:30] [Server thread/INFO]: <MAX_XiaoKui> 我QQ没打开啊
+[05:47:24] [Server thread/INFO]: <MAX_ShouWang> 真·跨频道聊天
+[05:49:21] [Server thread/INFO]: <MAX_XiaoKui> 我马上得睡了
+[05:49:25] [Server thread/INFO]: <MAX_ShouWang> 你们要正版号吧
+[05:49:40] [Server thread/INFO]: <MAX_ShouWang> 我估计是进不了了
+[05:49:55] [Server thread/INFO]: <MAX_XiaoKui> 进啥
+[05:50:29] [Server thread/INFO]: <MAX_ShouWang> 试模组不用进游戏吗
+[05:50:43] [Server thread/INFO]: <MAX_XiaoKui> 用啊
+[05:50:45] [Server thread/INFO]: <MAX_XiaoKui> 怎么了
+[05:51:17] [Server thread/INFO]: <MAX_ShouWang> 难道直接在服务器试？
+[05:51:38] [Server thread/INFO]: <MAX_ShouWang> soga
+[05:52:05] [Server thread/INFO]: Player shuijiao is already logged on
+[05:52:45] [Server thread/INFO]: <MAX_XiaoKui> o
+[05:54:03] [Server thread/INFO]: <MAX_XiaoKui> 我服务端fabric API只能0.27.1，再高的话玩家进不去
+[05:54:53] [Server thread/INFO]: <MAX_XiaoKui> 不，主要是玩家进不去，不是装不上
+[05:57:36] [Server thread/INFO]: <MAX_XiaoKui> 我得白天再试
+[05:58:48] [Server thread/INFO]: <MAX_XiaoKui> 子服报错像这样com.mojang.authlib.GameProfile@3e108376[id=<null>,name=MAX_XiaoKui,properties={},legacy=false] (/101.132.153.204:42141) lost connection: Timed out
+[05:59:39] [Server thread/INFO]: <MAX_XiaoKui> BC上面正常，客户端显示一直在加入
+[05:59:45] [Server thread/INFO]: <MAX_XiaoKui> 下了
+[05:59:52] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[05:59:52] [Server thread/INFO]: MAX_XiaoKui left the game
+[05:59:52] [Server thread/INFO]: <MAX_ShouWang> bye
+[06:00:26] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[06:00:26] [Server thread/INFO]: MAX_ShouWang left the game
+[06:33:49] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:39781] logged in with entity id 21836 at (-152.45035269410744, 63.0, 503.0280976459888)
+[06:33:49] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:33:49] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:33:50] [Netty Epoll Server IO #5/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:34:07] [Server thread/INFO]: <MAX_ShouWang> 爷又回来了
+[06:42:49] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[06:42:49] [Server thread/INFO]: MAX_ShouWang left the game
+[06:42:54] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:39201] logged in with entity id 23575 at (-151.47752802534637, 63.0, 502.51115093132455)
+[06:42:54] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:42:54] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:42:55] [Netty Epoll Server IO #7/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:47:23] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[06:47:23] [Server thread/INFO]: MAX_ShouWang left the game
+[06:47:27] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:60049] logged in with entity id 24582 at (-151.49593150654928, 63.0, 501.24948160688484)
+[06:47:27] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:47:27] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:47:28] [Netty Epoll Server IO #5/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:48:41] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[06:48:41] [Server thread/INFO]: MAX_ShouWang left the game
+[06:49:08] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:46515] logged in with entity id 24954 at (-151.24462686368315, 63.0, 502.7087189931907)
+[06:49:08] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:49:08] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:49:11] [Netty Epoll Server IO #0/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:50:53] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[06:50:53] [Server thread/INFO]: MAX_ShouWang left the game
+[06:51:09] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:45843] logged in with entity id 25523 at (-151.24462686368315, 63.0, 502.7087189931907)
+[06:51:09] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:51:09] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:51:10] [Netty Epoll Server IO #3/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:52:05] [Server thread/INFO]: Player shuijiao is already logged on
+[06:53:24] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[06:53:24] [Server thread/INFO]: MAX_ShouWang left the game
+[06:53:33] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:52325] logged in with entity id 26058 at (-151.24462686368315, 63.0, 502.7087189931907)
+[06:53:33] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:53:33] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:53:34] [Netty Epoll Server IO #6/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:54:49] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[06:54:49] [Server thread/INFO]: MAX_ShouWang left the game
+[06:54:53] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:41871] logged in with entity id 26414 at (-151.24462686368315, 63.0, 502.7087189931907)
+[06:54:53] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:54:53] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:54:55] [Netty Epoll Server IO #0/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:56:38] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[06:56:38] [Server thread/INFO]: MAX_ShouWang left the game
+[06:57:26] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:42345] logged in with entity id 26949 at (-151.24462686368315, 63.0, 502.7087189931907)
+[06:57:26] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:57:26] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:57:27] [Netty Epoll Server IO #4/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[06:58:11] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[06:58:11] [Server thread/INFO]: MAX_ShouWang left the game
+[06:58:39] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:33723] logged in with entity id 27229 at (-151.24462686368315, 63.0, 502.7087189931907)
+[06:58:39] [Server thread/INFO]: MAX_ShouWang joined the game
+[06:58:39] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[06:58:40] [Netty Epoll Server IO #6/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:00:07] [Server thread/INFO]: <MAX_ShouWang> 我觉得我现在很不好
+[07:00:12] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:00:12] [Server thread/INFO]: MAX_ShouWang left the game
+[07:02:02] [Server thread/INFO]: aka213[/101.132.153.204:58029] logged in with entity id 27744 at (-42.65662280580271, 64.0, 245.55663155677587)
+[07:02:02] [Server thread/INFO]: aka213 joined the game
+[07:02:02] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:02:06] [Netty Epoll Server IO #2/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[07:03:33] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:51833] logged in with entity id 27868 at (-152.5334057650169, 63.0, 501.31317502251176)
+[07:03:33] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:03:33] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:03:37] [Netty Epoll Server IO #5/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:04:02] [Server thread/INFO]: <aka213> 你在哪
+[07:04:12] [Server thread/INFO]: <MAX_ShouWang> 你在哪
+[07:04:26] [Server thread/INFO]: <aka213> 主城
+[07:04:36] [Server thread/INFO]: <MAX_ShouWang> 马上来
+[07:07:26] [Server thread/INFO]: <aka213> 无聊死了
+[07:07:37] [Server thread/INFO]: <aka213> 你有房吗
+[07:07:40] [Server thread/INFO]: <aka213> 咱们建房子吧
+[07:08:03] [Server thread/INFO]: <MAX_ShouWang> 我住na家
+[07:08:33] [Server thread/INFO]: <aka213> 那不是我的仓库吗
+[07:08:47] [Server thread/INFO]: <MAX_ShouWang> 你指的主城和我是一个没
+[07:09:06] [Server thread/INFO]: <aka213> 你在喷泉？
+[07:09:48] [Server thread/INFO]: <aka213> 去na家得了
+[07:10:07] [Server thread/INFO]: <MAX_ShouWang> 我就在这啊
+[07:11:04] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[07:11:04] [Server thread/INFO]: MAX_ShouWang left the game
+[07:11:07] [Server thread/INFO]: <aka213> e
+[07:11:09] [Server thread/INFO]: <aka213> ?
+[07:11:34] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:56441] logged in with entity id 33763 at (-82.48004125669553, 115.0, 532.5124999880791)
+[07:11:34] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:11:34] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:11:37] [Netty Epoll Server IO #6/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:12:31] [Server thread/INFO]: <MAX_ShouWang> 感情现在全服合金套了？
+[07:12:45] [Server thread/INFO]: <aka213> 大部分都是我提供的
+[07:13:17] [Server thread/INFO]: <MAX_ShouWang> 给我这个干嘛a
+[07:14:18] [Server thread/INFO]: <MAX_ShouWang> 我像是用的起信标的人吗
+[07:14:19] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[07:14:19] [Server thread/INFO]: MAX_ShouWang left the game
+[07:14:32] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:44705] logged in with entity id 34267 at (-76.49008307556397, 114.0, 517.0267470728038)
+[07:14:32] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:14:32] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:14:34] [Netty Epoll Server IO #2/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:16:10] [Server thread/INFO]: <aka213> 无聊我溜了
+[07:16:32] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[07:16:32] [Server thread/INFO]: MAX_ShouWang left the game
+[07:16:35] [Server thread/INFO]: aka213 lost connection: Disconnected
+[07:16:35] [Server thread/INFO]: aka213 left the game
+[07:17:07] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:45663] logged in with entity id 34799 at (-143.43989077081994, 73.0, 441.30000001192093)
+[07:17:07] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:17:07] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:17:08] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:17:08] [Server thread/INFO]: MAX_ShouWang left the game
+[07:17:11] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:42411] logged in with entity id 34889 at (-143.43989077081994, 73.0, 441.30000001192093)
+[07:17:11] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:17:11] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:17:12] [Netty Epoll Server IO #7/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:19:06] [Server thread/INFO]: <MAX_ShouWang> 可还行
+[07:23:52] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:23:52] [Server thread/INFO]: MAX_ShouWang left the game
+[07:32:48] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:33897] logged in with entity id 36943 at (-141.1795961809347, 82.0, 188.1466168695223)
+[07:32:48] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:32:48] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:32:49] [Netty Epoll Server IO #7/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:33:56] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:33:56] [Server thread/INFO]: MAX_ShouWang left the game
+[07:52:05] [Server thread/INFO]: Player shuijiao is already logged on
+[07:58:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@68c1fbfe[id=4dffcf53-dbe7-304b-a66a-2cc64ef0af0b,name=Yu_Xuan,properties={},legacy=false] (/101.132.153.204:48295): You are not white-listed on this server!
+[07:58:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@68c1fbfe[id=4dffcf53-dbe7-304b-a66a-2cc64ef0af0b,name=Yu_Xuan,properties={},legacy=false] (/101.132.153.204:48295) lost connection: You are not white-listed on this server!
+[07:58:44] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@e82b026[id=4dffcf53-dbe7-304b-a66a-2cc64ef0af0b,name=Yu_Xuan,properties={},legacy=false] (/101.132.153.204:47323): You are not white-listed on this server!
+[07:58:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@e82b026[id=4dffcf53-dbe7-304b-a66a-2cc64ef0af0b,name=Yu_Xuan,properties={},legacy=false] (/101.132.153.204:47323) lost connection: You are not white-listed on this server!
+[08:42:59] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:37145] logged in with entity id 41081 at (-73.44393920334107, 7.0, 278.76249998807907)
+[08:42:59] [Server thread/INFO]: MAX_ShouWang joined the game
+[08:42:59] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:43:00] [Netty Epoll Server IO #0/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[08:45:48] [Server thread/INFO]: MAX_ShouWang was shot by Skeleton
+[08:52:05] [Server thread/INFO]: Player shuijiao is already logged on
+[09:00:10] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[09:00:10] [Server thread/INFO]: MAX_ShouWang left the game
+[09:13:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@10bba025[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:53585): You are not white-listed on this server!
+[09:13:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@10bba025[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:53585) lost connection: You are not white-listed on this server!
+[09:13:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@69bee24b[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:51477): You are not white-listed on this server!
+[09:13:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@69bee24b[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:51477) lost connection: You are not white-listed on this server!
+[09:14:55] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7afe9b02[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:49913): You are not white-listed on this server!
+[09:14:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@7afe9b02[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:49913) lost connection: You are not white-listed on this server!
+[09:16:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@313f959a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:43133): You are not white-listed on this server!
+[09:16:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@313f959a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:43133) lost connection: You are not white-listed on this server!
+[09:19:26] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@24362417[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:55187): You are not white-listed on this server!
+[09:19:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@24362417[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:55187) lost connection: You are not white-listed on this server!
+[09:25:41] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@453ee462[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:51913): You are not white-listed on this server!
+[09:25:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@453ee462[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:51913) lost connection: You are not white-listed on this server!
+[09:28:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@27ae2e9a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:58189): You are not white-listed on this server!
+[09:28:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@27ae2e9a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:58189) lost connection: You are not white-listed on this server!
+[09:31:28] [Server thread/INFO]: Player is already whitelisted
+[09:32:59] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c6cf9c7[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:35567): You are not white-listed on this server!
+[09:32:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c6cf9c7[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:35567) lost connection: You are not white-listed on this server!
+[09:33:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:33:41] [Server thread/INFO]: whitelist<--[HERE]
+[09:33:41] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3ef342f2[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:53703): You are not white-listed on this server!
+[09:33:41] [Server thread/INFO]: com.mojang.authlib.GameProfile@3ef342f2[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:53703) lost connection: You are not white-listed on this server!
+[09:33:53] [Server thread/INFO]: Incorrect argument for command
+[09:33:53] [Server thread/INFO]: whitelist help<--[HERE]
+[09:33:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:33:53] [Server thread/INFO]: <--[HERE]
+[09:33:57] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@b5dffca[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:50339): You are not white-listed on this server!
+[09:33:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@b5dffca[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:50339) lost connection: You are not white-listed on this server!
+[09:34:04] [Server thread/INFO]: Incorrect argument for command
+[09:34:04] [Server thread/INFO]: whitelist help<--[HERE]
+[09:34:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:34:10] [Server thread/INFO]: whitelist<--[HERE]
+[09:34:21] [Server thread/INFO]: Reloaded the whitelist
+[09:34:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:34:21] [Server thread/INFO]: <--[HERE]
+[09:34:38] [Server thread/INFO]: Player is already whitelisted
+[09:42:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@25d799ea[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:57333): You are not white-listed on this server!
+[09:42:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@25d799ea[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:57333) lost connection: You are not white-listed on this server!
+[09:52:05] [Server thread/INFO]: Player shuijiao is already logged on
+[09:52:29] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3f1b81f3[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:51691): You are not white-listed on this server!
+[09:52:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@3f1b81f3[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:51691) lost connection: You are not white-listed on this server!
+[09:58:53] [Server thread/INFO]: Player is already whitelisted
+[09:59:36] [Server thread/INFO]: Removed xia_xia from the whitelist
+[09:59:42] [Server thread/INFO]: Added xia_xia to the whitelist
+[09:59:51] [Server thread/INFO]: Reloaded the whitelist
+[10:02:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4d03a7e8[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:34071): You are not white-listed on this server!
+[10:02:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@4d03a7e8[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:34071) lost connection: You are not white-listed on this server!
+[10:02:41] [Server thread/INFO]: Reloaded the whitelist
+[10:03:46] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@730fa2f2[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:43955): You are not white-listed on this server!
+[10:03:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@730fa2f2[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:43955) lost connection: You are not white-listed on this server!
+[10:04:07] [Server thread/INFO]: There are 89 whitelisted players: xm233, DIOHIGH, Hai_Xing_Yang, beiwei_lkiru, _Ray_, ZetaTong, Assassin_LinC, wushi6969, WhiteSky_Bai, Naando, Aod0lcy, austinfoster, balabaj, China_mxb, Flipped777, Nan_Yang, justWYL, SLIMJIMCHRIS, BCX, Aod_lcy, Mk_Bolo, zimzaza4, EDGW, jishuo, ChengXi123, YuceChivas, XxiaoyunX, Xia_Xia, EDGWA, aka213, yao_di, XZHao02, zxcalic, ooo, yuwenkang, Erue, Plants352039, RZYplus, MTpromax, na2hco3CN1277, DigitalBeast405, TTMM, LightImpala7271, goudongxi6066, extclp, na2hco3_CN, Qian_linger, MikeOvO, H2O, Manjaro_linux, Lin_Moooo, WelcoFa, zeao, MAXXiaoKui5106, skyking_F, Charmander, dy_xiapiAce, Cora_cold, xiaojian520, xiaolouQAQ, KL_Tian, Leafiey, OuOu319, Looooocro, huan_mo, 000tt000, MAX_ShouWang, X_mikl, chy, yunxiao, MPCQUQ, AQ, PrestoNickel564, Yantey, MIXMIXM, wuhao, Yan, wushi_, Qing_sha, BidTrout6715972, nukibple, soy_25, poxington, MAX_XiaoKui, Firliang, ChengXi123SJ, xiao_rui, Yu_Chei, Mr_Yijun
+[10:04:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2adbc048[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:36137): You are not white-listed on this server!
+[10:04:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@2adbc048[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:36137) lost connection: You are not white-listed on this server!
+[10:23:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ef84db[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:54489): You are not white-listed on this server!
+[10:23:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ef84db[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:54489) lost connection: You are not white-listed on this server!
+[10:23:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@51ab4a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:54973): You are not white-listed on this server!
+[10:23:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@51ab4a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:54973) lost connection: You are not white-listed on this server!
+[10:26:47] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@44803[id=097d3392-865a-3f3c-8b4a-da1c3473466c,name=TestUser,properties={},legacy=false] (/101.132.153.204:50951): You are not white-listed on this server!
+[10:26:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@44803[id=097d3392-865a-3f3c-8b4a-da1c3473466c,name=TestUser,properties={},legacy=false] (/101.132.153.204:50951) lost connection: You are not white-listed on this server!
+[10:29:01] [Server thread/INFO]: EDGW[/101.132.153.204:34999] logged in with entity id 50317 at (-2081.1050494790475, 68.5625, 526.962282155762)
+[10:29:01] [Server thread/INFO]: EDGW joined the game
+[10:29:01] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:29:02] [Server thread/INFO]: EDGW lost connection: Disconnected
+[10:29:02] [Server thread/INFO]: EDGW left the game
+[10:29:04] [Server thread/INFO]: EDGW[/101.132.153.204:37583] logged in with entity id 50374 at (-2081.1050494790475, 68.5625, 526.962282155762)
+[10:29:04] [Server thread/INFO]: EDGW joined the game
+[10:29:04] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[10:29:26] [Server thread/INFO]: EDGW lost connection: Disconnected
+[10:29:26] [Server thread/INFO]: EDGW left the game
+[10:30:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2cd7a3bb[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:60679): You are not white-listed on this server!
+[10:30:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@2cd7a3bb[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:60679) lost connection: You are not white-listed on this server!
+[10:32:17] [Server thread/INFO]: Reloaded the whitelist
+[10:32:32] [Server thread/INFO]: Added xia_xia to the whitelist
+[10:35:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@76c3d27a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:34095): You are not white-listed on this server!
+[10:35:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@76c3d27a[id=d693cccf-b108-32a2-8ad0-f64b1e0846c4,name=Xia_Xia,properties={},legacy=false] (/101.132.153.204:34095) lost connection: You are not white-listed on this server!
+[10:52:05] [Server thread/INFO]: Player shuijiao is already logged on
+[11:52:04] [Server thread/INFO]: Player shuijiao is already logged on
+[12:22:35] [Server thread/INFO]: There are 89 whitelisted players: xm233, DIOHIGH, Hai_Xing_Yang, beiwei_lkiru, _Ray_, ZetaTong, Assassin_LinC, wushi6969, WhiteSky_Bai, Naando, Aod0lcy, austinfoster, balabaj, China_mxb, Flipped777, Nan_Yang, justWYL, SLIMJIMCHRIS, BCX, Aod_lcy, Mk_Bolo, zimzaza4, EDGW, jishuo, ChengXi123, YuceChivas, XxiaoyunX, xia_xia, EDGWA, aka213, yao_di, XZHao02, zxcalic, ooo, yuwenkang, Erue, Plants352039, RZYplus, MTpromax, na2hco3CN1277, DigitalBeast405, TTMM, LightImpala7271, goudongxi6066, extclp, na2hco3_CN, Qian_linger, MikeOvO, H2O, Manjaro_linux, Lin_Moooo, WelcoFa, zeao, MAXXiaoKui5106, skyking_F, Charmander, dy_xiapiAce, Cora_cold, xiaojian520, xiaolouQAQ, KL_Tian, Leafiey, OuOu319, Looooocro, huan_mo, 000tt000, MAX_ShouWang, X_mikl, chy, yunxiao, MPCQUQ, AQ, PrestoNickel564, Yantey, MIXMIXM, wuhao, Yan, wushi_, Qing_sha, BidTrout6715972, nukibple, soy_25, poxington, MAX_XiaoKui, Firliang, ChengXi123SJ, xiao_rui, Yu_Chei, Mr_Yijun
+[12:52:02] [Server thread/INFO]: Player shuijiao is already logged on
+[13:36:38] [Server thread/INFO]: Reloaded the whitelist
+[13:52:02] [Server thread/INFO]: Player shuijiao is already logged on
+[13:56:41] [Server thread/INFO]: Stopping the server
+[13:56:41] [Thread-70/INFO]: WebServer closed.
+[13:56:41] [Server thread/INFO]: BlueMap unloaded!
+[13:56:41] [Server thread/INFO]: Stopping server
+[13:56:41] [Server thread/INFO]: Saving players
+[13:56:41] [Server thread/INFO]: Saving worlds
+[13:56:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:56:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:56:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:56:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:56:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:56:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:56:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:56:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:56:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:56:41] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[13:56:41] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2021-01-01_13-56-41
+[13:56:41] [Server thread/INFO]: [Textile Backup] Starting backup
+[13:56:51] [Server thread/INFO]: [Textile Backup] Compression took: 10.098 seconds.
+[13:56:52] [Server thread/INFO]: [Textile Backup] Deleting: 2021-01-01_03-35-14#shutdown.tar.gz
+[13:56:52] [Server thread/INFO]: [Textile Backup] Done!
+[13:56:52] [Server thread/INFO]: Thread Query Listener stopped

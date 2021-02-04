@@ -1,0 +1,74 @@
+[00:51:17] [Server thread/INFO]: Player shuijiao is already logged on
+[01:51:17] [Server thread/INFO]: Player shuijiao is already logged on
+[02:40:21] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:40145] logged in with entity id 235839 at (-217.67239307968265, 105.0, 406.23585087759943)
+[02:40:21] [Server thread/INFO]: MAX_XiaoKui joined the game
+[02:40:21] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[02:40:22] [Netty Epoll Server IO #0/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[02:40:30] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[02:40:30] [Server thread/INFO]: MAX_XiaoKui left the game
+[02:42:26] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:35647] logged in with entity id 236056 at (-217.67239307968265, 105.0, 406.23585087759943)
+[02:42:26] [Server thread/INFO]: MAX_XiaoKui joined the game
+[02:42:26] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[02:42:27] [Netty Epoll Server IO #3/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[02:42:30] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[02:42:30] [Server thread/INFO]: MAX_XiaoKui left the game
+[02:51:19] [Server thread/INFO]: Player shuijiao is already logged on
+[02:51:37] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:42549] logged in with entity id 236303 at (-217.67239307968265, 105.0, 406.23585087759943)
+[02:51:37] [Server thread/INFO]: MAX_XiaoKui joined the game
+[02:51:37] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[02:51:38] [Netty Epoll Server IO #4/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[02:51:45] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[02:51:45] [Server thread/INFO]: MAX_XiaoKui left the game
+[03:01:27] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:59325] logged in with entity id 236592 at (-217.67239307968265, 105.0, 406.23585087759943)
+[03:01:27] [Server thread/INFO]: MAX_XiaoKui joined the game
+[03:01:27] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[03:01:28] [Netty Epoll Server IO #7/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[03:01:29] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[03:01:29] [Server thread/INFO]: MAX_XiaoKui left the game
+[03:02:59] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:52865] logged in with entity id 236713 at (-217.67239307968265, 105.0, 406.23585087759943)
+[03:02:59] [Server thread/INFO]: MAX_XiaoKui joined the game
+[03:02:59] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[03:03:01] [Netty Epoll Server IO #0/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[03:03:12] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[03:03:12] [Server thread/INFO]: MAX_XiaoKui left the game
+[03:07:13] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:53129] logged in with entity id 236981 at (-217.67239307968265, 105.0, 406.23585087759943)
+[03:07:13] [Server thread/INFO]: MAX_XiaoKui joined the game
+[03:07:13] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[03:07:15] [Netty Epoll Server IO #1/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[03:07:17] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[03:07:17] [Server thread/INFO]: MAX_XiaoKui left the game
+[03:09:50] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:40027] logged in with entity id 237151 at (-217.67239307968265, 105.0, 406.23585087759943)
+[03:09:50] [Server thread/INFO]: MAX_XiaoKui joined the game
+[03:09:50] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[03:09:51] [Netty Epoll Server IO #5/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[03:13:09] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[03:13:09] [Server thread/INFO]: MAX_XiaoKui left the game
+[03:51:16] [Server thread/INFO]: Player shuijiao is already logged on
+[04:07:04] [Server thread/INFO]: MAX_XiaoKui[/101.132.153.204:56173] logged in with entity id 240459 at (-344.85465230937814, 69.0, 420.62930046806594)
+[04:07:04] [Server thread/INFO]: MAX_XiaoKui joined the game
+[04:07:04] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[04:07:11] [Netty Epoll Server IO #2/WARN]: Player MAX_XiaoKui joined with another carpet version: 1.4.24+v210120
+[04:07:26] [Server thread/INFO]: MAX_XiaoKui lost connection: Disconnected
+[04:07:26] [Server thread/INFO]: MAX_XiaoKui left the game
+[04:10:37] [Server thread/INFO]: Stopping the server
+[04:10:37] [Thread-72/INFO]: WebServer closed.
+[04:10:38] [Server thread/INFO]: BlueMap unloaded!
+[04:10:38] [Server thread/INFO]: Stopping server
+[04:10:38] [Server thread/INFO]: Saving players
+[04:10:38] [Server thread/INFO]: Saving worlds
+[04:10:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:10:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:10:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:10:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:10:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:10:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:10:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:10:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:10:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:10:38] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[04:10:38] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2021-01-31_04-10-38
+[04:10:38] [Server thread/INFO]: [Textile Backup] Starting backup
+[04:10:49] [Server thread/INFO]: [Textile Backup] Compression took: 10.739 seconds.
+[04:10:49] [Server thread/INFO]: [Textile Backup] Deleting: 2021-01-23_23-13-36#shutdown.tar.gz
+[04:10:49] [Server thread/INFO]: [Textile Backup] Done!
+[04:10:49] [Server thread/INFO]: Thread Query Listener stopped

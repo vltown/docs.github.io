@@ -1,0 +1,168 @@
+[02:51:55] [main/INFO]: Loading for game Minecraft 1.16.4
+[02:51:55] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-logging" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[02:51:55] [ForkJoinPool-1-worker-2/WARN]: The mod "cotton-config" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 7 column 12
+[02:51:55] [main/WARN]: Warnings were found! 
+ - Mod 'BetterF3' (betterf3) recommends version 1.14.6 or later of mod modmenu, which is missing!
+	 - You must install version 1.14.6 or later of modmenu.
+[02:51:55] [main/INFO]: [FabricLoader] Loading 62 mods: fabric-renderer-api-v1@0.3.3+6a2618f53a, fabric-keybindings-v0@0.2.0+6a2618f53a, fabricloader@0.10.8, fabric-structure-api-v1@1.1.1+f1d8af063a, bbor@2.4-1.16.3, com_github_shevek_parallelgzip@master-SNAPSHOT, lithium@0.6.0, fabric-containers-v0@0.1.8+6a2618f53a, fabric-dimensions-v1@2.0.1+9a6c75813a, fabric-object-builder-api-v1@1.9.2+6a2618f53a, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, fabric-api-base@0.2.0+ab87788d3a, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, fabric-textures-v0@1.0.5+6a2618f53a, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, cotton-logging@1.0.0-rc.4, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, fabric-lifecycle-events-v1@1.2.0+6a2618f53a, fabric-renderer-registries-v1@2.2.0+6a2618f53a, carpet-extra@1.4.16, fabric-loot-tables-v1@1.0.1+6a2618f53a, fabric@0.27.1+1.16, carpet@1.4.21, fabric-particles-v1@0.2.2+6a2618f53a, fabric-networking-v0@0.1.10+6a2618f53a, cotton-config@1.0.0-rc.7, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, minecraft@1.16.4, here@0.1.0+1.16, fabric-networking-blockentity-v0@0.2.5+6a2618f53a, cloth-basic-math@0.5.1, jankson@3.0.0+j1.2.0, fabric-command-api-v1@1.0.9+6a2618f53a, phosphor@0.6.0+build.7, bluemap@1.3.0-snap, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, fabric-renderer-indigo@0.4.3+6a2618f53a, player-roles@1.2.0, org_apache_commons_commons-compress@1.19, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-item-api-v1@1.2.0+6a2618f53a, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-rendering-v1@1.4.0+6a2618f53a, fabric-key-binding-api-v1@1.0.1+730711c63a, cloth-config2@4.7.0-unstable, org_tukaani_xz@1.8, fabric-resource-loader-v0@0.3.2+1944f3e03a, carpet-tis-addition@1.11.2, fabric-content-registries-v0@0.2.0+e77439c73a, fabric-tag-extensions-v0@1.1.0+e77439c73a, fabric-biome-api-v1@3.1.0+2e23b97c3a, fabric-commands-v0@0.2.0+6a2618f53a, fabric-registry-sync-v0@0.7.1+285766753a, textile_backup@2.1.0-prev-1.16.4, betterf3@1.1.1, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-item-groups-v0@0.2.1+6a2618f53a, fabric-models-v0@0.1.1+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, lithium-api@0.6.0
+[02:51:55] [main/WARN]: Mod `com_github_shevek_parallelgzip` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[02:51:55] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/container/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[02:51:58] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-[02:52:08] [main/INFO]: [Textile Backup] Starting Textile Backup by Szum123321.
+[02:52:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:52:10] [main/WARN]: Ambiguity between arguments [bluemap, marker, create, id, map, x] and [bluemap, marker, create, id, map, label] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[02:52:10] [main/WARN]: Ambiguity between arguments [bluemap, render, cancel] and [bluemap, render, world|map] with inputs: [cancel]
+[02:52:10] [main/WARN]: Ambiguity between arguments [bluemap, render, prioritize] and [bluemap, render, world|map] with inputs: [prioritize]
+[02:52:10] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, world|map] with inputs: [0, -123, 123]
+[02:52:10] [main/WARN]: Ambiguity between arguments [bluemap, render, radius] and [bluemap, render, x] with inputs: [0, -123, 123]
+[02:52:10] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, radius] with inputs: [0, -1]
+[02:52:10] [main/WARN]: Ambiguity between arguments [bluemap, render, x] and [bluemap, render, world|map] with inputs: [0, -1, -.5, 1.2, .5, -1234.56]
+[02:52:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:52:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:52:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:52:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:52:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:52:10] [main/INFO]: Reloading ResourceManager: Default, bukkit, skimit-DataPack, Fabric Tool Attribute API (v1), Player Roles
+[02:52:12] [Worker-Main-5/INFO]: Loaded 7 recipes
+[02:52:12] [Worker-Main-5/INFO]: Loaded 938 advancements
+[02:52:13] [main/INFO]: Applied 0 biome modifications to 0 of 79 new biomes in 2.773 ms
+[02:52:13] [main/WARN]: [fabric-registry-sync] Could not find the following registries: minecraft:biome_source_type, minecraft:block_state_provider_type, minecraft:dimension_type, minecraft:structure_piece, minecraft:carver, minecraft:block_placer_type, minecraft:decorator, minecraft:structure_feature, minecraft:surface_builder, minecraft:foliage_placer_type, minecraft:feature, minecraft:tree_decorator_type, minecraft:structure_pool_element, minecraft:biome, minecraft:chunk_generator_type, minecraft:structure_processor
+[02:52:13] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[02:52:14] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[02:52:14] [Server thread/INFO]: Loading properties
+[02:52:14] [Server thread/INFO]: Default game type: SURVIVAL
+[02:52:14] [Server thread/INFO]: Generating keypair
+[02:52:14] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:10799
+[02:52:14] [Server thread/INFO]: Using epoll channel type
+[02:52:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:52:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:52:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:52:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:52:14] [Server thread/INFO]: Preparing level "world"
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting repeaterPriorityFix as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting combineXPOrbs as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting leadFix as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting commandScriptACE as ops from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting commandTick as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting commandDraw as false from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting optimizedFastEntityMovement as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting rotatorBlock as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting opPlayerNoCheat as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting commandPlayer as ops from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting commandScript as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting antiCheatDisabled as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting commandPing as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting scriptsAutoload as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting defaultLoggers as tps,mobcaps from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting placementRotationFix as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting hopperCounters as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[02:52:14] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[02:52:15] [Server thread/INFO]: create world dimension: minecraft:overworld (seed: 20190827)
+[02:52:15] [Server thread/INFO]: create world dimension: minecraft:the_nether (seed: 20190827)
+[02:52:15] [Server thread/INFO]: create world dimension: minecraft:the_end (seed: 20190827)
+[02:52:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:18] [Server thread/INFO]: Preparing spawn area: 49%
+[02:52:19] [Server thread/INFO]: Time elapsed: 4037 ms
+[02:52:19] [Server thread/INFO]: tagplayer app loaded with /tagplayer command
+[02:52:19] [Server thread/INFO]: App tagplayer loaded in 173 ms
+[02:52:19] [Server thread/INFO]: Done (4.873s)! For help, type "help"
+[02:52:19] [Server thread/INFO]: Starting GS4 status listener
+[02:52:19] [Server thread/INFO]: Thread Query Listener started
+[02:52:19] [Query Listener #1/INFO]: Query running on 0.0.0.0:10799
+[02:52:19] [Thread-70/INFO]: Loading BlueMap...
+[02:52:19] [Server thread/INFO]: App tagplayer loaded in 24 ms
+[02:52:19] [Thread-70/INFO]: Loading resources...
+[02:52:19] [Thread-71/INFO]: WebServer started.
+[02:52:20] [Server thread/INFO]: An unexpected error occurred trying to execute that command
+[02:52:22] [Thread-70/INFO]: Loading bluemap assets (1/3)...
+[02:52:22] [Thread-70/INFO]: Loading realms assets (2/3)...
+[02:52:22] [Thread-70/INFO]: Loading minecraft assets (3/3)...
+[02:52:25] [Thread-70/INFO]: BlueMap loaded!
+[02:52:55] [Server thread/INFO]: Can only manipulate existing players
+[02:52:55] [Server thread/INFO]: Can only manipulate existing players
+[03:02:56] [Server thread/INFO]: Can only manipulate existing players
+[03:02:56] [Server thread/INFO]: Can only manipulate existing players
+[03:12:54] [Server thread/INFO]: Can only manipulate existing players
+[03:12:54] [Server thread/INFO]: Can only manipulate existing players
+[03:22:54] [Server thread/INFO]: Can only manipulate existing players
+[03:22:54] [Server thread/INFO]: Can only manipulate existing players
+[03:32:55] [Server thread/INFO]: Can only manipulate existing players
+[03:32:55] [Server thread/INFO]: Can only manipulate existing players
+[03:42:55] [Server thread/INFO]: Can only manipulate existing players
+[03:42:55] [Server thread/INFO]: Can only manipulate existing players
+[03:52:05] [Server thread/INFO]: shuijiao[local] logged in with entity id 165 at (-42.5, 61.0, 241.5)
+[03:52:05] [Server thread/INFO]: 假的 shuijiao joined the game
+[04:52:05] [Server thread/INFO]: Player shuijiao is already logged on
+[05:52:03] [Server thread/INFO]: Player shuijiao is already logged on
+[06:52:03] [Server thread/INFO]: Player shuijiao is already logged on
+[07:52:03] [Server thread/INFO]: Player shuijiao is already logged on
+[08:52:03] [Server thread/INFO]: Player shuijiao is already logged on
+[09:52:03] [Server thread/INFO]: Player shuijiao is already logged on
+[10:52:04] [Server thread/INFO]: Player shuijiao is already logged on
+[11:52:01] [Server thread/INFO]: Player shuijiao is already logged on
+[12:52:04] [Server thread/INFO]: Player shuijiao is already logged on
+[12:57:59] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@37a1ab29[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:34193): You are not white-listed on this server!
+[12:57:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@37a1ab29[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:34193) lost connection: You are not white-listed on this server!
+[12:58:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3223eb29[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:42267): You are not white-listed on this server!
+[12:58:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@3223eb29[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:42267) lost connection: You are not white-listed on this server!
+[12:58:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@16669973[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:53121): You are not white-listed on this server!
+[12:58:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@16669973[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:53121) lost connection: You are not white-listed on this server!
+[13:12:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@215c29dd[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:52505): You are not white-listed on this server!
+[13:12:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@215c29dd[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:52505) lost connection: You are not white-listed on this server!
+[13:21:42] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@564a9d22[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:42213): You are not white-listed on this server!
+[13:21:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@564a9d22[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:42213) lost connection: You are not white-listed on this server!
+[13:24:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@499fd20b[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:58673): You are not white-listed on this server!
+[13:24:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@499fd20b[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:58673) lost connection: You are not white-listed on this server!
+[13:25:13] [Server thread/INFO]: Added RunZ to the whitelist
+[13:25:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@63f03b3e[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:38593): You are not white-listed on this server!
+[13:25:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@63f03b3e[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:38593) lost connection: You are not white-listed on this server!
+[13:25:45] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@324ae5cf[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:55789): You are not white-listed on this server!
+[13:25:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@324ae5cf[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:55789) lost connection: You are not white-listed on this server!
+[13:25:50] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@732d7ae1[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:43701): You are not white-listed on this server!
+[13:25:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@732d7ae1[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:43701) lost connection: You are not white-listed on this server!
+[13:25:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7a9acbbb[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:37769): You are not white-listed on this server!
+[13:25:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a9acbbb[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:37769) lost connection: You are not white-listed on this server!
+[13:25:54] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@16f5a0d4[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:60573): You are not white-listed on this server!
+[13:25:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@16f5a0d4[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:60573) lost connection: You are not white-listed on this server!
+[13:25:58] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ed8ee10[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:47915): You are not white-listed on this server!
+[13:25:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ed8ee10[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:47915) lost connection: You are not white-listed on this server!
+[13:26:01] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@76aeb7b9[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:51697): You are not white-listed on this server!
+[13:26:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@76aeb7b9[id=02540b1b-22ff-34bd-a735-d38e27c2a82b,name=Runz,properties={},legacy=false] (/101.132.153.204:51697) lost connection: You are not white-listed on this server!
+[13:26:22] [Server thread/INFO]: Player is already whitelisted
+[13:32:16] [Server thread/INFO]: Stopping the server
+[13:32:16] [Thread-71/INFO]: WebServer closed.
+[13:32:16] [Server thread/INFO]: BlueMap unloaded!
+[13:32:16] [Server thread/INFO]: Stopping server
+[13:32:16] [Server thread/INFO]: Saving players
+[13:32:16] [Server thread/INFO]: Saving worlds
+[13:32:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:32:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:32:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:32:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:32:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:32:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:32:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:32:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:32:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:32:16] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[13:32:16] [Server thread/INFO]: [Textile Backup] Backup started by: Server Shutdown on: 2021-01-20_13-32-16
+[13:32:16] [Server thread/INFO]: [Textile Backup] Starting backup
+[13:32:27] [Server thread/INFO]: [Textile Backup] Compression took: 10.413 seconds.
+[13:32:27] [Server thread/INFO]: [Textile Backup] Deleting: 2021-01-01_13-56-41#shutdown.tar.gz
+[13:32:27] [Server thread/INFO]: [Textile Backup] Deleting: 2021-01-01_05-21-10#shutdown.tar.gz
+[13:32:27] [Server thread/INFO]: [Textile Backup] Done!
+[13:32:27] [Server thread/INFO]: Thread Query Listener stopped

@@ -1,0 +1,304 @@
+[01:09:14] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-12-04_01-09-14
+[01:09:14] [Server thread/INFO]: Saving server...
+[01:09:14] [Server thread/INFO]: [Textile Backup] Saving server...
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:09:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:09:14] [pool-3-thread-1/INFO]: Starting backup
+[01:09:14] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[01:09:14] [pool-3-thread-1/INFO]: Starting compression...
+[01:09:14] [pool-3-thread-1/ERROR]: [Textile Backup] An exception occurred!
+java.util.concurrent.ExecutionException: java.io.IOException: No space left on device
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_275]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_275]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator.writeTo(ParallelScatterZipCreator.java:266) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at net.szum123321.textile_backup.core.create.compressors.ParallelZipCompressor.createArchive(ParallelZipCompressor.java:77) [%5B%E5%A4%87%E4%BB%BD%5Dtextile_backup-2.0.1-1.16.3.jar:?]
+	at net.szum123321.textile_backup.core.create.MakeBackupRunnable.run(MakeBackupRunnable.java:76) [%5B%E5%A4%87%E4%BB%BD%5Dtextile_backup-2.0.1-1.16.3.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_275]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_275]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_275]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_275]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+Caused by: java.io.IOException: No space left on device
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_275]
+	at sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:60) ~[?:1.8.0_275]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_275]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65) ~[?:1.8.0_275]
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:211) ~[?:1.8.0_275]
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:78) ~[?:1.8.0_275]
+	at java.nio.channels.Channels.writeFully(Channels.java:101) ~[?:1.8.0_275]
+	at java.nio.channels.Channels.access$000(Channels.java:61) ~[?:1.8.0_275]
+	at java.nio.channels.Channels$1.write(Channels.java:174) ~[?:1.8.0_275]
+	at org.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore.writeOut(FileBasedScatterGatherBackingStore.java:65) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor.writeOut(StreamCompressor.java:291) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.writeCounted(StreamCompressor.java:273) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.deflate(StreamCompressor.java:264) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.deflateUntilInputIsNeeded(StreamCompressor.java:257) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.writeDeflated(StreamCompressor.java:238) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.write(StreamCompressor.java:205) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.deflate(StreamCompressor.java:184) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.ScatterZipOutputStream.addArchiveEntry(ScatterZipOutputStream.java:100) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:210) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:206) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	... 4 more
+[01:09:14] [pool-3-thread-1/ERROR]: Something went wrong while compressing files!
+[01:09:14] [pool-3-thread-1/INFO]: Compression took: 00.694 seconds.
+[01:09:15] [pool-3-thread-1/INFO]: Done!
+[01:09:15] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[01:53:09] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:46515] logged in with entity id 4527 at (-181.67607681095143, 63.0, 527.2530751988131)
+[01:53:09] [Server thread/INFO]: na2hco3_CN joined the game
+[01:53:09] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[01:53:13] [Netty Epoll Server IO #2/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[02:09:37] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:09:37] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[02:10:18] [Server thread/INFO]: [na2hco3_CN: Can only manipulate existing players]
+[02:10:44] [Server thread/INFO]: shuashaji[local] logged in with entity id 16820 at (1.396543655173661, 54.125, 1.2780343069926692)
+[02:10:44] [Server thread/INFO]: shuashaji joined the game
+[02:10:44] [Server thread/INFO]: shuashaji has made the advancement [The End?]
+[02:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21542ms or 430 ticks behind
+[02:10:44] [Server thread/INFO]: [na2hco3_CN: Cannot shadow fake players]
+[02:10:44] [Server thread/INFO]: [na2hco3_CN: Cannot shadow fake players]
+[02:25:05] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[02:25:05] [Server thread/INFO]: na2hco3_CN left the game
+[02:26:26] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:46947] logged in with entity id 143724 at (-134.72799534147745, 62.56156121479502, 489.774667339053)
+[02:26:26] [Server thread/INFO]: na2hco3_CN joined the game
+[02:26:27] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[02:26:27] [Netty Epoll Server IO #4/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[02:34:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-83, y=64, z=462} class_2338{x=-83, y=63, z=459}
+[02:34:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-83, y=64, z=462} class_2338{x=-83, y=63, z=459}
+[02:34:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-83, y=64, z=462} class_2338{x=-83, y=63, z=459}
+[02:40:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/255453, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/255457, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/255458, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/255459, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/255460, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/256940, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/256944, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/256945, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/256946, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/256947, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/258987, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/258991, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/258992, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/258993, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/258994, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260568, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260569, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260570, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260571, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260572, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260573, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260574, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:40:57] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/260575, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261518, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261519, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261520, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261521, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261522, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261523, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261524, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:04] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/261525, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/262702, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/262706, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/262707, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/262708, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/262709, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/264231, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/264235, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/264236, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/264237, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/264238, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265178, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265182, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265183, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265184, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265185, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265309, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265310, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265311, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265312, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265313, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265314, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265315, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/265316, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/266498, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/266502, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/266503, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/266504, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/266505, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267325, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267326, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267327, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267328, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267329, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267330, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267331, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:41:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/267332, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271659, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271660, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271661, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271662, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271663, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271664, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271665, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:21] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271666, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271789, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271793, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271794, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271795, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/271796, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272269, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272273, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272274, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272275, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272276, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272740, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272744, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272745, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272746, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:29] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/272747, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/273696, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/273700, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/273701, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/273702, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:42:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/273703, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279051, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279055, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279056, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279057, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279058, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279182, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279183, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279184, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279185, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279186, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279187, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279188, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279189, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279760, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279761, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279762, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279763, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279764, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279765, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279766, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/279767, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/280371, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/280375, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/280376, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/280377, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/280378, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283341, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283345, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283346, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283347, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283348, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283682, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283683, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283684, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283685, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283686, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283687, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283688, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:43:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/283689, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285343, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285347, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285348, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285349, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285350, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285825, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285829, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285830, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285831, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/285832, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287155, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287159, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287160, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287161, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287162, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287260, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287264, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287265, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287266, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/287267, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289318, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289319, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289320, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289321, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289322, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289323, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289324, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:44:33] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/289325, l='ServerLevel[world]', x=-42.50, y=207.00, z=239.50]
+[02:51:06] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[02:51:06] [Server thread/INFO]: na2hco3_CN left the game
+[02:51:44] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:39635] logged in with entity id 346711 at (-87.14218668512342, 64.2590134017779, 467.1517569761549)
+[02:51:44] [Server thread/INFO]: na2hco3_CN joined the game
+[02:51:44] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[02:51:44] [Netty Epoll Server IO #6/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[03:02:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-26, y=75, z=519} class_2338{x=-27, y=75, z=519}
+[03:02:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-26, y=75, z=519} class_2338{x=-27, y=75, z=519}
+[03:02:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-26, y=75, z=519} class_2338{x=-27, y=75, z=519}
+[03:02:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-26, y=75, z=519} class_2338{x=-27, y=75, z=519}
+[03:11:29] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[03:11:29] [Server thread/INFO]: na2hco3_CN left the game
+[03:13:20] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:44927] logged in with entity id 521130 at (-15.549137596750517, 72.0, 496.8518715264429)
+[03:13:20] [Server thread/INFO]: na2hco3_CN joined the game
+[03:13:20] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[03:13:21] [Netty Epoll Server IO #5/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[03:21:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-17, y=70, z=486} class_2338{x=-16, y=69, z=486}
+[03:21:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-17, y=70, z=486} class_2338{x=-16, y=69, z=486}
+[03:21:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-17, y=70, z=486} class_2338{x=-16, y=69, z=486}
+[03:32:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=71, z=530} class_2338{x=-49, y=71, z=522}
+[03:32:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=71, z=530} class_2338{x=-49, y=71, z=522}
+[03:32:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-47, y=71, z=530} class_2338{x=-49, y=71, z=522}
+[03:33:03] [Server thread/INFO]: shuashaji lost connection: Killed
+[03:33:03] [Server thread/INFO]: shuashaji left the game
+[03:38:33] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[03:38:33] [Server thread/INFO]: na2hco3_CN left the game
+[05:53:09] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2020-12-04_05-53-09
+[05:53:09] [Server thread/INFO]: Saving server...
+[05:53:09] [Server thread/INFO]: [Textile Backup] Saving server...
+[05:53:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:53:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:53:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:53:09] [pool-3-thread-1/INFO]: Starting backup
+[05:53:09] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[05:53:09] [pool-3-thread-1/INFO]: Starting compression...
+[05:53:09] [pool-3-thread-1/ERROR]: [Textile Backup] An exception occurred!
+java.util.concurrent.ExecutionException: java.io.IOException: No space left on device
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_275]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_275]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator.writeTo(ParallelScatterZipCreator.java:266) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at net.szum123321.textile_backup.core.create.compressors.ParallelZipCompressor.createArchive(ParallelZipCompressor.java:77) [%5B%E5%A4%87%E4%BB%BD%5Dtextile_backup-2.0.1-1.16.3.jar:?]
+	at net.szum123321.textile_backup.core.create.MakeBackupRunnable.run(MakeBackupRunnable.java:76) [%5B%E5%A4%87%E4%BB%BD%5Dtextile_backup-2.0.1-1.16.3.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_275]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_275]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_275]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_275]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+Caused by: java.io.IOException: No space left on device
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_275]
+	at sun.nio.ch.FileDispatcherImpl.write(FileDispatcherImpl.java:60) ~[?:1.8.0_275]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93) ~[?:1.8.0_275]
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65) ~[?:1.8.0_275]
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:211) ~[?:1.8.0_275]
+	at java.nio.channels.Channels.writeFullyImpl(Channels.java:78) ~[?:1.8.0_275]
+	at java.nio.channels.Channels.writeFully(Channels.java:101) ~[?:1.8.0_275]
+	at java.nio.channels.Channels.access$000(Channels.java:61) ~[?:1.8.0_275]
+	at java.nio.channels.Channels$1.write(Channels.java:174) ~[?:1.8.0_275]
+	at org.apache.commons.compress.parallel.FileBasedScatterGatherBackingStore.writeOut(FileBasedScatterGatherBackingStore.java:65) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor$ScatterGatherBackingStoreCompressor.writeOut(StreamCompressor.java:291) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.writeCounted(StreamCompressor.java:273) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.deflate(StreamCompressor.java:264) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.deflateUntilInputIsNeeded(StreamCompressor.java:257) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.writeDeflated(StreamCompressor.java:238) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.write(StreamCompressor.java:205) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.StreamCompressor.deflate(StreamCompressor.java:184) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.ScatterZipOutputStream.addArchiveEntry(ScatterZipOutputStream.java:100) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:210) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	at org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator$3.call(ParallelScatterZipCreator.java:206) ~[7d724b66-2d03-45f0-aed7-29fa581bbf8b.jar:?]
+	... 4 more
+[05:53:09] [pool-3-thread-1/ERROR]: Something went wrong while compressing files!
+[05:53:09] [pool-3-thread-1/INFO]: Compression took: 00.701 seconds.
+[05:53:11] [pool-3-thread-1/INFO]: Done!
+[05:53:11] [pool-3-thread-1/INFO]: [Textile Backup] Done!

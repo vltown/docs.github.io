@@ -1,0 +1,475 @@
+[00:52:00] [Server thread/INFO]: Player shuijiao is already logged on
+[01:52:01] [Server thread/INFO]: Player shuijiao is already logged on
+[02:52:01] [Server thread/INFO]: Player shuijiao is already logged on
+[03:52:01] [Server thread/INFO]: Player shuijiao is already logged on
+[04:52:01] [Server thread/INFO]: Player shuijiao is already logged on
+[05:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[06:52:02] [Server thread/INFO]: Player shuijiao is already logged on
+[07:25:56] [Server thread/INFO]: EDGW[/101.132.153.204:53313] logged in with entity id 78113 at (-2081.1050494790475, 68.5625, 526.962282155762)
+[07:25:56] [Server thread/INFO]: EDGW joined the game
+[07:25:56] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:26:11] [Netty Epoll Server IO #1/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[07:26:27] [Server thread/INFO]: EDGW lost connection: Disconnected
+[07:26:27] [Server thread/INFO]: EDGW left the game
+[07:26:33] [Server thread/INFO]: EDGW[/101.132.153.204:35365] logged in with entity id 78352 at (-2081.1050494790475, 68.5625, 526.962282155762)
+[07:26:33] [Server thread/INFO]: EDGW joined the game
+[07:26:33] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:26:38] [Netty Epoll Server IO #3/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[07:29:20] [Server thread/INFO]: EDGW lost connection: Disconnected
+[07:29:20] [Server thread/INFO]: EDGW left the game
+[07:33:31] [Server thread/INFO]: EDGW[/101.132.153.204:39313] logged in with entity id 80433 at (-76.69999998807907, 116.0, 513.497851250628)
+[07:33:31] [Server thread/INFO]: EDGW joined the game
+[07:33:31] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:33:40] [Netty Epoll Server IO #6/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[07:36:41] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:60629] logged in with entity id 82361 at (-90.19794732242745, 114.0, 516.9038361985614)
+[07:36:41] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:36:41] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:36:44] [Netty Epoll Server IO #3/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:38:26] [Server thread/INFO]: MAX_ShouWang fell from a high place
+[07:38:56] [Server thread/INFO]: MAX_ShouWang fell from a high place
+[07:41:32] [Server thread/INFO]: <MAX_ShouWang> 早
+[07:49:21] [Server thread/INFO]: EDGW fell from a high place
+[07:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[07:57:52] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[07:57:52] [Server thread/INFO]: MAX_ShouWang left the game
+[07:58:52] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:53423] logged in with entity id 90102 at (-60.63534642362017, 113.0, 532.9641179899484)
+[07:58:52] [Server thread/INFO]: MAX_ShouWang joined the game
+[07:58:52] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:58:53] [Netty Epoll Server IO #2/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[07:59:33] [Server thread/INFO]: EDGW was slain by Zombie
+[07:59:38] [Server thread/INFO]: EDGW lost connection: Disconnected
+[07:59:38] [Server thread/INFO]: EDGW left the game
+[07:59:55] [Server thread/INFO]: <MAX_ShouWang> 你怎么死了
+[08:10:38] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[08:10:38] [Server thread/INFO]: MAX_ShouWang left the game
+[08:11:28] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:56581] logged in with entity id 93022 at (-137.2990378656964, 76.04277387615876, 483.72403894839636)
+[08:11:28] [Server thread/INFO]: MAX_ShouWang joined the game
+[08:11:28] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:11:29] [Netty Epoll Server IO #1/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[08:13:35] [Server thread/INFO]: <MAX_ShouWang> ...
+[08:16:50] [Server thread/INFO]: MAX_ShouWang fell from a high place
+[08:25:40] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[08:25:40] [Server thread/INFO]: MAX_ShouWang left the game
+[08:26:50] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:57801] logged in with entity id 96353 at (-151.55707771103556, 63.0, 501.65077273538463)
+[08:26:50] [Server thread/INFO]: MAX_ShouWang joined the game
+[08:26:50] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:26:51] [Netty Epoll Server IO #1/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[08:38:26] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[08:38:26] [Server thread/INFO]: MAX_ShouWang left the game
+[08:38:34] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:56437] logged in with entity id 98303 at (-151.64392037394342, 63.0, 502.29677637464687)
+[08:38:34] [Server thread/INFO]: MAX_ShouWang joined the game
+[08:38:34] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:38:35] [Netty Epoll Server IO #6/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[08:42:03] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[08:42:03] [Server thread/INFO]: MAX_ShouWang left the game
+[08:46:04] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:50601] logged in with entity id 99122 at (-61.5, 113.0, 538.5)
+[08:46:04] [Server thread/INFO]: MAX_ShouWang joined the game
+[08:46:04] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:46:04] [Netty Epoll Server IO #6/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[08:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[08:54:44] [Server thread/INFO]: aka213[/101.132.153.204:59285] logged in with entity id 100629 at (-169.36049645516405, 63.0, 519.2421769159403)
+[08:54:44] [Server thread/INFO]: aka213 joined the game
+[08:54:44] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:54:49] [Netty Epoll Server IO #0/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[08:55:15] [Server thread/INFO]: aka213 lost connection: Disconnected
+[08:55:15] [Server thread/INFO]: aka213 left the game
+[08:55:18] [Server thread/INFO]: aka213[/101.132.153.204:36701] logged in with entity id 100759 at (-169.54092338414603, 63.0, 520.6856706455111)
+[08:55:18] [Server thread/INFO]: aka213 joined the game
+[08:55:18] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:55:21] [Netty Epoll Server IO #2/WARN]: Player aka213 joined with another carpet version: 1.4.9+v200815
+[08:57:42] [Server thread/INFO]: <MAX_ShouWang> 抬头按shift
+[08:58:55] [Server thread/INFO]: <MAX_ShouWang> 你快去睡个觉
+[08:58:57] [Server thread/INFO]: [aka213: Triggered [options] (set value to 0)]
+[09:00:09] [Server thread/INFO]: <aka213> 记分板失效了？
+[09:00:35] [Server thread/INFO]: <aka213> 过来
+[09:00:42] [Server thread/INFO]: <aka213> 跟我去我的钓鱼岛
+[09:00:49] [Server thread/INFO]: [MAX_ShouWang: Triggered [config] (set value to 1838019371)]
+[09:02:26] [Server thread/INFO]: <MAX_ShouWang> 这个咋用
+[09:05:46] [Server thread/INFO]: <MAX_ShouWang> 我等会回来
+[09:05:53] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[09:05:53] [Server thread/INFO]: MAX_ShouWang left the game
+[09:05:55] [Server thread/INFO]: <aka213> 我溜了
+[09:05:56] [Server thread/INFO]: aka213 lost connection: Disconnected
+[09:05:56] [Server thread/INFO]: aka213 left the game
+[09:11:53] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:52327] logged in with entity id 104891 at (-479.858329278928, 63.875, 1266.493686620216)
+[09:11:53] [Server thread/INFO]: MAX_ShouWang joined the game
+[09:11:53] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:11:55] [Netty Epoll Server IO #3/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[09:16:48] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[09:16:48] [Server thread/INFO]: MAX_ShouWang left the game
+[09:19:44] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:44757] logged in with entity id 106169 at (-480.50999999046326, 62.7125, 1267.5)
+[09:19:44] [Server thread/INFO]: MAX_ShouWang joined the game
+[09:19:44] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:19:45] [Netty Epoll Server IO #4/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[09:20:53] [Server thread/INFO]: <MAX_ShouWang> 我现在要写作业
+[09:21:08] [Server thread/INFO]: <MAX_ShouWang> 要不然我就不会找你借了
+[09:21:28] [Server thread/INFO]: <MAX_ShouWang> ?
+[09:21:36] [Server thread/INFO]: <MAX_ShouWang> 我不会
+[09:22:01] [Server thread/INFO]: <MAX_ShouWang> 教下？
+[09:22:10] [Server thread/INFO]: EDGW[/101.132.153.204:46335] logged in with entity id 107000 at (-2079.429025402741, 68.0, 529.0127137526657)
+[09:22:10] [Server thread/INFO]: EDGW joined the game
+[09:22:10] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[09:22:12] [Netty Epoll Server IO #7/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[09:22:46] [Server thread/INFO]: <MAX_ShouWang> 算了我等会回来学吧
+[09:24:17] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[09:24:17] [Server thread/INFO]: MAX_ShouWang left the game
+[09:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[09:55:30] [Server thread/INFO]: sand[local] logged in with entity id 121310 at (0.5, 80.0, 0.5)
+[09:55:30] [Server thread/INFO]: 假的 sand joined the game
+[09:55:31] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[09:55:31] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[09:55:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121704, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121705, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121706, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121866, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121867, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121868, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121869, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:36] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/121870, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:55:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122647, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122648, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122649, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122650, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/122651, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123175, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123176, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123177, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123178, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:55:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123179, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125481, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125482, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125483, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125747, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125748, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125749, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125750, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/125751, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126044, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126045, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126046, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126047, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126048, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126625, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126626, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126627, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126628, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:23] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126629, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126977, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126978, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126979, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126980, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:28] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/126981, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127327, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127328, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127329, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127330, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127331, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127519, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127520, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127521, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127522, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/127523, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128084, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128085, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128086, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128087, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128088, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128256, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128257, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128258, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128259, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/128260, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:56:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/130045, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/130046, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:56:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/130047, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131672, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131673, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131674, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131675, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:12] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131676, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131817, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131818, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131819, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131820, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/131821, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:14] [Server thread/INFO]: <EDGW> 服务器内目前所有桥的总长度是1489米
+[09:57:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/132812, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/132813, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/132814, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/132815, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/132816, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:57:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/133017, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/133018, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/133019, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/133020, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/133021, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/134774, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/134775, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/134776, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/134777, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:39] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/134778, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135194, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135195, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135196, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135197, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:44] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135198, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135755, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135756, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135757, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135758, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:57:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/135759, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137722, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137722, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137723, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137723, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137724, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137724, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137725, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137725, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137726, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/137726, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138052, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138052, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138053, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138053, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138054, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138054, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138055, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138055, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138056, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138056, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138057, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138057, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138058, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138058, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138059, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138059, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138060, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138060, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138061, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:11] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/138061, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139056, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139056, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139057, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139057, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139058, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139058, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139232, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139232, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139233, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139233, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139234, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139234, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139235, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139235, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139236, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:26] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139236, l='ServerLevel[world]', x=-42.50, y=205.00, z=239.50]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139672, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139672, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139673, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139673, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139674, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139674, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139675, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139675, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139676, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:31] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139676, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139884, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139884, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139885, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139885, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139886, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139886, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139887, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139887, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139888, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:34] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/139888, l='ServerLevel[world]', x=-42.50, y=204.00, z=240.00]
+[09:58:41] [Server thread/INFO]: sand lost connection: Killed
+[09:58:41] [Server thread/INFO]: 假的 sand left the game
+[09:59:23] [Server thread/INFO]: sand[local] logged in with entity id 140615 at (0.5, 80.0, 0.5)
+[09:59:23] [Server thread/INFO]: 假的 sand joined the game
+[10:00:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142695, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142695, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142696, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142696, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142697, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142697, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142830, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142830, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142831, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142831, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142832, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:03] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142832, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142970, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142970, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142971, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142971, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142972, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:06] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/142972, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143105, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143105, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143106, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143106, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143107, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:08] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143107, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143520, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143520, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143521, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143521, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143522, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143522, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143661, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143661, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143662, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143662, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143663, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143663, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143664, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143664, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143803, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143803, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143804, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143804, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143805, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143805, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143806, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143806, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143938, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143938, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143939, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143939, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143940, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143940, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143941, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143941, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144074, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144074, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144075, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144075, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144076, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144076, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144077, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:25] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144077, l='ServerLevel[world]', x=-48.50, y=214.02, z=245.51]
+[10:00:30] [Server thread/INFO]: sand lost connection: Killed
+[10:00:30] [Server thread/INFO]: 假的 sand left the game
+[10:00:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144380, l='ServerLevel[world]', x=-39.35, y=203.50, z=240.50]
+[10:00:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/144380, l='ServerLevel[world]', x=-39.35, y=203.50, z=240.50]
+[10:00:41] [Server thread/INFO]: [EDGW: Reloaded the whitelist]
+[10:02:20] [Server thread/INFO]: <EDGW> o
+[10:05:29] [Server thread/INFO]: <EDGW> 等chengxi123搞吧
+[10:18:53] [Server thread/INFO]: <EDGW> md 不想做全自动收发车系统 我把玻璃搞了就下线，其他的下次再做
+[10:20:27] [Server thread/INFO]: <EDGW> 懒
+[10:20:55] [Server thread/INFO]: <EDGW> 我不负责除铁路和海底神殿外的任何东西
+[10:21:32] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@ef35ed0[id=e22337e3-ac9c-3443-8088-25a2d7ef1777,name=PtilopsisGuGu,properties={},legacy=false] (/101.132.153.204:58333): You are not white-listed on this server!
+[10:21:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@ef35ed0[id=e22337e3-ac9c-3443-8088-25a2d7ef1777,name=PtilopsisGuGu,properties={},legacy=false] (/101.132.153.204:58333) lost connection: You are not white-listed on this server!
+[10:22:59] [Server thread/INFO]: EDGW burned to death
+[10:23:07] [Server thread/INFO]: <EDGW> 妈的
+[10:23:13] [Server thread/INFO]: <EDGW> 卡死了
+[10:23:25] [Server thread/INFO]: <EDGW> 2fps
+[10:24:04] [Server thread/INFO]: <EDGW> 退了
+[10:24:09] [Server thread/INFO]: EDGW lost connection: Disconnected
+[10:24:09] [Server thread/INFO]: EDGW left the game
+[10:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[11:23:32] [Server thread/INFO]: Plants352039[/101.132.153.204:33455] logged in with entity id 161516 at (-1185.6405875142718, 65.0, -112.04295755668497)
+[11:23:32] [Server thread/INFO]: Plants352039 joined the game
+[11:23:32] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:24:03] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[11:24:03] [Server thread/INFO]: Plants352039 left the game
+[11:24:39] [Server thread/INFO]: Plants352039[/101.132.153.204:46643] logged in with entity id 161932 at (-1185.6405875142718, 65.0, -112.04295755668497)
+[11:24:39] [Server thread/INFO]: Plants352039 joined the game
+[11:24:39] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[11:28:10] [Server thread/INFO]: Plants352039 lost connection: Disconnected
+[11:28:10] [Server thread/INFO]: Plants352039 left the game
+[11:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[12:22:54] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:34179] logged in with entity id 165374 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:22:54] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:22:54] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:23:25] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:23:25] [Server thread/INFO]: MAX_ShouWang left the game
+[12:23:56] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:60441] logged in with entity id 165557 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:23:56] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:23:56] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:24:08] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:24:08] [Server thread/INFO]: MAX_ShouWang left the game
+[12:24:11] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:38411] logged in with entity id 165734 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:24:11] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:24:11] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:24:12] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:24:12] [Server thread/INFO]: MAX_ShouWang left the game
+[12:24:26] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:53857] logged in with entity id 165847 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:24:26] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:24:26] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:24:28] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:24:28] [Server thread/INFO]: MAX_ShouWang left the game
+[12:28:16] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:50225] logged in with entity id 166054 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:28:16] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:28:16] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:28:25] [Netty Epoll Server IO #2/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[12:28:47] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:28:47] [Server thread/INFO]: MAX_ShouWang left the game
+[12:29:22] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:52853] logged in with entity id 166293 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:29:22] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:29:22] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:29:24] [Netty Epoll Server IO #4/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[12:29:53] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:29:53] [Server thread/INFO]: MAX_ShouWang left the game
+[12:31:05] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:33421] logged in with entity id 166509 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:31:05] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:31:05] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:31:07] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:31:07] [Server thread/INFO]: MAX_ShouWang left the game
+[12:31:13] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:57667] logged in with entity id 166603 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:31:13] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:31:13] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:31:16] [Netty Epoll Server IO #0/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[12:31:44] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[12:31:44] [Server thread/INFO]: MAX_ShouWang left the game
+[12:32:00] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:47853] logged in with entity id 166814 at (-61.7566509946646, 114.0, 523.1983222428885)
+[12:32:00] [Server thread/INFO]: MAX_ShouWang joined the game
+[12:32:00] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[12:32:16] [Server thread/INFO]: MAX_ShouWang lost connection: Timed out
+[12:32:16] [Server thread/INFO]: MAX_ShouWang left the game
+[12:32:16] [Server thread/WARN]: handleDisconnection() called twice
+[12:51:59] [Server thread/INFO]: Player shuijiao is already logged on
+[13:07:24] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:41823] logged in with entity id 168597 at (-61.7566509946646, 114.0, 523.1983222428885)
+[13:07:24] [Server thread/INFO]: MAX_ShouWang joined the game
+[13:07:24] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:07:26] [Netty Epoll Server IO #6/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[13:07:55] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[13:07:55] [Server thread/INFO]: MAX_ShouWang left the game
+[13:08:08] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:45575] logged in with entity id 168782 at (-61.7566509946646, 114.0, 523.1983222428885)
+[13:08:08] [Server thread/INFO]: MAX_ShouWang joined the game
+[13:08:08] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:08:09] [Netty Epoll Server IO #0/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[13:08:39] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[13:08:39] [Server thread/INFO]: MAX_ShouWang left the game
+[13:09:59] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:42209] logged in with entity id 169030 at (-61.7566509946646, 114.0, 523.1983222428885)
+[13:09:59] [Server thread/INFO]: MAX_ShouWang joined the game
+[13:09:59] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:10:01] [Netty Epoll Server IO #3/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[13:10:30] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[13:10:30] [Server thread/INFO]: MAX_ShouWang left the game
+[13:11:44] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:55023] logged in with entity id 169245 at (-61.7566509946646, 114.0, 523.1983222428885)
+[13:11:44] [Server thread/INFO]: MAX_ShouWang joined the game
+[13:11:44] [Netty Epoll Server IO #6/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:11:46] [Netty Epoll Server IO #6/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[13:12:15] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[13:12:15] [Server thread/INFO]: MAX_ShouWang left the game
+[13:14:00] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:60539] logged in with entity id 169473 at (-61.7566509946646, 114.0, 523.1983222428885)
+[13:14:00] [Server thread/INFO]: MAX_ShouWang joined the game
+[13:14:00] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:14:01] [Netty Epoll Server IO #1/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[13:14:30] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[13:14:30] [Server thread/INFO]: MAX_ShouWang left the game
+[13:14:44] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:52603] logged in with entity id 169705 at (-61.7566509946646, 114.0, 523.1983222428885)
+[13:14:44] [Server thread/INFO]: MAX_ShouWang joined the game
+[13:14:44] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:14:45] [Netty Epoll Server IO #3/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[13:15:14] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[13:15:14] [Server thread/INFO]: MAX_ShouWang left the game
+[13:16:03] [Server thread/INFO]: MAX_ShouWang[/101.132.153.204:38479] logged in with entity id 169930 at (-61.7566509946646, 114.0, 523.1983222428885)
+[13:16:03] [Server thread/INFO]: MAX_ShouWang joined the game
+[13:16:03] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:16:04] [Netty Epoll Server IO #5/WARN]: Player MAX_ShouWang joined with another carpet version: 1.4.0+v200623
+[13:18:13] [Server thread/INFO]: MAX_ShouWang lost connection: Disconnected
+[13:18:13] [Server thread/INFO]: MAX_ShouWang left the game

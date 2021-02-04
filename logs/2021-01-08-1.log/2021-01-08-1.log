@@ -1,0 +1,64 @@
+[00:08:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-183, y=72, z=-709} class_2338{x=-183, y=71, z=-709}
+[00:23:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123386, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:23:22] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123389, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:23:24] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123402, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:23:40] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123497, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:23:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123525, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:23:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123570, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:24:01] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123584, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:24:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123644, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:24:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/123662, l='ServerLevel[world]', x=-174.30, y=74.32, z=-725.50]
+[00:34:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/129650, l='ServerLevel[world]', x=-174.70, y=70.32, z=-724.50]
+[00:52:56] [Server thread/INFO]: Player shuijiao is already logged on
+[01:03:09] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[01:03:09] [Server thread/INFO]: na2hco3_CN left the game
+[01:52:53] [Server thread/INFO]: Player shuijiao is already logged on
+[02:52:54] [Server thread/INFO]: Player shuijiao is already logged on
+[03:52:54] [Server thread/INFO]: Player shuijiao is already logged on
+[04:52:55] [Server thread/INFO]: Player shuijiao is already logged on
+[05:52:52] [Server thread/INFO]: Player shuijiao is already logged on
+[06:52:53] [Server thread/INFO]: Player shuijiao is already logged on
+[07:52:53] [Server thread/INFO]: Player shuijiao is already logged on
+[08:52:54] [Server thread/INFO]: Player shuijiao is already logged on
+[09:52:54] [Server thread/INFO]: Player shuijiao is already logged on
+[10:52:54] [Server thread/INFO]: Player shuijiao is already logged on
+[11:52:54] [Server thread/INFO]: Player shuijiao is already logged on
+[12:52:53] [Server thread/INFO]: Player shuijiao is already logged on
+[13:50:46] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:38863] logged in with entity id 140846 at (-184.7867890904018, 65.0, -719.2567711690622)
+[13:50:46] [Server thread/INFO]: na2hco3_CN joined the game
+[13:50:46] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[13:50:46] [Netty Epoll Server IO #4/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[13:52:53] [Server thread/INFO]: Player shuijiao is already logged on
+[14:12:10] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/143691, l='ServerLevel[world]', x=-174.70, y=70.32, z=-725.40]
+[14:17:49] [Server thread/INFO]: Alex[local] logged in with entity id 144415 at (-179.6216158997295, 64.0, -719.7032856795439)
+[14:17:49] [Server thread/INFO]: Alex joined the game
+[14:22:26] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[14:22:26] [Server thread/INFO]: na2hco3_CN left the game
+[14:52:53] [Server thread/INFO]: Player shuijiao is already logged on
+[15:52:54] [Server thread/INFO]: Player shuijiao is already logged on
+[16:52:51] [Server thread/INFO]: Player shuijiao is already logged on
+[17:10:17] [Server thread/INFO]: Villager class_1646['Villager'/152036, l='ServerLevel[world]', x=-177.47, y=64.81, z=-721.30] died, message: 'Villager suffocated in a wall'
+[17:52:51] [Server thread/INFO]: Player shuijiao is already logged on
+[18:42:05] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:32837] logged in with entity id 152877 at (-79.67004540876322, 114.0, 522.1439940707587)
+[18:42:05] [Server thread/INFO]: na2hco3_CN joined the game
+[18:42:05] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[18:42:06] [Netty Epoll Server IO #0/WARN]: Player na2hco3_CN joined with another carpet version: 1.4.8+v200811
+[18:45:35] [Server thread/INFO]: Alex was slain by na2hco3_CN using [可以剑-na2hco3]
+[18:45:35] [Server thread/INFO]: Alex lost connection: Alex died
+[18:45:35] [Server thread/INFO]: Alex left the game
+[18:52:51] [Server thread/INFO]: Player shuijiao is already logged on
+[19:08:23] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[19:08:23] [Server thread/INFO]: na2hco3_CN left the game
+[19:52:52] [Server thread/INFO]: Player shuijiao is already logged on
+[19:53:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@50fb4685[id=a90a1dc9-ed1a-3d19-958a-d197b0d82486,name=HEALER,properties={},legacy=false] (/101.132.153.204:34693): You are not white-listed on this server!
+[19:53:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@50fb4685[id=a90a1dc9-ed1a-3d19-958a-d197b0d82486,name=HEALER,properties={},legacy=false] (/101.132.153.204:34693) lost connection: You are not white-listed on this server!
+[19:53:21] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@34c94aae[id=67baff0c-29f8-3d86-ad09-301aa1864f7c,name=INKYRouma,properties={},legacy=false] (/101.132.153.204:35505): You are not white-listed on this server!
+[19:53:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@34c94aae[id=67baff0c-29f8-3d86-ad09-301aa1864f7c,name=INKYRouma,properties={},legacy=false] (/101.132.153.204:35505) lost connection: You are not white-listed on this server!
+[20:02:10] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3c62d497[id=a90a1dc9-ed1a-3d19-958a-d197b0d82486,name=HEALER,properties={},legacy=false] (/101.132.153.204:38635): You are not white-listed on this server!
+[20:02:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@3c62d497[id=a90a1dc9-ed1a-3d19-958a-d197b0d82486,name=HEALER,properties={},legacy=false] (/101.132.153.204:38635) lost connection: You are not white-listed on this server!
+[20:52:52] [Server thread/INFO]: Player shuijiao is already logged on
+[21:52:52] [Server thread/INFO]: Player shuijiao is already logged on
+[22:11:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@c0fb45b[id=ff756349-7a3a-3c21-aa73-f46a722a0b3b,name=Melon_Skin,properties={},legacy=false] (/101.132.153.204:53387): You are not white-listed on this server!
+[22:11:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@c0fb45b[id=ff756349-7a3a-3c21-aa73-f46a722a0b3b,name=Melon_Skin,properties={},legacy=false] (/101.132.153.204:53387) lost connection: You are not white-listed on this server!
+[22:52:50] [Server thread/INFO]: Player shuijiao is already logged on
+[23:52:50] [Server thread/INFO]: Player shuijiao is already logged on

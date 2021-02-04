@@ -1,0 +1,23 @@
+{
+  "name": "skimit.cn",
+  "version": "2.0.0",
+  "description": "skimit服务器官网",
+  "main": "index.js",
+  "repository": "https://github.com/skimitmc/skimit.cn",
+  "author": "MAX_XiaoKui",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.0",
+    "vuepress": "^1.8.0"
+  },
+  "dependencies": {
+    "back-to-top": "^0.0.1",
+    "core-js": "2.6.11",
+    "scripts": "^0.1.0",
+    "vuepress-theme-antdocs": "^1.2.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  }
+}

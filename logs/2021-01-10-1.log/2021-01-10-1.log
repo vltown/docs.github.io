@@ -1,0 +1,94 @@
+[00:52:45] [Server thread/INFO]: Player shuijiao is already logged on
+[01:52:45] [Server thread/INFO]: Player shuijiao is already logged on
+[02:52:46] [Server thread/INFO]: Player shuijiao is already logged on
+[03:52:46] [Server thread/INFO]: Player shuijiao is already logged on
+[04:52:46] [Server thread/INFO]: Player shuijiao is already logged on
+[05:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[05:52:44] [Server thread/INFO]: Player shuijiao is already logged on
+[06:16:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3746ms or 74 ticks behind
+[06:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4565ms or 91 ticks behind
+[06:52:44] [Server thread/INFO]: Player shuijiao is already logged on
+[07:26:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
+[07:52:45] [Server thread/INFO]: Player shuijiao is already logged on
+[08:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3458ms or 69 ticks behind
+[08:52:45] [Server thread/INFO]: Player shuijiao is already logged on
+[09:52:45] [Server thread/INFO]: Player shuijiao is already logged on
+[10:52:43] [Server thread/INFO]: Player shuijiao is already logged on
+[11:52:45] [Server thread/INFO]: Player shuijiao is already logged on
+[12:52:43] [Server thread/INFO]: Player shuijiao is already logged on
+[13:52:45] [Server thread/INFO]: Player shuijiao is already logged on
+[14:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2674ms or 53 ticks behind
+[14:30:24] [Server thread/INFO]: Nan_Yang[/101.132.153.204:38065] logged in with entity id 453600 at (-390.54199903246746, 73.0, 436.38650651559334)
+[14:30:24] [Server thread/INFO]: Nan_Yang joined the game
+[14:30:24] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:30:38] [Netty Epoll Server IO #4/WARN]: Player Nan_Yang joined with another carpet version: 1.4.9+v200815
+[14:30:55] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[14:30:55] [Server thread/INFO]: Nan_Yang left the game
+[14:31:10] [Server thread/INFO]: Nan_Yang[/101.132.153.204:41151] logged in with entity id 454276 at (-390.54199903246746, 73.0, 436.38650651559334)
+[14:31:10] [Server thread/INFO]: Nan_Yang joined the game
+[14:31:10] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[14:31:13] [Netty Epoll Server IO #5/WARN]: Player Nan_Yang joined with another carpet version: 1.4.9+v200815
+[14:36:23] [Server thread/INFO]: Shu[local] logged in with entity id 459691 at (-301.69970211199967, 67.0, 415.30000001192093)
+[14:36:23] [Server thread/INFO]: Shu joined the game
+[14:37:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4194ms or 83 ticks behind
+[14:42:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Stick'/467190, l='ServerLevel[world]', x=-301.88, y=67.88, z=412.59]
+[14:45:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/470465, l='ServerLevel[world]', x=-305.94, y=70.01, z=362.14]
+[14:52:43] [Server thread/INFO]: Player shuijiao is already logged on
+[14:57:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[15:05:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/492096, l='ServerLevel[world]', x=-367.30, y=74.26, z=440.50]
+[15:05:42] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/492115, l='ServerLevel[world]', x=-367.30, y=74.26, z=438.50]
+[15:06:35] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/492900, l='ServerLevel[world]', x=-367.30, y=70.26, z=480.50]
+[15:07:16] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/493537, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[15:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5248ms or 104 ticks behind
+[15:17:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5670ms or 113 ticks behind
+[15:26:30] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/510967, l='ServerLevel[world]', x=-367.30, y=70.26, z=460.50]
+[15:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
+[15:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4013ms or 80 ticks behind
+[15:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[15:38:30] [Server thread/INFO]: Shu lost connection: Killed
+[15:38:30] [Server thread/INFO]: Shu left the game
+[15:38:47] [Server thread/INFO]: Shu[local] logged in with entity id 522056 at (-301.35148890635566, 67.0, 416.02019383512584)
+[15:38:47] [Server thread/INFO]: Shu joined the game
+[15:38:52] [Server thread/INFO]: Shu was slain by Nan_Yang using [锤子]
+[15:38:52] [Server thread/INFO]: Shu lost connection: Shu died
+[15:38:52] [Server thread/INFO]: Shu left the game
+[15:40:45] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[15:40:45] [Server thread/INFO]: Nan_Yang left the game
+[15:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[15:47:13] [Server thread/INFO]: Nan_Yang[/101.132.153.204:58017] logged in with entity id 524015 at (-22.69999998807907, 128.0625, -93.23169386901198)
+[15:47:13] [Server thread/INFO]: Nan_Yang joined the game
+[15:47:13] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:47:16] [Netty Epoll Server IO #2/WARN]: Player Nan_Yang joined with another carpet version: 1.4.9+v200815
+[15:52:44] [Server thread/INFO]: Player shuijiao is already logged on
+[15:57:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[16:09:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/527657, l='ServerLevel[world]', x=-21.20, y=129.00, z=-86.06]
+[16:09:07] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/527658, l='ServerLevel[world]', x=-22.21, y=129.00, z=-86.89]
+[16:16:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/529527, l='ServerLevel[world]', x=-21.86, y=129.00, z=-86.34]
+[16:16:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/529577, l='ServerLevel[world]', x=-21.70, y=129.00, z=-86.16]
+[16:16:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/529523, l='ServerLevel[world]', x=-22.23, y=129.00, z=-86.28]
+[16:16:59] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/529525, l='ServerLevel[world]', x=-21.91, y=129.00, z=-85.94]
+[16:16:59] [Server thread/WARN]: Entity class_1674['Fireball'/529645, l='ServerLevel[world]', x=-128.26, y=854.08, z=-800.99] left loaded chunk area
+[16:22:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2081ms or 41 ticks behind
+[16:27:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
+[16:31:18] [Server thread/WARN]: Fetching packet for removed entity class_1542['Birch Boat'/535014, l='ServerLevel[world]', x=-445.51, y=69.00, z=419.26]
+[16:32:11] [Server thread/INFO]: Villager class_1646['Villager'/535101, l='ServerLevel[world]', x=-439.67, y=69.40, z=419.98] died, message: 'Villager was slain by Nan_Yang using [扳手]'
+[16:34:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/536891, l='ServerLevel[world]', x=-21.39, y=129.00, z=-86.11]
+[16:34:37] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/536849, l='ServerLevel[world]', x=-21.13, y=129.00, z=-85.86]
+[16:47:19] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/548263, l='ServerLevel[world]', x=-302.49, y=70.01, z=362.64]
+[16:52:42] [Server thread/INFO]: Player shuijiao is already logged on
+[16:57:45] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/557979, l='ServerLevel[world]', x=-401.70, y=74.26, z=438.50]
+[16:57:47] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/558019, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[17:01:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-391, y=72, z=473} class_2338{x=-398, y=69, z=427}
+[17:02:48] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/563254, l='ServerLevel[world]', x=-302.91, y=70.00, z=362.18]
+[17:06:09] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[17:06:09] [Server thread/INFO]: Nan_Yang left the game
+[17:52:44] [Server thread/INFO]: Player shuijiao is already logged on
+[18:52:43] [Server thread/INFO]: Player shuijiao is already logged on
+[19:52:44] [Server thread/INFO]: Player shuijiao is already logged on
+[20:47:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
+[20:52:44] [Server thread/INFO]: Player shuijiao is already logged on
+[21:52:42] [Server thread/INFO]: Player shuijiao is already logged on
+[22:46:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/582078, l='ServerLevel[world]', x=-88.73, y=7.00, z=283.64]
+[22:52:42] [Server thread/INFO]: Player shuijiao is already logged on
+[23:42:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[23:52:42] [Server thread/INFO]: Player shuijiao is already logged on

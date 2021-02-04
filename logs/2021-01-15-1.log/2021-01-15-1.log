@@ -1,0 +1,281 @@
+[00:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4553ms or 91 ticks behind
+[00:35:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5719ms or 114 ticks behind
+[00:42:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[00:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[00:52:25] [Server thread/INFO]: Player shuijiao is already logged on
+[01:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5418ms or 108 ticks behind
+[01:43:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3633ms or 72 ticks behind
+[01:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[01:52:24] [Server thread/INFO]: Player shuijiao is already logged on
+[02:08:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3998ms or 79 ticks behind
+[02:52:25] [Server thread/INFO]: Player shuijiao is already logged on
+[03:52:24] [Server thread/INFO]: Player shuijiao is already logged on
+[04:52:24] [Server thread/INFO]: Player shuijiao is already logged on
+[05:52:25] [Server thread/INFO]: Player shuijiao is already logged on
+[06:30:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6294ms or 125 ticks behind
+[06:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5675ms or 113 ticks behind
+[06:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4934ms or 98 ticks behind
+[06:52:24] [Server thread/INFO]: Player shuijiao is already logged on
+[07:52:24] [Server thread/INFO]: Player shuijiao is already logged on
+[08:52:24] [Server thread/INFO]: Player shuijiao is already logged on
+[08:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5588ms or 111 ticks behind
+[08:57:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[09:06:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4601ms or 92 ticks behind
+[09:27:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3990ms or 79 ticks behind
+[09:34:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4433ms or 88 ticks behind
+[09:52:25] [Server thread/INFO]: Player shuijiao is already logged on
+[10:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[11:25:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[11:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[11:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[12:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[13:09:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[13:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[14:52:24] [Server thread/INFO]: Player shuijiao is already logged on
+[14:53:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4423ms or 88 ticks behind
+[14:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[14:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5322ms or 106 ticks behind
+[14:56:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[15:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[16:52:23] [Server thread/INFO]: Player shuijiao is already logged on
+[17:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4586ms or 91 ticks behind
+[17:52:23] [Server thread/INFO]: Player shuijiao is already logged on
+[18:52:23] [Server thread/INFO]: Player shuijiao is already logged on
+[19:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[19:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
+[19:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3754ms or 75 ticks behind
+[19:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[20:46:57] [Server thread/INFO]: Nan_Yang[/101.132.153.204:44747] logged in with entity id 750665 at (-389.266229324345, 69.0, 420.46242345985473)
+[20:46:57] [Server thread/INFO]: Nan_Yang joined the game
+[20:46:57] [Netty Epoll Server IO #1/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:47:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4154ms or 83 ticks behind
+[20:47:12] [Netty Epoll Server IO #1/WARN]: Player Nan_Yang joined with another carpet version: 1.4.9+v200815
+[20:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16078ms or 321 ticks behind
+[20:48:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/751598, l='ServerLevel[world]', x=-401.70, y=74.26, z=460.50]
+[20:48:17] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/751616, l='ServerLevel[world]', x=-401.70, y=74.26, z=458.50]
+[20:48:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3345ms or 66 ticks behind
+[20:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12272ms or 245 ticks behind
+[20:49:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5842ms or 116 ticks behind
+[20:49:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9769ms or 195 ticks behind
+[20:49:43] [Server thread/INFO]: shuijiao lost connection: Killed
+[20:49:43] [Server thread/INFO]: 假的 shuijiao left the game
+[20:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[20:50:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7083ms or 141 ticks behind
+[20:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3992ms or 79 ticks behind
+[20:51:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[20:52:22] [Server thread/INFO]: shuijiao[local] logged in with entity id 752719 at (-42.5, 61.0, 241.5)
+[20:52:22] [Server thread/INFO]: 假的 shuijiao joined the game
+[20:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[20:52:25] [Server thread/INFO]: shuijiao lost connection: Killed
+[20:52:25] [Server thread/INFO]: 假的 shuijiao left the game
+[20:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14357ms or 287 ticks behind
+[20:52:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/752809, l='ServerLevel[world]', x=-21.61, y=129.00, z=-86.47]
+[20:52:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Minecart'/752830, l='ServerLevel[world]', x=-21.65, y=129.00, z=-86.73]
+[20:53:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[20:53:13] [Server thread/INFO]: Can only manipulate existing players
+[20:53:13] [Server thread/INFO]: Can only manipulate existing players
+[20:53:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3586ms or 71 ticks behind
+[20:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3300ms or 66 ticks behind
+[20:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
+[20:55:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
+[20:56:08] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@619a1caf[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:45767): You are not white-listed on this server!
+[20:56:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@619a1caf[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:45767) lost connection: You are not white-listed on this server!
+[20:56:39] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@62b790aa[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:48555): You are not white-listed on this server!
+[20:56:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[20:56:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@62b790aa[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:48555) lost connection: You are not white-listed on this server!
+[20:57:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
+[20:57:54] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/754292, l='ServerLevel[world]', x=-401.44, y=74.26, z=458.62]
+[20:58:00] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6aee7921[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:59523): You are not white-listed on this server!
+[20:58:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@6aee7921[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:59523) lost connection: You are not white-listed on this server!
+[20:58:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[20:58:04] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4f1c6965[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:49893): You are not white-listed on this server!
+[20:58:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f1c6965[id=01ac8706-de6d-3826-92f8-cfe85a5d948e,name=aaaaaaaaaaaaaa,properties={},legacy=false] (/101.132.153.204:49893) lost connection: You are not white-listed on this server!
+[20:58:32] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/754561, l='ServerLevel[world]', x=-303.52, y=70.04, z=362.88]
+[20:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15319ms or 306 ticks behind
+[20:59:01] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[20:59:01] [Server thread/INFO]: Nan_Yang left the game
+[20:59:04] [Server thread/INFO]: Nan_Yang[/101.132.153.204:38993] logged in with entity id 754937 at (-398.6161906850615, 68.48750001192093, 451.77125784387863)
+[20:59:04] [Server thread/INFO]: Nan_Yang joined the game
+[20:59:04] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[20:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
+[20:59:08] [Netty Epoll Server IO #2/WARN]: Player Nan_Yang joined with another carpet version: 1.4.9+v200815
+[20:59:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[21:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3575ms or 71 ticks behind
+[21:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[21:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3385ms or 67 ticks behind
+[21:01:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3479ms or 69 ticks behind
+[21:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21:03:13] [Server thread/INFO]: Can only manipulate existing players
+[21:03:13] [Server thread/INFO]: Can only manipulate existing players
+[21:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2780ms or 55 ticks behind
+[21:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14608ms or 292 ticks behind
+[21:04:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[21:05:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3772ms or 75 ticks behind
+[21:07:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[21:09:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[21:09:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3730ms or 74 ticks behind
+[21:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4079ms or 81 ticks behind
+[21:10:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/764079, l='ServerLevel[world]', x=-401.70, y=74.26, z=480.50]
+[21:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[21:12:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[21:12:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3206ms or 64 ticks behind
+[21:12:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/765776, l='ServerLevel[world]', x=-401.70, y=70.26, z=478.50]
+[21:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
+[21:13:14] [Server thread/INFO]: Can only manipulate existing players
+[21:13:14] [Server thread/INFO]: Can only manipulate existing players
+[21:13:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4100ms or 82 ticks behind
+[21:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3135ms or 62 ticks behind
+[21:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[21:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13361ms or 267 ticks behind
+[21:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3901ms or 78 ticks behind
+[21:15:40] [Server thread/INFO]: Nan_Yang lost connection: Disconnected
+[21:15:40] [Server thread/INFO]: Nan_Yang left the game
+[21:23:14] [Server thread/INFO]: Can only manipulate existing players
+[21:23:14] [Server thread/INFO]: Can only manipulate existing players
+[21:33:12] [Server thread/INFO]: Can only manipulate existing players
+[21:33:12] [Server thread/INFO]: Can only manipulate existing players
+[21:33:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4714ms or 94 ticks behind
+[21:37:10] [Server thread/INFO]: EDGW[/101.132.153.204:40547] logged in with entity id 768127 at (-2074.4414082095072, 68.0, 531.0082103209401)
+[21:37:10] [Server thread/INFO]: EDGW joined the game
+[21:37:11] [Netty Epoll Server IO #3/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[21:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4347ms or 86 ticks behind
+[21:37:25] [Netty Epoll Server IO #3/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[21:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2247ms or 44 ticks behind
+[21:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3790ms or 75 ticks behind
+[21:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2175ms or 43 ticks behind
+[21:43:12] [Server thread/INFO]: Can only manipulate existing players
+[21:43:12] [Server thread/INFO]: Can only manipulate existing players
+[21:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[21:44:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
+[21:44:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[21:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3762ms or 75 ticks behind
+[21:45:29] [Server thread/INFO]: [EDGW: Can only manipulate existing players]
+[21:45:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[21:45:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4714ms or 94 ticks behind
+[21:48:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[21:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3700ms or 74 ticks behind
+[21:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2374ms or 47 ticks behind
+[21:49:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3777ms or 75 ticks behind
+[21:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3457ms or 69 ticks behind
+[21:50:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[21:50:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
+[21:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5660ms or 113 ticks behind
+[21:51:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4654ms or 93 ticks behind
+[21:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
+[21:52:22] [Server thread/INFO]: shuijiao[local] logged in with entity id 773906 at (-42.5, 61.0, 241.5)
+[21:52:22] [Server thread/INFO]: 假的 shuijiao joined the game
+[21:52:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6629ms or 132 ticks behind
+[21:52:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[21:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[21:53:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4185ms or 83 ticks behind
+[21:54:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4793ms or 95 ticks behind
+[21:54:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[21:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[21:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13943ms or 278 ticks behind
+[21:57:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3137ms or 62 ticks behind
+[22:01:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[22:06:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[22:08:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4983c4b8[id=346e1a62-5c56-325d-aa98-0d4258ab3018,name=BlackDreamL,properties={},legacy=false] (/101.132.153.204:54267): You are not white-listed on this server!
+[22:08:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@4983c4b8[id=346e1a62-5c56-325d-aa98-0d4258ab3018,name=BlackDreamL,properties={},legacy=false] (/101.132.153.204:54267) lost connection: You are not white-listed on this server!
+[22:10:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3441ms or 68 ticks behind
+[22:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
+[22:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[22:12:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[22:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[22:17:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[22:22:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[22:23:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/803430, l='ServerLevel[world]', x=-367.30, y=74.26, z=440.50]
+[22:23:30] [Server thread/INFO]: EDGW lost connection: Disconnected
+[22:23:30] [Server thread/INFO]: EDGW left the game
+[22:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[22:27:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[22:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[22:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[22:37:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[22:42:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[22:47:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[22:50:07] [Server thread/INFO]: EDGW[/101.132.153.204:39235] logged in with entity id 805220 at (-421.86250001192093, 70.0, 425.9519759559756)
+[22:50:07] [Server thread/INFO]: EDGW joined the game
+[22:50:07] [Netty Epoll Server IO #0/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[22:50:10] [Netty Epoll Server IO #0/WARN]: Player EDGW joined with another carpet version: 1.4.11+v200910
+[22:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2248ms or 44 ticks behind
+[22:50:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5989ms or 119 ticks behind
+[22:50:41] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/784337, l='ServerLevel[world]', x=-302.13, y=75.40, z=361.30]
+[22:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6081ms or 121 ticks behind
+[22:52:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[22:52:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['White Carpet'/807343, l='ServerLevel[world]', x=-264.03, y=76.05, z=461.06]
+[22:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[22:52:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3381ms or 67 ticks behind
+[22:53:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16343ms or 326 ticks behind
+[22:53:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[22:54:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[22:54:14] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/810518, l='ServerLevel[world]', x=-261.13, y=76.04, z=463.70]
+[22:54:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2434ms or 48 ticks behind
+[22:54:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11311ms or 226 ticks behind
+[22:55:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[22:56:43] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/813508, l='ServerLevel[world]', x=-367.30, y=74.26, z=478.50]
+[22:56:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/813580, l='ServerLevel[world]', x=-367.30, y=74.26, z=480.50]
+[22:56:55] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/813682, l='ServerLevel[world]', x=-367.30, y=74.26, z=458.50]
+[22:56:58] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/813711, l='ServerLevel[world]', x=-367.30, y=70.26, z=478.50]
+[22:57:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3496ms or 69 ticks behind
+[22:57:31] [Server thread/INFO]: EDGW experienced kinetic energy whilst trying to escape Zombie
+[22:57:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[22:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3155ms or 63 ticks behind
+[22:58:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3391ms or 67 ticks behind
+[22:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18209ms or 364 ticks behind
+[23:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2553ms or 51 ticks behind
+[23:04:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4731ms or 94 ticks behind
+[23:05:46] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/822614, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[23:05:51] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/822690, l='ServerLevel[world]', x=-367.30, y=70.26, z=440.50]
+[23:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3819ms or 76 ticks behind
+[23:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[23:07:44] [Server thread/INFO]: EDGW fell from a high place
+[23:07:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[23:08:16] [Server thread/INFO]: Teleported EDGW to -314.5, 68.0, 457.5
+[23:08:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[23:09:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[23:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6270ms or 125 ticks behind
+[23:09:49] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/828625, l='ServerLevel[world]', x=-303.34, y=70.06, z=362.88]
+[23:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14089ms or 281 ticks behind
+[23:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[23:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2270ms or 45 ticks behind
+[23:11:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[23:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
+[23:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3234ms or 64 ticks behind
+[23:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[23:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[23:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[23:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:14:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[23:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[23:14:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[23:15:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[23:15:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13071ms or 261 ticks behind
+[23:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2815ms or 56 ticks behind
+[23:16:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[23:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3557ms or 71 ticks behind
+[23:16:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3854ms or 77 ticks behind
+[23:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[23:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[23:18:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[23:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[23:18:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[23:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[23:21:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[23:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
+[23:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[23:27:09] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/855086, l='ServerLevel[world]', x=-401.70, y=70.26, z=438.50]
+[23:27:15] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/855175, l='ServerLevel[world]', x=-367.30, y=74.26, z=438.50]
+[23:27:20] [Server thread/WARN]: Fetching packet for removed entity class_1542['Air'/855245, l='ServerLevel[world]', x=-367.30, y=70.26, z=438.50]
+[23:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3898ms or 77 ticks behind
+[23:28:55] [Server thread/INFO]: Villager class_1646['Farmer'/27700, l='ServerLevel[world]', x=-367.74, y=68.94, z=470.73] was struck by lightning class_1538['Lightning Bolt'/856579, l='ServerLevel[world]', x=-364.50, y=69.00, z=468.50].
+[23:31:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[23:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3273ms or 65 ticks behind
+[23:35:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[23:35:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[23:36:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[23:37:03] [Server thread/INFO]: EDGW was slain by Zombie
+[23:52:22] [Server thread/INFO]: Player shuijiao is already logged on
+[23:52:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
+[23:53:37] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5616c7c7[id=346e1a62-5c56-325d-aa98-0d4258ab3018,name=BlackDreamL,properties={},legacy=false] (/101.132.153.204:57837): You are not white-listed on this server!
+[23:53:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@5616c7c7[id=346e1a62-5c56-325d-aa98-0d4258ab3018,name=BlackDreamL,properties={},legacy=false] (/101.132.153.204:57837) lost connection: You are not white-listed on this server!

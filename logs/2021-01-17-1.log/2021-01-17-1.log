@@ -1,0 +1,97 @@
+[00:52:16] [Server thread/INFO]: Player shuijiao is already logged on
+[01:52:16] [Server thread/INFO]: Player shuijiao is already logged on
+[02:52:16] [Server thread/INFO]: Player shuijiao is already logged on
+[03:52:16] [Server thread/INFO]: Player shuijiao is already logged on
+[04:52:17] [Server thread/INFO]: Player shuijiao is already logged on
+[05:52:17] [Server thread/INFO]: Player shuijiao is already logged on
+[06:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3148ms or 62 ticks behind
+[06:52:17] [Server thread/INFO]: Player shuijiao is already logged on
+[07:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[07:52:17] [Server thread/INFO]: Player shuijiao is already logged on
+[07:56:30] [Server thread/INFO]: Aod_lcy[/101.132.153.204:39571] logged in with entity id 67214 at (189.64921052536883, 3.406459391293326, -0.06956542705840253)
+[07:56:30] [Server thread/INFO]: Aod_lcy joined the game
+[07:56:30] [Netty Epoll Server IO #5/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[07:56:32] [Netty Epoll Server IO #5/WARN]: Player Aod_lcy joined with another carpet version: 1.4.11+v200910
+[07:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[07:58:08] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[07:58:08] [Server thread/INFO]: Aod_lcy left the game
+[08:02:17] [Server thread/INFO]: Aod_lcy[/101.132.153.204:38663] logged in with entity id 67879 at (184.60791815692062, 3.0625, 2.0024793521816524)
+[08:02:17] [Server thread/INFO]: Aod_lcy joined the game
+[08:02:17] [Netty Epoll Server IO #4/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[08:04:16] [Server thread/INFO]: Aod_lcy fell out of the world
+[08:04:17] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.class_3204.method_14051(class_3204.java:202) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3898.method_18713(class_3898.java:2734) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3215.method_14096(class_3215.java:467) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3244.method_12063(class_3244.java:931) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828.method_12272(class_2828.java:122) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2828$class_2829.method_11054(class_2828.java:56) ~[intermediary-server.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:21) ~[intermediary-server.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:144) ~[intermediary-server.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:761) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:155) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:118) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:743) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:737) ~[intermediary-server.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:103) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:721) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$bcf000$modifiedRunLoop(MinecraftServer.java:6319) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:651) ~[intermediary-server.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:257) ~[intermediary-server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[08:05:05] [Server thread/INFO]: Aod_lcy was shot by Skeleton
+[08:07:49] [Server thread/INFO]: Aod_lcy lost connection: Disconnected
+[08:07:49] [Server thread/INFO]: Aod_lcy left the game
+[08:52:14] [Server thread/INFO]: Player shuijiao is already logged on
+[09:52:15] [Server thread/INFO]: Player shuijiao is already logged on
+[10:52:16] [Server thread/INFO]: Player shuijiao is already logged on
+[11:52:15] [Server thread/INFO]: Player shuijiao is already logged on
+[12:52:15] [Server thread/INFO]: Player shuijiao is already logged on
+[13:52:15] [Server thread/INFO]: Player shuijiao is already logged on
+[14:52:15] [Server thread/INFO]: Player shuijiao is already logged on
+[14:52:17] [Server thread/INFO]: There are 89 whitelisted players: xm233, DIOHIGH, Hai_Xing_Yang, beiwei_lkiru, _Ray_, ZetaTong, Assassin_LinC, wushi6969, WhiteSky_Bai, Naando, Aod0lcy, austinfoster, balabaj, China_mxb, Flipped777, Nan_Yang, SLIMJIMCHRIS, BCX, Aod_lcy, Mk_Bolo, zimzaza4, EDGW, jishuo, ChengXi123, YuceChivas, XxiaoyunX, EDGWA, aka213, yao_di, XZHao02, zxcalic, ooo, yuwenkang, Erue, justWYL, Plants352039, RZYplus, MTpromax, na2hco3CN1277, DigitalBeast405, TTMM, LightImpala7271, goudongxi6066, BlackDreamL, extclp, na2hco3_CN, Qian_linger, MikeOvO, H2O, Manjaro_linux, Lin_Moooo, WelcoFa, zeao, MAXXiaoKui5106, skyking_F, Charmander, dy_xiapiAce, Cora_cold, xiaojian520, xiaolouQAQ, Leafiey, OuOu319, Looooocro, huan_mo, 000tt000, MAX_ShouWang, X_mikl, chy, yunxiao, MPCQUQ, AQ, PrestoNickel564, Yantey, MIXMIXM, wuhao, Xia_Xia, Yan, wushi_, Qing_sha, BidTrout6715972, nukibple, soy_25, poxington, MAX_XiaoKui, Firliang, ChengXi123SJ, xiao_rui, Yu_Chei, Mr_Yijun
+[14:53:55] [Server thread/INFO]: Player is already whitelisted
+[14:58:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:58:29] [Server thread/INFO]: whitrlist reload<--[HERE]
+[14:58:35] [Server thread/INFO]: Reloaded the whitelist
+[15:07:36] [Server thread/INFO]: BlackDreamL[/101.132.153.204:53571] logged in with entity id 90940 at (-42.5, 64.0, 239.5)
+[15:07:36] [Server thread/INFO]: BlackDreamL joined the game
+[15:07:36] [Netty Epoll Server IO #7/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[15:07:37] [Netty Epoll Server IO #7/WARN]: Player BlackDreamL joined with another carpet version: 1.4.11+v200910
+[15:08:12] [Server thread/INFO]: BlackDreamL lost connection: Disconnected
+[15:08:12] [Server thread/INFO]: BlackDreamL left the game
+[15:17:11] [Server thread/INFO]: Player is not whitelisted
+[15:17:20] [Server thread/INFO]: Player is not whitelisted
+[15:18:09] [Server thread/INFO]: Player is not whitelisted
+[15:18:15] [Server thread/INFO]: Incorrect argument for command
+[15:18:15] [Server thread/INFO]: whitelist lisy<--[HERE]
+[15:18:23] [Server thread/INFO]: There are 89 whitelisted players: xm233, DIOHIGH, Hai_Xing_Yang, beiwei_lkiru, _Ray_, ZetaTong, Assassin_LinC, wushi6969, WhiteSky_Bai, Naando, Aod0lcy, austinfoster, balabaj, China_mxb, Flipped777, Nan_Yang, SLIMJIMCHRIS, BCX, Aod_lcy, Mk_Bolo, zimzaza4, EDGW, jishuo, ChengXi123, YuceChivas, XxiaoyunX, EDGWA, aka213, BlackDreamL, yao_di, XZHao02, zxcalic, ooo, yuwenkang, Erue, justWYL, Plants352039, RZYplus, MTpromax, na2hco3CN1277, DigitalBeast405, TTMM, LightImpala7271, goudongxi6066, extclp, na2hco3_CN, Qian_linger, MikeOvO, H2O, Manjaro_linux, Lin_Moooo, WelcoFa, zeao, MAXXiaoKui5106, skyking_F, Charmander, dy_xiapiAce, Cora_cold, xiaojian520, xiaolouQAQ, Leafiey, OuOu319, Looooocro, huan_mo, 000tt000, MAX_ShouWang, X_mikl, chy, yunxiao, MPCQUQ, AQ, PrestoNickel564, Yantey, MIXMIXM, wuhao, Xia_Xia, Yan, wushi_, Qing_sha, BidTrout6715972, nukibple, soy_25, poxington, MAX_XiaoKui, Firliang, ChengXi123SJ, xiao_rui, Yu_Chei, Mr_Yijun
+[15:19:24] [Server thread/INFO]: Reloaded the whitelist
+[15:52:13] [Server thread/INFO]: Player shuijiao is already logged on
+[16:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3398ms or 67 ticks behind
+[16:52:14] [Server thread/INFO]: Player shuijiao is already logged on
+[17:21:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2749ms or 54 ticks behind
+[17:52:13] [Server thread/INFO]: Player shuijiao is already logged on
+[18:52:13] [Server thread/INFO]: Player shuijiao is already logged on
+[19:52:13] [Server thread/INFO]: Player shuijiao is already logged on
+[20:52:13] [Server thread/INFO]: Player shuijiao is already logged on
+[21:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[21:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21:52:12] [Server thread/INFO]: Player shuijiao is already logged on
+[22:52:12] [Server thread/INFO]: Player shuijiao is already logged on
+[23:26:15] [Server thread/INFO]: na2hco3_CN[/101.132.153.204:57365] logged in with entity id 115920 at (-111.66588773952634, 115.0, 511.18734120265594)
+[23:26:15] [Server thread/INFO]: na2hco3_CN joined the game
+[23:26:15] [Netty Epoll Server IO #2/WARN]: Received invalid identifier in minecraft:register: legacy:fml|hs (Non [a-z0-9/._-] character in path of location: legacy:fml|hs)
+[23:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
+[23:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3572ms or 71 ticks behind
+[23:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[23:44:56] [Server thread/INFO]: na2hco3_CN fell from a high place
+[23:47:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[23:52:12] [Server thread/INFO]: Player shuijiao is already logged on
+[23:56:46] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@537c5bc2[id=55283211-18de-3f9c-b672-6447d75da6d0,name=Idiotdry,properties={},legacy=false] (/101.132.153.204:40641): You are not white-listed on this server!
+[23:56:46] [Server thread/INFO]: com.mojang.authlib.GameProfile@537c5bc2[id=55283211-18de-3f9c-b672-6447d75da6d0,name=Idiotdry,properties={},legacy=false] (/101.132.153.204:40641) lost connection: You are not white-listed on this server!
+[23:58:25] [Server thread/INFO]: na2hco3_CN lost connection: Disconnected
+[23:58:25] [Server thread/INFO]: na2hco3_CN left the game

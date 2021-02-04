@@ -1,0 +1,114 @@
+[23:52:49] [main/INFO]: Loading for game Minecraft 1.16.4
+[23:52:50] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[23:53:18] [main/INFO]: [FabricLoader] Loading 2 mods: minecraft@1.16.4, fabricloader@0.10.6+build.214
+[23:53:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/srv/survival/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[23:53:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:53:35] [main/WARN]: Missing data pack fabric/fabric-tool-attribute-api-v1
+[23:53:35] [main/WARN]: Missing data pack fabric/player-roles
+[23:53:35] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:53:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:53:35] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:53:35] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:53:35] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:53:35] [main/INFO]: Reloading ResourceManager: Default, bukkit, skimit-DataPack
+[23:53:38] [Worker-Main-2/INFO]: Loaded 7 recipes
+[23:53:39] [Worker-Main-2/ERROR]: Failed to load function fz:carpet/script
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 45: ...arpet run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1766) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 45: ...arpet run <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:62) ~[intermediary-server.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:86) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	... 6 more
+[23:53:39] [Worker-Main-2/ERROR]: Failed to load function fz:carpet/scarpettagplayer
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 48: ...arpet run <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1766) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Incorrect argument for command at position 48: ...arpet run <--[HERE]
+	at net.minecraft.class_2158.method_9195(class_2158.java:62) ~[intermediary-server.jar:?]
+	at net.minecraft.class_5349.method_29451(class_5349.java:86) ~[intermediary-server.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764) ~[?:?]
+	... 6 more
+[23:53:39] [Worker-Main-2/INFO]: Loaded 927 advancements
+[23:53:46] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[23:53:46] [Server thread/INFO]: Loading properties
+[23:53:46] [Server thread/INFO]: Default game type: SURVIVAL
+[23:53:46] [Server thread/INFO]: Generating keypair
+[23:53:47] [Server thread/INFO]: Starting Minecraft server on *:34268
+[23:53:47] [Server thread/INFO]: Using epoll channel type
+[23:53:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:53:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:53:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:53:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:53:48] [Server thread/INFO]: Preparing level "world"
+[23:53:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:00] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:01] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:01] [Server thread/INFO]: Preparing spawn area: 0%
+[23:54:01] [Server thread/INFO]: Preparing spawn area: 49%
+[23:54:02] [Server thread/INFO]: Time elapsed: 14207 ms
+[23:54:02] [Server thread/INFO]: Done (14.775s)! For help, type "help"
+[23:54:02] [Server thread/INFO]: Starting remote control listener
+[23:54:02] [Server thread/INFO]: Thread RCON Listener started
+[23:54:02] [Server thread/INFO]: RCON running on 0.0.0.0:796
+[23:54:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:54:03] [Server thread/INFO]: player shuijiao look down<--[HERE]
+[23:54:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:54:03] [Server thread/INFO]: player shuijiao use interval 200<--[HERE]
+[23:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23:54:14] [Server thread/INFO]: Stopping the server
+[23:54:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:54:14] [Server thread/INFO]: end<--[HERE]
+[23:54:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:54:14] [Server thread/INFO]: exit<--[HERE]
+[23:54:14] [Server thread/INFO]: Stopping server
+[23:54:14] [Server thread/INFO]: Saving players
+[23:54:14] [Server thread/INFO]: Saving worlds
+[23:54:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:54:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:54:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:54:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:54:39] [Server thread/INFO]: Thread RCON Listener stopped
