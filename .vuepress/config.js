@@ -2,18 +2,28 @@ const { resolve } = require('path')
 const r = (path) => resolve(__dirname, path)
 module.exports = {
   theme: 'antdocs',
+  markdown: {
+    toc: { includeLevel: [2, 3] },
+  },
   head: [
+    [
+      "script",
+      {
+        src: '/assets/js/mc-player-counter.js'
+      }
+    ],
+    [
+      "script",
+      {
+        src: '/assets/js/runtime.js'
+      }
+    ],
     [
       'link',
       {
         rel: 'icon',
-        href: '/title.ico',
-      },
-      /*"script",
-      {
-        text: 'text/javascript',
-        src: 'https://s4.cnzz.com/z_stat.php?id=1279667282&web_id=1279667282',
-      }*/
+        href: '/title.ico'
+      }
     ],
   ],
   plugins: {
@@ -34,11 +44,18 @@ module.exports = {
       title: 'skimit服务器',
       description:
         '一个Minecraft1.16.5原版公益生存服务器',
+      serviceWorker: {
+        updatePopup: {
+          message: "发现新内容可用.",
+          buttonText: "刷新"
+        }
+      }
     },
   },
   themeConfig: {
     logo: '/title.ico',
     displayAllHeaders: true,
+    banner: '/banner.jpg',
     smoothScroll: true,
     /*ads:{
       style: 3, 
@@ -127,5 +144,6 @@ module.exports = {
     docsBranch: 'master',
     docsDir: '.',
     editLinks: true,
-    }
+    
+  }
 }
