@@ -1,10 +1,7 @@
 ---
-home: true
 heroImage: /title.ico
 heroText: skimit服务器
 tagline: 一个Minecraft1.16.5原版公益生存服务器
-actionText: 申请白名单 →
-actionLink: ./apply-whitelist/
 features:
   - title: 公益
     details: 没有任何金钱系统
@@ -18,12 +15,17 @@ features:
     details: Java版与基岩版可以在一起畅玩
   - title: 急需人才
     details: 欢迎加入！
+actionBtn:
+  text: 申请白名单 →
+  link: ./apply-whitelist/
+  type: primary
+  ghost: false
+  size: large
 footer: CC-BY-SA-4.0 | © 2021 skimit
-toggleBtn: 0
 ---
 
-<!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>  
-服务器已经运行了<span id='runtime'>计算中……</span>天-->  
+
+<!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>-->  
 ![服务器贴图](https://tietu.iroselle.com/share/tietu/sid/207/main.png)  
 ![在线玩家趋势图](https://tietu.iroselle.com/share/tietu/data/2602/player.png)  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010198&auto=0&height=66"></iframe>
