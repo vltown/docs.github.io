@@ -43,9 +43,9 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 
 ## 链接
 
-[QQ群](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
+[![QQ群](https://img.shields.io/badge/QQ%20Group-597691030-12B7F5?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
 
-[Discord](https://discord.gg/Xf3Q3K4CYw)  
+[![Discord](https://img.shields.io/badge/Discord-Xf3Q3K4CYw-7289DA?logo=discord)](https://discord.gg/Xf3Q3K4CYw)  
 
 [服务器规定](./rules/)  
   
