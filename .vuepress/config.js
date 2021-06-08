@@ -46,7 +46,7 @@ module.exports = {
         '一个Minecraft1.16.5原版公益生存服务器',
       serviceWorker: {
         updatePopup: {
-          message: "发现新内容可用.",
+          message: "发现新内容可用。",
           buttonText: "刷新"
         }
       }
@@ -54,6 +54,7 @@ module.exports = {
   },
   themeConfig: {
     logo: '/title.ico',
+    backToTop: true,
     displayAllHeaders: true,
     banner: '/banner.jpg',
     smoothScroll: true,

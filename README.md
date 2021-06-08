@@ -17,13 +17,23 @@ features:
     details: 欢迎加入！
 actionBtn:
   text: 申请白名单 →
-  link: ./apply-whitelist/
+  link: /apply-whitelist/
   type: primary
   ghost: false
   size: large
+preactionBtn:
+  text: 提点建议
+  link: https://github.com/skimitmc/skimit/issues
+  type: primary
+  ghost: true
+  size: large
 footer: CC-BY-SA-4.0 | © 2021 skimit
 ---
+<div align="center"><img src="title.ico" width=256 height=256/></div>
 
+# <div align="center">skimit服务器</div>
+## <div align="center">一个Minecraft1.16.5原版公益生存服务器</div>
+----
 
 <!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>-->  
 ![服务器贴图](https://tietu.iroselle.com/share/tietu/sid/207/main.png)  
@@ -32,6 +42,11 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 
 
 ## 链接
+
+[QQ群](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
+
+[Discord](https://discord.gg/Xf3Q3K4CYw)  
+
 [服务器规定](./rules/)  
   
 [服务器指南](./guide/)  
