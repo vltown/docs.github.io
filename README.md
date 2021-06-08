@@ -34,7 +34,7 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 # <div align="center">skimit服务器</div>
 ## <div align="center">一个Minecraft1.16.5原版公益生存服务器</div>
 ----
-
+## 服务器已支持1.17进入（更新核心仍需一段时间）
 <!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>-->  
 ![服务器贴图](https://tietu.iroselle.com/share/tietu/sid/207/main.png)  
 ![在线玩家趋势图](https://tietu.iroselle.com/share/tietu/data/2602/player.png)  
