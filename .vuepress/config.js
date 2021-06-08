@@ -27,7 +27,7 @@ module.exports = {
     ],
   ],
   plugins: {
-    '@vuepress/back-to-top': {},
+    '@vuepress/plugin-back-to-top': {},
     'graysite': {
       startDate: '2021-12-13 00:00:00',
       endDate: '2021-12-13 23:59:59'
@@ -54,7 +54,7 @@ module.exports = {
   },
   themeConfig: {
     logo: '/title.ico',
-    backToTop: true,
+    //backToTop: true,
     displayAllHeaders: true,
     banner: '/banner.jpg',
     smoothScroll: true,
