@@ -1,6 +1,6 @@
 {
   "name": "skimit.cn",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "skimit服务器官网",
   "main": "index.js",
   "repository": "https://github.com/skimitmc/skimit.cn",
@@ -19,6 +19,7 @@
   },
   "scripts": {
     "docs:dev": "vuepress dev .",
-    "docs:build": "vuepress build ."
+    "docs:build": "vuepress build .",
+    "deploy": "bash deploy.sh"
   }
 }
