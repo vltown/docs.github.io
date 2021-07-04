@@ -22,7 +22,6 @@ jobs:
     strategy:
       matrix:
        include:
-         - node-version: 14.x
          - yarn-version: 1.22.x
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -38,4 +37,4 @@ jobs:
         run: |
           yarn add -D vuepress
           yarn add vuepress-theme-antdocs
-          npm run deploy
+          yarn run deploy
