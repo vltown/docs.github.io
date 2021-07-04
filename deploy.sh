@@ -12,6 +12,7 @@ cd .vuepress/dist
 # 如果是发布到自定义域名
 # echo 'skimit.cn' > CNAME
 git config --global user.name "MAX-XiaoKui"
+git config --global user.email max.xiaokui@gmail.com
 git init
 git add -A
 git commit -m 'deploy'
