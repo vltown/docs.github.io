@@ -36,4 +36,5 @@ jobs:
       - name: deploy
         run: |
           npm install -D vuepress
+          npm i vuepress-theme-antdocs
           npm run deploy
