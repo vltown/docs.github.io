@@ -36,10 +36,11 @@ jobs:
         run: |
           yarn add -D vuepress
           yarn add vuepress-theme-antdocs
+          yarn run docs:build
 
       # Runs a set of commands using the runners shell
       - name: Deploy
-        run: yarn run docs:build
+        uses: JamesIves/github-pages-deploy-action@releases/v4.1.4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
