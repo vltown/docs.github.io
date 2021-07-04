@@ -37,13 +37,13 @@ module.exports = {
     /*'/en/': {
       lang: 'en-US',
       title: 'skimit server',
-      description: 'A Minecraft 1.16.5 vanilla survival server',
+      description: 'A Minecraft 1.17 vanilla survival server',
     },*/
     '/': {
       lang: 'zh-CN',
       title: 'skimit服务器',
       description:
-        '一个Minecraft1.16.5原版公益生存服务器',
+        '一个Minecraft1.17原版公益生存服务器',
       serviceWorker: {
         updatePopup: {
           message: "发现新内容可用。",
@@ -127,10 +127,6 @@ module.exports = {
           {
             text: '规定',
             link: '/rules/',
-          },
-          {
-            text: '日志（建设中）',
-            link: '/log/',
           },
           {
             text: '捐助',

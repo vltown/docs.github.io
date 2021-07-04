@@ -1,7 +1,7 @@
 ---
 heroImage: /title.ico
 heroText: skimit服务器
-tagline: 一个Minecraft1.16.5原版公益生存服务器
+tagline: 一个Minecraft1.17原版公益生存服务器
 features:
   - title: 公益
     details: 没有任何金钱系统
@@ -32,13 +32,11 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 <div align="center"><img src="title.ico" width=256 height=256/></div>
 
 # <div align="center">skimit服务器</div>
-## <div align="center">一个Minecraft1.16.5原版公益生存服务器</div>
+## <div align="center">一个Minecraft1.17原版公益生存服务器</div>
 ----
-## 服务器已支持1.17进入（更新核心仍需一段时间）
 ### [申请白名单 →](/apply-whitelist/)
 <!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>-->  
-![服务器贴图](https://tietu.iroselle.com/share/tietu/sid/207/main.png)  
-![在线玩家趋势图](https://tietu.iroselle.com/share/tietu/data/2602/player.png)  
+![服务器贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010198&auto=0&height=66"></iframe>
 
 
