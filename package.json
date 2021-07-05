@@ -1,6 +1,6 @@
 {
   "name": "skimit.cn",
-  "version": "2.3.15",
+  "version": "2.3.16",
   "description": "skimit服务器官网",
   "main": "index.js",
   "repository": "https://github.com/skimitmc/skimit.cn",
