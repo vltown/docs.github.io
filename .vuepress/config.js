@@ -129,8 +129,8 @@ module.exports = {
             link: '/rules/',
           },
           {
-            text: '捐助',
-            link: '/donate/',
+            text: '赞助',
+            link: '/sponsor/',
           },
         ],
       },

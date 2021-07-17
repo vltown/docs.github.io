@@ -46,21 +46,21 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 
 [![Discord](https://img.shields.io/badge/Discord-Xf3Q3K4CYw-7289DA?logo=discord)](https://discord.gg/Xf3Q3K4CYw)  
 
+[玩家数据分析](http://plan.skimit.cn:1104/)
+
 [服务器规定](./rules/)  
   
 [服务器指南](./guide/)  
   
-[捐助者名单](./donators/)  
+[赞助](./sponsor/)  
+
+[skimit服务器的网页地图](/map/)  
   
-[服务器日志公开](./logs/)（建设中）
-  
-[skimit服务器的网页地图](/map/)
-  
-[.skin文件转换器/盗版自定义皮肤](https://skin.skimit.cn)  
+<!--[.skin文件转换器/盗版自定义皮肤](https://skin.skimit.cn)  -->
   
 [服务器在线数据](https://mc.iroselle.com/server/207/data)  
   
-![展示图，挂了请告知](/banner.jpg)  
+![展示图](/banner.jpg)  
 ## 反馈和建议
 [提交bug或需求](https://github.com/skimitmc/skimit.cn/issues)  
 ## 联系
