@@ -60,4 +60,4 @@
 ## 联系
 [加入QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)  
 [加入Discord群组](https://discord.gg/Xf3Q3K4CYw)  
-[加QQ2738345462](http://wpa.qq.com/msgrd?v=3&uin=2738345462&site=qq&menu=yes)
+[加QQ2738345462](http://wpa.qq.com/msgrd?uin=2738345462)

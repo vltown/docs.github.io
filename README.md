@@ -29,7 +29,7 @@ preactionBtn:
   size: large
 footer: CC-BY-SA-4.0 | © 2021 skimit
 ---
-<div align="center"><img src="skimit-1-1-tpbg-huge.png" width=128 height=128/></div>
+<div align="center"><img src="https://skimit.cn/skimit-1-1-tpbg-huge.png" width=128 height=128/></div>
 
 # <div align="center">skimit服务器</div>
 ## <div align="center">一个Minecraft1.17.1原版公益生存服务器</div>
@@ -65,4 +65,4 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 [提交bug或需求](https://github.com/skimitmc/skimit.cn/issues)  
 ## 联系
 [加入QQ群597691030](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
-[加QQ2738345462](http://wpa.qq.com/msgrd?v=3&uin=2738345462&site=qq&menu=yes)
+[加QQ2738345462](http://wpa.qq.com/msgrd?uin=2738345462)
