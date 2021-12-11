@@ -1,7 +1,7 @@
 ---
 heroImage: /title.ico
 heroText: skimit服务器
-tagline: 一个Minecraft1.17原版公益生存服务器
+tagline: 一个Minecraft1.17.1原版公益生存服务器
 features:
   - title: 公益
     details: 没有任何金钱系统
@@ -46,7 +46,7 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 
 [![Discord](https://img.shields.io/badge/Discord-Xf3Q3K4CYw-7289DA?logo=discord)](https://discord.gg/Xf3Q3K4CYw)  
 
-[玩家数据分析](http://plan.skimit.cn:1104/)
+[玩家数据分析](https://plan.skimit.cn:1104/)（需要登录）
 
 [服务器规定](./rules/)  
   
