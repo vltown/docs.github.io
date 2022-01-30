@@ -1,7 +1,7 @@
 ---
 heroImage: /title.ico
 heroText: skimit服务器
-tagline: 一个Minecraft1.17.1原版公益生存服务器
+tagline: 一个Minecraft1.18.1原版公益生存服务器
 features:
   - title: 公益
     details: 没有任何金钱系统
@@ -32,7 +32,7 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 <div align="center"><img src="https://skimit.cn/skimit-1-1-tpbg-huge.png" width=128 height=128/></div>
 
 # <div align="center">skimit服务器</div>
-## <div align="center">一个Minecraft1.17.1原版公益生存服务器</div>
+## <div align="center">一个Minecraft1.18.1原版公益生存服务器</div>
 ----
 ### [申请白名单 →](/apply-whitelist/)
 <!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>-->  
