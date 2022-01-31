@@ -37,7 +37,7 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
 ### [申请白名单 →](/apply-whitelist/)
 <!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>  
 ![服务器贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)-->  
-![展示图](/default.jpg)  
+![展示图](/default.png)  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010198&auto=0&height=66"></iframe>
 
 
