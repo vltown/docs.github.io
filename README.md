@@ -29,14 +29,15 @@ preactionBtn:
   size: large
 footer: CC-BY-SA-4.0 | © 2021 skimit
 ---
-<div align="center"><img src="https://skimit.cn/skimit-1-1-tpbg-huge.png" width=128 height=128/></div>
+<div align="center"><img src="/title.ico" width=128 height=128/></div>
 
 # <div align="center">skimit服务器</div>
 ## <div align="center">一个Minecraft1.18.1原版公益生存服务器</div>
 ----
 ### [申请白名单 →](/apply-whitelist/)
-<!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>-->  
-![服务器贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)  
+<!--当前在线玩家：<span data-playercounter-ip="play.skimit.cn" data-playercounter-format="{online}/{max}">获取中……</span>  
+![服务器贴图](https://tietu.mclists.cn/banner/skimit.cn_25565.jpg)-->  
+![展示图](/default.jpg)  
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=4010198&auto=0&height=66"></iframe>
 
 
@@ -58,9 +59,8 @@ footer: CC-BY-SA-4.0 | © 2021 skimit
   
 <!--[.skin文件转换器/盗版自定义皮肤](https://skin.skimit.cn)  -->
   
-[服务器在线数据](https://mc.iroselle.com/server/207/data)  
+<!--[服务器在线数据](https://mc.iroselle.com/server/207/data)  -->
   
-![展示图](/banner.jpg)  
 ## 反馈和建议
 [提交bug或需求](https://github.com/skimitmc/skimit.cn/issues)  
 ## 联系
