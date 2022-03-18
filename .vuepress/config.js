@@ -29,8 +29,8 @@ module.exports = {
   plugins: {
     '@vuepress/plugin-back-to-top': {},
     'graysite': {
-      startDate: '2021-12-13 00:00:00',
-      endDate: '2021-12-13 23:59:59'
+      startDate: '2022-12-13 00:00:00',
+      endDate: '2022-12-13 23:59:59'
     },
   },
   locales: {
