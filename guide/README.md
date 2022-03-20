@@ -13,6 +13,7 @@
 - 备用地址3: `mc.skimit.cn`（河南电信转发）
   **`skimit.world`已停止使用**  
 ### 基岩版进入服务器
+你可以安装 [GeyserOptionalPack](https://ci.opencollab.dev/job/GeyserMC/job/GeyserOptionalPack/job/master/lastSuccessfulBuild/artifact/GeyserOptionalPack.mcpack) 资源包来修复部分基岩版bug并增强基岩版游戏体验
 - 主要地址（浙江电信直连）
   - 地址: `be.skimit.cn`  
   - 端口: `1792`  
