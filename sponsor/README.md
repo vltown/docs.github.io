@@ -2,10 +2,22 @@
 赞助金额以实际收到为准  
 时区为GMT+8(东八区，北京时间)  
 时间按年-月-日 时:分:秒的格式记录  
-[[toc]]
-# [在爱发电赞助](https://afdian.net/@skimit)  
+[[toc]]  
+[在爱发电赞助](https://afdian.net/@skimit)（会有6%的金额会被平台收取）  
 <iframe id="afdian_leaflet_skimit" class="afdian_iframe" src="https://afdian.net/leaflet?slug=skimit" width="640" scrolling="no" height="260" frameborder="0" data-v-079fe678=""></iframe>  
-  
+
+<details>
+    <summary>使用微信赞赏码赞赏（点击打开）</summary>
+    <p><b>请在留言中写入"skimit赞助"并加上你的ID或昵称</b>，你还可以留言一些其他内容</p>
+    若不留言"skimit"相关内容则不会被视为skimit赞助，若不备注昵称则会<p>直接以微信名字展示</p>
+    <img src=/mm_reward_qrcode.png>
+</details>
+<details>
+    <summary>使用QQ钱包付款（点击打开）</summary>
+    <p><b>请在转账留言中写入"skimit赞助"并加上你的ID或昵称</b>，你还可以留言一些其他内容</p>
+    若不留言"skimit"相关内容则不会被视为skimit赞助，若不备注昵称则会<p>直接以QQ昵称展示</p>
+    <img src=/QQ_pay_qrcode.png>
+</details>
 [返回服务器主页](../)  
 
 ## 赞助者
