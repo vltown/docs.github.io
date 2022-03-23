@@ -7,19 +7,18 @@
 - 对于Java版，你可以使用我们的[定制客户端](https://github.com/skimitmc/skimit-client)
 ## 服务器地址
 ### Java版进入服务器
-- 主要地址: `skimit.cn`（浙江电信直连）  
-- 备用地址1: `play.skimit.cn`（浙江电信直连）  
-- 备用地址2: `play.skimit.cn:1536`（浙江电信直连）  
-- 备用地址3: `mc.skimit.cn`（河南电信转发）
+- 主要地址: `skimit.cn`  
+- 备用地址1: `play.skimit.cn`  
+- 备用地址2: `skimit.net`  
   **`skimit.world`已停止使用**  
 ### 基岩版进入服务器
 你可以安装 [GeyserOptionalPack](https://ci.opencollab.dev/job/GeyserMC/job/GeyserOptionalPack/job/master/lastSuccessfulBuild/artifact/GeyserOptionalPack.mcpack) 资源包来修复部分基岩版bug并增强基岩版游戏体验
-- 主要地址（浙江电信直连）
+- 主要地址
   - 地址: `be.skimit.cn`  
-  - 端口: `1792`  
-- 备用地址（河南电信转发）  
-  - 地址: `be2.skimit.cn`  
-  - 端口: `17171`  
+  - 端口: `19132`  
+- 备用地址
+  - 地址: `be.skimit.net`  
+  - 端口: `19132`  
 
 ## 须知
 ### 指令中的`<>`和`[]`分别指必须参数和可选参数
