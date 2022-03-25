@@ -3,8 +3,8 @@
 ## 卫星地图
 
 Overviewer地图 （已关闭）  
-[Dynmap地图](http://dynmap.skimit.cn:1123)（实时更新，可看玩家位置与聊天）
-[Bluemap地图](http://bluemap.skimit.cn:1654)（实时更新，可看玩家位置）  
+[Dynmap地图](http://dynmap.skimit.cn)（实时更新，可看玩家位置与聊天）
+[Bluemap地图](http://bluemap.skimit.cn)（实时更新，可看玩家位置）  
 [地铁参考图](/%E5%9C%B0%E9%93%81%E5%8F%82%E8%80%83%E5%9B%BE.png)（已过时）（可能加载较慢）
 
 ## 联系
