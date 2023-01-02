@@ -115,6 +115,12 @@ export const zhNavbar = navbar([
     ],
   },
   {
+    text: "账本（待完善）",
+    icon: "calculate",
+    link: "账本",
+  },
+
+  {
     text: "网页地图",
     icon: "map",
     link: "https://bluemap.skimit.cn",
