@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "历史",
     icon: "blog",
-    prefix: "历史/",
+    prefix: "/历史/",
     link: "历史",
     children: [
       {
@@ -75,7 +75,7 @@ export const zhNavbar = navbar([
       },
       {
         text: "2023年",
-        prefix: "2023/",
+        prefix: "/2023/",
         children: [
           { text: "1月", link: "01" },
         ]
@@ -85,7 +85,7 @@ export const zhNavbar = navbar([
   {
     text: "指南",
     icon: "discover",
-    prefix: "指南/",
+    prefix: "/指南/",
     children: [
       {
         text: "玩家",
@@ -117,6 +117,7 @@ export const zhNavbar = navbar([
   {
     text: "账本（待完善）",
     icon: "calculate",
+    prefix: "/账本/",
     link: "账本",
   },
 
