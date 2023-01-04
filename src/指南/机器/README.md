@@ -5,8 +5,6 @@ skimit服务器中机器坐标，以及使用方式和注意事项：
 
 ~~放心，这个人是个懒狗，更新没那么快~~  
 
-机器列表，排序方式是个谜：  
-1. [72k刷冰机](https://docs.skimit.cn/%E6%8C%87%E5%8D%97/%E6%9C%BA%E5%99%A8/72k-ice-generator.html)  
-2. [潜影贝农场](https://docs.skimit.cn/%E6%8C%87%E5%8D%97/%E6%9C%BA%E5%99%A8/%E6%BD%9C%E5%BD%B1%E8%B4%9D%E5%86%9C%E5%9C%BA.html)
+机器列表，排序方式是个谜：
 
 （正在更新）
