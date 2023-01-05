@@ -14,30 +14,30 @@ export const zhNavbar = navbar([
         children: [
           { text: "8月", link: "08" },
           { text: "9月", link: "09" },
-          { text: "10月", link: "10" },
-          { text: "11月", link: "11" },
-          { text: "12月", link: "12" },
+          //{ text: "10月", link: "10" },
+          //{ text: "11月", link: "11" },
+          //{ text: "12月", link: "12" },
         ]
       },
       {
         text: "2020年",
         prefix: "2020/",
         children: [
-          { text: "1月", link: "01" },
+          //{ text: "1月", link: "01" },
           { text: "2月", link: "02" },
-          { text: "3月", link: "03" },
-          { text: "4月", link: "04" },
+          //{ text: "3月", link: "03" },
+          //{ text: "4月", link: "04" },
           { text: "5月", link: "05" },
-          { text: "6月", link: "06" },
+          //{ text: "6月", link: "06" },
           { text: "7月", link: "07" },
           { text: "8月", link: "08" },
-          { text: "9月", link: "09" },
-          { text: "10月", link: "10" },
-          { text: "11月", link: "11" },
-          { text: "12月", link: "12" },
+          //{ text: "9月", link: "09" },
+          //{ text: "10月", link: "10" },
+          //{ text: "11月", link: "11" },
+          //{ text: "12月", link: "12" },
         ]
       },
-      {
+      /*{
         text: "2021年",
         prefix: "2021/",
         children: [
@@ -54,21 +54,21 @@ export const zhNavbar = navbar([
           { text: "11月", link: "11" },
           { text: "12月", link: "12" },
         ]
-      },
+      },*/
       {
         text: "2022年",
         prefix: "2022/",
         children: [
-          { text: "1月", link: "01" },
-          { text: "2月", link: "02" },
-          { text: "3月", link: "03" },
+          //{ text: "1月", link: "01" },
+          //{ text: "2月", link: "02" },
+          //{ text: "3月", link: "03" },
           { text: "4月", link: "04" },
-          { text: "5月", link: "05" },
-          { text: "6月", link: "06" },
-          { text: "7月", link: "07" },
+          //{ text: "5月", link: "05" },
+          //{ text: "6月", link: "06" },
+          //{ text: "7月", link: "07" },
           { text: "8月", link: "08" },
-          { text: "9月", link: "09" },
-          { text: "10月", link: "10" },
+          //{ text: "9月", link: "09" },
+          //{ text: "10月", link: "10" },
           { text: "11月", link: "11" },
           { text: "12月", link: "12" },
         ]
