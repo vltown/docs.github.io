@@ -75,7 +75,7 @@ export const zhNavbar = navbar([
       },
       {
         text: "2023年",
-        prefix: "/2023/",
+        prefix: "2023/",
         children: [
           { text: "1月", link: "01" },
         ]
