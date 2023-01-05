@@ -120,6 +120,12 @@ footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blan
 
 ### [申请白名单 →](apply/)
 
+::: tip
+
+网站中页面开头的写作日期使用的是世界协调时
+
+:::
+
 [![QQ群](https://img.shields.io/badge/QQ%20Group-597691030-12B7F5?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
 
 [![Discord](https://img.shields.io/badge/Discord-Xf3Q3K4CYw-7289DA?logo=discord)](https://discord.gg/Xf3Q3K4CYw)
