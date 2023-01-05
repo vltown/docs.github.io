@@ -11,4 +11,4 @@ author: Glucy2
 
 ## 27日
 
-服务器正式开启
+服务器在正式开启，使用Minecraft Java版 1.14.4，[Paper](//papermc.io)服务端
