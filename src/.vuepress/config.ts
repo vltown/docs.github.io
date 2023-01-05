@@ -16,8 +16,11 @@ export default defineUserConfig({
     },
   },
   theme,
-  /*plugins: [
-  ],*/
+  plugins: [
+    gitPlugin({
+      updatedTime: false
+    })
+  ],
 
   shouldPrefetch: false,
 });
