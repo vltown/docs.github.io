@@ -9,7 +9,7 @@ author: yggdyy_
 
 ### 概况
 
-* **地点**：刷冰机空置域（[x = -3367, z = -3474, overworld]([BlueMap - Overworld (skimit.cn)](http://bluemap.skimit.cn/#overworld:-3366:23:-3474:242:0:0:0:0:perspective))）
+* **地点**：刷冰机空置域（[主世界 x = -3367, z = -3474]([BlueMap - Overworld (skimit.cn)](http://bluemap.skimit.cn/#overworld:-3366:23:-3474:242:0:0:0:0:perspective))）
 * **原作者**：Fallen_Breathe 和 acaciachan
 * **原视频**：[BV1Qd4y1D7xn](https://www.bilibili.com/video/BV1Qd4y1D7xn/)
 * **建成时间**：[2023年1月2日](../../../历史/2023/01#_2日)
