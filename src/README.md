@@ -118,7 +118,7 @@ footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blan
 
 ## <div align="center">一个Minecraft1.19.3原版生存公益服务器</div>
 
-### [申请白名单 →](apply/)
+### [申请白名单 →](/申请白名单)
 
 ::: tip
 
