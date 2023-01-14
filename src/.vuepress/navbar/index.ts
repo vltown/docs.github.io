@@ -87,7 +87,7 @@ export const zhNavbar = navbar([
     icon: "discover",
     prefix: "/指南/",
     children: [
-      {
+      /*{
         text: "玩家",
         prefix: "玩家/",
         link: "玩家"
@@ -104,14 +104,19 @@ export const zhNavbar = navbar([
         prefix: "指令/",
         link: "指令"
         //children: ["ray", { text: "...", icon: "more", link: "" }],
-      },
+      },*/
       {
         text: "机器",
         prefix: "机器/",
         link: "机器"
         //children: ["ray", { text: "...", icon: "more", link: "" }],
+      },
+      {
+        text: "规则",
+        prefix: "规则/",
+        link: "规则"
+        //children: ["ray", { text: "...", icon: "more", link: "" }],
       }
-
     ],
   },
   {
