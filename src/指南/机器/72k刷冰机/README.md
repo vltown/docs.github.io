@@ -13,7 +13,7 @@ author: yggdyy_
 * **原作者**：Fallen_Breathe 和 acaciachan
 * **原视频**：[BV1Qd4y1D7xn](https://www.bilibili.com/video/BV1Qd4y1D7xn/)
 * **建成时间**：[2023年1月2日](../../../历史/2023/01#_2日)
-* **参与人员**：Glucy2，AnnaNo，Hastegolden_，MAX_ShouWang，ChengXi123，djdnba，yggdyy_，NanYang_Lin
+* **参与人员**：Glucy2，AnnaNo，NanYang_Lin，Hastegolden_，MAX_ShouWang，ChengXi123，djdnba，yggdyy_
 
 ### 使用注意
 
