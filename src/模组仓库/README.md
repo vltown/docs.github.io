@@ -15,7 +15,7 @@ author: Glucy2
 
 运行环境：客户端，服务端
 
-下载：[0.72.0+1.19.3](https://cdn.modrinth.com/data/P7dR8mSH/versions/vWbvdIxT/fabric-api-0.72.0%2B1.19.3.jar)
+下载：[0.73.0+1.19.3](https://cdn.modrinth.com/data/P7dR8mSH/versions/PbVeub96/fabric-api-0.73.0%2B1.19.3.jar)
 
 链接：[Modrinth](https://modrinth.com/mod/fabric-api) [GitHub](https://github.com/FabricMC/fabric) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
