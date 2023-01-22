@@ -1,5 +1,5 @@
 ---
-author:AnnaNo
+author: AnnaNo
 ---
 
 ## 基本信息
