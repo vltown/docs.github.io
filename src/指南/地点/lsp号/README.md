@@ -1,5 +1,5 @@
 ---
-author: AnnaNo na2hco3
+author: AnnaNo 
 ---
 
 ## LSP号飞行器
@@ -11,3 +11,5 @@ author: AnnaNo na2hco3
 * **时间** 
 
 #### 介绍
+
+等待建造者填写
