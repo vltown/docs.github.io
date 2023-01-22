@@ -15,7 +15,7 @@ author: AnnaNo
 
 #### 机器 
  
- 西侧为二〇二三年新建的CIS收容所（建造者：AnnaNo NanYang_Lin Cora_Cold0524） ; 以及泥巴机（active_object Jokerish） 简易刷石机(yggdyy_)
+* 西侧为二〇二三年新建的CIS收容所（建造者：AnnaNo NanYang_Lin Cora_Cold0524） ; 以及泥巴机（active_object Jokerish） 简易刷石机(yggdyy_)
 
 
 
