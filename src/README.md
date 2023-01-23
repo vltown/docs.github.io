@@ -8,8 +8,18 @@ heroText: skimit-docs-zh
 tagline: skimit服务器中文文档站
 actions:
   - text: 申请白名单 💡
-    link: /apply/
+    link: /申请白名单/
     type: primary
+  - text: 官网
+    link: //skimit.cn
+  - text: 网页地图
+    link: //bluemap.skimit.cn
+  - text: 玩家数据
+    link: //plan.skinit.cn
+  - text: QQ群
+    link: https://jq.qq.com/?_wv=1027&k=xviUNMJI
+  - text: Discord
+    link: https://discord.gg/Xf3Q3K4CYw
 
 features:
   - title: 公益
