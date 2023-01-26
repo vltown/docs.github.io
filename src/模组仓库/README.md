@@ -129,6 +129,28 @@ author: Glucy2
 
 链接：[GitHub](https://github.com/FlashyReese/sodium-extra-fabric) [Modrinth](https://modrinth.com/mod/sodium-extra) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
 
+### C3H6N6O6
+
+<img src=https://cdn.modrinth.com/data/bur7oKCC/icon.png alt=icon height=64 width=64>
+
+::: warning
+
+此模组仍在早期开发阶段，有大量bug和兼容性问题待解决
+
+:::
+
+模组ID：`c3h6n6o6`
+
+简介：环三亚甲基三硝胺（C3H6N6O6），生物多线程优化模组
+
+运行环境：服务端，客户端
+
+依赖：[Koro Utils Lib](https://modrinth.com/mod/koro-utils-lib)
+
+下载：[1.0.0-beta9+1.18.2/1.19.2](https://cdn.modrinth.com/data/bur7oKCC/versions/vIOKMDvB/C3H6N6O6-1.0.0-beta9-1.18.2.jar)
+
+链接：[GitHub](https://github.com/KenRouKoro/C3H6N6O6) [Modrinth](https://modrinth.com/mod/c3h6n6o6) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/c3h6n6o6) [Mbbbs](https://www.mcbbs.net/thread-1359824-1-1.html)
+
 ## 装饰
 
 ### Continuity
