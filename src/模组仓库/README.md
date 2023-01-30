@@ -2,9 +2,11 @@
 author: Glucy2
 ---
 ::: tip 注意
-除非特例，本文仅记录适用最新Minecraft大版本、兼容fabric加载器且对玩法没有过度修改的模组
+除非特例，本文仅记录适用最新 Minecraft 大版本、兼容 Fabric 加载器且对玩法没有过度修改的模组
 
 下载链接文字除非注明否则为 `模组版本`+`适用MC版本` 的格式
+
+模组依赖中的 Fabric API 不会被记录
 :::
 
 ## API和库
@@ -52,6 +54,20 @@ author: Glucy2
 下载：[1.0.12+1.19.3](https://cdn.modrinth.com/data/Orvt0mRa/versions/85NvAOjQ/indium-1.0.12%2Bmc1.19.3.jar)
 
 链接：[Modrinth](https://modrinth.com/mod/indium) [GitHub](https://github.com/comp500/Indium) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium)
+
+### Bad Packets
+
+<img src=https://cdn.modrinth.com/data/ftdbN0KK/icon.png alt=icon height=64 width=64>
+
+模组ID：`badpackets`
+
+简介：一个允许不同模组平台之间进行数据包通信的库
+
+运行环境：服务端，客户端
+
+下载：[0.3.4+1.19.3](https://cdn.modrinth.com/data/ftdbN0KK/versions/9hA9pLHz/badpackets-fabric-0.3.4.jar)
+
+链接：[GitHub](https://github.com/badasintended/badpackets) [Modrinth](https://modrinth.com/mod/badpackets) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/badpackets)
 
 ### YetAnotherConfigLib
 
@@ -149,7 +165,27 @@ author: Glucy2
 
 下载：[1.0.0-beta9+1.18.2/1.19.2](https://cdn.modrinth.com/data/bur7oKCC/versions/vIOKMDvB/C3H6N6O6-1.0.0-beta9-1.18.2.jar)
 
-链接：[GitHub](https://github.com/KenRouKoro/C3H6N6O6) [Modrinth](https://modrinth.com/mod/c3h6n6o6) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/c3h6n6o6) [Mbbbs](https://www.mcbbs.net/thread-1359824-1-1.html)
+链接：[GitHub](https://github.com/KenRouKoro/C3H6N6O6) [Modrinth](https://modrinth.com/mod/c3h6n6o6) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/c3h6n6o6) [Mcbbs](https://www.mcbbs.net/thread-1359824-1-1.html)
+
+### Very Many Players
+
+<img src=https://cdn.modrinth.com/data/wnEe9KBa/icon.png alt=icon height=64 width=64>
+
+模组ID：`vmp`
+
+简介：提高服务器在高玩家数量时的性能
+
+运行环境：服务端，客户端
+
+::: warning
+
+此模组仍在早期开发阶段，可能有潜在bug
+
+:::
+
+下载：[0.2.0+beta.7.43+1.19.3](https://cdn.modrinth.com/data/wnEe9KBa/versions/FSqZPu2O/vmp-fabric-mc1.19.3-0.2.0%2Bbeta.7.43-all.jar)
+
+链接：[GitHub](https://github.com/RelativityMC/VMP-fabric) [Modrinth](https://modrinth.com/mod/vmp-fabric) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/vmp-fabric)
 
 ## 装饰
 
@@ -187,9 +223,45 @@ author: Glucy2
 
 链接：[GitHub](https://github.com/tr7zw/3d-Skin-Layers) [Modrinth](https://modrinth.com/mod/3dskinlayers) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
+### Chat Heads
+
+<img src=https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png alt=icon height=64 width=64>
+
+模组ID：`chat_heads`
+
+简介：看你正在跟谁聊天！
+
+运行环境：客户端
+
+可选依赖：[Mod Menu](#mod-menu)，[Cloth Config API](https://modrinth.com/mod/cloth-config)
+
+下载：[0.9.0+1.19.3](https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EixvFn8b/chat_heads-0.9.0-fabric-1.19.3.jar)
+
+链接：[GitHub](https://github.com/dzwdz/chat_heads) [Modrinth](https://modrinth.com/mod/chat-heads) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+
+## 探险
+
+### Sound Physics Remastered
+
+<img src=https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png alt=icon height=64 width=64>
+
+模组ID：`sound_physics_remastered`
+
+简介：提供逼真的声音衰减、混响和通过方块块时的吸收。
+
+运行环境：客户端
+
+可选依赖：[Mod Menu](#mod-menu)，[Cloth Config API](https://modrinth.com/mod/cloth-config)
+
+下载：[1.1.0+1.19.3](https://cdn.modrinth.com/data/qyVF9oeo/versions/vugO7mNF/soundphysics-fabric-1.19.3-1.1.0.jar)
+
+链接：[GitHub](https://github.com/henkelmax/sound-physics-remastered) [Modrinth](https://modrinth.com/mod/sound-physics-remastered) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered)
+
 ## 信息
 
 ### AppleSkin
+
+<img src=https://cdn.modrinth.com/data/EsAfCjCV/icon.png alt=icon height=64 width=64>
 
 模组ID：`appleskin`
 
@@ -216,6 +288,20 @@ author: Glucy2
 下载：[5.1.0+1.19.3](https://cdn.modrinth.com/data/8shC1gFX/versions/nuKBXZDI/BetterF3-5.1.0-Fabric-1.19.3.jar)
 
 链接：[GitHub](https://github.com/cominixo/BetterF3) [Modrinth](https://modrinth.com/mod/betterf3) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3)
+
+### Better Ping Display - Fabric Edition
+
+<img src=https://cdn.modrinth.com/data/MS1ZMyR7/icon.png alt=icon height=64 width=64>
+
+模组ID：`betterpingdisplay`
+
+简介：在玩家列表中增加了一个可配置的数字延迟显示
+
+运行环境：客户端
+
+下载：[1.1.1+1.19.3](https://cdn.modrinth.com/data/MS1ZMyR7/versions/UCr9wrly/BetterPingDisplay-Fabric-1.19.3-1.1.1.jar)
+
+链接：[GitHub](https://github.com/vladmarica/better-ping-display-fabric) [Modrinth](https://modrinth.com/mod/better-ping-display-fabric) [CurseeForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
 
 ## 工具
 
