@@ -23,7 +23,35 @@ author: Glucy2
 
 下载：[0.73.0+1.19.3](https://cdn.modrinth.com/data/P7dR8mSH/versions/PbVeub96/fabric-api-0.73.0%2B1.19.3.jar)
 
-链接：[Modrinth](https://modrinth.com/mod/fabric-api) [GitHub](https://github.com/FabricMC/fabric) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+链接：[GitHub](https://github.com/FabricMC/fabric) [Modrinth](https://modrinth.com/mod/fabric-api) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+
+### Cloth Config API
+
+<img src=https://cdn.modrinth.com/data/9s6osm5g/icon.png alt=icon height=64 width=64>
+
+模组ID：`cloth-config`
+
+简介：模组设置界面API
+
+运行环境：客户端，服务端
+
+下载：[9.0.94+1.19.3](https://cdn.modrinth.com/data/9s6osm5g/versions/M3yxljrZ/cloth-config-9.0.94-fabric.jar)
+
+链接：[GitHub](https://github.com/shedaniel/ClothConfig) [Modrinth](https://modrinth.com/mod/cloth-config) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+
+### Fabric Language Kotlin
+
+<img src=https://cdn.modrinth.com/data/Ha28R6CL/icon.png alt=icon height=64 width=64>
+
+模组ID：`fabric-language-kotlin`
+
+简介：为 Fabric 平台添加 Kotlin 编程语言支持
+
+运行环境：客户端，服务端
+
+下载：[1.9.0+kotlin.1.8.0](https://cdn.modrinth.com/data/Ha28R6CL/versions/esSFbyFg/fabric-language-kotlin-1.9.0%2Bkotlin.1.8.0.jar)
+
+链接：[GitHub](https://github.com/FabricMC/fabric-language-kotlin) [Modrinth](https://modrinth.com/mod/fabric-language-kotlin) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 
 ### MagicLib
 
@@ -37,7 +65,7 @@ author: Glucy2
 
 下载：[0.5.37+1.14.4-1.19.3](https://cdn.modrinth.com/data/mv1zH6ln/versions/0.5.37/magiclib-0.5.37.jar)
 
-链接：[Modrinth](https://modrinth.com/mod/magiclib) [GitHub](https://github.com/Hendrix-Shen/MagicLib) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/magiclib)
+链接：[GitHub](https://github.com/Hendrix-Shen/MagicLib) [Modrinth](https://modrinth.com/mod/magiclib) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/magiclib)
 
 ### Indium
 
@@ -53,7 +81,7 @@ author: Glucy2
 
 下载：[1.0.12+1.19.3](https://cdn.modrinth.com/data/Orvt0mRa/versions/85NvAOjQ/indium-1.0.12%2Bmc1.19.3.jar)
 
-链接：[Modrinth](https://modrinth.com/mod/indium) [GitHub](https://github.com/comp500/Indium) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium)
+链接：[GitHub](https://github.com/comp500/Indium)[Modrinth](https://modrinth.com/mod/indium)[CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium)
 
 ### Bad Packets
 
@@ -113,7 +141,21 @@ author: Glucy2
 
 下载：[1.1.1+1.19-1.19.3](https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1%2B1.19/starlight-1.1.1%2Bfabric.ae22326.jar)
 
-链接：[GitHub](https://github.com/PaperMC/Starlight) [Modrinth]()
+链接：[GitHub](https://github.com/PaperMC/Starlight) [Modrinth]() [CurseForge](https://www.curseforge.com/minecraft/mc-mods/starlight)
+
+### FreeiteCore
+
+<img src=https://cdn.modrinth.com/data/uXXizFIs/icon.jpg alt=icon height=64 width=64>
+
+模组ID：`ferritecore`
+
+简介：减少 Minecraft 内存占用
+
+运行环境：客户端，服务端
+
+下载：[5.1.0+1.19.3](https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar)
+
+链接：[GitHub](https://github.com/malte0811/FerriteCore) [Modrinth](https://modrinth.com/mod/ferrite-core) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
 
 ### Sodium
 
@@ -144,6 +186,22 @@ author: Glucy2
 下载：[0.4.16-build.91+1.19.3](https://cdn.modrinth.com/data/PtjYWJkn/versions/8DeIhGTv/sodium-extra-0.4.16%2Bmc1.19.3-build.91.jar)
 
 链接：[GitHub](https://github.com/FlashyReese/sodium-extra-fabric) [Modrinth](https://modrinth.com/mod/sodium-extra) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
+
+### Dynamic FPS
+
+<img src=https://cdn.modrinth.com/data/LQ3K71Q1/icon.png alt=icon height=64 width=64>
+
+模组ID：`dynmicfps`
+
+简介：限制Minecraft在后台时的FPS以减少系统资源占用
+
+运行环境：客户端
+
+可选依赖：[Mod Menu](#mod-menu)，[Cloth Config API](#cloth-config-api)
+
+下载：[2.2.0+1.19-1.19.3](https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar)
+
+链接：[GitHub](https://github.com/juliand665/Dynamic-FPS) [Modrinth](https://modrinth.com/mod/dynamic-fps) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
 
 ### C3H6N6O6
 
@@ -199,7 +257,7 @@ author: Glucy2
 
 运行环境：客户端
 
-::: warning
+::: tip
 
 如果安装了[Sodium](#sodium)，那么必须安装[Indium](#indium)，否则模组不工作
 
@@ -208,6 +266,20 @@ author: Glucy2
 下载：[3.0.0-alpha.2+1.19.3](https://cdn.discordapp.com/attachments/872543494554648637/1062469061100982313/continuity-3.0.0-alpha.21.19.3.jar)
 
 链接：[Modrinth](https://modrinth.com/mod/continuity) [GitHub](https://github.com/PepperCode1/Continuity) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/continuity)
+
+### CIT Resewn
+
+<img src=https://cdn.modrinth.com/data/otVJckYQ/icon.png alt=icon height=64 width=64>
+
+模组ID：`citresewn`
+
+简介：重新实现了MCPatcher的CIT（OptiFine资源包[](https://cdn.discordapp.com/attachments/872543494554648637/1062469061100982313/continuity-3.0.0-alpha.21.19.3.jar)的自定义物品纹理）
+
+运行环境：客户端
+
+下载：[1.1.3+1.19.3](https://cdn.modrinth.com/data/otVJckYQ/versions/hGatm5K8/CITResewn-1.1.3%2B1.19.3.jar)
+
+链接：[GitHub](https://github.com/SHsuperCM/CITResewn) [Modrinth](https://modrinth.com/mod/cit-resewn) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
 
 ### 3D Skin Layers
 
@@ -233,7 +305,7 @@ author: Glucy2
 
 运行环境：客户端
 
-可选依赖：[Mod Menu](#mod-menu)，[Cloth Config API](https://modrinth.com/mod/cloth-config)
+可选依赖：[Mod Menu](#mod-menu)，[Cloth Config API](#cloth-config-api)
 
 下载：[0.9.0+1.19.3](https://cdn.modrinth.com/data/Wb5oqrBJ/versions/EixvFn8b/chat_heads-0.9.0-fabric-1.19.3.jar)
 
@@ -251,7 +323,7 @@ author: Glucy2
 
 运行环境：客户端
 
-可选依赖：[Mod Menu](#mod-menu)，[Cloth Config API](https://modrinth.com/mod/cloth-config)
+可选依赖：[Mod Menu](#mod-menu)，[Cloth Config API](#cloth-config-api)
 
 下载：[1.1.0+1.19.3](https://cdn.modrinth.com/data/qyVF9oeo/versions/vugO7mNF/soundphysics-fabric-1.19.3-1.1.0.jar)
 
@@ -320,3 +392,29 @@ author: Glucy2
 下载：[5.0.2+1.19.3](https://cdn.modrinth.com/data/mOgUt4GM/versions/eIrlBn1Z/modmenu-5.0.2.jar)
 
 链接：[GitHub](https://github.com/TerraformersMC/ModMenu) [Modrinth](https://modrinth.com/mod/modmenu) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+
+### Crafty Crashes
+
+模组ID：`not-that-cc`
+
+简介：修改崩溃报告中的堆栈跟踪，以在适当的情况下包含相关的 Mixin 和源代码行号
+
+运行环境：客户端，服务端
+
+下载：[1.0](https://github.com/Chocohead/Crafty-Crashes/releases/download/v1.0/Crafty-Crashes-1.0.jar)
+
+链接：[GitHub](https://github.com/Chocohead/Crafty-Crashes)
+
+### MixinTrace
+
+<img src=https://cdn.modrinth.com/data/sGmHWmeL/icon.png alt=icon height=64 width=64>
+
+模组ID：`mixintrace`
+
+简介：将 Mixin 列表（以及 Mixin 配置名）添加到崩溃报告堆栈跟踪的类中
+
+运行环境：客户端，服务端
+
+下载：[1.1.1+1.17+](https://cdn.modrinth.com/data/sGmHWmeL/versions/1.1.1%2B1.17/mixintrace-1.1.1%2B1.17.jar)
+
+链接：[GitHub](https://github.com/comp500/mixintrace) [Modrinth](https://modrinth.com/mod/mixintrace) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mixintrace)
