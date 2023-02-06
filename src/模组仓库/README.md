@@ -23,7 +23,7 @@ author: Glucy2
 
 运行环境：客户端，服务端
 
-下载：[0.73.0](https://cdn.modrinth.com/data/P7dR8mSH/versions/PbVeub96/fabric-api-0.73.0%2B1.19.3.jar)
+下载：[0.73.2](https://cdn.modrinth.com/data/P7dR8mSH/versions/WJ830YlF/fabric-api-0.73.2%2B1.19.3.jar)
 
 链接：[GitHub](https://github.com/FabricMC/fabric) [Modrinth](https://modrinth.com/mod/fabric-api) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
@@ -65,7 +65,7 @@ author: Glucy2
 
 运行环境：客户端，服务端
 
-下载：[0.5.37](https://cdn.modrinth.com/data/mv1zH6ln/versions/0.5.37/magiclib-0.5.37.jar)
+下载：[0.6.212+a47eb26](https://cdn.modrinth.com/data/mv1zH6ln/versions/2Tl2JIx1/magiclib-0.6.212%2Ba47eb26-stable.jar)
 
 链接：[GitHub](https://github.com/Hendrix-Shen/MagicLib) [Modrinth](https://modrinth.com/mod/magiclib) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/magiclib)
 
