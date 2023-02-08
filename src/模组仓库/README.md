@@ -5,7 +5,7 @@ author: Glucy2
 ::: tip 注意
 除非特例，本文仅记录适用最新 Minecraft 版本、兼容 Fabric 加载器且对玩法没有过度修改的模组
 
-下载链接除非注明否则均适用于 Minecraft JE 1.19.3，大部分为 Modrinth 上的链接，少部分为 GitHub 或 Discord 上的链接
+下载链接除非注明否则均适用于 Minecraft JE 1.19.3，大部分为 Modrinth 上的链接，少部分为 CurseForge ， GitHub 或 Discord 上的链接
 
 模组依赖中的 Fabric API 不会被记录
 
@@ -54,6 +54,20 @@ author: Glucy2
 下载：[1.9.0+kotlin.1.8.0](https://cdn.modrinth.com/data/Ha28R6CL/versions/esSFbyFg/fabric-language-kotlin-1.9.0%2Bkotlin.1.8.0.jar)
 
 链接：[GitHub](https://github.com/FabricMC/fabric-language-kotlin) [Modrinth](https://modrinth.com/mod/fabric-language-kotlin) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
+
+### MaLiLib
+
+<img src=https://media.forgecdn.net/avatars/thumbnails/171/135/64/64/636727036520163113.png alt=icon height=64 width=64>
+
+模组ID：`malilib`
+
+简介：包含masa的客户端模组共享代码的库模组
+
+运行环境：客户端
+
+下载：[0.14.0](https://mediafilez.forgecdn.net/files/4147/598/malilib-fabric-1.19.3-0.14.0.jar)
+
+链接：[GitHub](https://github.com/maruohon/malilib) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/malilib)
 
 ### MagicLib
 
