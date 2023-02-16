@@ -518,7 +518,7 @@ author: Glucy2
 
 模组ID：`xaeroworldmap`
 
-简介：一个自写的全屏地图，也可以作为[Xaero&#39;s Minimap](#xaero-s-minimap)的附加功能。
+简介：一个自写的全屏地图，也可以作为[Xaero&#39;s Minimap](#xaero-s-minimap)的附加功能
 
 运行环境：客户端
 
