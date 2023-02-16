@@ -1,7 +1,6 @@
 ---
 author: Glucy2
 ---
-
 ::: tip 注意
 除非特例，本文仅记录适用最新 Minecraft 版本、兼容 Fabric 加载器且对玩法没有过度修改的模组
 
@@ -23,7 +22,7 @@ author: Glucy2
 
 运行环境：客户端，服务端
 
-下载：[0.73.2](https://cdn.modrinth.com/data/P7dR8mSH/versions/WJ830YlF/fabric-api-0.73.2%2B1.19.3.jar)
+下载：[0.74.0](https://cdn.modrinth.com/data/P7dR8mSH/versions/1ld37x4U/fabric-api-0.74.0%2B1.19.3.jar)
 
 链接：[GitHub](https://github.com/FabricMC/fabric) [Modrinth](https://modrinth.com/mod/fabric-api) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
@@ -497,7 +496,49 @@ author: Glucy2
 
 下载：[1.1.1](https://cdn.modrinth.com/data/MS1ZMyR7/versions/UCr9wrly/BetterPingDisplay-Fabric-1.19.3-1.1.1.jar)
 
-链接：[GitHub](https://github.com/vladmarica/better-ping-display-fabric) [Modrinth](https://modrinth.com/mod/better-ping-display-fabric) [CurseeForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
+链接：[GitHub](https://github.com/vladmarica/better-ping-display-fabric) [Modrinth](https://modrinth.com/mod/better-ping-display-fabric) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric)
+
+### Xaero's Minimap
+
+<img src=https://media.forgecdn.net/avatars/thumbnails/92/854/64/64/636258666554688823.png alt=icon height=64 width=64>
+
+模组ID：`xaerominimap`
+
+简介：最像原版的 Minecraft 迷你地图
+
+运行环境：客户端
+
+下载：[23.1.0](https://chocolateminecraft.com/mods2/minimap/Xaeros_Minimap_23.1.0_Fabric_1.19.3.jar)
+
+链接：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+
+### Xaero's World Map
+
+<img src=https://media.forgecdn.net/avatars/thumbnails/196/654/64/64/636886857118683130.png alt=icon height=64 width=64>
+
+模组ID：`xaeroworldmap`
+
+简介：一个自写的全屏地图，也可以作为[Xaero&#39;s Minimap](#xaero-s-minimap)的附加功能。
+
+运行环境：客户端
+
+下载：[1.28.9](https://chocolateminecraft.com/mods2/worldmap/XaerosWorldMap_1.28.9_Fabric_1.19.3.jar)
+
+链接：[CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+
+### Bluemap
+
+<img src=https://cdn.modrinth.com/data/swbUV1cr/icon.png alt=icon height=64 width=64>
+
+模组ID：`bluemap`
+
+简介：一个 Minecraft 地图工具，可以创建你的 Minecraft 世界的3D模型，并在浏览器中显示
+
+运行环境：服务端
+
+下载：[3.10](https://cdn.modrinth.com/data/swbUV1cr/versions/QCeLBm9O/BlueMap-3.10-fabric-1.19.3.jar)
+
+链接：[GitHub](https://github.com/BlueMap-Minecraft/BlueMap) [Modrinth](https://modrinth.com/plugin/bluemap) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bluemap)
 
 ## 工具
 

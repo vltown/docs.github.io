@@ -11,7 +11,7 @@ author: AnnaNo
 
 ## 1日
 
-Earlywater完成了对全物品的装饰工作 
+Earlywater完成了对全物品的装饰工作
 
 ## 2日
 
