@@ -1,6 +1,7 @@
 ---
 author: Glucy2
 ---
+# 节点和连接方式列表
 ::: tip
 加入时若要指定 IPv4 或 IPv6 ， 可以在域名前加 `4.` 或 `6.`  
 如指定临沂3节点 IPv6 则使用 `6.ly-3.skimit.cn`
@@ -104,9 +105,9 @@ author: Glucy2
     </tr>
 </table>
 
-## 使用 RakNet 协议连接 (Java版)
+## 使用 RakNet 协议连接
 ::: tip
-使用此类节点需要安装 [RakNetify](https://modrinth.com/plugin/raknetify) 模组
+使用此类节点需要安装 [Raknetify](/模组仓库#raknetify) 模组
 :::
 <table>
     <tr>

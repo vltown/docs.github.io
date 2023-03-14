@@ -138,7 +138,7 @@ author: Glucy2
 
 运行环境：服务端，客户端
 
-下载：[0.10.4](https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar)
+下载：[0.11.0](https://cdn.modrinth.com/data/gvQqBUqZ/versions/sMWkk4VU/lithium-fabric-mc1.19.3-0.11.0.jar)
 
 链接：[GitHub](https://github.com/CaffeineMC/lithium-fabric) [Modrinth](https://modrinth.com/mod/lithium) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium)
 
@@ -171,6 +171,20 @@ author: Glucy2
 下载：[5.1.0](https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar)
 
 链接：[GitHub](https://github.com/malte0811/FerriteCore) [Modrinth](https://modrinth.com/mod/ferrite-core) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
+
+### Memory Leak Fix
+
+<img src=https://cdn.modrinth.com/data/NRjRiSSD/icon.png alt=icon height=64 width=64>
+
+模组ID：`memoryleakfix`
+
+简介：修复客户端和服务端的随机内存泄露
+
+运行环境：客户端，服务端
+
+下载：[0.8.0](https://cdn.modrinth.com/data/NRjRiSSD/versions/xn2d7ltf/memoryleakfix-1.19.3-0.8.0.jar)
+
+连接：[GitHub](https://github.com/fxmorin/MemoryLeakFix) [Modrinth](https://modrinth.com/mod/memoryleakfix) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)
 
 ### Sodium
 
@@ -287,6 +301,20 @@ author: Glucy2
 下载：[2.2.0](https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar)
 
 链接：[GitHub](https://github.com/juliand665/Dynamic-FPS) [Modrinth](https://modrinth.com/mod/dynamic-fps) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)
+
+### Raknetify
+
+<img src=https://cdn.modrinth.com/data/5IovSY3u/icon.png alt=icon height=64 width=64>
+
+模组ID：`raknetify`
+
+简介：一个 Fabric mod / BungeeCord 插件，使用 RakNet 在不可靠和速率受限的连接下显着改善多人游戏体验
+
+运行环境：客户端，服务端
+
+下载：[0.1.0+alpha.5.60](https://cdn.modrinth.com/data/5IovSY3u/versions/4hdvd0Ut/raknetify-fabric-0.1.0%2Balpha.5.60-all.jar)
+
+链接：[GitHub](https://github.com/RelativityMC/raknetify) [Modrinth](https://modrinth.com/plugin/raknetify) [CurseForge](https://beta.curseforge.com/minecraft/mc-mods/raknetify)
 
 ### C3H6N6O6
 
@@ -414,7 +442,7 @@ author: Glucy2
 
 运行环境：客户端
 
-下载：[1.5.2](https://cdn.modrinth.com/data/zV5r3pPn/versions/lt0gHTA6/3dskinlayers-fabric-1.5.2-mc1.19.3.jar)
+下载：[1.5.3](https://cdn.modrinth.com/data/zV5r3pPn/versions/p5nYXh23/3dskinlayers-fabric-1.5.3-mc1.19.3.jar)
 
 链接：[GitHub](https://github.com/tr7zw/3d-Skin-Layers) [Modrinth](https://modrinth.com/mod/3dskinlayers) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
 
