@@ -43,9 +43,9 @@ author: Glucy2
         <td>中国电信</td>
     </tr>
     <tr>
-        <td>莆田1</td>
-        <td><code id="pt-1-je">pt-1.skimit.cn</code></td>
-        <td id="pt-1-be"><code>pt-1.skimit.cn</code>, <code>19132</code></td>
+        <td>福州1</td>
+        <td><code id="zf-1-je">fz-1.skimit.cn</code></td>
+        <td id="fz-1-be"><code>fz-1.skimit.cn</code>, <code>19132</code></td>
         <td>中国电信 (AS4134)</td>
         <td>-</td>
         <td>中国电信</td>
@@ -131,8 +131,8 @@ author: Glucy2
         <td><code id="ly-3-je-raknet">raknet;ly-3.skimit.cn</code></td>
     </tr>
     <tr>
-        <td>莆田1</td>
-        <td><code id="pt-1-je-raknet">raknet;pt-1.skimit.cn</code></td>
+        <td>福州1</td>
+        <td><code id="fz-1-je-raknet">raknet;fz-1.skimit.cn</code></td>
     </tr>
     <tr>
         <td>青岛1</td>
