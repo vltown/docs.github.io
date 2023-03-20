@@ -46,8 +46,7 @@ author: Glucy2
         <td>福州1</td>
         <td><code id="zf-1-je">fz-1.skimit.cn</code></td>
         <td id="fz-1-be"><code>fz-1.skimit.cn</code>, <code>19132</code></td>
-        <td>中国电信 (AS4134)</td>
-        <td>-</td>
+        <td colspan="2">中国电信 (AS4134)</td>
         <td>中国电信</td>
     </tr>
     <tr>
