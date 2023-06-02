@@ -30,8 +30,6 @@ features:
     details: 服务器紧跟官方正式版游戏更新
   - title: 公平游戏
     details: 服务器无op，无圈地，无tp
-  - title: 共产主义
-    details: 服务器内大量共享资源
   - title: 版本互通
     details: Java版与基岩版可以在一起畅玩
   - title: 急需人才
@@ -122,19 +120,13 @@ features:
 #    link: https://vuepress-theme-hope.github.io/v2/guide/feature/
 
 copyright: false
-footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | CC-BY-SA-4.0 协议, 版权所有 © 2019-present skimit
+footer: <p>使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | CC-BY-SA-4.0 协议, 版权所有 © 2019-present skimit</p><p><a href="//beian.miit.gov.cn">苏ICP备2022031552号-2</a></p>
 ---
 # <div align="center">skimit服务器</div>
 
-## <div align="center">一个Minecraft1.19.3原版生存公益服务器</div>
+## <div align="center">一个 Minecraft 1.19.3 原版生存公益服务器</div>
 
 ### [申请白名单 →](/申请白名单)
-
-::: tip
-
-网站中页面开头的写作日期使用的是世界协调时
-
-:::
 
 [![QQ群](https://img.shields.io/badge/QQ%20Group-597691030-12B7F5?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
 
