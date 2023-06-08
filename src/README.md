@@ -124,7 +124,7 @@ footer: <p>使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_b
 ---
 # <div align="center">skimit服务器</div>
 
-## <div align="center">一个 Minecraft 1.19.3 原版生存公益服务器</div>
+## <div align="center">一个 Minecraft 1.19.4 原版生存公益服务器</div>
 
 ### [申请白名单 →](/申请白名单)
 
