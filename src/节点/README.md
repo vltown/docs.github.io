@@ -59,9 +59,9 @@ author: Glucy2
         <td>cn-sd-2022-11-12-00</td>
         <td>zzm.play.skimit.net</td>
         <!--<td id="zz-1-be"><code>zz-1.skimit.net, <code>59811</td>-->
-        <td>中国联通 (AS4837)</td>
+        <td>枣庄电信 (AS137690)</td>
         <td>-</td>
-        <td>中国联通</td>
+        <td>中国电信</td>
         <td>未计划</td>
     </tr>
     <tr>
