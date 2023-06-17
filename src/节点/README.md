@@ -34,7 +34,7 @@ author: Glucy2
     </tr>
     <tr>
         <td>义乌电信</td>
-        <td>jh-1.skimit.net</td>
+        <td>ywp.play.skimit.net</td>
         <!--<td id="jh-1-be"><code>jh-1.skimit.net, <code>19132</td>-->
         <td>中国电信 (AS4134)</td>
         <td>-</td>
