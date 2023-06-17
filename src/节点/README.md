@@ -13,6 +13,7 @@ author: Glucy2
 <table id="normal">
     <tr>
         <th rowspan="2">节点名</th>
+        <th rowspan="2">ID</th>
         <th rowspan="2">JE</th>
         <!--<th rowspan="2">BE</th>-->
         <th colspan="2">ASN</th>
@@ -25,6 +26,7 @@ author: Glucy2
     </tr>
     <tr>
         <td>临沂教育网</td>
+        <td>cn-sd-2022-09-14-00</td>
         <td>lyu.play.skimit.net</td>
         <!--<td id="ly-1-be"><code>ly-1.skimit.net, <code>19132</td>-->
         <td>教育网 (AS4538)</td>
@@ -34,6 +36,7 @@ author: Glucy2
     </tr>
     <tr>
         <td>义乌电信</td>
+        <td>cn-zj-2022-11-12-00</td>
         <td>ywp.play.skimit.net</td>
         <!--<td id="jh-1-be"><code>jh-1.skimit.net, <code>19132</td>-->
         <td>中国电信 (AS4134)</td>
@@ -42,8 +45,19 @@ author: Glucy2
         <td>2023-08</td>
     </tr>
     <tr>
-        <td>枣庄联通</td>
-        <td>zzn.play.skimit.net</td>
+        <td>枣庄BGP</td>
+        <td>cn-sd-2022-03-20-00</td>
+        <td>zzs.play.skimit.net</td>
+        <!--<td id="zz-1-be"><code>zz-1.skimit.net, <code>59811</td>-->
+        <td>山东亿信通 (AS139180)</td>
+        <td>-</td>
+        <td>中国电信/中国移动/中国联通</td>
+        <td>未计划</td>
+    </tr>
+    <tr>
+        <td>枣庄电信</td>
+        <td>cn-sd-2022-11-12-00</td>
+        <td>zzm.play.skimit.net</td>
         <!--<td id="zz-1-be"><code>zz-1.skimit.net, <code>59811</td>-->
         <td>中国联通 (AS4837)</td>
         <td>-</td>
@@ -51,16 +65,8 @@ author: Glucy2
         <td>未计划</td>
     </tr>
     <tr>
-        <td>枣庄电信</td>
-        <td>zzm.play.skimit.net</td>
-        <!--<td id="zz-1-be"><code>zz-1.skimit.net, <code>59811</td>-->
-        <td>山东电信 (AS137690)</td>
-        <td>-</td>
-        <td>中国电信</td>
-        <td>未计划</td>
-    </tr>
-    <tr>
         <td>宿迁电信</td>
+        <td>cn-js-2022-10-17-00</td>
         <td>sqq.play.skimit.net</td>
         <!--<td id="sq-1-be"><code>sq-1.skimit.net, <code>10469</td>-->
         <td>中国电信 (AS4134)</td>
@@ -70,6 +76,7 @@ author: Glucy2
     </tr>
     <tr>
         <td>上海BGP</td>
+        <td>cn-sh-2021-07-09-00</td>
         <td>shq.play.skimit.net</td>
         <!--<td id="sh-1-be"><code>sh-1.skimit.net, <code>19132</td>-->
         <td colspan="2">青云 (AS59078)</td>
@@ -78,6 +85,7 @@ author: Glucy2
     </tr>
     <tr>
         <td>香港CLD（建设中）</td>
+        <td>cn-hk-2023-06-07-00</td>
         <td>hkd.play.skimit.net</td>
         <!--<td id="hk-1-be"><code>hk-1.skimit.net, <code>19132</td>-->
         <td>Cloudie (AS55933)</td>
@@ -86,7 +94,8 @@ author: Glucy2
         <td>2025-05-02</td>
     </tr>
     <tr>
-        <td>香港腾讯</td>
+        <td>香港腾讯云</td>
+        <td>cn-hk-2021-08-03-00</td>
         <td>hkt.play.skimit.net</td>
         <!--<td id="hk-1-be"><code>hk-1.skimit.net, <code>19132</td>-->
         <td>腾讯云 (AS132203)</td>
@@ -96,6 +105,7 @@ author: Glucy2
     </tr>
     <tr>
         <td>洛杉矶Multacom</td>
+        <td>us-ca-2022-11-18-00</td>
         <td>lam.play.skimit.net</td>
         <!--<td id="us-la-1-be"><code>us-la-1.skimit.net, <code>19132</td>-->
         <td colspan="2">Multacom (AS35916)</td>
@@ -109,6 +119,7 @@ author: Glucy2
 - [ ] 基岩版域名
 - [ ] 基于 WebSocket 或 HTTP 长连接的连接方式
 - [ ] 国内移动节点
+- [ ] 国内联通节点
 - [ ] 线路更好的洛杉矶/圣何塞/关岛转发节点
 - [ ] 日/韩节点
 <!--
