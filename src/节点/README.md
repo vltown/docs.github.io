@@ -17,7 +17,7 @@ author: Glucy2
         <!--<th rowspan="2">BE</th>-->
         <th colspan="2">ASN</th>
         <th rowspan="2">国内线路</th>
-        <th rowspan="2">预计的更改或移除时间 (UTC+8)</th>
+        <th rowspan="2">预计的更改或移除时间</th>
     </tr>
     <tr>
         <th>IPv4</th>
@@ -39,11 +39,11 @@ author: Glucy2
         <td>中国电信 (AS4134)</td>
         <td>-</td>
         <td>中国电信</td>
-        <td>2023年8月</td>
+        <td>2023-08</td>
     </tr>
     <tr>
         <td>枣庄联通</td>
-        <td>zzn.skimit.net</td>
+        <td>zzn.play.skimit.net</td>
         <!--<td id="zz-1-be"><code>zz-1.skimit.net, <code>59811</td>-->
         <td>中国联通 (AS4837)</td>
         <td>-</td>
@@ -61,12 +61,12 @@ author: Glucy2
     </tr>
     <tr>
         <td>宿迁电信</td>
-        <td>sqq.skimit.net</td>
+        <td>sqq.play.skimit.net</td>
         <!--<td id="sq-1-be"><code>sq-1.skimit.net, <code>10469</td>-->
         <td>中国电信 (AS4134)</td>
         <td>-</td>
         <td>中国电信</td>
-        <td>2023年8月27日12时18分36秒</td>
+        <td>2023-08-27T12:18:36+08:00</td>
     </tr>
     <tr>
         <td>上海BGP</td>
@@ -74,7 +74,7 @@ author: Glucy2
         <!--<td id="sh-1-be"><code>sh-1.skimit.net, <code>19132</td>-->
         <td colspan="2">青云 (AS59078)</td>
         <td>中国电信/中国移动/中国联通</td>
-        <td>2024年5月29日19时58分09秒</td>
+        <td>2024-05-29T19:58:09+08:00</td>
     </tr>
     <tr>
         <td>香港CLD（建设中）</td>
@@ -83,7 +83,7 @@ author: Glucy2
         <td>Cloudie (AS55933)</td>
         <td><p>Cloudie (AS55933)</p><p>Huricane Electric (AS6939)</p></td>
         <td></td>
-        <td>2025年5月2日</td>
+        <td>2025-05-02</td>
     </tr>
     <tr>
         <td>香港腾讯</td>
@@ -92,7 +92,7 @@ author: Glucy2
         <td>腾讯云 (AS132203)</td>
         <td>Huricane Electric (AS6939)</td>
         <td></td>
-        <td>2023年9月3日15是35分40秒</td>
+        <td>2023-09-03T15:35:40+08:00</td>
     </tr>
     <tr>
         <td>洛杉矶Multacom</td>
@@ -104,7 +104,7 @@ author: Glucy2
     </tr>
 </table>
 
-# TODO
+## TODO
 
 - [ ] 基岩版域名
 - [ ] 基于 WebSocket 或 HTTP 长连接的连接方式
