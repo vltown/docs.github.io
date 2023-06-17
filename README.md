@@ -1,4 +1,4 @@
-[skimit-docs](https://docs.skimit.cn)
+[skimit-homepage](https://skimit.net)
 
 - 本项目基于[vuepress-theme-hope](https://vuepress-theme-hope.github.io/v2/zh/)
 

@@ -9,7 +9,7 @@ author: yggdyy_
 
 ### 概况
 
-* **地点**：一片海洋中（[主世界 x = -883, z = 970]([BlueMap - Overworld (skimit.cn)](http://bluemap.skimit.cn/#overworld:-883:101:970:9:0:0:0:0:perspective))）同时在该坐标对应下界的高空有其下界部分
+* **地点**：一片海洋中（[主世界 x = -883, z = 970]([BlueMap - Overworld (skimit.net)](http://bluemap.skimit.net/#overworld:-883:101:970:9:0:0:0:0:perspective))）同时在该坐标对应下界的高空有其下界部分
 * **原作者**：黑山大叔
 * **原视频**：[BV1Fh41187nV](https://www.bilibili.com/video/BV1Fh41187nV)
 * **修改人**：yggdyy_

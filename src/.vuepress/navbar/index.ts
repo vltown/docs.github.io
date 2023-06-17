@@ -131,11 +131,11 @@ export const zhNavbar = navbar([
   {
     text: "网页地图",
     icon: "map",
-    link: "https://bluemap.skimit.cn",
+    link: "https://bluemap.skimit.net",
   },
   {
     text: "官网",
     icon: "note",
-    link: "https://skimit.cn",
+    link: "https://skimit.net",
   },
 ]);

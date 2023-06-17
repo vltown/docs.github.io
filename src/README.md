@@ -4,18 +4,16 @@ author: Glucy2
 icon: home
 title: 主页
 heroImage: /logo.png
-heroText: skimit-docs-zh
-tagline: skimit服务器中文文档站
+heroText: skimit-homepage
+tagline: skimit 服务器
 actions:
   - text: 申请白名单 💡
     link: /申请白名单/
     type: primary
-  - text: 官网
-    link: //skimit.cn
   - text: 网页地图
-    link: //bluemap.skimit.cn
+    link: //bluemap.skimit.net
   - text: 玩家数据
-    link: //plan.skinit.cn
+    link: //plan.skinit.net
   - text: QQ群
     link: https://jq.qq.com/?_wv=1027&k=xviUNMJI
   - text: Discord
