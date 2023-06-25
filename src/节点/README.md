@@ -31,6 +31,14 @@ author: Glucy2
         <td>未计划</td>
     </tr>
     <tr>
+        <td>枣庄BGP</td>
+        <td>zzs.play.skimit.net</td>
+        <td>山东亿信通 (AS139180)</td>
+        <td>-</td>
+        <td>中国电信/中国移动/中国联通</td>
+        <td>未计划</td>
+    </tr>
+    <tr>
         <td>济宁移动</td>
         <td>jnm.play.skimit.net</td>
         <td>山东移动 (AS24444)</td>
@@ -56,14 +64,6 @@ author: Glucy2
         <td>2023-08</td>
     </tr>
     <tr>
-        <td>枣庄BGP</td>
-        <td>zzs.play.skimit.net</td>
-        <td>山东亿信通 (AS139180)</td>
-        <td>-</td>
-        <td>中国电信/中国移动/中国联通</td>
-        <td>未计划</td>
-    </tr>
-    <tr>
         <td>枣庄电信</td>
         <td>zzm.play.skimit.net</td>
         <td>枣庄电信 (AS137690)</td>
@@ -87,10 +87,18 @@ author: Glucy2
         <td>2024-05-29T19:58:09+08:00</td>
     </tr>
     <tr>
-        <td>香港CLD（建设中）</td>
+        <td>香港CLD</td>
         <td>hkd.play.skimit.net</td>
         <td>Cloudie (AS55933)</td>
         <td><p>Cloudie (AS55933)</p><p>Huricane Electric (AS6939)</p></td>
+        <td></td>
+        <td>2025-05-02</td>
+    </tr>
+    <tr>
+        <td>东京BGP</td>
+        <td>tyd.play.skimit.net</td>
+        <td>DigitalVirt (AS11161)</td>
+        <td>Huricane Electric (AS6939)</td>
         <td></td>
         <td>2025-05-02</td>
     </tr>
