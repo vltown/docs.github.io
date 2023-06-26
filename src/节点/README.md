@@ -61,6 +61,8 @@ author: Glucy2
         <td></td>
         <td>2023-11-14前更换</td>
     </tr>
+<!--
+    还没上线的
     <tr>
         <td>临沂教育网（待恢复）</td>
         <td>lye.play.skimit.net</td>
@@ -69,8 +71,6 @@ author: Glucy2
         <td>教育网</td>
         <td>2023-08-16恢复</td>
     </tr>
-<!--
-    还没上线的
     <tr>
         <td>枣庄电信</td>
         <td>zzm.play.skimit.net</td>
