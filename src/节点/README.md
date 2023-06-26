@@ -23,6 +23,14 @@ author: Glucy2
         <th>IPv6</th>
     </tr>
     <tr>
+        <td>自动选择</td>
+        <td>play.skimit.net</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td>义乌电信</td>
         <td>ywp.play.skimit.net</td>
         <td>中国电信 (AS4134)</td>
