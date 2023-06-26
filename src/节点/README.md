@@ -23,6 +23,14 @@ author: Glucy2
         <th>IPv6</th>
     </tr>
     <tr>
+        <td>义乌电信</td>
+        <td>ywp.play.skimit.net</td>
+        <td>中国电信 (AS4134)</td>
+        <td>-</td>
+        <td>中国电信</td>
+        <td>2023-08前下线</td>
+    </tr>
+    <tr>
         <td>枣庄BGP</td>
         <td>zzs.play.skimit.net</td>
         <td>山东亿信通 (AS139180)</td>
@@ -55,14 +63,6 @@ author: Glucy2
     </tr>
 <!--
     还没上线的
-    <tr>
-        <td>义乌电信</td>
-        <td>ywp.play.skimit.net</td>
-        <td>中国电信 (AS4134)</td>
-        <td>-</td>
-        <td>中国电信</td>
-        <td>2023-08</td>
-    </tr>
     <tr>
         <td>枣庄电信</td>
         <td>zzm.play.skimit.net</td>
