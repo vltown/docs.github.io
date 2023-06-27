@@ -55,6 +55,14 @@ author: Glucy2
         <td>2024-06-19T02:05:00+08:00下线</td>
     </tr>
     <tr>
+        <td>东京BGP</td>
+        <td>tyd.play.skimit.net</td>
+        <td>DigitalVirt (AS11161)</td>
+        <td>Huricane Electric (AS6939)</td>
+        <td></td>
+        <td>可能2025-05-02下线</td>
+    </tr>
+    <tr>
         <td>洛杉矶Multacom</td>
         <td>lam.play.skimit.net</td>
         <td colspan="2">Multacom (AS35916)</td>
@@ -99,14 +107,6 @@ author: Glucy2
         <td>hkd.play.skimit.net</td>
         <td>Cloudie (AS55933)</td>
         <td><p>Cloudie (AS55933)</p><p>Huricane Electric (AS6939)</p></td>
-        <td></td>
-        <td>2025-05-02</td>
-    </tr>
-    <tr>
-        <td>东京BGP</td>
-        <td>tyd.play.skimit.net</td>
-        <td>DigitalVirt (AS11161)</td>
-        <td>Huricane Electric (AS6939)</td>
         <td></td>
         <td>2025-05-02</td>
     </tr>
