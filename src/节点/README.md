@@ -12,7 +12,7 @@ author: Glucy2
 | 义乌电信       | `ywp.play.skimit.net` |  ✅  |            ❌            |                                  ✅                                  | 2023-08前下线                 |
 | 宿迁BGP        | `sqm.play.skimit.net` |  ✅  |            ❌            |                                  ✅                                  |                               |
 | 枣庄电信       | `zzm.play.skimit.net` |  ✅  |            ❌            |                                  ✅                                  | *2023-07-20下线*              |
-| 宿迁电信       | `sqq.play.skimit.net` |  ✅  |            ❌            |                                  ✅                                  | 2023-08-27T12:18:36+08:00下线 |
+| 宿迁电信       | `sqq.play.skimit.net` |  ✅  |            ❌            |                                  ✅                                  | <p>**延迟抖动较大**</p><p>2023-08-27T12:18:36+08:00下线</p> |
 | 济宁移动       | `jnm.play.skimit.net` |  ✅  |            ❌            |                                  ✅                                  | **延迟抖动较大**              |
 | 香港腾讯云     | `hkt.play.skimit.net` |  ✅  | <p>✅</p><p>（隧道）</p> |                                  ✅                                  |                               |
 | 香港CLD        | `hkd.play.skimit.net` |  ✅  |            ✅            |                                  ✅                                  | 可能2025-05-02下线            |
