@@ -3,129 +3,48 @@ home: true
 author: Glucy2
 icon: home
 title: 主页
-heroImage: /logo.png
-heroText: skimit-homepage
-tagline: skimit 服务器
-actions:
-  - text: 申请白名单 💡
-    link: /申请白名单/
-    type: primary
-  - text: 网页地图
-    link: //bluemap.skimit.net
-  - text: 玩家数据
-    link: //plan.skinit.net
-  - text: QQ群
-    link: https://jq.qq.com/?_wv=1027&k=xviUNMJI
-  - text: Discord
-    link: https://discord.gg/Xf3Q3K4CYw
+# heroImage: /logo.png
+heroText: VLTown
+tagline: 期待您的加入！
 
 features:
-  - title: 公益
-    details: 只接受无偿捐助
-  - title: 原版
-    details: 体验原汁原味的生存
-  - title: 高版本
-    details: 服务器紧跟官方正式版游戏更新
-  - title: 公平游戏
-    details: 服务器无op，无圈地，无tp
-  - title: 版本互通
-    details: Java版与基岩版可以在一起畅玩
-  - title: 急需人才
-    details: 欢迎加入！
-#  - title: Markdown Enhance
-#    icon: markdown
-#    details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in markdown
-#    link: https://vuepress-theme-hope.github.io/v2/guide/markdown/
-
-#  - title: Slide page
-#    icon: slides
-#    details: Adding slide pages to display things you like
-#    link: https://vuepress-theme-hope.github.io/v2/guide/layout/slides.html
-
-#  - title: Layout enhancement
-#    icon: layout
-#    details: Adding breadcrumb, footer, improved navbar, improved page nav and etc.
-#    link: https://vuepress-theme-hope.github.io/v2/guide/layout/
-
-#  - title: Pageviews and comments
-#    icon: comment
-#    details: Start pageview statistics and comment support with Waline
-#    link: https://vuepress-theme-hope.github.io/v2/guide/feature/comment.html
-
-#  - title: Article information
-#    icon: info
-#    details: Add author, writing date, reading time, word count and other information to your article
-#    link: https://vuepress-theme-hope.github.io/v2/guide/feature/page-info.html
-
-#  - title: Blog support
-#    icon: blog
-#    details: Listing your articles with their dates, tags and categories with some awesome layouts
-#    link: https://vuepress-theme-hope.github.io/v2/guide/blog/
-
-#  - title: Custom theme color
-#    icon: palette
-#    details: Supports custom theme colors and allows users to switch between preset theme colors
-#    link: https://vuepress-theme-hope.github.io/v2/guide/interface/theme-color.html
-
-#  - title: Dark Mode
-#    icon: contrast
-#    details: Switch between light and dark modes freely
-#    link: https://vuepress-theme-hope.github.io/v2/guide/interface/darkmode.html
-
-#  - title: Full A11y support
-#    icon: support
-#    details: Full support of accessibility in your site
-#    link: https://vuepress-theme-hope.github.io/v2/guide/interface/accessibility.html
-
-#  - title: Article Encryption
-#    icon: lock
-#    details: Encrypt you articles based on page links, so that only the one you want could see them
-#    link: https://vuepress-theme-hope.github.io/v2/guide/feature/encrypt.html
-
-#  - title: Copy button
-#    icon: copy
-#    details: Copy codes with one click in code blocks
-#    link: https://vuepress-theme-hope.github.io/v2/guide/feature/copy-code.html
-
-#  - title: Image preview
-#    icon: pic
-#    details: Support viewing, zooming, sharing your page images like a gallery
-#    link: https://vuepress-theme-hope.github.io/v2/guide/feature/photo-swipe.html
-
-#  - title: SEO enhancement
-#    icon: config
-#    details: Optimize pages for search engines
-#    link: https://vuepress-theme-hope.github.io/v2/guide/advanced/seo.html
-
-#  - title: Sitemap
-#    icon: sitemap
-#    details: Generate a Sitemap for your site
-#    link: https://vuepress-theme-hope.github.io/v2/guide/advanced/sitemap.html
-
-#  - title: Feed support
-#    icon: rss
-#    details: Generate feed to allow users to subscribe it
-#    link: https://vuepress-theme-hope.github.io/v2/guide/advanced/feed.html
-
-#  - title: PWA support
-#    icon: mobile
-#    details: Make your site more like an APP
-#    link: https://vuepress-theme-hope.github.io/v2/guide/advanced/pwa.html
-
-#  - title: More new features
-#    icon: more
-#    details: Including icon support, fullscreen button, etc.
-#    link: https://vuepress-theme-hope.github.io/v2/guide/feature/
+  - title: 「高级配置」
+    details: 配备高效能CPU：12900K、超大内存：64G、双SSD硬盘：1T，以及超高带宽：100M+，为玩家提供流畅稳定的游戏环境。
+    link:
+  - title: 「公益之心」
+    details: 我们是一个公益服务器，欢迎玩家的无偿赞助，所有赞助将用于服务器的运营成本，以提供更好的服务。
+    link:
+  - title: 「版本丰富」
+    details: 兼容1.9至1.19.4版本，支持Java和基岩版互通，我们致力于为所有玩家提供最佳的游戏体验。
+    link:
+  - title: 「活力世界」
+    details: 我们提供实时的生电服地图，让你随时感知这个世界的每一处变化。
+    link:
+  - title: 「多元世界」
+    details: 我们提供多种服务器类型：生电服（需审核+白名单）、娱乐生存（支持1.9-1.19.4版本、互通）以及模组服（提供整合包）。在这里，总有一款适合你。
+    link:
+  - title: 「外置登陆」
+    details: 所有服务器均采用皮肤站登录，你可以展示你的个性化皮肤，让自己在游戏中独一无二。
+    link:
+  - title: 「稳定运营」
+    details: 我们定期备份数据（模组服除外），承诺长期运营，不删档、不换档，保障你的游戏进度和投入。
+    link:
+  - title: 「社区互动」
+    details: 我们在QQ群和KOOK有官方社区，你可以在这里找到志同道合的朋友，一起探讨和分享游戏经验。
+    link:
 
 copyright: false
-footer: <p>使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | CC-BY-SA-4.0 协议, 版权所有 © 2019-present skimit</p><p><a href="//beian.miit.gov.cn">苏ICP备2022031552号-2</a></p><p><span class="upyun-text">本网站由</span><a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="/upyun_logo.png" width="80" class="upyun-logo"></a><span class="upyun-text">提供CDN加速服务</span></p>
+footer: <p> 版权所有 © 2023 VLTown  <a href="//beian.miit.gov.cn">豫ICP备2023014806号-1</a></p>
 ---
-# <div align="center">skimit服务器</div>
-
-## <div align="center">一个 Minecraft 1.19.4 原版生存公益服务器</div>
-
-### [申请白名单 →](/申请白名单)
 
 [![QQ群](https://img.shields.io/badge/QQ%20Group-597691030-12B7F5?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
 
-[![Discord](https://img.shields.io/badge/Discord-Xf3Q3K4CYw-7289DA?logo=discord)](https://discord.gg/Xf3Q3K4CYw)
+# <div align="center">服务器视频</div>
+
+## <div align="center">VLTown 一个 Minecraft 公益服务器</div>
+
+### <div align="center">生电服[视频待添加]</div>
+###### <div align="center">假装是视频～</div>
+
+### <div align="center">娱乐生存[视频待添加]</div>
+###### <div align="center">假装是视频～</div>
