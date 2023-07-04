@@ -9,7 +9,7 @@ export default hopeTheme({
 
   author: "xiaoccc",
 
-  logo: "/logo.png",
+  // logo: "/logo.png",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
@@ -71,7 +71,7 @@ export default hopeTheme({
     },
 
     pwa: {
-      favicon: "/logo.png",
+      // favicon: "/logo.png",
    
     },
   },

@@ -37,14 +37,14 @@ copyright: false
 footer: <p> 版权所有 © 2023 VLTown  <a href="//beian.miit.gov.cn">豫ICP备2023014806号-1</a></p>
 ---
 
-[![QQ群](https://img.shields.io/badge/QQ%20Group-597691030-12B7F5?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5GAlEKg)
+[![点击加入QQ群](https://img.shields.io/badge/QQ%20Group-658504806-12B7F5?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=bgiT4nsX)
 
 # <div align="center">服务器视频</div>
 
 ## <div align="center">VLTown 一个 Minecraft 公益服务器</div>
 
 ### <div align="center">生电服[视频待添加]</div>
-###### <div align="center">假装是视频～</div>
+###### <div align="center">视频～</div>
 
 ### <div align="center">娱乐生存[视频待添加]</div>
-###### <div align="center">假装是视频～</div>
+###### <div align="center">视频～</div>
