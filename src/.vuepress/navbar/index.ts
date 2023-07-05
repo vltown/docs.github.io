@@ -5,13 +5,12 @@ export const zhNavbar = navbar([
   {
     text: "教程",
     icon: "map",
-    prefix: "/账本/",
-    link: "tutorial",
+    link: "教程",
   },
   {
     text: "规则",
     icon: "calculate",
-    prefix: "/规则/",
-    link: "rule",
+    // prefix: "/规则/",
+    link: "规则",
   },
 ]);

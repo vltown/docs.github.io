@@ -1,7 +1,7 @@
 ---
 author: xiaoccc
 ---
-# VLTown入服教程
+# 入服教程
 
 1. 首先在皮肤站注册账户(https://skin.vltown.com)然后登陆
 2. 将仪表盘页面的按钮拖到启动器(推荐HCML或PCL2)中，或者点击右边的启动器配置去看教程
