@@ -43,7 +43,12 @@ footer: <p> 版权所有 © 2023 VLTown  <a href="//beian.miit.gov.cn">豫ICP备
 
 # <div align="center">VLTown团队</div>
 ::: tip
-待添加
+- 人物模型待添加
+服主：
+技术：
+建筑：
+红石：
+吉祥物：
 :::
 
 # <div align="center">服务器视频</div>
