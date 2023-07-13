@@ -22,7 +22,7 @@ features:
     link: http://map.vltown.com
 
 copyright: false
-footer: <p> 版权所有 © 2023 VLTown  <a href="//beian.miit.gov.cn">豫ICP备2023014806号-1</a></p>
+footer: <p> 版权所有 © 2021-2023 VLTown  <a href="//beian.miit.gov.cn">豫ICP备2023014806号-1</a></p>
 ---
 <!-- ###### <div align="center" color="RED">点击上面模块跳转详情页～</div> -->
 
