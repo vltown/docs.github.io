@@ -17,7 +17,7 @@ features:
     # link: 
 
 copyright: false
-footer: <p> 版权所有 © 2021-2023 VLTown  <a href="//beian.miit.gov.cn">豫ICP备2023014806号-1</a></p>
+footer: <p> Copyright © 2021-2023 VLTown 元气小镇 All rights reserved</p> <p> <a href="//beian.miit.gov.cn">豫ICP备2023014806号-1</a></p>
 ---
 [![点击加入QQ群](https://img.shields.io/badge/QQ%20Group-658504806-12B7F5?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=bgiT4nsX)
 
