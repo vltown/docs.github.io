@@ -19,5 +19,11 @@ export const zhNavbar = navbar([
     icon: "locate",
     // prefix: "/规则/",
     link: "http://map.vltown.com",
+  },
+  {
+    text: "资源站",
+    icon: "install",
+    // prefix: "/规则/",
+    link: "http://pan.vltown.com",
   }
 ]);

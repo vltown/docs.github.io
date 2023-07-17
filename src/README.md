@@ -5,21 +5,16 @@ icon: home
 title: 主页
 # heroImage: /logo.png
 heroText: VLTown
-tagline: 元气满满每一天
+tagline: 原版生存向公益服
 
 features:
-  - title: 「服务器介绍」
-    details: ～～～点击查看详情～～～
-    link: town
-  - title: 「加入服务器」
-    details: ～～～点击查看详情～～～
-    link: server
-  - title: 「皮肤站登陆」
-    details: ～～～点击查看详情～～～
-    link: https://skin.vltown.com
-  - title: 「实时地图」
-    details: ～～～点击查看详情～～～
-    link: http://map.vltown.com
+  - title: 「介绍」
+    details: VLTown 是一个原版生存向公益服，服务器为「独立主机」，版本1.7-最新支持。长期运营，定期备份。
+  - title: 「玩法」
+    details: 大厅、生电服、红石服、建筑服、创造服、插件服、空岛、模组服、镜像服、探索服***(跟随大版本，例如1.20探索服120，出了1.21再开探索服121)。
+  - title: 「敬请期待」
+    details: 更多内容敬请期待。。。
+    # link: 
 
 copyright: false
 footer: <p> 版权所有 © 2021-2023 VLTown  <a href="//beian.miit.gov.cn">豫ICP备2023014806号-1</a></p>
