@@ -24,12 +24,14 @@ footer: <p> Copyright © 2021-2023 VLTown 元气小镇 All rights reserved</p> <
 
 
 # <div align="center">VLTown团队</div>
-::: tip
+<!-- ::: tip
 - 人物模型待添加
-服主：
-技术：
-建筑：
-红石：
-吉祥物：
-:::
+服主：1
+技术：1
+建筑：2
+红石：1
+吉祥物：1
+::: -->
+
+## <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; text-align: center;"><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>xiaoccc</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div></div>
 
