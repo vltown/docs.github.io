@@ -33,5 +33,30 @@ footer: <p> Copyright © 2021-2023 VLTown 元气小镇 All rights reserved</p> <
 吉祥物：1
 ::: -->
 
-## <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; text-align: center;"><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>xiaoccc</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div><div><img src="skin.png" alt="Skin Texture" width="150" loading="lazy"><p>皮肤</p></div></div>
+::: note VLTown团队
+<div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;text-align:center;">
+    <div>
+        <img src="skin.png" alt="Skin Texture" width="150" loading="lazy">
+        <p>服主</p>
+    </div>
+    <div>
+        <img src="skin.png" alt="Skin Texture" width="150" loading="lazy">
+        <p>技术</p>
+    </div>
+    <div>
+        <img src="skin.png" alt="Skin Texture" width="150" loading="lazy">
+        <p>建筑师</p>
+    </div>
+    <div>
+        <img src="skin.png" alt="Skin Texture" width="150" loading="lazy">
+        <p>红石</p>
+    </div>
+    <div>
+        <img src="skin.png" alt="Skin Texture" width="150" loading="lazy">
+        <p>吉祥物</p>
+    </div>
+</div>
+:::
+
+
 
