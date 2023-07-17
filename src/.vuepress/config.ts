@@ -7,7 +7,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "Vltown官网",
+      title: "VLTown官网",
     },
   },
   theme,
